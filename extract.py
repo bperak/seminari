@@ -31,5 +31,5 @@ for file in os.listdir(directory):
                     no_words+=1
                     if tag[0] not in 'PSCQI' and tag[:2]!='Va' and tag!='Rgp':
                         no_lexical+=1
-        output.write(directory+'.'+file+'\t'+directory.strip('/')+'\t'+str(no_tokens)+'\t'+str(len(types))+'\t'+str(no_sents)+'\t'+str(float(no_tokens)/no_sents)+'\t'+str(float(freq_words)/no_words)+'\t'+str(float(freq_lemmas)/no_words)+'\n')
+        output.write(directory+'.'+file+'\t'+directory.strip('/')+'\t'+str(no_tokens)+'\t'+str(len(types))+'\t'+str(no_sents)+'\t'+str(float(no_tokens)/no_sents)+'\t'+str(float(no_lexical)/no_words)+'\t'+str(float(freq_words)/no_words)+'\t'+str(float(freq_lemmas)/no_words)+'\n')
 output.close()
