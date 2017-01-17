@@ -3,6 +3,7 @@ import os
 
 directory=sys.argv[1]
 output=open(sys.argv[1]+'.out','w')
+output.write('tekst\tkorpus\ttokeni\ttipovi\trecenice\tduzina.recenice\tleks.gust\tceste.reci\tceste.leme\n')
 reference_tok=set([e.decode('utf8').strip() for e in open(sys.argv[2]+'.200.tok')])
 reference_lem=set([e.decode('utf8').strip() for e in open(sys.argv[2]+'.200.lem')])
 
@@ -31,3 +32,4 @@ for file in os.listdir(directory):
                     if tag[0] not in 'PSCQI' and tag[:2]!='Va' and tag!='Rgp':
                         no_lexical+=1
         output.write(directory+'.'+file+'\t'+directory.strip('/')+'\t'+str(no_tokens)+'\t'+str(len(types))+'\t'+str(no_sents)+'\t'+str(float(no_tokens)/no_sents)+'\t'+str(float(freq_words)/no_words)+'\t'+str(float(freq_lemmas)/no_words)+'\n')
+output.close()
