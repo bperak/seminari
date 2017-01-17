@@ -1,0 +1,5 @@
+ISD Informacijski sustavi 
+Informacijski sustavi za vrijeme koje dolazi 
+E-KOMIS 
+Upotrebom programa e-KOMISA približavate podatke svojim kupcima, kojima možete direktno pokazati ažurne podatke iz baze, kako bi oni mogli pratiti svoja zaduženja i uplate. Možete im omogućiti da na webu unesu elemente za obračun usluga, poput očitanja stanja brojila ili unosa broja turističkih noćenja. U e-KOMISU kupci mogu sami mijenjati adrese na kojima im šaljete račune, ili označiti da im račune šaljete u pdf obliku e-mailom umjesto poštom. 
+Kako e-komis iz sigurnosnih razloga koristi zasebnu bazu podataka nezavisnu od produkcije, to e-komis mogu koristiti i tvrtke koje uopće nemaju KOMIS, a koje žele omogućiti svojim klijentima uvid u poslovanje putem web stranica. Iz njihove produkcijske baze tada se izdvajaju podaci koji se prikazuju na webu i uspostavljaju mehanizmi ažuriranja. 
