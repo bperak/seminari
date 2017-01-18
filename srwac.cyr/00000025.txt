@@ -1,0 +1,16 @@
+Informacione Tehnologije 
+Zahvaljujući ljudskim resursima i savremenim, međusobno optikom povezanim Data Centrima, izgrađenim u skladu sa ISO 27001 standardom za upravljanje bezbednošću informacija, Sektor za IT uspešno realizuje poverene mu poslove održavanja i razvoja integralnog Informacionog sistema Grada Novog Sada, održavanja, razvoja i uvođenja novih segmenata Opšteg informacionog sistema Grada Novog Sada (adresni sistem, katastarske opštine i parcele, registri organizacija, prostora i lica), Internet servis providing-a, izrade Web aplikacija i izrada i hostovanje Internet prezentacija... Usluge Data Centra kao što su space hosting, data housing, server housing... je još jedan segment poslovanja Sektora za IT. 
+Poslovi 
+1. Služba za projektovanje i programiranje softverskih rešenja i informacionih sistema 
+Opšti informacioni sistem grada - OREG 
+OREG (Opšti Registri Grada) je referentni skup registara koji predstavljaju osnov funkcionisanja značajnog broja Informacionih sistema Grada. Trenutno se sastoji od: 
+AD " Urbisprojekt " 
+JP " Gradsko zelenilo " 
+DP " Geoplan " 
+Poslovni prostori 
+Radne organizacije 
+Delovodnik JKP Čistoća 
+Obračun zarada 
+Evidencija kadrova 
+IBS (Informatika Billing System) 
+Sistem za naplatu komunalno-stambenih i ostalih usluga i proizvoda u osnovi namenjen svim sredinama (regije, opštine, gradovi, naselja...) u kojima postoji potreba za masovnom naplatom. Osnovni segmenti IBS-a su: 

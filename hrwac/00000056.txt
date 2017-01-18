@@ -1,0 +1,47 @@
+Navigation 
+Newsletter 
+Pregled Odvjetničkog ureda 
+Odvjetnički ured se sastoji od skupa modula za upravljanje spisima, kalendarima, kontaktima te drugim informacijama. Odvjetnički ured ima na stotine mogućnosti, a ovdje su prikazane samo neke od njih. 
+Ured danas 
+Ured danas je početna stranica programa koja vam omogućuje: 
+prikaz vaših ročišta, očevida, obveza u naredna tri dana, 
+uređivanje prikazanih ročišta, očevida i obveza, 
+generiranje (ispis) troškovnika za prikazana ročišta, 
+prikaz savjeta dana, 
+ispis na pisač. 
+Spisi 
+Predmeti stranaka su temelj svakog odvjetničkog ureda. Za svaki od njih otvarate spis. Sve vaše radnje završavaju u tim spisima. Odvjetnički ured je svjestan toga. I više, svi vaši spisi trenutno su vam dostupni, bolje organizirani, jednostavniji za uporabu, a brzina pretraživanja je gotovo trenutna. 
+Jednostavnim klikom miša na spis, imate uvid u sve osobe koje imaju veze s njim (stranke, protustranke, suca,...), njihove kontakt informacije, ročišta, radnje, dokumente, kronologiju spisa itd. 
+Ovdje možete ispisivati omote spisa, punomoći, generirati podneske i troškovnike prema vašim predlošcima, a kad ste već tu, zašto ne bi mogli i iz spisa direktno promijeniti telefonski broj stranke ili pogledati koji su vam još spisi kod suca koji vodi ovaj spis. 
+Neke od važnijih mogućnosti ovog modula su: 
+filtriranje prikaza, 
+pretraživanje spisa, 
+prikaz svih osoba vezanih za ovaj spis i njihovih podataka, 
+vođenje bilješki, 
+vođenje i generiranje troškovnika, 
+prikaz i uređivanje ročišta, 
+dodavanje dokumenata, 
+ispis omota spisa, 
+ispis odvjetničke punomoći, 
+generiranje podnesaka, 
+generiranje tužbe i žalbe uz izračun troška, 
+privatni spisi (nevidljivi za ostale korisnike), 
+ispis na pisač 
+Ročišnik - kalendar 
+Ročišnik je modul za uređivanje ročišta i drugih događaja za vas ili cijeli ured. Potpuno je fleksibilan i omogućuje vam prikaz vaših događaja u nizu različitih pogleda. 
+Osnovne mogućnosti ročišnika su: 
+prikaz ročišta određenog ili svih odvjetnika u uredu, 
+mogućnost automatskog dodavanja ročišta u troškovnik, 
+vizualnost preklapanja ročišta, 
+neradni dani i praznici imaju različitu boju pozadine, 
+Kontakti - adresar 
+Unutar ovog modula možete spremati podatke o svim (pravnim i fizičkim) osobama koje su u bilo kakvoj vezi sa vašim uredom. 
+Za svaku osobu pored osnovnih informacija (brojevi telefona, bilješke,...) možete vidjeti i spise u kojima se nalazi u određenom svojstvu (npr. stranka) ili bilo kojem svojstvu (sudac, punomoćnik,...). 
+filtriranje prikaza, 
+pretraživanje, 
+prikaz spisa kontakta, 
+grupiranje kontakata, 
+prikaz broja koji zove, 
+Biblioteka - zakoni 
+U biblioteci se nalaze veze na sudsku praksu i pravni propisi Republike Hrvatske. Biblioteka Odvjetničkog ureda trenutno sadrži pročišćene tekstove stotinjak zakona od njihovog donošenja do danas (pogledajte na primjeru Zakona o radu). 
+Svi zakoni su vam uvijek na dohvatu ruke, nema potrebe za nikakvim CD-ovim koji zastare već nakon par mjeseci. Nakon svakog zasjedanja Hrvatskog sabora, JAVA NET kreira nove pročišćene tekstove, a vi vašu biblioteku ažurirate iz Odvjetničkog ureda ili Microsoft Worda sa dva klika mišem. 

@@ -1,0 +1,13 @@
+Kako pronaći DOI broj članka 
+Obzirom na čest zahtev od strane uredništava časopisa da reference navedene u popisu korišćene literature budu opremljene DOI brojem, KoBSON je prilagodio CrossRef aplikaciju koja omogućava pronalaženje DOI brojeva. Jednostavnim kopiranjem reference (ili dela reference) u " tekst boks ", posredstvom CrossRef sistema dobija se referenca opremljena DOI brojem. 
+Razrešavanje DOI broja 
+Svaki DOI broj sastoji se iz dva dela razdvojena znakom /. Prvi deo jedinstveno označava instituciju u kojoj je DOI broj dodeljen. Za sve časopise kojima se DOI broj dodeljuje u Narodnoj biblioteci Srbije on glasi: 10.2298. Drugi deo jedinstveno određuje članak, a njegovu strukturu definiše institucija koja ga i dodeljuje. Veoma je važno da dodeljeni DOI broj upućuje sammo (jedan i samo jedan) članak u digitalnoj formi. 
+Ukucajte (ili kopirajte) DOI broj (npr.: 10.2298 / JSC0712383B) 
+Kako da " od kuće " priđete punom tekstu članka preko DOI broja 
+Posedujete samo DOI broj, a potreban vam je članak u punom tekstu? Želite da znate da li je taj članak dostupan preko KoBSON-a? 
+Ispravno uneti podaci vode do portala koji služi za razrešavanje DOI brojeva. Ukoliko je unešeni DOI broj dostupan preko nekog od servisa na koje je KoBSON pretplaćen sistem će prepoznati i omogućiti pristup punom tekstu. 
+Šta je DOI broj 
+DOI je jedinstvena alfanumerička niska dodeljena pojedinačnom digitalnom objektu (članku, poglavlju u knjizi i sl.). Preko te oznake uspostavlja se veza do Internet stranice na kojoj se dokument nalazi. Povezivanje podataka o člancima, DOI brojeva i veb adresa obavlja se preko servisa CrossRef. Taj servis održava bazu DOI brojeva, meta-podatke i linkove do punih tekstova. 
+DOI u Srbiji 
+Uobičajeno je da se izdavači naučnih časopisa obraćaju CrossRef-u za pristupanje sistemu i pripremu meta podataka prema zadatim standardima. To je opravdano kada jedan izdavač izdaje više desetina časopisa. Kako u Srbiji većinu časopisa izdaju asocijacije ili institucije, to se čini umesnim da se dodela DOI brojeva i priprema meta podataka objedini i time učini jednostavnijom i efikasnijom. U proteklom periodu u Narodnoj biblioteci Srbije je ispitan i primenjen celokupan DOI sistem (doiSerbia), i uspostavljena je saradnja sa CrossRef-om. 
+Ministarstvo nauke Republike Srbije je finansiralo dodelu DOI brojeva člancima iz naših časopisa, i to za period od 2002. do danas. Sa izdavačima tih časopisa potpisan je ugovor o dodeli DOI brojeva, i utvrđena su međusobna prava i obaveze. Svake godine se utvrđuju novi naslovi koji ulaze u ovaj sistem. Odluku o novim naslovima donosi Ministartsvo nauke. 

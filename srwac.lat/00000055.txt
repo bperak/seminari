@@ -1,0 +1,12 @@
+Potvrda da je centrala prihvatila poziv na cekanju, dobija se kontinualnim prijemom tona. 
+AKTIVIRANJE USLUGE POZIV NA CEKANJU 
+Pretplatnik A aktivira uslugu poziv na cekanju sledecom procedurom: 
+43 
+pri cemu skracenica predstavlja pritisak na taster na telefonskom aparatu. 
+KORISCENJE USLUGE POZIVA NA CEKANJU 
+Tokom konverzacije izmedju pretplatnika A (koji ima kategoriju POZIV NA CEKANJU) i pretplatnika B, pretplatnik X, poziva pretplatnika A. Pretplatnik A cija je veza u toku, dobija specijalni ton u slusalici koji ga upozorava da ima pretplatnika X na cekanju. Tokom svog poziva pretplatnik X dobija signal kontrole poziva a ne signal zauzeca. Pretplatnik A moze: 
+da prihvati poziv pretplatnika X, pri cemu B ostaje na cekanju, sledecom procedurom: 
+zatim moze naizmenicno da stupa u vezu, sa pretplatnikom X ili B, istom precedurom: 
+R prijem tona biranja 2 
+ukoliko pretplatnik A zeli da raskine vezu sa pretplatnikom sa kojim je trenutno u vezi i predje na drugog, to ce obaviti sledecom procedurom: 
+Skracenice su identicnog znacenja kao u predhodnom pasusu izuzev broja 1, koji se bira pritiskom na cifru 1. Nakon ovoga pretplatnik A ostaje u vezi samo sa jednim sagovornikom, sa kojim po zavrsetku razgovora raskida vezu na klasican nacin, spustanjem slusalice. 

@@ -1,0 +1,16 @@
+Primena: kontrola pumpi i ventilatora (u industriji / infrastrukturi) 
+Problemi i pokretači 
+U industriji, 70 % potrošnje električne energije se koristi za pokretanje motora. Od toga, 33 % kontrolišu primene pumpi ili ventilatora. 
+Većinu primena pumpi i ventilatora pokreće rešenje direktnih prekidača sa SoftStarter pokretačima. Ovo znači da motor radi punom brzinom i da se dobija varijacija toka. Potrošnja energije pada veoma malo kada sa smanji tok. Pri nazivnom toku od 80 %, potrošnja energije ostaje na 95 %. Mogućnost uštede na instaliranoj osnovi je ogromna. 
+Udruženje CEMEP je izvršilo simulaciju za evropsko tržište. Korišćenje pogonskog uređaja u takvim primenama može da uštedi 900 miliona evra godišnje i da smanji emisiju CO2 za 4 miliona tona godišnje 
+Kako klijent može efikasnije da upravlja energijom? 
+Da biste uštedeli energiju, potrebno je: - pokretati motor pomoću invertora frekvencije umesto pomoću kontaktora ili SoftStarter pokretača - ukloniti uređaj za ograničavanje (ventil ili prigušivač) 
+Invertor naizmenične struje omogućava podešavanje brzine pumpe ili ventilatora, a time i tok 
+Rezultat je ogromna ušteda u poređenju sa konvencionalnim rešenjima: - do 50 % za ventilator, povraćaj sredstava za pogon u roku od jedne godine - do 30 % za pumpu, povraćaj sredstava u roku od 2 godine 
+Rešenja ili arhitekture koje se koriste u ovoj primeni 
+A) Rešenje bez pogonskog uređaja Motor se okreće stalnom brzinom u skladu sa frekvencijom mreže i brojem polova. Primer: 3600 o / min za 60 Hz Motor sa 2 pola Jedini način da se podesi tok je uređaj za ograničavanje (prigušivač) koji stvara gubitke. 
+B) Rešenje za uštedu energije sa pogonskim uređajem Pogonski uređaj, koji se još naziva frekventni regulator, omogućava menjanje frekvencije, a time i brzine motora. Tok je direktno proporcionalan brzini. Prigušivač ili ventil više nisu potrebni. 
+C) Potrošnja energije sa frekventnim regulatorom i bez njega Primer primene ventilatora 
+Izlazni prigušivač Frekventni regulator 
+Ušteda energije od 50 % pri nazivnom toku od 80 % 
+Primer primene pumpe 

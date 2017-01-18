@@ -1,0 +1,7 @@
+Novu verziju možete da preuzmete automatski kroz program ili preko naše download strane. 
+28.09.2012 - Promena stope PDV 
+Zbog izmena i dopuna Zakona o PDV koje se odnose na promenu opšte stope PDV sa 18 % na 20 % potrebno je da izvršite ažuriranje programa na verziju 3.8. Ažuriranje možete da izvršite automatski kroz program ili da preuzmete instalacioni fajl sa naše download strane. 
+Obaveštavamo korisnike naših programa da smo napravili softver koji omogućava da se promena stope PDV izvrši automatski. Program možete da preuzmete ovde. 
+Upozorenje: pre promene Stope PDV proverite da li su izmene i dopune Zakona o PDV objavljene u službenom glasniku. Sve informacije o objavi izmena i dopuna Zakona o PDV u službenom glasniku možete da dobijete na sajtu ministarstva finansija ili na sajtu poreske uprave ili na info tel poreske uprave 0700 700 007. 
+Korisnici koji imaju instaliran program za maloprodaju treba da izvrše podešavanja fiskalnih uređaja. Pre podešavanja fiskalnog uređaja korisnici treba da pročitaju objašnjenje ministra finansija koje se nalazi ovde. 
+Uputstva i programi za podešavanje fisklalnih uređaja mogu da se preuzmu sa sajta proizvođača: 

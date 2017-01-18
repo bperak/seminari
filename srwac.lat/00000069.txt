@@ -1,0 +1,6 @@
+Sprinkler sistemi 
+Sprinkler sistemi automatski se aktiviraju na pojavu požara. Dostizanjem određene temperature, dolazi do prskanja staklene ampule i omogućava se gašenje vodom koja je u instalaciji pod stalnim pritiskom. Voda se raspršuje u fine čestice koje obuhvataju celu površinu zapaljenog objekta i gase nastali požar. Jedna instalacija može da služi za zaštitu više zona. 
+Ukoliko su prostorije koje se štite izložene mrazevima, koristi se suvi sprinkler sistem, gde je razvodni cevovod, od ventilske stanice do rasprskivača, ispunjen vazduhom pod pritiskom. 
+Preakcioni sprinkler sistem 
+Opis: 
+Je kombinacija suvog i mokrog sprinkler sistema sa sistemom dojave. U prvoj fazi rada ovog sistema na dati signal sistema za dojavu požara sprinkler mreža se puni vodom bez otvaranja sprinklera. Suvi sprinkler sistem tako prelazi u mokri, da bi se u drugoj fazi, otvaranjem sprinklera, izvršilo gašenje. Sistemi sa automatski sprinklerima primenjuju se u industriji plastičnih proizvoda, gume, drveta, tekstila, lekova, duvana, boja i lakova i u javnim objektima 

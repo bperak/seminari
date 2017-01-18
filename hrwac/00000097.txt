@@ -1,0 +1,37 @@
+Istraživanje i razvoj 
+Istraživanje i razvoj temeljni su oslonac konkurentnosti PA-EL-a na domaćem i susjednom tržištu. Stalno ulaganje u razvoj vlastitih tehnologija i njihovu primjenu u proizvodnji i građenju omogućilo je održavanje razine kvalitete ključnih proizvoda i usluga koji se koriste u sustavima katodne zaštite i elektrotehničkih instalacija, a sve u skladu sa zahtjevima kupaca i ukorak sa svjetskim standardima. 
+Inovativnost je posebno izražena u izradi tehničkih rješenja i prilagođavanju proizvoda zahtjevima naručitelja kada je riječ o specifičnostima konstrukcije i objekata na kojima radimo. 
+Katodna zaštita 
+Rezultati naših istraživanja i razvojni programi najviše su prisutni u sustavima katodnih zaštita i to kroz sve faze od projektiranja, proizvodnje opreme i građenja i održavanja. 
+Izgradnja sustava katodnih zaštita prema našim projektima korisniku garantira najpouzdaniji sustav u skladu s najnovijim svjetskim tehnološkim trendovima, ali i u skladu sa novim usvojenim europskim normama. 
+Na istim principima proizvodimo opremu za potrebe sustava katodnih zaštita i ponosni smo na činjenicu da naša oprema funkcionira na zavidnoj razini pouzdanosti i sigurnosti, a rekonstrukcije i zamjene naše opreme koja je ugrađena još prije 15 g. najčešće se mijenja zbog dizajna i modernizacije a ne zbog kvarova. 
+Stručno usavršavanje 
+Kako bismo bili u tijeku praćenja trendova razvoja u svijetu tvrtka je pretplaćena na dvadesetak raznih tehničkih časopisa, inženjeri i tehničari su članovi raznih stručnih udruga i pohađaju razne seminare i stručne tečajeve. Tvrtka je član Hrvatskog zavoda za norme a inženjeri su aktivni u više tehničkih odbora. 
+Potvrda kvalitete 
+Da bismo u osnovi potvrdili kvalitetu pristupa u istraživanju i razvoju, kao i općenito o upravljanju kvalitetom u tvrtki tvrtka je uvela ISO 9001: 2000. Međutim potvrđivanje kvalitete stalni je imperativ tvrtke i nastojimo svakodnevno poboljšavati funkcijsku sigurnost naših proizvoda i kvalitetu usluga. 
+Referentne elektrode i mjerne sonde 
+Prve referentne elektrode (URE) i mjerne sonde (MS) proizvedene su 1994. godine i još uvijek su u uporabi bez odstupanja potencijala, a u međuvremenu modernizacijom generacije referentnih elektroda tipa URE-97 i mjernih sondi tipa MS-96 daju još veću pouzdanost, a u završnoj fazi su ispitivanja na našem novom proizvodu, ion-rezistentnim retencijskim referentnim elektrodama, čiji se rok trajanja procjenjuje na više od 30 godina. U paleti proizvoda imamo i prijenosne referentne elektrode PRE-05 (Cu / CuSO4). 
+Za uvjete katodne zaštite objekta u moru proizvodimo Zn referentne elektrode. 
+Napojni uređaji za katodnu zaštitu 
+Tehnologije ispravljača koji se koriste u svijetu za razna napajanja svakodnevno bilježe nova unapređenja, međutim u sustavima katodnih zaštita korištenje pretvarača-ispravljača imaju svoju posebnost koju karakteriziraju: 
+vrsta priključne energije (AC 0,4 kV iz mreže elektrodistributera, sunčeva, plin i sl.) 
+Naša istraživanja i razvoj naših uređaja koji su instalirani u sustave katodnih zaštita karakterizira dugovječan i pouzdan rad, lako održavanje, fizička dostupnost opremi na mjestu ugradnje, modularan pristup i laka zamjena dijelova. 
+Razvili smo uređaje s ručnom i s automatskom regulacijom (po potencijalu) izlaznih parametara. 
+Upravljačke jedinice za napojne stanice izrađujemo u varijantama bez i sa gsm opremom za daljinsku dojavu i upravljanje. 
+Pomoćni sklopovi i oprema za zaštitu od EE smetnji 
+Problematika uklanjanja raznih stranih utjecaja na sustav katodne zaštite kao i međusobno usklađivanja rada dva ili više sustava katodne zaštite ili s elektrotehničkim instalacijama poseban su izazov u projektiranju i razvoju opreme koja odgovara na izazove lokacija ugradnje. 
+Naše dugogodišnje iskustvo i inovativnost dali su parametre za razvoj prilagodljivih i višenamjenskih pomoćnih sklopova za sustave katodnih zaštita, opremu za zaštitu konstrukcija od EE smetnji i sl. 
+Ovdje ćemo dati samo popis te opreme, a detalje proizvoda možete naći u rubrici proizvodi. 
+Ostali proizvodi razvijeni u PA-EL-u: 
+prenaponsko zaštitni sklopovi tipa PNZxx 
+poluvodičke ćelije tipa PPĆ 1 (10 kA) i PPĆ 2 (40 kA) 
+prilagodni sklopovi tipa PSxx 
+kompenzacijsko-prilagodni sklopovi tipa KPSxx 
+drenažni sklopovi tipa DSxx 
+zaštitno-drenažni sklop tipa ZDSxx 
+sabirnice za KZ za mjerna mjesta tip SMMxx 
+(xx određuje podvrstu po nazivnoj struji i / ili naponu provođenja) 
+Električne instalacije 
+Inovativnost koja krasi naš rad posebno je potrebna kod kompletiranja raznovrsnih razvodnih i upravljačkih ormara te sklopova za razvod i upravljanje raznim elektrotehničkim instalacijama i postrojenjima. Pritom je izrazito važna komponenta praćenja tehničkih dostignuća u svijetu i njihova primjena u praksi. 
+Sustavi daljinskog nadgledanja i upravljanje 
+Imamo razrađene sustave za prihvat podataka sa GSM mobilne mreže sa spremanjem u bazu podataka radi kasnije obrade podataka te izrade statističkih izvještaja. Dosad smo primijenili našu tehnologiju u sustavima daljinskog nadgledanja i upravljanje sustavom katodne zaštite i odorizacijskih stanica. 

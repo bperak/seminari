@@ -1,0 +1,32 @@
+Knjiženje temeljnica, možemo vršiti na dva načina, automatizmom tj. prijenosom iz drugih programskih modula (npr. Trgovinsko poslovanje, Obračun osobnih dohodaka, knjiga URA / IRA) ili direktnim unosom, tj. tkzv. ručnim knjiženjem 
+ručnim knjiženjem možemo knjižiti sve vrste poslovnih dokumenata od Ulaznih računa za robu ili uslugu, Izlaznih računa, Izvadaka banaka, Obavijesti o knjiženju i sve ostale temeljnice. 
+Mogućnost ručnog zatvaranja svih analitičkih konta za koje imamo potrebu voditi i otvorene stavke npr. kupci i dobavljači, te tom funkcijom može naknadno vršiti vezanje uplata i računa 
+Izrada Kompenzacija automatska izrada samog obrasca Prijeboja koristeći sve dostupne, a proknjižene podatke, te izrada Temeljnice za knjiženje i samo knjiženje u Glavnu knjigu. 
+Pregledi koji su nam potrebni za svakodnevno poslovanje kako bismo što uspješnije i ažurnije pratili sve poslovne događaje, a razrađeni su tako da se možemo koristiti različitim zadanim kriterijima kako bi nam se olakšao i ubrzao put do potrebnog podatka / izvještaja / bilance. 
+Financijska kartica pomoću nje možemo analitički izlistati bilo koji konto po kriterijima od datuma do datuma, po mjesečnom razdoblju, po mjestu troška, kao otvorene stavke, kao devizna kartica 
+Analitička bilanca koja se isto tako može izlistati po Razredu, grupi ili kontu, a prikazuje promet po početnom saldu, tekućem prometu, sveukupnom prometu, te razliku salda i sve se to može isto tako izlistati po određenim kriterijima 
+Bruto bilanca prikazuje promet po razredu i grupi (znači sintetički), a može se izlistati i Bruto-analitička bilanca 
+Dnevnik knjiženja koji sadrži sve unešene knjigovodstvene promjene a koje su proknjižene i ažurirane (odgovara svim zakonskim normama) 
+Ispis dokumenata omogućuje ispis svih proknjiženih Temeljnica 
+Stanje partnera kreira se kao izvještaj za raznorazne interne potrebe poslovanja npr. istovremeno se može vidjeti stanje partnera kao dobavljača i kao kupca, saldo duga, ispis po valuti plaćanja itd. 
+Kontni plan 
+Tečajna lista koja se koristi prilikom knjiženja Ino dobavljača u kunskoj i deviznoj valuti 
+Obračun kamata - u ovom dijelu programa možemo izvršiti obračune kamta (zatezne, na pozajmice) koje se isto tako mogu oformiti automatikom ili ručno direktnim unosom podataka 
+Čekovi građana pomoću ovog dijela programa donosom iz Trgovinskog dijela (maloprodaje) izrađuju se automatske specifikacije zaprimljenih čekova građana za banke 
+Glavna Blagajna poduzeća omogućuje izradu Uplatnica i Isplatnica, automatsko rasknjižavanje istih u Glavnu knjigu i u Blagajnički izvještaj, omogućuje storno unosa i ispis svake pojedine Uplatnice i Isplatnice, te Blagajničkog izvještaja 
+PROGRAM OSNOVNA SREDSTVA / SITAN INVENTAR 
+Program za Osnovna sredstva / sitan inventar omogućuje nam da detaljno pratimo, amortiziramo, revaloriziramo, rashodujemo i prodajemo osnovna sredstva ili sitan inventar poduzeća. 
+Program je vezan uz Financijsko poslovanje, i sve Temeljnice knjiženja se automatikom prenose i rasknjiže u Glavnu knjigu tj. Dnevnik knjiženja. 
+Obračun amortizacije po zadanim kriterijima za svaku određenu grupu Osnovnih sredstava, koji može biti mjesečni, kvartalni ili godišnji, ovisno o potrebi korisnika 
+Prodaja Osnovnih sredstava / Sitan inventar 
+Rashodovanje Osnovnih sredstava / Sitnog inventara 
+Mogućnost stopiranja amortizacije i aktiviranja amortizacije po sredstvu i na određeni nadnevak, ispravak osnovnih podataka, unos početnog stanja 
+Pregledi koji nam služe kao svojevrsni interni izvještaji: 
+Kartica Osnovnog sredstva / Sitnog inventara koja se može izlistati prema različitim kriterijima npr. Po Invent. broju, po nazivu sredstva, po grupama OS / SI, radnoj jedinici, radniku i dobavljaču. 
+Stanje Osnovnog sredsva / Sitnog inventara koji je u formi izvještaja za sva unešena OS / SI a može se izlistati isto tako prema raznim zadanim kriterijima kao i Kartica OS / SI uz dodatak npr. mogu se izlistati samo novonabvljena sredstva ili samo neaktivna ili aktivna, itd. 
+Obračuni amortizacije i revalorizacije koji mogu, prema potrebi, biti mjesečni, kvartalni ili godišnji, ispis istih te mogućnost storna svih obračuna u tijeku tekuće financijske godine 
+Izrada temeljnica za knjiženje koje automatikom rasknjižimo u Glavnu knjigu a to su amortizacija, revalorizacija prodaja sredstava, rashodovanje 
+Kontakt i radno vrijeme 
+Mošćenička 15, Zagreb Prodaja: 385 1 3644955 PON-PET 8:30 - 16:30 
+Novosti 
+01.01.2013. Uspješno implementiran fiskalni sustav na 108 lokacija za korisnike u 1. krugu fiskalizacije 

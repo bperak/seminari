@@ -1,0 +1,41 @@
+Srbija trenutno zauzima 76 mesto na globalnoj listi po brzini download-a. Što se upload-a tiče 99 - to nesto je naše. po kvalitetu smo na 33 mestu. Ako pogledamo cene, tu smo na 36 mestu sa prosečnom cenom od 5.97 $ po Mbps (na prvom mestu je Bugarska sa 0.58 $ po megabitu). 
+Evo i kratkog poređenja sa zemljama iz regiona: 
+Srbija 
+Hrvatska 
+Makedonija 
+Slovenija 
+Rumunija 
+Bugarska 
+Pozicija DL 
+76 (6.04 Mbps) 
+82 (5.24 Mbps) 
+56 (8.86 Mbps) 
+48 (11.18 Mbps) 
+12 (24.45 Mbps) 
+13 (24.47 Mbps) 
+Pozicija UL 
+99 (1.40 Mbps) 
+111 (1.26 Mbps) 
+44 (3.64 Mbps) 
+33 (5.11 Mbps) 
+8 (15.73 Mbps) 
+9 (13.75 Mbps) 
+Cena po Mbps ($) 
+5.97 
+7.25 
+/ 
+5.15 
+0.75 
+0.58 
+Indeks kvaliteta 
+(pozicija) 
+33 
+40 
+11 
+17 
+2 
+37 
+Indeks kvaliteta odnosi se na vrednosti pinga ka test serverima. 
+Činjenica je da se ipak ne kotiramo tako loše, iako i dalje plaćamo prilično visoku cenu za svaki Mbps (prosek EU je 4.31 $). 
+Ono što možda ne ide na čast domaćim providerima je procenat ispunjenih obaveza (odnos ugovorene i dobijene brzine) i u Srbiji on iznosi 90.45 % (tj da uprostimo, od ugovorene brzine dobijate 90 % kao stvarnu brzinu). Takođe, ne možemo biti zadovoljni ni stanjem sa upload-om (EU prosek 4.32 Mbps). 
+Iako je situacija daleko od zadovoljavajuće za nas kao korisnike, ipak (izuzev ovih glavnih zamerki) i nije sve baš tako loše. Uzećemo u obzir smerove u kojima se kreće prstup internetu (FTTx, VDSL) pa u skorije vreme možemo i očekivati ako ne pojeftinjenje usluga, onda barem korekcije u smislu brzine, procenta ispunjenih obaveza, kvaliteta. 

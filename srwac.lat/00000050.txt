@@ -1,0 +1,24 @@
+Registracija. rs domena 
+Uz audio streaming možete i Vi postati online Dj 
+Pred vama je izuzetna prilika da se Vaš glas svuda čuje bez obzira na lokaciju. Audio streaming Vam omogućava da napravite sopstvenu radio stanicu na veoma jednostavan način i puštate Vašu omiljenu muziku sa Vašeg računara u Internet etar. Omogućite Vašim prijateljima da prate Vašu muziku online na veoma jednostavan način-klikom na odgovarajuci link na Vašem sajtu. U ponudi je najpopularniji audio striming server Shoutcast kompanije Nullsoft koja je razvila najpopularniji media plejer današnjice Winamp, koji se koristi za reprodukciju najpopularnijeg audio formata MPEG Layer 3 ili poznatijeg kao MP3, što bi značilo da korisnici audio streaming tehnologije sa ovog servera preuzimaju radio program takođe u ovoj tehnologiji. 
+Instaliranje odgovarajućeg softvera za Winamp (SHOUTcast DSP plugin) koji omogućava slanje Vaše muzike do striming servera, koji je šalje dalje do slušalaca. Odgovarajuću instalaciju SHOUTcast DSP plugin-a možete naći na internet strani http://www.shoutcast.com zakupiti neki od paketa u našoj ponudi u zavisnosti od kvaliteta kojim želite da strimujete, i željenog broja slušalaca. 
+Naravno, neophodno je da budete konektovani na Internet (za ostvarivanje kvalitetnog servisa preporuke su da internet konekcija bude u upload smeru minimalne propusne moći od 128 kbps). 
+Prednosti Ninet audio streaming rešenja: 
+Ninet vam omogućava da ponudu prilagodite Vašim potrebama-sami odaberete kvalitet signala kojim želite da emitujete (bitrate) kao i maksimalni broj slušalaca koji želite da Vas prate u istom trenutku.Takođe, Ninet svoje pakete ne ograničava po protoku na mesečnom nivou, svi paketi su određeni samo maksimalnim brojem klijenata i bitrateom na kom se vrši distribucija signala, ovo Vam omogućava da tokom celog meseca koristite maksimum iz vašeg hosting paketa. 
+Internet radio 
+Probajte naše striming servere potpuno besplatno 5 dana 
+Pred vama je naša ponuda koju možete da prilagoditi u skladu sa Vašim mogućnostima i potrebama. Samo odaberete iz tabele kvalitet signala (izražen u kilobitima) kojim želite da strimujete i maksimalni broj slušalaca koji mogu da Vas slušaju u trenutku i na taj način određujete mesečnu cenu Vašeg paketa. 
+Kvalitet signala 
+50 slušalaca 
+100 slušalaca 
+200 slušalaca 
+64 kbps 
+18 
+24 
+36 
+128 kbps 
+35 
+48 
+72 
+Cene su izražene u evrima, bez uračunatog PDV-a (18 %) Maksimalan broj slušalaca u istom trenutku (simultanih konekcija) 
+Naziv domena može da sadrži cifre (0 - 9), slova engleskog alfabeta (a-z) i crticu (-). Dužina naziva ne sme biti kraća od 2, niti duža od 63 znaka. Naziv ne sme da sadrži crticu na početku ili kraju (primer: " www. - domen -. rs ") i ne sme da sadrži dve uzastopne crtice na trećoj i četvrtoj poziciji (primer: " www.do - - men.rs "). 

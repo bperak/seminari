@@ -1,0 +1,9 @@
+Centar za nauku i tehnološki razvoj (CENTER) osnovan je 1999. godine od strane Univerziteta u Beogradu i Fonda za razvoj Republike Srbije. Unutar CENTER-a istraživački rad se odvija kroz dve organizacione jedinice: 
+(1) Centar za fiziku i tehnologiju plazme; 
+(2) Centar za simulacione nauke Japan-SCG. 
+Direktor Centra za nauku i tehniloški razvoj je prof. dr Jagoš Purić, redovni profesor Fizičkog fakulteta. 
+U laboratoriji Centra za fiziku i tehnologiju plazme realizuju se sledeći naučni projekti: 
+Rezultati postignuti na ovim projektima prikazuju se na zajedničkom " Simpozijumu o fizici i dijagnostici laboratorijske i astrofizičke plazme " koji se od 1996. godine održava svake druge godine naizmenično u našoj zemlji i Belorusiji. Do sada je održano pet konferencija. 
+U okviru Centra za simulacione nauke Japan-SCG razvijaju se simulacione nauke korišćenjem dva superračunara SX-6i, čiju je upotrebu omogućio Nippon Electric Corporation (NEC) iz Japana, uz veliku pomoć profesora dr Tetsuja Satoa, generalnog direktora " Earth Simulator Center " u Japanu. 
+Superračunarski sistem ovakvih karakteristika (CPU Peak Vector Performance 8 GFLOPS, MMU 2 8 GB) ima jedino Univerzitet u Beogradu u celoj jugoistočnoj Evropi. 
+Organizacija " Japansko - jugoslovenske konferencije o nauci o kompjuterskim simulacijama " otpočela je 2000. godine i do sada su organizovane četiri konferencije, naizmenično u našoj zemlji i Japanu. Četvrta konferencija je održana u hotelu Omorika na Tari od 27. do 28. avgusta 2004. 

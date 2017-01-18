@@ -1,0 +1,10 @@
+S 
+Samopridržaj 
+Obim osiguranja koji primarni osiguravač zadržava u svom portfelju prilikom zaključivanja ugovora o reosiguranju. Samopridržaj je najveći iznos pojedinačnih rizika ili čitavog portfelja rizika koji osiguravač može da pokrije sopstvenim sredstvima bez ugrožavanja svoje solventnosti. 
+Saosiguranje 
+Oblik distribucije rizika putem zajedničkog učešća većeg broja osiguravača u pokriću određenog rizika, odnosno određene polise osiguranja. Svaki osiguravač koji učestvuje u poslovima saosiguranja deli rizik, premiju i naknadu štete po jednom ugovoru o osiguranju. Vodeći osiguravač zaključuje sa osiguranikom ugovor o osiguranju i njemu drugi saosiguravači poveravaju naplatu premije i rešavanje šteta, pri čemu se međusobna raspodela rizika između saosiguravača uređuje posebnim ugovorom. Kod saosiguranja svote do kojih jemče pojedini saosiguravači nikada ne prelaze ukupnu ugovorenu vrednost osigurane stvari ili imovinske koristi što je važna razlika između saosiguranja i dvostrukog osiguranja gde se, takođe, na strani osiguravača javlja više učesnika. 
+Savet biroa 
+Skadenca 
+Period važenja ugovora o osiguranju, odnosno period za koji važi osiguravajuće pokriće. 
+Suma osiguranja 
+Predstavlja novčani iznos kao gornji iznos osiguravačeve obaveze koji se isplaćuje osiguraniku ukoliko nastupi osigurani događaj. Unosi se u polisu osiguranja ili se ugovorom o osiguranju, odnosno zakonom predviđa način njenog utvrđivanja kada nastupi osigurani događaj. U određenim slučajevima može biti prekoračena usled troškova nastalih povodom otklanjanja ili umanjenja štete preduzetih po nalogu osiguravača. 

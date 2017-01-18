@@ -1,0 +1,62 @@
+Sistem za detekciju vlage - alarmni s istem sastoji se od dve žice (KAL, Cu i Cu), različitih boja (signalna i alarmna), koje su zalivene u izolaciju predizolovane etažne račve i na samim krajevima su neizolovane radi povezivanja na sistem dojave za merenje vlage i otkrivanja prekida u trasi. 
+DIMENZIJE 
+Dimenzije čelične cevi 
+Dimenzije predizovanih račvi 
+Dimenzija osnovne cevi 
+DN 
+Dimenizija priključka 
+DN 
+Dužina osnovne cevi L¹ [ mm ] 
+Dužina priključka L² [ mm ] 
+25 - 100 
+25 - 50 
+1000 
+560 - 635 
+65 - 100 
+65 - 80 
+1000 
+710 - 750 
+125 - 200 
+65 - 50 
+1200 
+630 - 690 
+125 - 200 
+1200 
+755 - 810 
+125 - 200 
+100 - 200 
+1200 
+100 
+250 - 400 
+25 - 80 
+1200 
+715 - 830 
+250 - 400 
+100 - 250 
+1500 
+1000 
+250 - 400 
+250 - 400 
+1500 
+1200 
+Predizolovane paralelne račve 
+Predizolovani etažni ogranci se postavljaju na mestima gde je neophodno odvojiti toplovod od trase-paralelni etaž sa lukom ogranka od 90, pri čemu toplovodi koji se spajaju mogu biti različitog prečnika. 
+1200 
+500 
+125 - 200 
+125 - 150 
+1200 
+550 
+250 - 300 
+25 - 50 
+1400 
+400 
+250 - 300 
+65 - 100 
+1400 
+500 
+250 - 300 
+125 - 150 
+1500 
+550 
+Zadržavamo pravo na, kako merne, tako i tehničke izmene u cilju optimizacije proizvodnje i usaglašavanja sa tehničkim standardima. 
