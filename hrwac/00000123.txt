@@ -1,0 +1,19 @@
+Glavni izbornik 
+U srijedu, 24.03.2010. od 17 h će se naša postojeća bežična mreža unutar zgrade Fakulteta aktivno priključiti u europski roaming sustav eduroam. 
+Shodno tim zahtjevima, bežična mreža pod imenom FWLAN01 NESTAJE unutar naše zgrade Fakulteta a nova bežična mreža će se zvati eduroam 
+Eduroam je zamišljen kao europski roaming sustav koji na jednostavan način omogućuje npr. profesoru našeg Fakulteta u Varaždinu da se svojim računalom ili laptopom tijekom boravka na npr. Svečilištu u Amsterdamu spoji na njihovu mrežu rabeći svoj AAI@EduHr elektronički identitet. Naravno, vrijedi i obrnuto. 
+Sustav se rabi izvan granica Hrvatske na posve isti način kao i pri matičnoj ustanovi. 
+Svi parametri potrebni za spajanje na tu novonastalu " eduroam " bežičnu / wireless mrežu ostaju isti, osim imena mreže (SSID) koje se mijenja iz FWLAN01 u eduroam. 
+Da biste u potpunosti iskoristili sve funkcionalne mogućnosti roaming spajanja i ubuduće pri nekim drugim ustanovama u Hrvatskoj ili inozemstvu, savjetujemo Vam da se prijavljujete na bežičnu mrežu s Vašim AAI@EduHr elektroničkim identitetom u obliku Ova e-mail adresa je zaštićena od spam robota, nije vidljiva ako ste isključili JavaScript i Vašom LDAP lozinkom. 
+Naravno, " stari način spajanja " u jednostavnijem obliku username / password također ostaje u primjeni. 
+Uputstva su i dalje primjenjiva s jedinom razlikom da se za SSID (ime bežične mreže) umjesto prijašnje FWLAN01 upisuje explicitno eduroam 
+Hvala na razumijevanju. 
+03.03.2010 
+Radovi vezani uz električne instalacije na čvorištu Varaždin su uspješno završeni. 
+Hvala na razumijevanju i strpljenju. 
+03.03.2010 
+U srijedu, 03.03.2010. od 11:00 do 15:00 sati radit ce se na električnim instalacijama u čvoristu CARNeta na Fakultetu organizacije i informatike, Pavlinska 2, Varaždin. 
+Uslijed radova mogući su prekidi mrežne povezanosti svih ustanova s područja Varaždina i Čakovca. 
+Molimo korisnike za razumijevanje i strpljenje. 
+30.11.2009 
+Danas u 13 h dogodio se neočekivani pad CARNet čvorišta Varaždin, nastao kao posljedica kvara u sustavu snabdijevanja električnom energijom. 

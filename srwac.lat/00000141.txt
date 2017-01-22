@@ -1,0 +1,78 @@
+Projekat: SPO Stepa Stepanović 4 G 
+TEHNIČKI OPIS 
+za projektovani, stambeno - poslovni objekat sa podzemnom garažom u Beogradu 
+INVESTITOR: 
+" GRAĐEVINSKA DIREKCIJA SRBIJE " 
+Bul. Kralja Aleksandra 84 
+MESTO GRADNJE: 
+K. P. 7764 / 1, KO Voždovac, BEOGRAD 
+OBJEKAT: 
+STAMBENO POSLOVNI OBJEKAT: G. P. 4, Objekat 4 G 
+Projektovani objekat se nalazi na građevinskoj parceli G. P. 4, koja je na jugozapadnom delu kompleksa. Prema nameni objekat je stambeno - poslovni sa podzemnom garažom. Sastoji se iz tri lamele iste spratnosti. Spratnost lamele 1 je podrum, prizemlje, šest etaža i povučen sprat. (Po P 6 Ps). Spratnost lamele 2 je podrum, prizemlje, šest etaža i povučen sprat (Po P 6 Ps). Spratnost lamele 3 je podrum, prizemlje, šest etaža i povučen sprat (Po P 6 Ps). Teren na kojem se projektuje objekat je u nagibu. 
+Lamela 1 
+Lamela 2 
+Lamela 3 
+Spratnost: 
+Po Pr 6 Ps 
+Po Pr 6 Ps 
+Bruto površina objekta: 
+4376.29 m2 
+3999.37 m2 
+3376.29 m2 
+Broj stanova: 
+50 
+30 
+50 
+Broj lokala: 
+3 
+2 
+3 
+Projektovani broj garažnih mesta: 
+16 
+10 
+15 
+Bruto površina objekta po SRPS 
+PRISTUP OBJEKTU 
+Kolski i pešački pristup je ostvaren iz interne saobraćajnice. Garaža je ispod celog objekta. Kota ulaza u garažu je 179.00. U garažu se penje preko rampe (10 %) širine 5,5 metra, a na duzini od 14,00 m Na taj način se od kote 177,60 penje u garažu za visinu od 1,40 metara. U odnosu na kotu poda garaže kota poda prizemlja je 182.00 m. Relativnoj koti 0.00 odgovara apsolutna 182.00 m. Ulaz u lamele 1,2 i 3 je preko spoljnog stepeništa i rampi iz interne saobraćajnice. 
+FUNKCIONALNA ORGANIZACIJA 
+Podrum - je prema nameni garaža i predvidjen je smeštaj tehničkih prostorija (toplotna podstanica, hidrocil, sprinkleri, trafo stanica i prostorija telekoma). U garažu se prilazi pristupnom saobraćajnicom širine 5,5 metra. Pristup garaži je preko rampe nagiba (10 %) što omogućava nesmetan ulazak u garažu. Projektovano je ukupno 41 (16 10 15) garažno mesto. Čista visina garažnog prostora je od 260 cm. Glavno stepeniste ne silazi u garažu, već lift i pomoćno stepenište. Liftom se obezbeđuje direktna veza sa ostalim spratovima. U svim garažama predviđeno je odimljavanje prostora preko kanala za izvlačenje vazduha. 
+Prizemlje - gabarit prizemlja je postavljen na gradjevinsko-regulacionu liniju. Bočno rastojanje objekta od susednog objekta na istoj parceli iznosi 24 metra. Prema nameni u prizemlju lamele 1, 2 i 3 planirani su poslovni lokali na uličnoj fasadi objekta i stanovi na dvorišnoj. U lameli 1 projektovano je četiri stana, lameli 2 dva stana, a lameli 3 četiri stana. 
+Prvi sprat - gabarit prvog sprata lamele 1 prelazi liniju prizemlja na delovima erkera 0.95 m i terasa za 1,20 m na uličnoj fasadi i 0,6 m na dvorišnoj. Stepenište je prirodno osvetljeno i provetreno. Gabarit prvog sprata lamele 2 prelazi liniju prizemlja na delovima erkera 1.00 m na uličnoj fasadi dok na dvorišnoj u prelazi liniju prizemlja na delovima terasa 0,35 m. Gabarit prvog sprata lamele 3 prelazi liniju prizemlja na delovima erkera 0.95 m i terasa za 1,20 m na uličnoj fasadi i 0,6 m na dvorišnoj. U lameli 1 projektovano je sedam stanova, u lameli 2 četiri stana i u lameli 3 sedam stanova. 
+Povučeni sprat - povučeni sprat lamele 1 povučen je u odnosu na gabarit prizemlja 1,95 m sa strane ulične fasade i 1.85 m sa strane dvorišne fasade. Povučeni sprat lamele 2 povučen je u odnosu na gabarit prizemlja 1,95 m sa strane ulične fasade i 1.75 m sa dvorišne. Povučeni sprat lamele 3 povučen je u odnosu na gabarit prizemlja 1,95 m sa strane ulične fasade i 1.85 m sa strane dvorišne fasade. 
+Ukupno ostvareni broj stanova je 130. 
+Lamela 1 
+Lamela 2 
+Jednosobnih: 
+21 
+21 
+Dvosobnih: 
+19 
+19 
+Dvoiposobnih: 
+4 
+4 
+Trosobnih: 
+6 
+24 
+6 
+Četvorosobnih: 
+6 
+Uz tehnički opis biće prikazana zbirna rekapitulacija površina. 
+Pri projektovanju stanova poštovani su standardi o minimalnim potrebnim površinama prostorija prema nameni i prema veličini stana. Svi stanovi imaju prirodno osvetljenje i provetravanje prostorija (dnevne sobe, spavaće sobe direktno, kuhinje preko trpezarija ili direktno), izuzev kupatila i ostava. U kuhinjama stanova predviđene su ugradne mašine za sudove što produžava radnu liniju kuhinje na zadovoljavajuću dužinu. 
+Stanovi za invalide u prizemljima nisu obrađivani u okviru parcele G. P 4, ali će biti u sledećoj fazi projektovanja na parcelama G. P. 1, G. P. 2 i G. P. 3. 
+Objekat je fundiran na armiranobetonskoj temeljnoj ploči i šipovima. Temeljna ploča leži na podlozi od mršavog betona preko koje se postavlja hidroizolacija koja obavija temeljnu ploču i zidove sa svih strana do visine 30 cm iznad terena. 
+Krovna konstrukcija je armirano-betonska ploča, nagib krova je 6 % a krovni pokrivač je od čeličnog plastificiranog ravnog lima na dasčanoj oplati sa hidroizolacijom. 
+MATERJALIZACIJA 
+Spoljna obrada: 
+Fasadni zidovi se rade kao sendvič zidovi (opekarski blok, termo izolacija, opeka) malterišu se sa obe strane, a na nekim delovima fasada je urađena u fasadnoj opeci. Spolja se boje fasadnom bojom, a sa unutrašnje se gletuju i boje disperzivnom bojom. Obrada betonskih greda na terasma je fasadnom bojom. Sokla objekta završna obrada, prani kulir. Krovni pokrivač je čelični plastificirani lim. Spoljna stolarija na stanovima je PVC, aluminijumska na ulazu, stepeništu i lokalima, crna bravarija na ogradama stepeništa, terasa, podrumima i tehničkim prostorijama. Zastori se predviđaju kao eslinger roletne od plasticnih lamela u pvc kutiji. 
+Unutrašnja obrada: 
+Podovi: - U svim sobama, trpezarijama, predsobljima i ulazima je klasican parket završno lakiran. U kuhinjama, kupatilima, toaletima i ostavama je pod od keramičkih pločica, domaće proizvodnje, prve klase, sa obaveznom soklom. Podovi u ulazu, vetrobranu i stepenišnom prostoru su obloženi podnom keramikom ili protivkliznom građevinskom keramikom. Pod stanarskih ostava i tehnickih prostora je u cemnetnoj kosuljici, obradjenoj do crnog sjaja. Hidroizolaciju u sanitarnim prostorijama podići uz zidove do propisane visine. Zidove iza kade izolovati. 
+Zidovi: - Zidovi u stambenom prostoru, osim delova obloženih keramikom, su gletovani i bojeni poludisperzivnom bojom. Pregradni zidovi spavaćih i dnevnih soba urađeni su od ytong blokova d = 10 cm, a između kuhinja i sanitarnih prostorija od giter bloka d = 10 cm. U kuhinjama na delu radnih elemenata su keramičke pločice do visine 1,6 m. Zidove prostorija hidroforskog postrojenja su obloženi keramickim plocicama do visine 1,50 m, zid iznad je bojen posnom bojom. Zidovi ostalih prostorija su krečeni dva puta belo, bez prethodne obrade. U podrumu stanarske ostave su izdeljene tesarskim pregradama. 
+Unutrašnja stolarija: - Unutrašnja stolarija je u skladu sa JUS-om, duplošperovana, bojena i lakirana, sa slepim štokom, dovratnicima i odbojnicima. Ulazna vrata u stanova su puna, termo i zvučno izolovana (30 - 34 dB, I klase), opremljena špijunkom, sigurnosnim lancem i brojem. Pragovi na svim ulaznim vratima su od bukovog drveta, kao i tamo gde se pojavljuje razlika u vrsti poda. 
+Fasadna stolarija: - Fasadna stolarija je u skladu sa JUS-om. Stolarija je pvc, zastakljena termopan staklom, sa eslinger roletnama od plasticnih lamela i pvc rolo kutije, sa termičkom i zvučnom izolacijom. Spoljna pvc stolarija ugrađuje se tako da se svuda izbegne pojavljivanje hladnog mosta (pvc stolarija u ravni sa termozolacijom). 
+Instalacijama telefonskim, kablovskog TV prijema i interfona, kao i instalacijama za signalizaciju pozara 
+Mašinskim instalacijama 
+Liftom na elektricni pogon 
+PRIMENJENE MERE PROTIVPOŽARNE ZAŠTITE 
+U garazi je potrebna hidrantska mreža i protivpožarna vrata na ulazu u stepenišna betonska jezgra u garaži. Sve ostale mere dojave i zastite od pozara bice obrađene glavnim AG projektom i glavnim projektima instalacija. 
+Stambeni objekat projektovan je u svemu prema projektnom zadatku investitora, i važećim propisima i standardima za ovu vrstu objekata. 

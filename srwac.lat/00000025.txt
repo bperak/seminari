@@ -1,62 +1,7 @@
-Sistem za detekciju vlage - alarmni s istem sastoji se od dve žice (KAL, Cu i Cu), različitih boja (signalna i alarmna), koje su zalivene u izolaciju predizolovane etažne račve i na samim krajevima su neizolovane radi povezivanja na sistem dojave za merenje vlage i otkrivanja prekida u trasi. 
-DIMENZIJE 
-Dimenzije čelične cevi 
-Dimenzije predizovanih račvi 
-Dimenzija osnovne cevi 
-DN 
-Dimenizija priključka 
-DN 
-Dužina osnovne cevi L¹ [ mm ] 
-Dužina priključka L² [ mm ] 
-25 - 100 
-25 - 50 
-1000 
-560 - 635 
-65 - 100 
-65 - 80 
-1000 
-710 - 750 
-125 - 200 
-65 - 50 
-1200 
-630 - 690 
-125 - 200 
-1200 
-755 - 810 
-125 - 200 
-100 - 200 
-1200 
-100 
-250 - 400 
-25 - 80 
-1200 
-715 - 830 
-250 - 400 
-100 - 250 
-1500 
-1000 
-250 - 400 
-250 - 400 
-1500 
-1200 
-Predizolovane paralelne račve 
-Predizolovani etažni ogranci se postavljaju na mestima gde je neophodno odvojiti toplovod od trase-paralelni etaž sa lukom ogranka od 90, pri čemu toplovodi koji se spajaju mogu biti različitog prečnika. 
-1200 
-500 
-125 - 200 
-125 - 150 
-1200 
-550 
-250 - 300 
-25 - 50 
-1400 
-400 
-250 - 300 
-65 - 100 
-1400 
-500 
-250 - 300 
-125 - 150 
-1500 
-550 
-Zadržavamo pravo na, kako merne, tako i tehničke izmene u cilju optimizacije proizvodnje i usaglašavanja sa tehničkim standardima. 
+Najmilija valjevska priča - Zdravko Ranković 
+A ko ostavimo po strani, bar za ovu priliku, potrebu dokazivanja ili opovrgavanja rasprostranjenog uverenja da smo, mi Valjevci, podvalidžijski soj, i da smo u tome nadvisili naše komšije Šapčane i Užičane, beležim predanje o najstarijoj, do danas upamćenoj, valjevskoj podvali. Može, istina, biti to da je o valjevskoj podvali bilo i drugih (drugačijih) priča. Sasvim je moguće da su u njima Valjevci svoju podvaldžijsku prirodu ponajviše ispoljavali u odnosu na Šapčane i Užičane. To što je upamćena samo priča koja sledi moglo se objasniti i time da je ona Valjevcima najmilija. 
+P rema tom predanju, krenuli u ono doba Šapčani po mladu čak u užički kraj. Na primer, u selo Karan. Ili, ako više volite, u samo Užice. Pošli kočijama, pa zanoćili na pola puta, baš u Valjevu. Verovatno u Tešnjaru. Po nekima, od tih veselih Šapčana nije bilo do sna, pa su noć probdeli sa nekolicinom za veselje baš te (ili i te) noći raspoloženih Valjevaca. 
+K ićeni Šapčani odjezdiše sutradan u brda, a Valjevci ostadoše da blaže mamurluk. I da se pripremaju za još jednu noć (a to nije bila ona sledeća) sa svatovima iz komšiluka. Od dobre rakije (druge u ono doba ne beše) ne samo da ne boli glava već su i svakovrsna nadahnuća življa, iskričavija. Najmaštovitiji među njima predloži da za noć repriznog svadbarskog konaka Šapčana u Valjevu i domaćini " organizuju " svadbu, pa tako i učiniše. Sve je moralo da bude kao što u tim prilikama i ide sem što je u venčanicu i prateći nakit odeveno jedno momče, još prilično golobrado. 
+S tigli Šapčani, veseliji no kad su otišli, pomešali se dvoji svatovi, noć odmiče a na san niko i ne misli. Bilo je tu i muzike sa obe strane. U neko doba, možda je bila i ponoć, Valjevci predložiše da se mlade izdvoje i zajedno odspavaju do zore. Šapčanima se to učini veoma razboritim, mnogi od njih se iskreno zahvaljivahu svojim domaćinima itd. 
+U jutro su Šapčani otišli veseli i raspevani. Pogađate, svakako, da je među svima najraspevanija bila - mlada. 
+Š apčani, nemaju naročitih razloga za nezadovoljstvo prema ovakvom ishodu toga valjevskog predanja. Uostalom, ono je samo podvarijanta onih čestih, na distih svedenih, razmatranja o superiornom Valjevcu i nenadmašnoj Užičanki. U ovo naše vreme oštrica valjevskih podvala promenila je smer, sad sami sebi podvaljujemo. To je, sigurno, otuda što više nema onako dobre rakije, pa nam ni nadahnuće ne stremi u negdašnje visine. 

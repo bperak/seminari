@@ -1,7 +1,60 @@
-Uputstvo za moji računi 
-Uputstvo za MOJI RAČUNI 
-Registracija novog korisnika to je prvo što treba da uradite. Da bi se registrovali kao naš novi korisnik od Vas se zahteva da pored korisničkog imena (on mora biti jedinstveno), unesete i svoje ime i prezime, lozinku (koju potvrđujete), e-mail adresu, JMBG ili PIB i opciono: telefon. E-mail adresa je važna i obavezna jer sajt sa korisnikom komunicira preko nje. Na osnovu ovih podataka, na datu e-mail adresu dobićete kod za validaciju (PIN kod koji će važiti 24 časa) a on Vam je neophodan podatak prilikom registracije. Svaka promena e-mail adrese zahteva novi PIN kod. 
-Kada se registrujete sebi dodeljujete dozvole tj. definišete koje obveznike gledate (' izaberite obveznika ') i koje prostore gledate. Za to je potreban jedan, bilo koji, račun Objedinjene naplate - na njemu su podaci jer, za dodavanje nove dozvole traži se: - generacija računa sa koga se unose podaci - broj tog računa - prostor (šifra stana) sa računa 
-Ako ste već registrovani korisnik i dodelili ste sebi dozvole uradite prijavljivanje tako što unesete korisničko ime i lozinku i možete da gledate svoje račune - u godini koju izaberete - za obveznika koga odaberete (ako ste ih prijavili više) i - za prostor koji odaberete (ako ste ih prijavili više) 
-Svaki korisnik opcije MOJI RAČUNI može da - dodaje nove dozvole - pojedinačno za svakog obveznika i svaki prostor - da briše (svoje) dozvole i - može u opciji moj profil da edituje sopstveni profil tj. da menja svoje podatke (napomena: promenom e-mail adrese ponovo se dobija PIN kod za validaciju i u roku od 24 časa treba overit svoj nalog). 
-Na opciji MOJI RAČUNI nivo bezbednosti podataka podignut je na viši nivo i ZATO: Davanje dozvola za svaki prostor radi se pojedinačno (do sada je bilo grupno) Za prijavu novog prostora JMBG koji unosite je sa zvaničnog dokumenta (a ne sa računa kao do sada) 
+Vlada Srbije preuzeće obavezu da vojnim penzionerima isplati dug od 4,5 milijardi dinara, navodi se u Predlogu zakona o pretvaranju neizmirenih obaveza korisnicima vojnih penzija u javni dug Srbije, koji je objavljen na sajtu Skupštine Srbij e. 
+Prema tom predlogu, dug će vojnim penzionerima biti isplaćen u tri godišnje rate, od 2012. do 2014. godine. Vlada Srbije će utvrditi datume isplaćivanja dugovanja za oko 35.000 vojnih penzionera. 
+U obrazloženju se navodi da je dug nastao pošto prilikom isplata potraživanja vojnih lica nije uračunato povećanje plata iz uredbe koja je važila od avgusta 2004. do novembra 2007. godine. Usvajanjem tog zakona, kako se navodi, trebalo bi da se prekinu svi sudski procesi vojnih penzionera protiv države. 
+Ovim zakonom uređuje se način, postupak i dinamika izmirivanja dospelih, a neizmirenih obaveza nastalih prema korisnicima vojnih penzija po osnovu delimičnog usklađivanja penzija i novčanih naknada utvrđenih Zakonom o Vojsci Jugoslavije (Službeni list SRJ ", br. 43 / 94, 28 / 96, 44 / 99, 74 / 99, 3 / 02 i 37 / 02 i Službeni list SCG ", br. 7 / 05 i 44 / 05) u periodu 1. avgusta 2004. do 30. novembra 2007. godine, kao i način obezbeđenja sredstava za ove namene. 
+Iznos obaveza 
+Član 2. 
+Republika Srbija preuzima kao javni dug Republike Srbije obaveze Fonda za socijalno osiguranje vojnih osiguranika po osnovu isplate dospelih a neizmirenih obaveza nastalih po osnovu delimičnog usklađivanja penzija i novčanih naknada prema korisnicima vojnih penzija iz člana 1. ovog zakona, u ukupnom nominalnom iznosu od 4.512.720.000,00 dinara. 
+Na neizmirene obaveze iz stava 1. ovog člana, obračunava se zakonska zatezna kamata za period od dana dospelosti pojedinačnog mesečnog iznosa zaključno sa danom stupanja na snagu ovog zakona. Na neizmirene obaveze iz stava 1. ovog člana, za period od dana stupanja na snagu ovog zakona do datuma izmirivanja obaveza korisnicima prava određenih aktima Vlade iz člana 4. stav 2. ovog zakona, obračunava se kamata koja je jednaka referentnoj kamatnoj stopi Narodne banke Srbije. 
+Ukupan iznos obaveza koji je utvrđen odredbama st. 1. i 2. ovog člana uvećan za troškove postupka iz člana 8. stav 2. ovog zakona predstavlja konačnu obavezu Republike Srbije po ovom zakonu. 
+Sredstva za izmirenje obaveza 
+Član 3. 
+Sredstva za izmirenje obaveza iz člana 1. ovog zakona obezbeđuju se u budžetu Republike Srbije. 
+Način i dinamika izmirivanja obaveza 
+Član 4. 
+Obaveze po osnovu duga prema licima koja ostvaruju prava u skladu sa ovim zakonom po osnovu dospelih, a neizmirenih obaveza prema korisnicima vojnih penzija iz člana 1. ovog zakona, Republika Srbija će isplaćivati u iznosu utvrđenom na način iz člana 2. st. 1. i 2. ovog zakona, u visini i prema sledećoj dinamici: 
+- u 2012. godini - u visini 1 / 3 ukupnog iznosa obaveze utvrđene za korisnika prava uvećane za iznos pripadajuće kamate iz člana 2. stav 2. ovog zakona, koja se obračunava do dana isplate u 2012. godini; 
+Vlada će svojim aktima odrediti datume izmirivanja obaveza korisnicima prava, odnosno datume isplate, u skladu sa dinamikom iz stava 1. ovog člana. 
+Obavljanje administrativnih poslova Član 5. 
+Administrativne poslove u vezi sa izmiravanjem obaveza korisnicima prava, kao i poslove utvrđivanja visine ukupnih potraživanja po svakom korisniku prava vršiće Republički fond za penzijsko i invalidsko osiguranje. 
+Utvrđivanje potraživanja po korisniku 
+Član 6. 
+Republički fond za penzijsko i invalidsko osiguranje će bliže urediti način utvrđivanja visine ukupnih potraživanja po svakom korisniku, kao i način isplate potraživanja koja se ostvaruju po odredbama ovog Zakona. 
+Oslobađanje od plaćanja doprinosa 
+Član 7. 
+Na obaveze utvrđene odredbama ovog zakona, prema korisnicima ne obračunava se i ne plaća doprinos na ime obaveznog zdravstvenog osiguranja. 
+Obustava parničnih postupaka 
+Član 8. 
+Danom stupanja na snagu ovog zakona obustavljaju se svi započeti parnični postupci, uključujući i izvršne postupke, u kojima se tužbenim zahtevom potražuje dug po osnovu delimičnog usklađivanja penzija i novčanih naknada iz člana 1. ovog zakona. 
+Aktom o obustavi postupaka iz stava 1. ovog člana, sud će utvrditi ukupnu visinu troškova koji, bez kamate iz člana 2. ovog zakona, pripadaju tužiocu, a koji će se isplatiti u tri jednaka godišnja iznosa, po dinamici utvrđenoj aktima Vlade iz člana 4. stav 2. ovog zakona. 
+Na koga se zakon odnosi 
+Član 9. 
+Odredbe ovog zakona odnose se na korisnike vojnih penzija i novčanih naknada koji su ta prava ostvarili do dana stupanja na snagu Zakona o Vojsci Srbije (Službeni glasnik RS ", br. 116 / 07 i 88 / 09). 
+Završna odredba 
+Član 10. 
+OBRAZLOŽENjE 
+I. USTAVNI OSNOV ZA DONOŠENjE ZAKONA 
+Ustavni osnov za donošenje ovog zakona sadržan je u članu 97. tačka 8. Ustava Republike Srbije, kojim je predviđeno da Republika Srbija uređuje i obezbeđuje, pored ostalog, sistem u oblasti socijalnog osiguranja i drugih oblika socijalne sigurnosti. 
+Uredbom o izmenama i dopunama Uredbe o platama i drugim novčanim primanjima profesionalnih vojnika i civilnih lica u Vojsci Jugoslavije (Službeni list SCG ", br. 35 / 04) predviđeno je da se u članu 9. posle tačke 3. umesto tačke stavljaju tačka i zarez i dodaju se nove tač. 4. i 5, koje glase: 
+4) profesionalnom vojniku - zbog težine, karaktera i trajanja rada, odnosno posla - kao posebna naknada, u procentu od osnovne plate, i to: 
+a) u jedinici za protivteroristička dejstva, odnosno diverzantska dejstva i jedinici vojne policije posebne namene, zaključno sa bataljonom 
+25 %; 
+b) u jedinici za prepadna dejstva, izviđačkoj jedinici i jedinici vojne policije, zaključno sa bataljonom, i lekaru na dužnosti u trupi 18 %; 
+v) u graničnim jedinicama, zaključno s komandom graničnog bataljona, odnosno mornaričkim graničnim jedinicama, zaključno sa odredom; osmatračkim stanicama ratne mornarice koje se nalaze na teško pristupačnim mestima; vizuelnim osmatračkim stanicama; vodovima za vazdušno osmatranje i javljanje i četama za vazdušno osmatranje, javljanje i navođenje ratnog vazduhoplovstva i protivvazdušne odbrane; centrima veze objekata komandovanja, radio-relejnim objektima stacionarnih veza; radio-goniometrijskim stanicama; stanicama za radio-tehničko izviđanje; radio-prislušnim stanicama i isturenim prislušnim centrima iz sastava jedinica za elektronsko izviđanje i protivelektronska dejstva i kontrolorima letenja 
+15 %; 
+g) u ostalim jedinicama zaključno sa pukom - brigadom 10 %; 
+d) ostalim profesionalnim vojnicima 8 %; 
+5) profesionalnom vojniku naknada iz tačke 4. ovog člana uvećava se za 8 % od osnovne plate, ako je na dužnosti: 
+Na osnovu toga što prilikom isplata potraživanja vojnih lica nije uračunato predviđeno povećanje iz spomenute Uredbe, došlo je do razlike između visine isplaćenih potraživanja i visine stvarnih potraživanja. 
+Imajući u vidu da je Uredba doneta 2004. godine i da se primenjivala zaključno sa stupanjem na snagu Zakona o Vojsci Srbije (Službeni glasnik RS ", br. 116 / 07 i 88 / 09) iz 2007. godine, za pomenuti period nastao je dug prema vojnim osiguranicima na osnovu toga što nisu uračunata uvećanja predviđena ovom Uredbom. Dug do dana donošenja ovog zakona nije izmiren i uvećan je za pripadajuće zakonske kamate za period duga od avgusta 2004. godine do novembra 2007. godine, kao i za period od novembra 2007. godine do dana stupanja na snagu ovog zakona. Zakon predviđa utvrđivanje dinamike otplate duga u tri godišnje rate, za koje vreme će teći kamata koja je jednaka referentnoj kamatnoj stopi Narodne banke Republike Srbije. 
+Za sprovođenje ovog zakona obezbeđivaće se sredstva u budžetu Republike Srbije. 
+V. RAZLOZI ZA DONOŠENjE ZAKONA PO HITNOM POSTUPKU 
+Razlozi za donošenje ovog zakona po hitnom postupku, saglasno članu 167. Poslovnika Narodne skupštine (Službeni glasnik RS ", br. 52 / 10 i 13 / 11), proizlaze iz činjenice da je neophodno što pre utvrditi visinu kamatne stope po osnovu duga i dinamiku isplaćivanja jer se zbog neisplaćivanja duga iznos koji se potražuje po osnovu namirenja dospelih a neizmirenih novčanih potraživanja korisnika vojnih penzija po osnovu delimičnog usklađivanja penzija i novčanih naknada, skoro izjednačio sa iznosom duga po osnovu kamate na isti. 
+VI. RAZLOZI ZA STUPANjE NA SNAGU ZAKONA PRE OSMOG DANA 
+OD DANA OBJAVLjIVANjA 
+Razlozi za stupanje na snagu ovog zakona pre osmog dana od dana objavljivanja, saglasno članu 196. stav 4. Ustava Republike Srbije, proizlaze iz činjenice da je neophodno hitno preuzeti i početi sa izmirivanjem obaveza prema vojnim osiguranicima, kako bi se sprečio dalji rast duga. 
+OBRAZLOŽENjE 
+Pa ovo je bruka i sramota, ovi bas traze da im Strasbourgh lupa packe po milioniti put, tako da topla preporuka pre stavljanja predloga zakona u proceduru da se dobro preracunaju i da se manu jalovog posla Gde je ovde drzava i jos pravna? 
+šta će biti sa presudama i troškovima po istima.Ko će zastupnike isplatiti i da li će oni morati da tuže penzionere kako bi naplatili svoje troškove? Niko o tome nije razmišljao.Plaćanje u ratama je neprihvatljivo.Pitanje je posle izbora da li će se to održati??? 
+Ovaj predlog Zakona je za GINISA: - Vlada kao predlagač " zaboravlja " da je po Zakonu o VS čl.193 / 2 bila dužna, da to uredi, odgovarajućim aktom. - Zakon o VS čl.193 / 1 predviđa sve dospele dugove a ne samo od 2004. - Predlog zakona, takođe providno pokušava da prejudicira rešenje za dug od 11.06 %. - Prekidanje svih sudskih procesa prestavlja flagrantan pritisak i mešanje Izvršne vlasti u Sudsku vlast. - Prekidanje sudskih procesa moguće je samo uz saglasnost obe strane. - Obračun kamate po Referentnoj stopi NBS a ne po zakonskoj zateznoj kamati ide na štetu KVP. - Predlog Zakona, krši osnovno građansko Ustavno pravo ravnopravnosti i diskriminiše sve one koji su u sudskom procesu i one koji nisu pokrenuli spor. Zaključak: Oni koji zastupaju interese KVP trba da pod hitno pokrenu akciju da Vlada ovaj Predlog Zakona povuče iz procedure. 
+Samo nas lažu i prebacuju odgovornos sa onih koji su odgovorni (MO) na one koji nisu odgovorni (fond PIO RS). Pitanje je da li će skupština više zasedati. Jesenji rad skupštine je završen, a prolećnje zasedanje počinje negdje u martu. Tada će uveliko trajati pripreme za izbore, pa izbori, pa konstuisanje nove skupštine, izbor nove vlade i tako u nedogled. Neka nam je Bog u pomoći. 

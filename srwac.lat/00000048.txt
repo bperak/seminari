@@ -1,41 +1,10 @@
-Srbija trenutno zauzima 76 mesto na globalnoj listi po brzini download-a. Što se upload-a tiče 99 - to nesto je naše. po kvalitetu smo na 33 mestu. Ako pogledamo cene, tu smo na 36 mestu sa prosečnom cenom od 5.97 $ po Mbps (na prvom mestu je Bugarska sa 0.58 $ po megabitu). 
-Evo i kratkog poređenja sa zemljama iz regiona: 
-Srbija 
-Hrvatska 
-Makedonija 
-Slovenija 
-Rumunija 
-Bugarska 
-Pozicija DL 
-76 (6.04 Mbps) 
-82 (5.24 Mbps) 
-56 (8.86 Mbps) 
-48 (11.18 Mbps) 
-12 (24.45 Mbps) 
-13 (24.47 Mbps) 
-Pozicija UL 
-99 (1.40 Mbps) 
-111 (1.26 Mbps) 
-44 (3.64 Mbps) 
-33 (5.11 Mbps) 
-8 (15.73 Mbps) 
-9 (13.75 Mbps) 
-Cena po Mbps ($) 
-5.97 
-7.25 
-/ 
-5.15 
-0.75 
-0.58 
-Indeks kvaliteta 
-(pozicija) 
-33 
-40 
-11 
-17 
-2 
-37 
-Indeks kvaliteta odnosi se na vrednosti pinga ka test serverima. 
-Činjenica je da se ipak ne kotiramo tako loše, iako i dalje plaćamo prilično visoku cenu za svaki Mbps (prosek EU je 4.31 $). 
-Ono što možda ne ide na čast domaćim providerima je procenat ispunjenih obaveza (odnos ugovorene i dobijene brzine) i u Srbiji on iznosi 90.45 % (tj da uprostimo, od ugovorene brzine dobijate 90 % kao stvarnu brzinu). Takođe, ne možemo biti zadovoljni ni stanjem sa upload-om (EU prosek 4.32 Mbps). 
-Iako je situacija daleko od zadovoljavajuće za nas kao korisnike, ipak (izuzev ovih glavnih zamerki) i nije sve baš tako loše. Uzećemo u obzir smerove u kojima se kreće prstup internetu (FTTx, VDSL) pa u skorije vreme možemo i očekivati ako ne pojeftinjenje usluga, onda barem korekcije u smislu brzine, procenta ispunjenih obaveza, kvaliteta. 
+Čitave parcele četinara u šumama srednjeg Polimlja pune su suvih stabala, posebno na uzvišenjima i prisojnim stranama, što je posledica prošlogodišnje suše. " Nisu u pitanju ni kisele kiše niti neka obolenja, radi se o posledicama suše ", rekao je novinarima direktor Šumskog gazdinstva u Prijepolju Milan Baranac.Nalazi Instituta za šumarstvo Šumarskog fakulteta u Beogradu to nedvosmisleno potvrdjuju. Nedostatak vlage na kamenoj podlozi i bezvodnom terenu je osnovni uzrok masovne... Opširnije &gt; &gt; 
+Stranka Zeleni Srbije i poslanik Ivan Karić uputili su inicijativu Vladi Srbije da se obnovi rad ukinute Agencije za hemikalije.Kako se navodi u saopstenju, u Srbiju trenutno bez ikakve kontrole ulazi stotine hemikalija, jer je nakon ukidanja Agencije za hemikalije ostala bez adekvatne kontrole, uvoza, proizvodnje i upotrebe hemijskih sredstava.Napominje se da za poslednjih pola godine nije uspostavljen adekvatan sistem nadzora i kontrole novih proizvoda koji su se našli na tržištu. " Nije... Opširnije &gt; &gt; 
+Povodom Svetskog dana zaštite životne sredine, Nacionalni park Fruška gora danas je organizovao akciju čišćenja te jedine vojvodjanske planine od otpada.U okviru današnje akcije realizovano je plansko čišćenje Fruške gore, najstarijeg Nacionalnog parka u Srbiji, i njegove zaštitne zone sakupljanjem različitih vrsta otpada, njegovom separacijom i odgovarajućim odlaganjem. " Osnovna ideja prilikom planiranja ove velike akcije jeste da se podigne svest gradjana o značaju pravilnog... Opširnije &gt; &gt; 
+Grupa gradjana Jagodine podneće u ponedeljak Skupštini grada inicijativu za donošenje Deklaracije o zabrani modifikovanih organizama (GMO) koja će zabraniti korišćenje, uzgoj i promet ovakve hrane, rečeno je danas na tribini o GMO koja je organizovana u Jagodini.Potpisnici inicijative su eminetni stručnjaci iz oblasti medicine, veterine i poljoprivrede iz Jagodine koji su i govorili na tribini.Jedan od potpisnika, direktor Veterinarskog specijalističkog instituta u Jagodini Zoran... Opširnije &gt; &gt; 
+Država je počela isplatu blizu 1,5 milijardi dinara koje duguje firmama za reciklažu na ime zaostalih podsticajnih sredstava za ponovnu upotrebu i iskorišćavanje otpada kao sekundarne sirovine, saopštilo je danas Udruženje reciklera Srbije.Na osnovu dogovora sa Vladom Srbije novac se od početka ove nedelje isplaćuje kroz dugoročne hartije od vrednosti, a za dugovanja do 31. decembra 2012. godine, rekli su agenciji Beta u tom Udruženju.Iz Udruženja podsećaju da je u isplati tih... Opširnije &gt; &gt; 
+Stranka Zeleni Srbije saopštila je danas, povodom Nacionalnog dana zaštite prirode, 11. aprila, da Srbija ne ulaže dovoljno napora ni sredstava da sačuva svoja prirodna dobra.Zeleni Srbije upozoravaju da je finansiranje zaštite životne sredine ugroženo i podsećaju da se poslednjih godinu dana desio veliki broj ekoloških incidenata, kao što je izlivanje mazuta u reku Gročicu, pomor ptica u Timočkoj regiji, pomor ekosistema u Aleksandrovačkom jezeru, pomor ribe u Tisi i... Opširnije &gt; &gt; 
+U Srbiji se danas obeležava Dan zaštite prirode, 11. april, u spomen na dan kada je 1949. godine spomenik prirode vodopadi " Velika i Mala Ripaljka " na reci Gradašnici kod Sokobanje, proglašen za prvo zaštićeno prirodno dobro u Srbiji.U Srbiji je zaštićeno 5,92 odsto teritorije, što znači da je proglašeno 460 zaštićenih prirodnih dobara, a više od 2.500 divljih biljnih i životinjskih vrsta je pod zaštitom države, podsećaju iz Zavoda za zaštitu prirode Srbije.Ističe se da je... Opširnije &gt; &gt; 
+Ministarka eneregetike, razvoja i zaštite životne sredine Zorana Mihajlović izjavila je danas da će država pomoći izgradnju kanalizacione mreže oko Vlasinskog jezera vredne osam miliona evra. " Izgradnja kanalizacije i pročišćavanje otpadnih voda su prioritet, jer se ne može pričati o ekoturizmu na Vlasini, čistoj vodi i lepim predelima ako se taj problem ne reši ", rekla je ona u Opštini Surdulica na promociji projekta ekoturizma i zaštite životne sredine Vlasinskog... Opširnije &gt; &gt; 
+Ministarka energetike, razvoja i zaštite životne sredine Srbije Zorana Mihajlović izjavila je danas da je na javni poziv za izgradnju 317 mini hidroelektrana stiglo 1.380 prijava investitora. " Prijavilo se više investitora nego što smo očekivali. Samo za područje Surdulice 138, a za područje Vlasotinca oko 40 ", rekla je Mihajlović na promociji Projekta eko-turizma i zaštite životne sredine Vlasinskog jezera.U narednih sedam dana očekuje se još prijava poslatih poštom, a sredinom... Opširnije &gt; &gt; 
+U Skupštini Vojvodine danas je potpisan aneks Sporazuma o formiranju regionalne deponije, čime je opština Novi Bečej pristupila dokumentu koji su već potpisale opštine Kikinda, Ada i Bečej.Pokrajinski sekretar za urbanizam, graditeljstvo i zaštitu životne sredine Slobodan Puzović rekao je da je cilj regionalnog koncepta postizanje što većeg broja korisnika, kako bi cena usluge bila socijalno prihvatljiva.On je izrazio očekivanje da će, s obzirom na činjenicu da je Fond za... Opširnije &gt; &gt; 

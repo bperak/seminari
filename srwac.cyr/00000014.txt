@@ -1,36 +1,14 @@
-Kalendar 
-Grupe, udruženja 
-Usluge 
-Linkovi 
-PROGRAM STUDIJA 
-Prema odlukama Naučno-nastavnog veća Mašinskog fakulteta Univerziteta u Beogradu, a u skladu sa Zakonom o visokom obrazovanju, s tudijski programi koji će se od 1.10.2005. god. sprovoditi na Fakultetu su: 
-Na diplomi Osnovnih akademskih studija (180 ESPB) pisaće se stručni naziv INŽENjER MAŠINSTVA trogodišnjih studija (skraćeno inž.maš. 3 g.). U Dodatku diplome daje se spisak odslušanih i položenih predmeta, i uz titulu se može dodati povlaka i naziv usmerenosti koju je student ostvario izborom odgovarajuće grupe predmeta. Student može ostvariti ovu usmerenost, ali i ne mora. U međunarodnim odnosima ova titula odgovara tituli Bachelor of Science (B. Sc.). 
-Na diplomi Doktorskih studija (180 ESPB) pisaće se naučni naziv DOKTOR NAUKA MAŠINSKO INŽENjERSTVO (skraćeno dr). U Dodatku diplome daje se datum upisa, istraživačka oblast, zatim spisak odslušanih i položenih predmeta, zatim podaci o održanoj nastavi, o publikovanim radovima i o učešću na projektima, i na kraju datum odbrane, naziv odbranjene doktorske teze, ime mentora, kao i imena članova komisije pri odbrani. U međunarodnim odnosima ova titula odgovara tituli Doctor of Philosophy (Ph. D.). 
-Do 30.9.2005. god. Fakultet je imao integrisani sistem studija od 5 godina. 
-časova 
-nedeljno 
-1. godina 
-2. godina 
-3. godina 
-4. godina 
-5. godina 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-O 
-O 
-O 
-O 
-O 
-Prikaz je orijentacioni jer su brojevi časova i predmeta po pojedinim semestrima bili manji ili veći i značajno varirali od odseka do odseka. Student je mogao da bira jedino odsek (usmerenje) pri upisu 3. godine, a nadalje su mu svi predmeti za taj odsek bili obavezni (predmeti označeni sa O). 
-Od 1.10.2005. god. Fakultet je uveo novi sistem studija. 
-časova 
-nedeljno 
-Student može samostalno da bira predmete označene sa I, dok se izborno usmerenje stiče kako kroz obavezne predmete modula (odseka) O na diplomskom nivou, tako i kroz izborne predmete na oba nivoa. 
+Najveće naselje Opštine Palilula na desnoj obali Dunava je Karaburma, a tu se nalaze i tri sela: Slanci, Veliko Selo i Višnjica. Između Višnjice i Karaburme smešteno je urbano naselje Višnjička Banja. 
+KARABURMA 
+Nekad " selo udaljeno pola sata hoda " od Beograda, Karaburma danas, dva veka kasnije, predstavlja savremeno naselje velegrada. Na pustim padinama između Zvezdarske šume i Dunava u predvečerje Prvog srpskog ustanka pojavile su se prve kuće, podizane bez ikakvog plana i reda. Do tog vremena Turci su u ovom kraju izvršavali smrtne kazne nad neposlušnim podanicima. Turski izraz za egzekuciju u bukvalnom prevodu je " venčanje sa smrću ". Tako je, predpostavlja se, ovo naselje kršteno u Kara (crni), burma (venčani prsten). 
+Početkom prošlog veka otvaraju se prve fabrike koje privlače radnike iz drugih krajeva Beograda i Srbije. Epitet radničkog naselja zadržava sve do kraja Drugog svetskog rata, a onda za samo nekoliko decenija šireći se ka istoku, na današnjim teritorijama mesnih zajednica " Stevan Hristić ", " Karaburma-Dunav " i " Despot Stefan Lazarević ", izrasta u savremeni deo Beograda. Krajem sedamdesetih i početkom osamdesetih godina prošlog veka taj trend se nastavlja i oko današnje autobuske okretnice i MZ " Filip Višnjić ". Značajan priliv stanovništva iz tog perioda, kao i prirodni rast populacije, Karaburmu svrstava u gusto naseljeni kraj grada sa više od 40.000 stanovnika. 
+Kada se šezdesetih godina gradilo novo naselje na Karaburmi, na lokalitetu Rospi Ćuprija pronađeno je jedno od najstarijih keltskih grobalja. Oružje od gvožđa, sudovi i nakit sa ovog mesta danas se nalaze u Muzeju grada Beograda. 
+VELIKO SELO 
+Prema nekim starim dokumentima Veliko Selo je nastalo 1510. godine. Po predanju ime je dobilo tako što je u njegovoj blizini nastalo malo selo bliže gradu, tamo gde se sada nalaze Slanci, pa su se stanovnici iz jednog i drugog sela kazivali, ko je iz malog, a ko iz velikog sela. Najverovatnije je tako i ostalo ime Veliko Selo. Stanovnici Velikog Sela oduvek su se bavili poljoprivredom. I danas su nepregledna polja povrtnjaka pokrivena plastenicima. Svakodnevno se odatle snabdevaju beogradske pijace raznim povrćem. 
+SLANCI 
+Slanci se prvi put pominju u zapisima iz 1716. godine. Selo se prostire sa obe strane Slanačkog potoka. Na mestu gde je potok načinio poveću aluvijalnu ravan nastalo je selo. Slanci su oduvek poznati po termalnim izvorima: Točak, Vruća voda, Vrele, Balabanovac, Obradova voda, Savina voda, Sarićeva voda, Bubanje i druga. U selu je nekada bilo više bunara, ali su oni vremenom presušivali. Danas postoji još samo jedan bunar, izuzev Rimskog bunara, kojeg su po predanju, podigli Rimljani. Slance je dobilo ime, kako kaže predanje, po slanom jezercetu Malom Slancu. Ako je stvarno postojalo jezerce sa slanom vodom, što je moguće, s obzirom na brojne termalne izvore, ova verzija porekla imena Slanci je najpouzdanija. 
+VIŠNjICA 
+Višnjica se pruža duž obe strane puta uz desnu obalu Dunava, kao ušoreno selo nekada poznato po višnjama. Jovan Cvijić je u " Zborniku naselja srpskih zemalja " iz 1903. godine, nadahnuto primetio, da je Višnjica, Mali Carigrad na Dunavu, naselje iz turskog perioda, mada neki istoričari tvrde da ima i starijih keltskih i rimskih tragova. Na uzvišenju iznad izvora u Višnjičkoj Banji nekada su boravili oficiri rimske legije. Nekada je selo bilo poznato tranzitno mesto, a u vreme Austrougarske i carina. 
+Višnjica se nalazi na sedmom kilometru od centra Beograda. Graniči se sa Velikim Selom, Višnjičkom Banjom, Rospi Ćuprijom i Slancima. Ima oko 5000 stanovnika i oko 300 domaćinstava. Dunav koriste za zalivanje njiva, a ređe za tranzitni saobraćaj. Nekada je na Dunavu bio razvijen rečnu saobraćaj. Stariji Višnjičani se sećaju Bele lađe, koja je bila osnovno prevozno sredstvo. Plovila je nekada do Kladova, Grocke i Ritopeka. Šezdesetih godina prošlog veka umesto bele lađe putnike je prevozio " Beobrod ", koji je saobraćao na liniji Beograd - Pančevo. Žitelji Višnjice imaju svoje " more " - Belu stenu, neuređeno izletište mnogih Beograđana. Selo je podeljeno na Gornju i Donju Malu. Urbani deo nazvan je Novo naselje. Najlepši deo Višnjice jeste marina " Ivan Milutinović " - mirno utočište alasa, ljubitelja Dunava i jedino mesto za izlazak. 
+VIŠNjIČKA BANjA 
+U toku vladavine nad Singidunumom Rimljani su gradili letnjikovce i vinograde na brdu iznad Dunava. To uzvišenje je danas poznato pod imenom Višnjička Banja. Udaljena je šest kilometara od Beograda. Pre skoro četiri decenije na padinama iznad Dunava počela je izgradnja elitnog naselja, nakon što je već bila završena izgradnja stare Višnjičke Banje. Zgrade od crvene opeke u novom naselju, ogromnih prozora sa pogledom na Dunav mamile su nove stanovnike Višnjičke Banje. U sredini novog naselja nalazila se prirodna raselina, zvana " Dubodolina ", duboka više od 35 metara. Danas se na tom mestu nalazi park i sportski tereni koje je izgradila Opština Palilula. Ime Banja odnosi se na izvorišta lekovite sumporne vode koja se nalaze u podnožju brda. Za tu lekovitu vodu znali su i Rimljani, koji su na tom mestu napravili prva kupatila. Od predratnog banjskog lečilišta nije ostalo ništa. Sada se mestu nekadašnjih bazena nalaze tereni za fudbal. Postoje planovi za obnavljanje banje, za koju je dokazano da je lekovita. 

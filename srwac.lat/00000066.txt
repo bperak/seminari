@@ -1,16 +1,10 @@
-Primena: kontrola pumpi i ventilatora (u industriji / infrastrukturi) 
-Problemi i pokretači 
-U industriji, 70 % potrošnje električne energije se koristi za pokretanje motora. Od toga, 33 % kontrolišu primene pumpi ili ventilatora. 
-Većinu primena pumpi i ventilatora pokreće rešenje direktnih prekidača sa SoftStarter pokretačima. Ovo znači da motor radi punom brzinom i da se dobija varijacija toka. Potrošnja energije pada veoma malo kada sa smanji tok. Pri nazivnom toku od 80 %, potrošnja energije ostaje na 95 %. Mogućnost uštede na instaliranoj osnovi je ogromna. 
-Udruženje CEMEP je izvršilo simulaciju za evropsko tržište. Korišćenje pogonskog uređaja u takvim primenama može da uštedi 900 miliona evra godišnje i da smanji emisiju CO2 za 4 miliona tona godišnje 
-Kako klijent može efikasnije da upravlja energijom? 
-Da biste uštedeli energiju, potrebno je: - pokretati motor pomoću invertora frekvencije umesto pomoću kontaktora ili SoftStarter pokretača - ukloniti uređaj za ograničavanje (ventil ili prigušivač) 
-Invertor naizmenične struje omogućava podešavanje brzine pumpe ili ventilatora, a time i tok 
-Rezultat je ogromna ušteda u poređenju sa konvencionalnim rešenjima: - do 50 % za ventilator, povraćaj sredstava za pogon u roku od jedne godine - do 30 % za pumpu, povraćaj sredstava u roku od 2 godine 
-Rešenja ili arhitekture koje se koriste u ovoj primeni 
-A) Rešenje bez pogonskog uređaja Motor se okreće stalnom brzinom u skladu sa frekvencijom mreže i brojem polova. Primer: 3600 o / min za 60 Hz Motor sa 2 pola Jedini način da se podesi tok je uređaj za ograničavanje (prigušivač) koji stvara gubitke. 
-B) Rešenje za uštedu energije sa pogonskim uređajem Pogonski uređaj, koji se još naziva frekventni regulator, omogućava menjanje frekvencije, a time i brzine motora. Tok je direktno proporcionalan brzini. Prigušivač ili ventil više nisu potrebni. 
-C) Potrošnja energije sa frekventnim regulatorom i bez njega Primer primene ventilatora 
-Izlazni prigušivač Frekventni regulator 
-Ušteda energije od 50 % pri nazivnom toku od 80 % 
-Primer primene pumpe 
+Viziri: Termalni ili Obični? 
+Kada igrate paintball, masku ne smete da skidate sa lica, jer povrede koje mogu nastati usled udarca kuglice u oko mogu biti fatalne (pogledajte ovde). Da bi mogli da budete precizni i pogodite željenu metu morate imati jasnu sliku. Zato vizir mora da bude čist, bez ogrebotina i ne sme da magli. 
+Što se tiče ogrebotina i čistoće, to se rešava čišćenjem ili kupovinom novog vizira, ali magljenje je nešto na šta mi ne možemo mnogo da utičemo. 
+U paintball-u se mogu videti i kupiti razne maske, od onih jeftinih (oko 20 - 30 eur) do skupih (oko 200 eur). Razlika je uglavnom u izgledu, što je manje bitno, i u viziru. 
+Postoje dve vrste vizira, termalni (thermal lens) i običan (single lens) i razlika između njih je velika. Običan single lens vizir ima samo jedno staklo i presvučen je specijalnim filmom koji služi za sprečavanje magljenja. Kada se taj film spere i vizir počne da magli stalno, možemo uzeti neko sredstvo protiv magljenja i naprskati ga na površinu vizira (prodaje se radnjama auto delova-sredstvo za šorefku). Iako ga prskate i ima na sebi zaštitni film, kada je malo hladnije, a temperatura tela veća od spoljne, dolazi do magljenja. Da bi to sprečili, naučnici su bili prinuđeni da pronađu bolje rešenje. Tako je nastao termalni vizir (thermal lens). 
+Termalni vizir je po mnogima najbolje rešenje kada je reč o magljenju. Ali i tu postoje viziri čiji se raspon cene kreće od 15 eur pa do 100 eur i više. Jeftini termalni viziri, nisu rešenje problema. Osim što nose naziv Thermal lens ništa ih drugo ne čini mnogo boljim od običnih. Čak su se neke maske, sa običnim vizirom, poput Vforce Shied, pokazale bolje nego jeftine sa termalnim vizirima (JT Radar recimo). Ukoliko želimo da rešimo problem sa magljenjem, tako što ćemo kupiti neku masku sa termalnim staklom, onda treba da kupimo masku poput Dye I4. 
+Ni tu nije kraj naših problema. Ukoliko dugo igramo paintball i previše se znojimo, u trenutku isparavanja znoja sa našeg lica, para koja se stvara nema gde da ode već se lepi za vizir. Posle nekog vremena, na površini vizira, počinju da se stvaraju male kapljice koje cure niz vizir (kao kada stavite poklopac na šerpu punu vruće vode). Bio on termalan ili običan, ovaj problem može ometati igrača. Zbog toga su na nekim takmičenjima primećene maske sa ugrađenim ventilatorom. Njegova uloga je da paru koja se stvara između glave i vizira, što pre izbaci napolje kroz proreze na masci. 
+Dakle, zaključak je sledeći: 
+Nema potrebe bacati pare i kupovati skupe maske ukoliko igrate rekreativno i dosta ste statični. Za scenario je najbolje koristiti jeftine maske tipa Vforce Armor, jer su viziri dostupni, jeftini i brzo se skidaju, čiste i vraćaju. 
+Ukoliko želite da se bavite ovim sportom ozbiljno, izlazite na speedball takmičenja, onda morate imati masku poput Dye I4. 

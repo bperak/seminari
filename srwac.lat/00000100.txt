@@ -1,5 +1,41 @@
-Omnisoft d. o. o je kompanija sa velikim iskustvom u implementaciji i održavanju poslovnog rešenja Pantheon ERP. Pored implementacije, bavimo se i izradom modula i vertikalnih rešenja povezanih sa Pantheon ERP sistemom. 
-Naš tim se sastoji od iskusnih programera i konsultanata. Naš cilj je vrhunska podrška Panthon ERP sistemu korisnicima u Srbiji. 
-Tražili smo partnera koji je u mogućnosti da ponudi kvalitetno održavanja i poseduje kompetencije u drugim oblastima poslovanje pre svega razumevanje naših poslovnih procesa i potreba. Omnisoft je zadovoljio visoke standarde kompanije Centar Bele Tehnike i planiramo da nastavimo uspešnu saradnju. Ceo sistem smo nadogradili kvalitetnim rešenjem za upravljanje skladištima koji nam je drastično olakšao rad sa robom. 
-Omnisoft je pokazao visok nivo profesionalizma u radu sa kompanijom Perihard. Posebno bi istakli rad konsultanata prilikom optimizacije procesa proizvodnje i servisa koji je ključan za uspešan rad naše kompanije. 
-Mislim da Omnisoft ima šansu za odličan napredak i da će još veoma dugo biti jedna od vodećih firmi u svojoj oblasti. Pored same implementacije, održavanja i izrade dodatnih izveštaja, saradnja na profesionalnom nivou doprinela je odličnom utisku koji imam kad je u pitanju Omnisoft. Kao osoba koja je zadužena za IT, saradnja sa Omnisoft-om mi uliva veliko poverenje i sigurnost u radu. 
+Linksys RVS4000 
+Linksys RVS4000 je 4 - portni Gigabit ruter, sa VPN podrškom, SPI Firewall-om i cenom manjom od 150 evra. Ono što ovaj uređaj izdvaja od niza sličnih je propusna moć NAT Internet veze od čak 800 Mb / s. Ovako organizovan« borbeni komplet »bi dobro došao brojnim malim preduzećima i zahtevnijim kućnim korisnicima« zavisnim »od performanse svoje Broadband Internet konekcije. 
+RVS4000 dolazi u elegantnom sivo-crnom kućištu težine oko 400 grama, širine 170 mm i eksternim napajanjem. Sa prednje strane je niz LED indikatora, a sa zadnje su Reset taster, Gigabit LAN, Internet priključci i konektor za napajanje. 
+Indikatori 
+Prikaz RVS4000 rutera počećemo od indikatora na prednjoj ploči: 
+Power indikator označava napajanje, a ako trepće uređaj je u režimu provere 
+Diag indikator označava spremnost uređaja za rad 
+IPS (prevencija napada) sija ako je IPS sistem uključen. Trepće u zelenoj boji tokom spoljnih napada i trepće crvenom bojom tokom napada sa unutrašnje strane. 
+Web Interfejs 
+Linksys RVS4000 raspolaže sa Web interfejsom koji može da radi pod HTTP i HTTPS protokolima. 
+Web interfejs je pregledan i logično organizovan. Osnovne grupe opcija su organizovane kao: 
+Setup osnovne mrežne opcije 
+Firewall opcije filtriranja 
+VPN opcije za formiranje kripto tunela 
+QoS podrška za proiritizaciju saobraćaja (kvalitet mrežnih servisa) 
+Administracija snimanje konfiguracije, izmena Firmware-a 
+IPS detekcija mrežnih napada 
+L2 Switch VLAN podrška 
+Status sistema 
+Već iz ovog spiska se na prvi pogled vidi svežina koncepta oko koga je izgrađen RVS4000. 
+Izdvajamo: IP podršku je moguće aktivirati i za IPv6 (kao Dual-Stack IP), tu je i lokalni DHCP server, VPN je IPSec tipa u Gateway i Client Access režimima, a QoS opcijama je moguće zadati priritet mrežnih servisa. Tu je i IPS sistem (Intruder Prevention System prevencija mrežnih napada) koji može da učita nove definicije i prikaže tabele adresa sa kojih napadi dolaze i iscrta vremenski dijagram intenziteta« napada ». Među L2 Switch opcijama je i testiranje kablova proključenih na LAN portove... 
+Osnovno podešavanje 
+Za osnovni Setup uređaja potrebno je samo par minuta, što obuhvata podešavanje režima WAN Internet konekcije i DHCP servera sa LAN srane. Web interfejs se može podesiti da radi sa spoljašnje (Internet) strane, sa korisničkim imenom i šifrom, pod HTTPS protokolom i iz sigurnosnih razloga - na nekom visokom TCP portu po izboru. 
+Za brzo podešavanje WAN konekcije na raspolaganju je opcija« MAC Address Clone »koja omogućava da se unese MAC adresa prethodnog Gateway-a (što se kod domaćih kablovskih operatera često koristi kao parametar dobijanja određene javne IP adrese). 
+Ugrađeni DHCP server je zgodan za adresiranje računara u LAN mreži (iza rutera), dok se portovi server računara u LAN-u mogu otvoriti za spoljni pristup Firewall - Port Forwarding opcijama. 
+SPI Firewall 
+SPI (Statefull Packet Inspection) Firewall na osnovnom nivou omogućava po potrebi blokadu pristupa Web Proxy serverima, Cookie-ima, Java Applet-ima i ActiveX kontroloma. Dodavanjem« polisa pristupa Internetu »moguće je formirati niz pravila koji ograničavaju Internet pristup za grupu adresa i doba dana i radne nedelje... 
+Firewall obuhvati i niz Port Forwarding opcija, kojima se na poseban način mogu« otvoriti »pojedini LAN TCP portovi. Na primer, ako LAN korisnici koriste interni Web server na standardnom portu tcp / 80, taj isti unutrašnji Web server se može podesiti da za spoljne korisnike bude vidljiv na portu tcp / 8080. Sličan sistem se može iskoristiti i za sigurnosno osetljive, a potrebne aplikacije, kao što je recimo Windows Remote Desktop ili Linux SSH. 
+VPN 
+Uspostavljenje sigurnih kripto tunela između filijala, ili firme i službenika koji radi od kuće je danas više od potrebe. U slučaju RVS4000, na raspolaganju su do 5 veza Ruter Ruter i do 5 klijent VPN konekcija putem Linksys Quick VPN softvera. 
+Uz RVS4000 dolazi nova, poboljšana verzija Linksys Quick VPN-a, koja sada radi kako treba. Prethodne verzije ovog softvera su radile (najblaže rečeno) samo u idealnim uslovima, što srećom više nije slučaj. Stabilan rad praktično ukida potrebu za alternativnim klijent rešenjima, kao što je stari-dobri PPTP sistem. Za potrebe konekcije klijent računara na RVS4000 i LAN iza njega je sada tu kvalitetan i pouzdan IPSec klijent sofver. 
+Ono što se eventualno može kazati da je mana kod RVS4000 je vidljivost (tj. čitljivost) klijent šifri u okviru Web interfejsa. Uobičajeno je da se iz sigurnosnih razloga unete pristupne šifre prikazuju nizom zvezdica. Kod RVS4000 klijent VPN šifre su čitljive, što znači da morate da dobro razmislite kome je sve poznata administratorska šifra uređaja 
+Dobra vest je da novi Quick VPN radi kako treba i sa starijim Linksys uređajima, kao što je na primer Linksys RV042. 
+IPS 
+Intrusion Prevention System je značajna novina. Radi se o sistemu za odbranu od mrežnih napada, koji je u stanju da prepozna i odbaci zlonamerni mrežni saobraćaj. 
+Radi se o veoma važnom segmentu sigurnosti mreža, tačnije o odbrani od napasti od kojih su Anti-Virus sistemi praktično nemoćni, a to su mrežni napadi. Mrežni napad koristi slabost nekog mrežnog protokola i ubaciju zlonamerne komponente koje Anti-Virus sistemi kasno« leče », ne otklanjajući sam uzrok problema. 
+Zaključak 
+Razlog za izbor Linksys RVS4000 je na prvom mestu brzina, koja se oslikava u 4 1 Gigabit Ethernet konekciji i deklarisanim protokom od fantastičnih 800 Mbps kroza NAT. 800 Mbps je tolika brzina da ju je praktično nemoguće izmeriti (dok Internet linkovi na našem području ne dostignu Gigabit brzine). Ono što preostaje je utisak brzine, koji je adekvatan spcifikaciji, RVS4000 je stvarno brz. 
+Drugi razlog je SPI Firewall i lako podešavanje i upravljanje, kroz kvalitetan Web interfejs. 
+Treći razlog je IPSec VPN, a četvrti IPS sistem. 
+RVS4000 je i po ceni i po funkcijama sasvim adekvatno rešenje za umrežavanje manjih poslovnih sistema, pa čak i kućnih korisnika U slučaju umrežavanja grupe lokacija, RVS4000 je idealno rešenje u sprezi sa centralnim Linksys RV042 ili RV082 ruterima. 

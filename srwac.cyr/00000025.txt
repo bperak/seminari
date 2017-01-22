@@ -1,16 +1,19 @@
-Informacione Tehnologije 
-Zahvaljujući ljudskim resursima i savremenim, međusobno optikom povezanim Data Centrima, izgrađenim u skladu sa ISO 27001 standardom za upravljanje bezbednošću informacija, Sektor za IT uspešno realizuje poverene mu poslove održavanja i razvoja integralnog Informacionog sistema Grada Novog Sada, održavanja, razvoja i uvođenja novih segmenata Opšteg informacionog sistema Grada Novog Sada (adresni sistem, katastarske opštine i parcele, registri organizacija, prostora i lica), Internet servis providing-a, izrade Web aplikacija i izrada i hostovanje Internet prezentacija... Usluge Data Centra kao što su space hosting, data housing, server housing... je još jedan segment poslovanja Sektora za IT. 
-Poslovi 
-1. Služba za projektovanje i programiranje softverskih rešenja i informacionih sistema 
-Opšti informacioni sistem grada - OREG 
-OREG (Opšti Registri Grada) je referentni skup registara koji predstavljaju osnov funkcionisanja značajnog broja Informacionih sistema Grada. Trenutno se sastoji od: 
-AD " Urbisprojekt " 
-JP " Gradsko zelenilo " 
-DP " Geoplan " 
-Poslovni prostori 
-Radne organizacije 
-Delovodnik JKP Čistoća 
-Obračun zarada 
-Evidencija kadrova 
-IBS (Informatika Billing System) 
-Sistem za naplatu komunalno-stambenih i ostalih usluga i proizvoda u osnovi namenjen svim sredinama (regije, opštine, gradovi, naselja...) u kojima postoji potreba za masovnom naplatom. Osnovni segmenti IBS-a su: 
+Vesti 
+28. 06. 2013. 
+Kohlearni implanti čekaju pacijente 
+N. K. ima 32 godine, živi u Srbiji i gluva je. Pre nekoliko godina sluh joj je oštećen 90 odsto. Ima savršen govor, ali da bi ga održala mora pod hitno da ugradi kohlearni implant koji košta oko 25.000 evra. 
+Da je samo šest godina mlađa kohlearni implant bi mogla da ugradi na račun Republičkog fonda za zdravstveno osiguranje (RfZO), na osnovu Pravilnika o medicinskim i tehničkim pomagalima koji propisuje da kohlearni implant može dobiti gluva osoba do 26 godina. 
+Za razliku od nje, Kića ima kohlearni implant. Ugrađen joj je kao detetu, a sada upisuje srednju školu. Trebalo bi da stanuje u internetu, ali se plaši jer mora da vodi računa o delu svog kohlearnog implanta procesoru koji nosi u džepu. Kića je jedna od prvih implantiranih u Srbiji davne 2002. godine i dobila je kohlearni implant sa tzv. džepnim procesorom koji se tada davao maloj deci. Ona je odavno trebalo da dobije novi zamenski procesor, ali pošto važeći pravilnik ne predviđa takvu mogućnost Kića i ostali prvi implantirani čekaju neko novo vreme. 
+Članovi tog Udruženja već pune tri godine daju sve od sebe kako bi se stvorili uslovi za promene zakonske regulative koja bi omogućila mnogima da svoje već trošne procesore zamene novim o trošku RFZO. 
+" Borimo se takođe i za one koju godinu starije mlade ljude koji ne treba da izgube pravo na šansu ako su izgubili sluh ", izjavila je potpredsednica i jedna od osnivača udruženja Sofija Popović, koja je po struci defektolog surdolog. 
+" Sreća je što na nekim našim klinikama ima već spremnih kohlearnih implanta. Čekaju samo da dođu do onih pacijenata kojima su neophodni ", rekla je ona želeći da ukaže da je veoma bitno da se zakonski okvir promeni i omogući da svaka osoba može da dobije implant. 
+Ona, pak, dodaje da nije svaka gluva osoba kandidat za implant i da postoje specijalizovane komisije koje to određuju. 
+Zorica Jevtić, defektorog i surdolog, članica UO Udruženja, kaže da se u Srbiji godišnje implantira oko 30 gluvih, a da je od 2002. godine, kada je implantacija u zemlji počela, implantirano oko 300 osoba. 
+Ona objašnjava da se kohlearni implant sastoji iz dva dela - jedan se ugrađuje u glavu, a drugi deo je spoljna jedinica, jedan osetljivi procesor. 
+Kad je reč o implantaciji u evropskim zemljama situacija je različita. Holandija, na primer, finansira jednostranu implantaciju, a drugi implant finansira porodica. Samo u Austriji i Nemačkoj država finansira obostranu implantaciju bez ograničenja, navodi Jevtić. 
+Ugradnja kohlearnog implanta ne znači da ćete istog časa čuti i progovoriti, ističu naše sagovornice. 
+Popović i Jevtić naglašavaju i značaj rehabilitacije ove populacije. Momenat kada im se ugradi kohlearni implant je važan trenutak u njihovom životu, ali tada počinje novo poglavlje. Rad, rad I samo rad, uspeh tada jednostavno stiže i ne izostaje, dodaju. 
+Potreban je dug proces rehabilitacije koja ima više faza. To je jedan rastegljiv proces. Osoba sa implantom prvo uči da sluša, usvaja zvukove koji ga okružuju i taj proces traje od tri meseca do jedne godine. Posle sledi druga faza, komplikovanija rehabilitacija govora. Uče se vokali, pa 30 glasova, slogovi, kratke reči. Vodi se računa i o obuci roditelja objasnila je Popović. 
+Dok Turska mesečno izdvaja novac za rehabilitaciju implantiranog deteta, u Srbiji se rehabilitacija deteta sa kohlearnim implantom uopšte ne plaća i to takođe treba promeniti, ističu u Udruženju Kohlearni implant. 
+Implantacija bez rehabilitacije je nula, propala stvar, kaže Popović i navodi da u Srbiji postoje rehabilitacioni centri u većim gradovima, ali da ih manji gradovi nemaju, tako da su porodice sa implantiranom decom prinuđene da se sele u velike gradove da bi svojoj deci omogućile rehabilitaciju. 
+Predstavnici udruženja su načinile prvi korak, početkom aprila bili su na razgovoru sa pomoćnicom ministra zdravlja Zoricom Pavlović kojoj su skrenuli pažnju na probleme kad je reč o kohlearnom implantu. Obećan im je sastanak u RFZO. 

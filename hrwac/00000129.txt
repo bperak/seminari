@@ -1,0 +1,11 @@
+Pomoć Ovaj tekst će Vam pomoći kod definiranja novih tema ili upisa novih mišljenja kada svoja mišljenja u forumu zaželite obogatiti smile znakovima ili citiranjem drugih gostiju foruma. Tom će Vam se prilikom u prostoru za pisanje mišljenja pojaviti posebne skupine znakova. U nastavku ćemo Vam objasniti njihova značenja. 
+Preporuka je da ručno ne mijenjate navedene znakove kako ne bi došlo do poremećaja u njihovu rasporedu čime bi sam sadržaj postao nečitljiv. Ipak da ne bi ostali uskraćeni za korištenje nabrojanih dodataka, omogućili smo Vam njihovo umetanje pritiskom na ikone koje se nalaze pri dnu forme za unos. Tako svaka ikona ima svoju funkciju: 
+- 
+Smile znakovi - pritiskom na znak, u prostoru za unos teksta pojavljuje se niz znakova ' [ SMxxxPIC ] ' koji označava odabrani smile znak (xxx predstavlja broj određenog smile znaka). Za nastavak upisa teksta potrebno je samo nastaviti pisati nakon ovih znakova. 
+- 
+Bold (podebljani) ispis - pritiskom na znak, u prostoru za unos teksta pojavljuje se niz znakova ' [ BOLD ] [ / BOLD ] '. Tekst za koji želimo da bude podebljan treba upisati u sredini dobijenog niza (primjer: [ BOLD ] ovo će biti podebljano [ / BOLD ]) i nakon toga normalno nastaviti pisati 
+- 
+Italic (kurziv) ispis - sve što vrijedi za bold način ispisa vrijedi i za italic. Jedina je razlika da ćete ovdje imati niz znakova [ ITA ] [ / ITA ]. 
+- 
+1. Oglasnik služi za prodaju / potražnju rabljene opreme za skijanje i snowboard 2. Komercijalno oglašavanje putem oglasnika nije dozvoljeno, a oglasi takve vrste bit će uklonjeni. Molimo zainteresirane za oglašavanje da se obrate na marketing@skijanje.hr 3. Učitane fotografije ne smiju prelaziti širinu od 450 px 
+Oglase upisuju posjetitelji te kao takvi, oni nužno ne moraju biti istiniti i točni. Skijanje.hr ne preuzima odgovornost za sadržaj objavljenih oglasa 

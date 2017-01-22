@@ -1,6 +1,14 @@
-Selidbe 
-Svako se seli bar jednom u životu. Selidba ipak ne mora da bude trauma. Nakon hiljada selidbi stanova i firmi imamo ogromno iskustvo. 
-Vršimo selidbe stanova sa svih lokacija, bez obzira na spratnost. Isto važi i za firme, preduzeća, fabrike, lokale,... Vaš posao će biti prekinut samo na nekoliko sati. Ili, selidbu za Vas možemo obaviti noću. 
-Poslovna mreža 
-Agencija za transport i selidbe Kocić usluge iz svog domena delatnosti pruža na teritoriji čitave Srbije, kao i u svim Evropskim zemljama. 
-Za više informacija možete nas kontaktirati u centralnoj kancelariji u Beogradu na telefone 011 / 668 08 00 i 063 / 84 - 12 - 081, kancelariji u Nišu na telefone 018 / 549 - 900 i 064 / 436 - 79 - 15, i kancelariji u Novom Sadu na telefon 021 / 633 - 58 - 70 i 069 / 546 - 17 - 50. 
+Posts Tagged plugin 
+Lično od svih browsera najviše koristim Firefox, upravo zbog dodataka kojih ima na hiljade i koji umnogome olakšavaju surfovanje internetom, SEO analizu sajtova, korišćenje multimedijalnog sadržaja i ostalog. Spisak dodataka (add-on) pogledajte ovde. 
+Izdvojiću samo neke koji mi olakšavaju rad na kompjuteru. 
+Google Shortcuts Koristim veliki broj google-ovih servisa a ovaj dodatak je koristan jer ih imam sve na jednom mestu, a ovde je moguće da iz padajućeg menija odaberem analytics, blogger, trends ili google webmaster. 
+Capture Fox firefox dodatak uz pomoć koga je lakse da uradite screencast (snimite video klip onoga što radite na Vašem desktopu) 
+SEO doctor moj omiljeni SEO alat za fiefox. analizira koliko je dobro uradjena on-page optimizacija stranice koju gledate, broj beklinkova, starost domena, informacije o domenu i ostalo. 
+Fox Tab firefox add on koji lakse i lepše organizuje posećene strane, omiljene strane kao i one koje ste nedavno posetili. Promenite boju ili raspored taboba i način na koji se prikazuju. 
+Firebug - definitivno dodatak za onog ko planira da ima svoj sajt ili je programer. Pogledajte kod ili locirajte greške na stranici. 
+Color Zila - Najčešće ga koristim kada želim da vidim Hex kod ili nijansu neke stranice za novi adsense oglas. 
+Zemanta firefox preporuka za blogere i one kojima je uvek potrebna slika više ili članak za preporuku. Može da bude i odličan način da dobijete linkove na ostalim blogovima ako prijavite RSS vašeg sajta. 
+Posle instalacije WordPress blog platforme, u vašem admin panelu nemate instalirane dodatke koji zapravo wordpress i čine tako fleksibilnim. 
+Ovo su neki od najkorisnijih dodataka koji Vam mogu pomoći da unapredite izgled i funkcionalnost Vašeg bloga kao i da se plasirate bolje na pretraživačima. 
+1. Akismet plugin nakon instalacije ovaj dodatak ćete videti u delu plugins koji se vrlo lako instalira a za potpuno upotrebu biće vam potreban API key. Dodatak služi za zaustavljanje neželjenih komentara na vašim blog postovima. 
+2. All in one SEO pack možda i jedan od najboljih dodataka za bolju optimizaciju bloga na pretraživačima. U podešavanjima imate mogućnost da odaberete koje ćete opcije da koristite. Na primer, izbor keyworda, način na koji će se prikazivati title, etc. 

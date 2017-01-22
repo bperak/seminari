@@ -1,11 +1,11 @@
-Najčitanije 
-Glasajte 
-Za ogrev koristite... 
-Drva i ugalj 
-Gas 
-Struju 
-Daljinsko grejanje 
-Poseta 
-Trenutno je 4 gostiju na vezi 
-Zašto izabrati prirodni gas kao energent? 
-Prirodni gas je čist izvor energije koji ne zagađuje okolinu, lako se koristi i praktičan je za razliku od drugih fosilnih energenata. Za potrošače je interesantna njegova dostupnost i sistem naplate: plaća se nakon potrošnje, a ne unapred kao što je to slučaj sa lož uljem, ugljem i drvetom. Takođe, potrošač nema potrebe za dodatnim prostorom i poslovima oko uskladištenja. Kada potrošač počne koristiti gas, to najčešće postaje njegovo trajno opredeljenje. 
+BUKA je nepoželjan zvuk koji prelazi prosečnu vrednost od 90 dB u toku 8 sati dnevno. Buka nagriza male slušne ćelije u unutrašnjosti uveta, polako i postepeno, pa se teško može primetiti u ranim fazama. Ako je čovek stalno izložen buci (na primer na radnom mestu pored bučnih mašina), povremeno oštećenje, postepeno prelazi u trajno oštećenje sluha. Kada se sluh jednom ošteti, ne može se više povratiti. Tabelarno je prikazano (prema OSHA regulativi) koliko najviše sati čovek bez oštećenog sluha sme da provede u bučnom okruženju da ne bi oštetio sluh. Kod osoba sa već oštećenim sluhom maksimalan nivo buke za 8 sati je 85 dB. 
+Tinutus je bolest koja se javlja kada je čovek dugo izložen buci. Ispoljava se u vidu raznih neprijatnosti. Čovek oseća kao da mu zvoni u ušima, zuji ili pak ima osećaj neke druge buke u glavi, a koja zaista ne dolazi iz nekog spoljašnjeg izvora. Takođe se može osećati neprijatan bol u glavi ili se ispoljavati kroz hronično stanje nesanice, kroz nedostatak koncentracije, smanjene pažnje na radnom mestu. Glavni izvor tinitusa je izloženost glasnom zvuku. Buka na radnom mestu veoma je čest uzrok tinitusa i gubitka sluha. Osim buke koju proizvode mašine u toku rada, izvor tinitusa može biti i suviše glasna muzika, alati na motorni pogon, poljoprivredne mašine, testere, puške, eksplozivi, motori, ali i fenovi, snažni ventilatori... Sve navedeno jeste alarm za početak ozbiljnog probema, koji se može preventivno izbeći ili zaustaviti, pravilnim korišćenjem opreme za zaštitu sluha. 
+Kako da se zaštitimo od buke? 
+Od buke se možemo zaštititi korišćenjem opreme za zaštitu sluha: čepova i antifona. Samo je bitno pravilno odabrati sredstvo za zaštitu na osnovu nekoliko parametara, od kojih su dva najvažnija, ato je za koliko treba buka da se redukuje i koliko je udobno određeno sredstvo za zaštitu, kako bi čovek bez opterećenja mogao da ga nosi tokom radnog vremena? 
+Važno je da znate šta su NRR i SNR 
+NRR (Noise Reduction Rating) - Nivo redukcije buke - USA standard koji se zasniva na laboratorijskom ispitivanju određenog sredstva za zaštitu sluha. Podaci testova se obrađuju prema formuli koja uzima u obzir oduzimanje dve standardne devijacije, na osnovu čega se izračuna NRR. 
+SNR (Single Number Rating) - Pojedinačni nivo redukcije buke - Evropska verzija NRR standarda, koja ne uzima u obzir dve već samo jednu standardnu devijaciju. 
+Uvek imajte u vidu da je Evropski SNR uvek 2 - 4 dB veći od NRR, jer je prosto drugačija metoda računanja redukcije buke. NRR je složeniji kriterijum i može se reći pouzdaniji i tačniji. 
+Zašto je veoma bitno koristiti samo kvalitetno sredstvo za zaštitu sluha? 
+Po našem zakonu ne proverava se atenuacija prilikom uvoza sredstava za zaštitu sluha, a nije obavezno ni da sredstva za zaštitu sluha prate testovi ispitivanja i certifikati dobijeni u nezavisnim međunarodnim akreditovanim laboratorijama, pa je postala učestala pojava da je veliki SNR koji različiti proizvođači navode netačan i nepouzdan. Česta je pojava da sami proizvođači izdaju svoju dokumentaciju, što ne može biti pouzdano. 
+Naučno je dokazano da su nekvalitetna i ne odgovarajuća sredstva za zaštitu sluha, kao i nepravilna upotreba, često uzroci oštećenja sluha i drugih bolesti iako radnici " nose sredstav za zaštitu ". Stoga, ne treba kupovati bilo kakva sredstva za zaštitu sluha jer su " jeftina i njima se ispunjava zakonska obaveza ". Bitno je da čovek shvati da zbog svog zdravlja treba da koristi isključivo ona zaštitna sredstva koja su testirana u međunarodnim akreditovanim nezavisnim laboratorijama, tehnički opremljenim i stručno kvalifikovanim da ispitaju i potvrde kvalitet sredstava za zaštitu sluha i ovlašćene su da izdaju certifikat o stvarnom nivou redukcije buke (NRR / SNR). 

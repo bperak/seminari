@@ -1,0 +1,14 @@
+Beograd 
+Lovac ili konj 
+Koja je figura jača, lovac ili konj? Pokušajmo malo da to razmotrimo. Nasuprot lovcu koji je dalekometna figura, konj uvek deluje na bliska polja. Lovac može aktivno da podupire operacije na suprotnom kraju table, dok je konju potrebno dodatno vreme za prebacivanje sa jednog krila na drugo. Uz to konj može da deluje sa polja koja su mu dostupna u blizini žarista borbe. Ta polja su u većini slučajeva zaštićena pešacima. Glavna prednost lovca nad konjem je njegova sposobnost udaljenog delovanja. To je, naravno samo ako lovac nije ograničen u delovanju pešacima, a to je uglavnom u otvorenim pozicijama. Ako je pozicija zatvorena konj moze biti jači od lovca. Slabost lovca je i što ne može kontrolisati polja suprotne boje. Ali ta slabost je poništena ako se poseduje i drugi lovac, koji tako štite i bela i crna polja. 
+PLAN IGRE PROTIV LOVCA 
+Korištenje slabih polja nedostupnih protivničkom lovcu 
+Fiksacija protivničkih pešaka (npr. na crnim poljima ako protivnik ima crnopoljca). 
+PLAN IGRE PROTIV KONjA 
+Otvaranje igre sa ciljem aktiviranja lovca (guranjem pešaka i njihovom izmenom). Tako lovac dobija više prostora za akciju. 
+Napad na kralja lovcem (obično uz korištenje teških figura) 
+Prelaz u završnicu; posebno kada su pešaci na suprotnim stranama ili na obe strane i kad postoji mogućnost stvaranja slobodnog pešaka. 
+Ova prednost se naziva " prednost lovačkog para ". Posebno je važna u otvorenim pozicijama Ako je pozicija zatvorena, vlasnik lovačkog para pokušava da je otvori da dobije otvorene dijagonale za lovce. Lovci su realno jaki samo ako zauzimaju otvorene dijagonale koje su strateški važne. Po pravilu vlasnik lovačkog para manevrisnjem može da iznudi slabljenje pešačke strukture protivnika. Posebno su efikasni tzv. Horwitzovi Lovci (nazvani po nemackom šahisti Bernhardu Horwitzu, koji je dao značajan doprinos teoriji završnice) - to su dva lovca koji deluju na susednim dijagonalama. 
+4. Prelaz u završnicu - tu su važna tri faktora - A. Karaktera pozicije (otvorene ili zatvorene u kojoj su lovci nemoćni) B. Pešaci na suprotnim krilima ili na oba krila C. Broj pešaka koji su ostali na tabli 
+POZICIJE KADA LOVAČKI PAR NIJE PREDNOST 
+Lovački par nije prednost u zatvorenim pozicijama. Tu su lovci ograničeni svojim pešacima ili pešacima protivnika. 

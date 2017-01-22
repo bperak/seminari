@@ -1,11 +1,27 @@
-Stolarija Antolović osnovana je 2001. godine u Petrinji, kao nastavak obiteljske tradicije. Sljedile su godine kontinuiranog rada na moderizaciji i širenju proizvodnog asortimana uz stalno izistiranje na vrhunskoj kvaliteti proizvoda, što su prepoznali i naši partneri, za što posjedujemo reference. Stolarski obrt posjeduje dva odvojena pogona, jedan za izradu stolarije, namještaja i ostalog programa od drveta, te drugi pogon za proizvodnju PVC stolarije. 
-Naši proizvodi postavljeni na drvetu su široki: 
-Unutarnja i vanjska stolarija 
-Kuhinje 
-Stolovi, vitrine, komode, ormari 
-Spavaće sobe 
-Stepenice 
-Uredski namještaj 
-Opremanje ugostiteljskih objekata 
-Namještaj izrađujemo po mjeri, s mogučnošću odabira velike palete boja i materijala. Za izradu namještaja koristimo najkvalitetnije materijale od iverala, furniranih iverica, panel ploča, MDF ploča i masivnog drveta. 
-U našoj ponudi PVC stolarije surađujemo sa renomiranim proizvođaćima PVC profila i okova, te koristimo kvalitetni materijal i najbolje strojeve za obradu PVC profila što je garancija za kvalitetni finalni... 
+Bešavna integracija štiti vaše sustave i podatke od sofisticiranih zloćudnih programa, te djeluje kao željezni oklop protiv botova i zero-day napada. Štiti čak i kada je uređaj izgubljen ili ukraden, blokira neusklađene sustave ili neautorizirane uređaje koji mogu pokušati pristupiti kritičnim poslovnim sustavima i osjetljivim podacima. 
+Ova kombinacija kontrola je idealna za sofisticirana poslovna okruženja sa zaposlenicima koji očekuju slobodno kretanje ali i kompletnu zaštitu od rizika. 
+Obilježja 
+Jedna upravljačka konzola 
+Enkripcija 
+Kontrola uređaja 
+Host IPS i desktop firewall 
+Anti-malware 
+Anti-spam 
+Sigurno surfanje i pretraživanje 
+Host web filtriranje 
+Zaštita email servera 
+Kontrola pristupa mreži 
+Revizija pravila 
+Multiplatform 
+Ključne prednosti 
+Željezni oklop koji štiti sve krajnje točke 
+Manji operativni troškovi uz centralizirano upravljanje 
+Jednostavnija usklađenost sa ugrađenim standardnim obrascima 
+McAfee postavlja industrijske standarde 
+Četiri godine zaredom vodeći je u Gartnerovu kvadrantu zaštite krajnjih točaka i mobilnih podataka. 
+Prvi je ponudio jednog agenta i jednu konzolu za zaštitu krajnjih točaka. 
+Prvi koji upravlja širokim rasponom sigurnosnih proizvoda - za krajnje točke, mrežu, podatke, web i e-mail - uz pomoć jedne konozole. 
+Prvi je imao jedinstvenu upravljačku platformu za zaštitu krajnjih točaka i usklađenost. 
+Prvi je imao proizvod koji upravlja McAfee i trećim sigurnosnim proizvodima. 
+Prvi je ponudio kombinaciju revizije pravila i provođenja pravila s jednim mehanizmom. 
+Prvi je ponudio kombinaciju zaštite krajnjih točaka i podataka u jednom doista integriranom paketu. 
