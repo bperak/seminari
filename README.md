@@ -5,7 +5,7 @@
 Pokrenite komandni prompt:
 
 * Kliknite na Start/Run
-* Ukucajte cmd u dato polje (ukoliko već nije ukucano)
+* Ukucajte `cmd` u dato polje (ukoliko već nije ukucano)
 
 Uđite u direktorijum Python27  
 
