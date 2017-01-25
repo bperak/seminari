@@ -4,8 +4,8 @@
 
 Pokrenite komandni prompt:
 
-⋅⋅ Kliknite na Start/Run
-⋅⋅ Ukucajte cmd u dato polje (ukoliko već nije ukucano)
+* Kliknite na Start/Run
+* Ukucajte cmd u dato polje (ukoliko već nije ukucano)
 
 Uđite u direktorijum Python27  
 
@@ -59,7 +59,7 @@ Sačuvana arhiva će se nalaziti u direktorijumu "Downloads". Otvorite i otpakuj
 Pronađite i razgledajte direktorijum. Zatim se vratite u komandni prompt i dođite do istog direktorijuma pomoću komande  
 
 ```
-$ cd <...>
+$ cd <neki direktorijum>
 ```
 
 Za promenu direktorijuma na gore koristi se komanda
@@ -82,8 +82,7 @@ Program će tražiti lozinku. Za ovu priliku, pipremili smo probnu lozinku koja 
 
 Datoteke koje su obrađene za potrebe statističkih vežbi nalaze se u pod-direktorijumima "hrwac", "srwac.cyr", "srwac.lat". Kako bismo izbegli preopterećenje web servisa, ove datoteke su unapred obrađene na isti način kao i probne, dakle pokretanjem:
 
-Za sada *ne pokretati*!
-  
+Za sada **ne pokretati**!  
 ```
 $ python tag_all.py hr hrwac
 $ python tag_all.py sr srwac.cyr
