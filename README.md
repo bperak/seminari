@@ -3,8 +3,9 @@
 ## Preuzimanje i instalacija biblioteke ReDLI
 
 Pokrenite komandni prompt:
-⋅⋅* Kliknite na Start/Run
-⋅⋅* Ukucajte cmd u dato polje (ukoliko već nije ukucano)
+
+⋅⋅ Kliknite na Start/Run
+⋅⋅ Ukucajte cmd u dato polje (ukoliko već nije ukucano)
 
 Uđite u direktorijum Python27  
 
