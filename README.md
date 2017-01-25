@@ -1,6 +1,6 @@
 # Upute za praktične zadatke
 
-## Preuzimanje i instalacija biblioteke ReDLI
+## Preuzimanje i instalacija biblioteke ReLDI
 
 Pokrenite komandni prompt:
 
