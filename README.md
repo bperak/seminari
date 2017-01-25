@@ -68,7 +68,7 @@ Za promenu direktorijuma na gore koristi se komanda
 $ cd ..
 ```
 
-Tekstovi nad kojima ćemo isprobati obradu nalaze se u pod-direktorijumu "proba". Kada se nađete u direktorijumi "seminar-master", proverite da li on sadrži skript `tag_all.py` i direktorijum "proba". Ako je sve tu, onda možemo da pokrenemo obradu teksta komandom 
+Tekstovi nad kojima ćemo isprobati obradu nalaze se u pod-direktorijumu "proba". Kada se nađete u direktorijumu "seminar-master", proverite da li on sadrži skript `tag_all.py` i direktorijum "proba". Ako je sve tu, onda možemo da pokrenemo obradu teksta komandom 
 
 ```
 $ python tag_all.py hr proba
