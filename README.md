@@ -99,7 +99,7 @@ $ python extract.py srwac.cyr srwac
 $ python extract.py srwac.lat srwac
 ```
 
-i proizvodi tabularne datoteke, gde kolone sadrže vrednosti unapred određenih varijabli Prvi segment nakon imena skripta (```(hrwac|srwac.cyr|srwac.lat)```) definiše direktorijum u kom se nalaze obrađene datoteke, a drugi (```(hrwac|srwac|srwac)```) definiše referentni korpus koji se koristi za izračunavanje vrednosti nekih od varijabli. Izlaz ovih skripti nalazi se u datotekama  ```(hrwac|srwac.cyr| srwac.lat).out(1|2)```. 
+i proizvodi tabularne datoteke, gde kolone sadrže vrednosti unapred određenih varijabli. Prvi segment nakon imena skripta (```(hrwac|srwac.cyr|srwac.lat)```) definiše direktorijum u kom se nalaze obrađene datoteke, a drugi (```(hrwac|srwac|srwac)```) definiše referentni korpus koji se koristi za izračunavanje vrednosti nekih od varijabli. Izlaz ovih skripti nalazi se u datotekama  ```(hrwac|srwac.cyr| srwac.lat).out(1|2)```. 
 
 Kao poslednji korak u pripremi podataka za R, potrebno je ekscerpirane varijable sačuvati u datotekama tipa  ```.tsv```, tako što će se sadržaj svih izlaznih datoteka sa indeksom 1 spojiti u ```reldi1.tsv```, sa indeksom 2 u ```reldi2.tsv```. Treba voditi računa o tome da konačni ```.tsv``` dokument može sadržati samo jedno zaglavlje. 
 
