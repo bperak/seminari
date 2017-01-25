@@ -58,7 +58,7 @@ Sačuvana arhiva će se nalaziti u direktorijumu "Downloads". Otvorite i otpakuj
 Pronađite i razgledajte direktorijum. Zatim se vratite u komandni prompt i dođite do istog direktorijuma pomoću komande  
 
 ```
-$ cd
+$ cd <...>
 ```
 
 Za promenu direktorijuma na gore koristi se komanda
@@ -77,11 +77,11 @@ koja poziva ReLDI servise i obrađuje sve datoteke s ekstenzijom ```.txt``` u za
 
 Segment ```hr``` definiše jezik na kom su napisani ulazni tekstovi, a ```proba``` direktorijum u kom se tekstovi nalaze.  
 
-Program će tražiti lozinku. Za ovu priliku, pipremili smo probnu lozinku koja je ista za sve korisnike. Za kasnije korišćenje potrebno je otvoriti sopstveni nalog za ReLDI servise, prateći uputstva na XXX. Kad dobijete nalog, korisničko ime treba uneti u kod skripta, a lozinka se unosi pri izvršavanju.  
+Program će tražiti lozinku. Za ovu priliku, pipremili smo probnu lozinku koja je ista za sve korisnike. Za kasnije korišćenje potrebno je otvoriti sopstveni nalog za ReLDI servise, prateći uputstva na [http://nl.ijs.si/services](http://nl.ijs.si/services). Kad dobijete nalog, korisničko ime treba uneti u kod skripta, a lozinka se unosi pri izvršavanju.  
 
 Datoteke koje su obrađene za potrebe statističkih vežbi nalaze se u pod-direktorijumima "hrwac", "srwac.cyr", "srwac.lat". Kako bismo izbegli preopterećenje web servisa, ove datoteke su unapred obrađene na isti način kao i probne, dakle pokretanjem:
 
-!!!
+Za sada *ne pokretati*!
   
 ```
 $ python tag_all.py hr hrwac
