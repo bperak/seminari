@@ -1,20 +1,17 @@
 import sys
 import os
 
-def percentili(vrij,n):
-    sort_vrij=sorted(vrij)
-    gran=[]
-    for i in range(n-1):
-        gran.append(sort_vrij[int(len(vrij)*(i+1.)/n)])
-    perc=[]
-    for v in vrij:
-        for i,g in enumerate(gran):
-            if v<=g:
-                perc.append(i+1)
-                break
-            if i+1==len(gran):
-                perc.append(i+2)
-    return perc
+def diskretiziraj_granicnima(vrijednosti,granicne):
+    izlaz=[]
+    for vrijednost in vrijednosti:
+        izlaz.append(pronadji(vrijednost,granicne))                
+    return izlaz
+
+def pronadji(vrijednost,granicne):
+    for i,granicna in enumerate(granicne):
+        if vrijednost<=granicna:
+            return i+1
+    return i+2
 
 def divide_zero(a,b):
     if b==0:
@@ -78,8 +75,8 @@ for file in os.listdir(directory):
                         no_lexical+=1
         output1.append((directory+'.'+file,directory,no_tokens,divide_zero(len(types),no_tokens),no_sents,divide_zero(no_tokens,no_sents),divide_zero(no_lexical,no_words),divide_zero(freq_words,no_words),divide_zero(freq_lemmas,no_words)))
         output2.append((directory+'.'+file,directory,no_words,divide_zero(word_len,no_words),divide_zero(no_infs,no_verbs),divide_zero(no_trebati3s,no_trebati),divide_zero(no_da,no_words*10000),divide_zero(no_nouns,no_nouns+no_verbs)))
-add1=zip(percentili([e[5] for e in output1],5),percentili([e[6] for e in output1],3),percentili([e[7] for e in output1],3),percentili([e[8] for e in output1],3))
-add2=percentili([e[3] for e in output2],5)
+add1=zip(diskretiziraj_granicnima([e[5] for e in output1],[20,30,40,50]),diskretiziraj_granicnima([e[6] for e in output1],[0.5,0.6,0.7]),diskretiziraj_granicnima([e[7] for e in output1],[0.3,0.4,0.5]),diskretiziraj_granicnima([e[8] for e in output1],[0.44,0.59]))
+add2=diskretiziraj_granicnima([e[3] for e in output2],[20,30,40,50])
 for o,a in zip(output1,add1):
     file1.write('\t'.join([str(e) for e in o])+'\t'+'\t'.join([str(e) for e in a])+'\n')
 for o,a in zip(output2,add2):
