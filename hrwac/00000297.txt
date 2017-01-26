@@ -1,0 +1,41 @@
+označuje blizinu dijela ceste na kojem se nalazi neuvaljani tučenac ili koji je posut sitnim kamenjem na tvrdoj podlozi te na kojem za druge sudionike u prometu postoji povećana opasnost od prštanja kamenja
+označuje blizinu dijela ceste na kojoj postoji opasnost od kamenja što pada ili od kamenja što se nalazi na cesti
+označuju blizinu raskrižja ili obilježenoga pješačkog prijelaza na kojem je promet upravljan uređajima za davanje znakova prometnim svjetlima
+»radovi na cesti« (A25)
+»promet u oba smjera« (A26)
+»raskrižje s kružnim tokom prometa« (A27)
+»poledica« (A28)
+označuje blizinu mjesta na kojem se izvode radovi na cesti
+označuje mjesto na cesti od kojeg se promet odvija u oba smjera
+označuje blizinu križanja na kojem se promet odvija kružno
+»prevrtanje ili iskliznuće vozila« (A29)
+»kolona zaustavljenih vozila« (A30)
+»neutvrđena bankina« (A31)
+»pješaci na cesti« (A32)
+označuje blizinu dijela ceste na kojem postoji povećana opasnost od iskliznuća ili prevrtanja vozila
+označuje blizinu dijela ceste na kojem u određenim prometnim uvjetima ili drugim okolnostima postoji opasnost od kolone zaustavljenih vozila
+označuje blizinu dijela ceste gdje je uz kolnik neutvrđena bankina
+označuje blizinu dijela ceste kojim se kreću pješaci
+»obilježen pješački prijelaz« (A33)
+»djeca na cesti« (A34)
+»blizina zrakoplovne piste« (A35)
+»tunel (galerija)« (A36)
+označuje blizinu mjesta na cesti kojim se djeca češće i u većem broju kreću (primjerice, ispred škole, vrtića, igrališta i sličnih mjesta)
+označuje dio ceste preko kojeg zrakoplovi prelijeću u niskom letu pri slijetanju, odnosno polijetanju
+označuje blizinu tunela ili galerije na cesti
+»bočni vjetar« (A37)
+»opasnost od požara« (A38)
+»biciklisti na cesti« (A39)
+»pokretni most« (A40)
+označuje područje u kojem postoji povećana opasnost nastanka požara
+označuje blizinu dijela ceste kojim se biciklisti kreću ili blizinu mjesta na kojem biciklisti češće nailaze na cestu s bočne ceste ili biciklističke staze
+označuje blizinu mjesta na kojem cesta prelazi preko pokretnog mosta
+»blizina obale« (A41)
+»tramvajska pruga« (A42)
+»životinje na cesti« (A43)
+»divljač na cesti« (A44)
+označuje mjesto na kojem domaće životinje pod nadzorom prelaze preko ceste ili se kreću uzduž ceste
+označuje posebno opasna mjesta na kojima divljač često prelazi preko ceste
+»prijelaz ceste preko željezničke pruge s branicima ili polubranicima« (A45)
+»prijelaz ceste preko željezničke pruge bez branika ili polubranika« (A46)
+»Andrijin križ« (A47)

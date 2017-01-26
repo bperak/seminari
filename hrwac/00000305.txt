@@ -1,0 +1,17 @@
+Seminar je namijenjen osobama koje su angažirane na projektima kao članovi projektnog tima ili kao voditelji projekata. Onima koji su imali prilike raditi na projektima to će biti prilika da sistematiziraju svoja znanja i iskustva koja su stekli i da razmotre probleme s kojima se najčešće susreću pri radu na projektima. Polaznici koji do sada nisu radili na projektima upoznat će se s metodom projektnog rada, temeljnim principima i najčešće korištenim tehnikama.
+CILJEVI
+Polaznici će po završetku seminara imati razumijevanje projektnog rada, tehnika i metoda koje se pritom koriste, bit će upoznati s terminologijom koja se koristi u projektnom radu po cijelom svijetu i bit će sposobni samostalno izraditi plan manje složenog projekta.
+Radionica: U manjim grupama, kroz niz radionica polaznici će imati priliku izraditi cjeloviti plan projekta po fazama. U svakoj grupi odabrat će se po jedan projekt na kojem će grupa raditi kroz više modula. U prvoj radionici polaznici imaju zadatak definirati svrhu odabranog projekta i ciljeve prema SMART principu.
+Razrada strukture poslova na projektu - WBS
+Definicija aktivnosti na projektu
+Grupiranje aktivnosti oko očekivanih rezultata
+Izrada strukture poslova
+Izrada opcionalnih struktura poslova
+Radionica: Na prije definiranom projektu polaznici će pripremiti dva alternativna WBSa.
+Dinamika i rokovi na projektu
+Procjena trajanja aktivnosti
+Usklađivanje redoslijeda aktivnosti
+Mrežno planiranje
+Gantogram
+Kontrolne točke
+Radionica: U radnim grupama na temelju ranije definiranih ciljeva i strukture aktivnosti, polaznici pripremaju vremenski plan projekta i rokove.

@@ -1,0 +1,151 @@
+Šifarnik poreskih tarifa sadrži sve poreske tarife (tarife PDV-a) propisane od strane države u kojoj se program koristi. Poreske tarife koje korisniku nisu potrebne jer ne posluje sa artiklima i uslugama koje se oporezuju tom tarifom nije neophodno uneti u šifarnik. Ako se naknadno pojavi potreba za definisanjem dodatne poreske tarife, ona se može uvek naknadno uneti.
+Stopa poreza mo že uzimati vrednost od 0 % za artikle koji su eventualno oslobođeni plaćanja PDV-a, pa do 99,99 %. Za spaku pojedinačnu stopu poreza za robu ili usluge koje su definisane u programu, potrebno je definisati posebnu tarifu.
+Na po četku rada u šifarniku su već definisane poreske tarife za robu oslobodjenu PDV-a, kao i opštu i posebnu stopu PDV. Preddefinisane su sledeće tarifne stope:
+Tarifni broj
+Opis
+00
+Oslobodjeno PDV-a
+10
+Opšta stopa PDV-a (u Republici Srbiji trenutno 18 %)
+11
+Ove poreske tarife nije moguće obrisati, a tarifu 00 - Oslobodjeno PDV-a nije moguće ni ažurirati. Tarifama PDV sa tarifnim brojevima 10 i 11 moguće je pri ažuriranju promeniti samo stopu PDV, za slučaj zakonske promene stope PDV-a na nivou republike.
+Šifarnik komitenata služi za definisanje svih komitenata sa kojima radimo. Komitenti mogu biti samo dobavljači, samo kupci ili i dobavljači i kupci. Program pretpostavlja da svi komitenti istovremeno mogu biti i dobavljači i kupci, i prilikom dodavanja novog komitenta automatski otvara analitička konta za njega u kontnom planu i to pod sintetikama kupaca, dobavljača, primljenih i datih avansa. Komitenti se mogu naknadno uneti, kako korišćenjem šifarnika, tako i direktno u unosu dokumenta iz odgovarajuće asistent forme.
+Brisanje komitenta je moguće u slučaju da za njega ne postoje uneti dokumenti. Prilikom brisanja konitenta, automatski se brišu i automatski otvorena analitička konta iz kontnog plana, ako za njih nisu unete promene u finansijskom nalogu. U slučaju da postoje promene vezane za komitenta konta iz kontnog plana neće biti automatski obrisana.
+Pored standardne dugmadi, šifarnik komitenata sadrži i dva dodatna dugmeta koja pozivaju Karton komitenta i Spisak kontakata datog komitenta.
+Karton kontakata predstavlja formu preko koje možemo dobiti hronologiju važnih kontakata sa određenim komitentom. Svaki od kontakata sadrži podatke o datumu i vremenu kontakta, kratak opis kontakta kao i mesto u kome možemo do tančina opisati sve relevantne podatke bitne za tada ostvaren kontakt. Na ovaj način možemo pratiti bitne kontakte sa određenim ili svim komitentima.
+Spisak kontakata komitenta dobija se pritiskom na dugme Komitenti. Ova forma nam omogućava da unesemo, ažuriramo, obrišemo ili pregledamo podatke osoba iz adresara koje su vezane za odabranog komitenta kao njegovi radnici ili saradnici. Unosom nove osobe u ovoj formi ona će automatski biti ubačena u adresar i vezana na datog komitenta.
+Šifarnik komitenata sadrži sledeća polja:
+Broj koji jednoznačno određuje komitenta. U slučaju da je u setup-u programa uključeno Automatsko davanje šifri program će automatski nuditi prvu sledeću slobodnu šifru. Korisnik može da " prekuca " ponuđenu šifru, ali se šifra ne sme ponoviti.
+Inostrani komitent
+Od ovog polja zavisi pod kojom sintetikom će biti otvorena analitička konta komitenta kao kupca / dobavljača, da li kao domaći ili kao inostrani kupac / dobavljač
+Forma za unos podataka komitenta ima specifičnosti u delu unosa žiro računa vezanih za komitenta. Jedan komitent može imati otvoren neograničen broj žiro računa. Ovi žiro računi se mogu dodati ili obrisati iz tabelarnog pregleda Žiro računa koji se nalazi na ovoj formi i automatski bivaju dodati / obrisani u / iz Šifarnika žiro računa.
+Dodavanje ili brisanje žiro računa se vrši klikom na odgovarajuću dugmad ili korišćenjem standardnih prečica na tastaturi dok je selektovan tabelarni pregled žiro računa:
+- otvara formu za dodavanje novog žiro računa komitenta
+- briše žiro račun komitenta
+Odredjivanje žiro računa komitenta koji je podrazumevani žiro račun prilikom vršenja plaćanja može se izvršiti prilikom dodavanja novog žiro računa (čekiranjem polja Glavni račun) ili klikom na dugme na izabranom žiro računu.
+Napomena: Samo jedan žiro račun može biti odabran kao glavni žiro račun komitenta. Selektovanjem novog glavnog računa komitenta, prethodni glavni raun automatski biva deselektovan.
+Napomena:
+U šifarniku komitenata nije moguć unos dva komitenta sa istim PIB-om ili brojevima bankovnih (žiro) računa.
+Šifarnik magacina služi za definisanje svih postojećih magacina. Magacini mogu biti klasični veleprodajni magacini, konsignacioni VP magacini ili magacini u prozvodnji (magacini materijala i gotovih proizvoda). Ovi magacini se razlikuju i po opsegu šifara koje mogu zauzimati i to:
+Veleprodajni magacini
+- Šifre od 00001 do 09999
+VP konsignacioni magacini
+- Šifre od 20000 do 29999
+Magacini materijala
+- Šifre od 40000 do 49999
+Magacini gotovih proizvoda
+- Šifre od 60000 do 69999
+Unos šifre magacina koja nije u skladu sa gornjim pravilom neće biti dozvoljen od strane kontrolnih funkcija programa. Takodje treba obratiti pažnju da pristup šifarniku konsignacionih VP magacina neće biti moguć ako nije uključen rad sa konsignacijom u setup-u programa. Prilikom dodavanja novog magacina automatski se u kontnom planu otvaraju analitička konta magacina u kontnom planu i to pod sintetikama koje odgovaraju vrsti magacina:
+- pod kontima zaliha u VP i razlike u ceni za VP magacine,
+- pod kontima zaliha gotovih proizvoda i razlike u ceni za magacine gotovih proizvoda ili
+- pod kontima zaliha materijala i razlike u ceni za magacine materijala.
+Naziv
+Naziv magacina
+Adresa, poštanski broj, mesto, telefoni....
+Standardna polja za unos poštih generalija magacina i odgovornog lica.
+Napomena
+Polje u koje se unosi napomena u vezi magacina. U slučaju da je u setup-u opcija programa, tab RobProXP, kao šablon VP računa izabran Template 2, ovde unet tekst se pojavljuje u gornjem levom uglu štampane VP fakture, izmedju zaglavlja i broja računa.
+Šifarnik prodavnica služi za definisanje svih postojećih maloprodajnih objekata i magacina. Prodavnice mogu biti klasične prodavnice ili konsignacioni MP magacini. Ovi objekti se razlikuju i po opsegu šifara koje mogu zauzimati i to:
+Prodavnice
+- Šifre od 10000 do 19999
+MP konsignacioni magacini
+- Šifre od 30000 do 39999
+Šifarnik organizacionih jedinica služi za definisanje ostalih organizacionih jedinica koje ne predstavljaju magacine i prodavnice. Sve vrste magacina i prodavnica takodje predstavljaju organizacione jedinice, a razlikuju se prema opsegu šifara. Ostale organizacione jedinice koje se definisu u ovom šifarniku takodje imaju svoj opseg šifara:
+Organizacione jedinice
+- Šifre od 90000 do 99999
+Kontni plan služi za definisanje sintetičkih i analitičkih konta. Svaki konto ima sintetički deo koji se sastoji od maksimalno 8 mesta sa ciframa i analitički deo sa 8 mesta za cifre. U kontnom planu je moguće takodje definisati i klase i grupe konta. U slučaju da se definiše klasa, grupa ili samo sintetički konto, polje analitika se ostavlja prazno, a ako se definise analitički konto potrebno je uneti i sintetiku i analitiku. Program automatski poravnava analitiku po desnoj ivici da bi se obezbedilo pravilno sortiranje kontnog plana.
+Pojedini šifarnici automatski otvaraju konta u kontnom planu (šifarnik komitenata), ali ova konta ne bivaju automatski obrisana ili ažuriranja pri ažuriranju podataka komitenta zbog sigurnosti. Sva konta se mogu ažurirati i prilagoditi potrebama korisnika ručno iz kontnog plana.
+Analitički deo konta. Ako je konto samo sintetički, polje analitika treba ostaviti prazno.
+Naziv
+Standardna polja za unos poštih generalija organizacione jedinice i odgovornog lica.
+Napomena:
+Na po četku rada u kontnom planu su već definisana odredjena konta potrebna za ispravan rad programa. Ova konta je dozvoljeno menjati, ali program upozorava da njihovo nestručno ažuriranje ili brisanje može dovesti do poremećaja u funkcionisanju programa. Da bi se obezbedilo ispravno funkcionisanje procedura za Automatsko knjiženje dokumentacije neophodno je izvršiti i odgovarajuće promene u setup-u konta, kao i u definicijama modela za Automatsko knjiženje u kojima se javlja konto koji je promenjen / izbrisan u kontnom planu.
+Šifarnik finansijskih promena služi za definisanje vrsta finansijskih promena koje se koriste pri finansijskom knjiženju. Radi ispravnog funkcionisanja programa u programu su po prvom startovanju već preddefinisane finansijske sledeće finansijske promene:
+000
+- Automatsko knjiženje
+001
+- Početno stanje
+002
+- Zaključivanje glavne knjige
+Šifra finansijske promene 000 je rezervisanja za procedure automatskog knjiženja u modul FinProXP iz drugih programskih modula i ne može se koristiti pri ručnom knjiženju. Preddefinisane finansijske promene nije moguće ažurirati ili brisati.
+Šifarnik vrsta blagajne sadrži podatke o definisanim vrstama blagajne. U programu je prilikom prvog startovanja već preddefinisana vrsta blagajne 00 - Dinarska blagajna. Ako korisnik ima potrebe za drugim vrstama blagajne (devizna blagajna, blagajna bonova za gorivo...), može da definiše podatke potrebne blagajne dodavanjem iste u šifarnik.
+Adresar sadrži podatke o svim kontaktima koje ostvarujemo sa poslovnim partnerima. Svi kontakti mogu biti vezani za firmu / organizaciju partnera u kojoj kontakt radi ili je sa njom na drugi način povezan. Podaci u adresar mogu se uneti kroz š ifarnik komitenata, ili direktno iz adresara. U slučaju da želite da dodate kontakt iz adresara a komitent za koga treba da ga vežete ne postoji u šifarniku komitenata to možete uraditi direktno iz adresara korišćenjem asistent forme.
+Šifarnik kategorija / usluga sadrži podatke o kategorijama robe sa kojima poslujemo. Radi lakšeg snalaženja unutar programa, korisniku je omogućeno da sve artikle i / ili usluge sa kojima posluje (koje pruža) podeli u logičke kategorije. Ove kategorije nisu ničim ograničene niti preddefinisane osim time da u slučaju automatskog davanja sledeće šifre kategorije može da ih bude ukupno 99. Sam logički način podele artikala / usluga na kategorije nije ograničen, tako da korisnik može da definiše i naziva kategorije po svom nahođenju, pa čak i da sve artikle / usluge svrsta u jednu kategoriju koju bi nazvao na.pr. " SVI ARTIKLI I USLUGE ".
+Šifra kategorije automatski se upisuje na početak šifre artikla iz te kategorije, tako da su prve dve cifre šifre artikla / usluge u stvari šifra kategorije što dodatno olakšava razumljivost šifre.
+Naziv
+Naziv kategorije
+H / P
+Da li se uneta kategorija artikala odnosi na Hranu ili Piće. Polje je aktivno samo u slučaju da je u setup-u opcija rada programa uključen rad sa ugostiteljskim objektima i ima uticaja na izveštaj list DPU (list dnevnog prometa ugostitelja)
+Dozvoli prodaju preko modula Kasa
+Cekiranjem ovog polja omogu ćava se direktna prodaja artikla usluge iz ove kategorije korišćenjem eksternog modula Fiskalna kasa. Vise podataka o prodaji preko fiskalnih kasa i štampača korišćenjem programskog paketa BandD for professionals možete naći ovde... Ako je ovo polje potvrđeno, automatski će postati dostupna i dugmad za pridruživanje tastera za brzu prodaju artikala / usluga t. j. kategorija - brzih tastera. Ovo polje je dostupno samo u slučaju da je u paketu licenciran i programski modul Kasa.
+Definisanje " brzih tastera "
+Definisanje - pridruživanje brzih tastera omogućava dobijanje spiska artikal / usluga, iz kategorije artikala / usluga kojoj je brzi taster pridružen, jednim pritiskom na taster koji je pridružen kategoriji, pri unosu računa u eksternom modulu Fiskalna kasa. Da bi bilo moguće pridruživanje brzih tastera kategoriji, potrebno je da modul fiskalna kasa bude povezan na modul BandD for Professionals XP u Setup-u opcija rada programa - tab Kasa. Svi podaci definisani u okviru programskog paketa BandD for Professionals na koji su povezani jedan ili više eksternih modula Fiskalna kasa odnose se na sve povezane eksterne module.
+Pokretanjem funkcije za pridruživanje brzih tastera kategoriji artikla / usluge klikom na dugme ulazi se u mod za pridruživanje. Potrebno je na tastaturi pritisnuti kombinaciju tastera na koju će ubuduće artikal biti moguće prodati na svim povezanim fiskalnim kasama. Na raspolaganju su funkcijski tasteri od F1 &gt; do F9 &gt; i tasteri F11 &gt; i F12 &gt; samostalno ili u bilo kojoj kombinaciji sa tasterima Crtl &gt;, Alt &gt; i Shift &gt;.
+Taster F10 &gt; nije mogu će pridružiti kao brzi taster.
+Isključivanje mogućnosti pozivanja odabrane kategorije artikala preko brzih tastera vrši se klikom na dugme Odveži (posle toga je potrebno potvrditi odluku klikom na taster OK.
+Prilikom klika na taster OK prvo se proverava da li odabrana kombinacija tastera nije pridružena nekom drugom artiklu / usluzi ili kategoriji i ako nije, kombinacija tastera se pridružuje kategoriji artikala / usluga.
+Šifarnik artikala / usluga služi za definisanje svih komitenata sa kojima radimo. Artikli i usluge mogu se podeliti na više logičkih kategorija koje se definišu u šifarniku kategorija / usluga. Šifarnik atrikala / usluga se takodje koristi i u programskom modulu koji pokriva proizvodnju, ali da bi se isključilo pojavljivanje poluproizvoda unutar šifarnika artikala unutar modula za komercijalu RobPro XP programskom modulu za kontrolisanje, ocitavanje i pregled podataka unesenih kori šćenjem povezanih eksternih programskih modula fiskalna kasa Kasa, kao i eksternim modulima za prodaju preko fiskalnih kasa / štampača Fiskalna kasa, u šifarniku Artikala / usluga koji se poziva unutar modula za proizvodnju i magacinsko knjigovodstvo MatProXP postoji dodatno polje Dozvoli prodaju kroz VP i MP. Ako je ovo polje potvrđeno, artikal / usluga će se pojaviti i u šifarniku artikala / usluga u modulu RobPro. U suprotnom, artikal / usluga će biti vidljiv samo iz modula za proizvodnju i magacinsko knjigovodstvo. Artikli i usluge se mogu naknadno unositi, kako korišćenjem šifarnika, tako i direktno u unosu dokumenta iz odgovarajuće asistent forme.
+Šifra artikla / usluge. Prve dve cifre šifre artikla / usluge su šifra kategorije. Ostatak šifre se automatski generiše u slučaju da je u setup-u programa uključeno Automatsko davanje šifri. Korisnik može da " prekuca " ponuđenu šifru, ali prve dve cifre ostaju unutar izabrane kategorije. Šifra se ne sme ponoviti.
+Jed.mere
+Osnovna jedinica mere u kojoj se artikal prodaje. U slučaju usluga ovo polje se može ostaviti prazno.
+Tarifni broj
+Kataloški broj
+Kataloški broj ili product number artikla.
+Bar kod / PLU
+Bar kod artikla. Bar kod takodje predstavlja PLU artikla pri korišćenju programa sa fiskalnim kasama
+Minimalno
+Minimalna dozvoljena zaliha. Kada zalihe artikla padnu ispod unete količine, program to automatski signalizira. Ako je u polje uneta nula, ova kontrola je isključena.
+Maksimalno
+Cena artikla / usluge
+Projektovana cena artikla / usluge. Ova cena se uzima kao preporučena cena usluge, a u slučaju da su na paket BandD for Professionals XP povezani i eksterni moduli Fiskalna kasa, ova cena u zavisnosti od odabranih parametara setup-a programa može biti i cena za upunjavanje kase / fiskalnog printera, t. j. cena po kojoj se vrši prodaja artikala u prodajnom objektu. Cena usluge se unosi bez uračunatog PDV-a.
+Praćenje artikla po serijskim brojevima
+Potvrdjivanje ovog polja uključuje praćenje serijskih brojeva primljenih / izdatih artikala sa ovom šifrom.Ako je ovo polje potvrđeno, prilikom unosa stavke bilo kog dokumenta koji prati tok ovog artikla (stavke kalkulacije, racuna, prenosnica i dostavnica...) biće uključena mogućnost definisanja ne samo kolicine artikla, već i konkretnih serijskih brojeva.
+Garantni rok u mesecima
+U polje se unosi garantni rok koji se daje na predmetni artikal u mesecima. Prilikom definisanja novog artikla podrazumevani garantni rok za artikle je onaj koji je definisan u setup-u opcija rada programa, a u slučaju da se radi o uslugama podrazumevani garantni rok je 0 meseci - nema garancije. Za artikle na koje ne postoji garancija u ovo polje treba upisati broj 0.
+Napomena
+Slika artikla
+Prikazuje sliku artikla. Jednoj šifri artikla moguće je pridružiti više slika. Za rad sa slikama koriste se sledeca dugmad:
+- služi za dodavanje nove slike artikla (alternativa je pritisak na taster Ins &gt; ert na tastaturi kada je označena kontrola sa spiskom pridruženih slika artikla). Kada pokrenemo proceduru za pridruživanje slike artikla, otvara se prozor za odabir slike. Odabrana slika unutar šifarnika artikala biva fizički presnimljena u folder sa podacima korisnika, tako da eventualno brisanje izvornog fajla sa slikom koja je pridružena atrtiklu u šifarniku nema uticaja na rad programa. Ovo nije slučaj sa slikom pridruženom proizvoljno unetom artiklu (šifra 0000000000 na predračunu). Više informacija o unosu slika na predračunu možete naći ovde...
+- služi za brisanje aktuelne slike (alternativa je pritisak na taster pritiskom na taster Del &gt; ete na tastaturi).
+- ova polja je moguće uneti samo ako se radi o artiklu
+- ovo polje je moguće uneti uvek ako se radi o usluzi, a za artikal u slu č aju da je u setup-u opcija rada programa Tab Kasa u polju Cena odabrano da se cena uzima iz šifarnika. Cena artikla / usluge mora da bude različita od nule.
+Šifarnik amortizacionih grupa sadrži podatke o svim definisanim amortizacionim grupama osnovnih sredstava. Sva osnovna sredstva moraju se pridružiti odgovarajućoj amortizacionoj grupi. Svakoj amortizacionoj grupi može se dodeliti odgovarajuća stopa amortizacije Amortizacione grupe nisu ničim ograničene niti preddefinisane osim time da u slučaju automatskog davanja sledeće šifre amortizacione grupe može da ih bude ukupno 99. Sam logički način podele osnovnih sredstava na amortizacione grupe nije ograničen, tako da korisnik može da definiše i naziva grupe po svom nahođenju, pa čak i da sva osnovna sredstva svrsta u jednu grupu koju bi nazvao na.pr. " SVA SREDSTVA ".
+Naziv amortizacione grupe
+Stopa amortizacije (%)
+Godišnja stopa amortizacije osnovnih sredstava koja pripadaju grupi
+U bazi podataka je pri distribuciji programa već postoji preddefinisana amortizaciona grupa 00 - Amortiyacija 0 %. Ova amortizacionu grupu je potrebna za ispravno funkcionisanje programa i nije moguće menjati je niti je obrisati iz šifarnika amortizacionih grupa.
+Pri definisanju osnovnog sredstva, svakom sredstvu se dodeljuje odgovarajuća amortizaciona grupa sa ovde unetom stopom amortizacije za grupu. U slučaju da je osnovnom sredstvu dodeljena stopa sredstva 0 % automatski se prilikom amortizacije kao stopa amortizacije za to sredstvo uzima stopa amortizacione grupe kojoj sredstvo pripada.
+Šifarnik vrsta mašina sadrži podatke o svim definisanim vrstama mašina koje se koriste unutar proizvodnje. Ovaj šifarnik je predvidjen za korišćenje u proizvodnim preduzećima i omogućava podelu mašina po vrstama. Uloga ove podele je da se na proizvodnom obrascu za odredjeni artikal može navesti vrsta mašine čije je angažovanje potrebno u proizvodnji odredjenog gotovog ili poluproizvoda. Na osnovu podataka o vremenu i koeficijentima pridruženim odredjenim vrstama mašina kasnije se može doći do podataka o troškovima proizvodnje i omogućiti planiranje iskorišćenja proizvodnih resursa.
+Šifarnik vrsta troškova sadrži podatke o svim definisanim vrstama troškova poslovanja. Ovaj šifarnik je predvidjen za korišćenje u svim vrstama pravnih subjekata i omogućava razvrstavanje pristiglih računa koji se mogu svrstati u troškove poslovanja u grupe - vrste troškova, prilikom unosa primljenih računa za troškove. Vrste troškova korisnik sam definiše u skladu sa svojim potrebama i podacima.
+Šifarnik opština i mesnih zajednica grupa sadrži podatke o svim definisanim opštinama u kojima žive zaposleni i mesnim zajednicama unutar njih. U slučaju da postoje opštinski ili mesni samodoprinosi, njihov procenat se unosi u okviru ovog šifarnika.
+- opcije su aktivne samo u slučaju da je polje Država u sekciji Internacionalna podešavanja postavljeno na Crna Gora pošto se ova podešavanja uzimaju u obzir samo prilikom obračuna plate za korisnike iz Crne Gore
+Donji prozor šifarnika opština sadrži podatke o mesnim zajednicama unutar opštine i to sledeća polja:
+Polje
+Naziv mesne zajednice
+Žiro račun
+Tekući račun mesne zajednice. U slučaju postojanja mesnog samodoprinosa ovde treba upisati tekući račun na koji se samodoprinos uplaćuje
+Naziv platnog razreda
+Koeficijent
+Koeficijent platnog razreda. Koeficijent ima ulogu pri obra čunu plate. Preddefinisana vrednost koeficijenta je 1 u kom slučaju ne utiče na obračun plate. Više podataka o načinu obračuna plate možete naći ovde...
+Šifarnik vrsta rada sadrži podatke o definisanim vrstama radnog anga žovanja zaposlenih. Podaci iz ovog šifarnika koriste se prilikom obračuna plate zaposlenih prema učinku u zavisnosti od broja radnih sati koje je zaposleni ostvario, a odnose se na određenu vrstu rada i definisani koeficijent za tu vrstu rada.
+Šifarnik kreditiranih / limitiranih partija sadr ži podatke o odobrenik kreditnim limitima za maloprodajne kupce. Ovaj šifarnik se koristi za analize prodaje u paketu BandD for Professionals XP i za kontrolu plaćanja unutar eksternih modula Fiskalna kasa koji su povezani na odgovarajuću prodavnicu u pakenu BandD for Professionals XP. Više podataka o načinima povezivanja eksternih modula Fiskalna kasa sa paketom BandD for Professionals XP možete naći ovde...
+Kroz šifarnik kreditiranih / limitiranih partija moguće je odrediti limite bezgotovinskog plaćanja za maloprodajne korisnike. Radi lakše kontrole svi maloprodajni korisnici su pridruženi odgovarajućim komitentima iz šifarnika komitenata (dobavljača / kupaca). Na ovaj način je, na primer, omogućeno da se, u dogovoru sa nekim komitentom (dobavljačem / kupcem) odrede limiti za svakog ili odredjene zaposlene tok komitenta koje oni mogu iskoristiti za kupovinu u maloprodajnim objektima u toku odredjenog vremenskog perioda, a komitent se obavezuje da ih po isteku vremenskog perioda isplati. Takodje je, korišćenjem ove funkcije, moguće odredjivanje kreditnih limita za fizička i pravna lica po drugim osnovama, uključujući i izdavanje svojih kreditnih kartica sa posebno definisanim limitima i evidencijom za svakog posebnog korisnika / partiju.
+Podatke u gornjem prozoru šifarnika koji sadrži podatke o komitentima nije moguće menjati ili dodavati. U slučaju da je motrebna izmena podataka komitenta ili dodavanje novog, to je moguće uraditi korišćenjem odgovarajućih opcija Šifarnika komitenata. Kada je odabran ovaj prozor, aktivna je standardna funkcija sa štampanje šifarnika, kao i funkcija za anuliranje svih kreditiranih / limitiranih partija određenog komitenta. Odabirom dugmeta za štampu štampa se spisak svih partija odabranog komitenta sa podacima o odobrenim limitima, iskorišćenim i raspoloživim sumama.
+Klikom na dugme Anuliranje za komitenta koje se nalazi u donjem levom uglu ekrana, startuje se procedura koja omogućava anuliranja koja se odnose na sve partije odabranog komitenta.
+Moguće je odabrati dve vrste anuliranja koje mogu biti odabrane istovremeno ili pojedinačno:
+Anuliraj iskorišćene iznose - Ova opcija anulira iznose iskorišćenog dela limita za sve partije odabranog korisnika odjednom (primer - korisnik je platio ispostavljen račun za sve svoje radnike)
+Anuliraj sve limite (isključi kreditiranje) - Ova opcija anulira sve odobrene limite partika koje su logički pridružene odabranom komitentu i time isključuje mogućnost daljeg korišćenja kreditirane kupovine. Ova opcija automatski ne anulira do tog trenutka iskorišćene iznose, osim ako se istovremeno ne odabere i opcija Anuliraj iskorišćene iznose.
+Donji prozor šifarnika kreditiranih / limitiranih partija sadrži podatke o partijama pridruženim odgovarajućem komitentu i to sledeća polja:
+Prezime i ime
+Prezime i ime korisnika kreditirane / limitirane partije
+Adresa, Post.br. Mesto
+Adresa, poštanski broj i mesto stanovanja korisnika kreditirane / limitirane partije
+Sumu limita i iskorišćenu sumu moguće je ručno izmeniti za svaku partiju korišćenjem funkcije ažuriranja. Suma Iskorišćeno se automatski uvećava prilikom svake prodaje korišćenjem eksternih modula Fiskalna kasa ako je pri plaćanju navedena odgovarajuća šifra limitirane partije. Prodaja neće biti dozvoljena u slučaju da je za tu partiju iznos nepokrivenog dela računa veći od iznosa limita ili iznosa Ostale raspoložive sume kredita za odabranu limitiranu partiju.
+Šifarnik stolova je predvi đen za eksterne module Fiskalna kasa koji su podešeni za rad u modu ugostiteljskog objekta. On sadrži podatke o definisanim stolovima unutar objekta, a omoućava i vođenje posebne evidencije o nenaplaćenim narudžbinama odnosno narudžbinama koje se vode kao rashod ili reprezentacija (dozvodjena pića za konobare, pića na račun kuće...).
+Naziv stola
+Rashod / reprezentacija
+Polje koje određuje da li se računi vezani na ovaj sto računaku kao rashod / reprezentacija
+Šifarnik kasira slu ši za definisanje kasira za privavljivanje na povezane eksterne module Fiskalna kasa. Ovaj šifarnik sadrži podatke o svim kasirima koji imaju pristup sistemu kroz eksterne module Fiskalna kasa, uključujući i pristupne šifre i nivoe pristupa podacima. Ovaj šifarnik predstavlja poseban, nezavistan sistem za definisanje korisnika koji imaju pristup opcijama programskih modula Fiskalna kasa, potpuno nezavisno od sistema korisničkih šifara programskog paketa BandD for Professionals XP. Da bi neko mogao da pristupi povezanik eksternim modulima Fiskalna kasa, mora biti definisan kao kasir unutar ovog šifarnika, mora mu biti dodeljeno jedinskveno korisničko ime, lozinka i nivo prava pristupa - status. Ovde definisano korisničko ime, lozinka i status, odnose se samo na eksterne module Fiskalna kasa i nemaju veze sa pristupom podacima iz programskog paketa BandD for Professionals XP.
+Ova korisnička imena i lozinke su definisana radi olakšavanja isprobavanja opcija eksternog programskog modula Fiskalna kasa. U slučaju korišćenja ovih modula u realnom radu, radi sprečavanja neovlašćenog pristupa potrebno je ponaosob definisati nove kasire i izbrisati preddefinisane šifre za pristup ili bar preddefinisanim korisnicima promeniti lozinke za pristup.
+Šifarnik žiro računa je predvidjen da sadrži sve brojeve bankarskih računa sa / na koje se vrše uplate.
+Žiro račun se u ovaj šifarnik može uneti direktno ili iz drugih šifarnika (na pr. šifarnika komitenata). U slučaju da je žiro račun unet iz drugih šifarnika nije moguće njegovo menjanje iz šifarnika žiro računa već se promena mora izvršiti iz šifarnika iz koga je žiro račun unet.

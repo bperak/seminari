@@ -1,0 +1,17 @@
+Ponekad pisanje Linux aplikacija za različite distribucije može postati problematično. Kao potencijalno riješenje problema neujednačenosti distribucija nastupa LSB - Linux Standards Base.
+LSB do sada nije uspijevao ispuniti očekivanja te je prolazio gotovo neprimjetno, no ovaj su se put proizvođači softwarea daleko više zainteresirali i pokazali su značajnu želju za razvijanjem aplikacija za LSB-om usklađene Linux distribucije.
+PCLinuxOS je desktop Linux distribucija namijenjena osobnom korištenju, koju odlikuju jednostavnost i prilagodljivost. Distribuiran je kao Live CD koji se lagano instalira na hard disk ili na USB memorijskim stickovima. Upravljanje paketima je bazirano na APT-u te dodatno olakšano pomoću Synaptic grafičkog sučelja. Zanimljiv je i alat zvan mklivecd koji omogućuje korisniku kreiranje Live CD na temelju trenutnog stanja na disku.
+Nedavno je stvorena PCLinuxOS zajednica Srbije koju možete posjetiti na njihovim web stranicama te tako dijeliti pitanja, iskustva i savjete s drugim korisnicima ove popularne distribucije.
+Linus Tovalds nije samo zaslužan za razvoj Linux kernela već i za motiviranje i koordiniranje slobodnog vremena veoma velikog broja ljudi koji rade na razvoju ovog operacijskog sustava.
+Danas ga nalazimo u intervjuu kao Geek of the week, u kojem ga Richard Moriss ispituje o pitanjima samog dizajna kernela, licencama, softwareskim patentima, Microsoftu te mnogim drugim zanimljivim temama.
+Svega par dana nakon izlaska 2.6.26 verzije Linux kernela je Linus Torvalds potiho, preko vikenda, izdao nadogradnju koja omogućuje bolju podršku virtualizacijskim strojevima baziranih na kernelu, dodan je kernel debugger, a poboljšana je podrška za web kamere, kao i za One Laptop Per Child.
+Nadogradnja isto tako donosi podršku za PCI Express Active State Power Management te ranu verziju podrške za nadolazeći 802.11 s mesh standard.
+Druga beta verzija Flash Playera 10 dolazi sa podrškom za kamere koje su pod Video4Linux v2 API-jem. Podrška naravno nije potpuna te su svi korisnici pozvani da izvrše manja testiranja i jave rezultate.
+Namještanje Windows drivera preko NDISwrappera ponekada može biti malo složeniji posao, pogotovo za ljude koji se tek prvi puta susreću s ovom problematikom.
+Tu uskače Auto-NDISwrapper čija je glavna zadaća automatizirati proces deaktivacije postojećih drivera, pronalaženje adekvatnih windows drivera preko interneta te instaliranje istih pomoću NDISwrappera.
+Riječ je o malenoj Python skripti koja je za sada tek u 0.1 verziji, a čije su nade uvelike olakšati dobivanje podrške za nepodržane bežične kartice na GNU / Linuxu.
+Kroz prošlih par mjeseci vidjeli smo tri izdanja kandidata za 1.0.17 verziju ALSA-e, a danas nam dolazi i konačno izdanje ove verzije.
+Tu su poboljšanja u Oxygen driveru koji se koristi u par visoko-kvalitetnih zvučnih procesora, kao i u HDA codecu. Mnogo je APU-a dodano u listu podržanog hardwarea no na žalost Creative X-Fi serija, neovisno o nadama, još uvijek nije podržana.
+Nakon devetog izdanja kandidata stiže nam i finalna verzija 2.6.26 Linux kernela.
+Od 2.6.26 - rc9 se razlikuje ponajviše po dopunjenoj dokumentaciji te nizom manjih izmjena, a novosti koje donosi su podrška za read only bind mounts, x86 PAT, PCI Express ASPM, podrška za OLPC te mnogo novih drivera.
+Detaljan popis izmjena možete pronaći ovdje, a službenu objavu pročitajte na mailing listi.

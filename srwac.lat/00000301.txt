@@ -1,0 +1,38 @@
+korišćenje servisa m-Banking bez mesečne naknade za održavanje (koja iznosi 99 RSD) do isteka roka oročenja od 7 meseci. Servis m-Banking-a omogućava da se sva plaćanja i uvid u stanje računa vrši uz pomoć mobilnog telefona.
+izdavanje Visa Gold kreditne kartice po osnovu oročenog depozita bez mesečne naknade za održavanje (koja iznosi 375 RSD), do isteka roka oročenja od 7 meseci. Limit po ovoj kartici može biti do 80 % od vrednosti oročenog depozita, a maksimalno do 2 miliona dinara.
+S redstva na ovim računima uvek su dostupna bez umanjenja kamatne stope, a uplate se mogu vršiti u prvom mesecu kada je račun otvoren ili prvom mesecu novog ciklusa (za već postojeće račune). Kamatna stopa raste iz meseca u mesec u okviru jednog ciklusa i na godišnjem nivou njihova visina je sledeća:
+OTP Tempo u dinarima, 6 meseci
+I mesec
+II mesec
+III mesec
+IV mesec
+V mesec
+VI mesec
+4.00 %
+5.00 %
+6.00 %
+7.00 %
+10.00 %
+22.00 %
+Period važenja: od 01.11.2010
+OTP Tempo u dinarima, 12 meseci (%)
+I mesec
+II mesec
+VII mesec
+VII mesec
+IX mesec
+X mesec
+XI mesec
+XII mesec
+4.00
+5.00
+6.00
+7.00
+8.00
+9.00
+10.00
+12.00
+13.00
+15.00
+18.00
+25.00

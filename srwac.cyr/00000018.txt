@@ -1,29 +1,22 @@
-Registar hemikalija je uspostavljen kako bi se napravio inventar hemikalija koje se nalaze u prometu u Republici Srbiji, a u cilju: sistematskog praćenja hemikalija, praćenja i minimizacije rizika koje hemikalije predstavljaju po zdravlje ljudi i životnu sredinu, kontrole načina korišćenja supstanci koje izazivaju zabrinutost, sprovođenja ograničenja i zabrana proizvodnje, stavljanja u promet i korišćenja hemikalija. 
-Obaveza privrednih subjekata da izvrše prijavu u Registar hemikalija ima za cilj i da se prepoznaju domaći privredni subjekti koji će jednog dana imati obavezu sprovođenja postupka registracije i autorizacije (u skladu sa odredbama REACH) i na taj način dobiti smernice o budućim obavezama u EU. 
-Koje hemikalije se upisuju u Registar hemikalija? 
-U Registar hemikalija se upisuju hemikalije koje se proizvode ili uvoze na tržište Republike Srbije, bez obzira da li su klasifikovane kao opasne ili ne. 
-Koji su izuzeci od upisa u Registar hemikalija? 
-U Registar hemikalija se ne upisuju hemikalije koje se na godišnjem nivou stavljaju u promet u količinama koje su ispod donje granice propisane Pravilnikom o Registru hemikalija (" Službeni glasnik RS ", broj 100 / 11, 16 / 12 i 47 / 12) hemikalije koje se ne mogu svrstati ni pod jedan od carinskih tarifnih brojeva datih u Prilogu 1 Pravilnika o Registru hemikalija, kao ni hemikalije koje se u finalnom obliku stavljaju u promet kao: 
-biocidni proizvodi; 
-sredstva za zaštitu bilja; 
-lekovi i medicinska sredstva koja se koriste u humanoj i veterinarskoj medicini; 
-kozmetički proizvodi; 
-hrana, prehrambeni aditivi i arome; 
-hrana za životinje i aditivi za tu hranu. 
-Napomena: sirovine koje se koriste u proizvodnji gore navedenih finalnih oblika nisu izuzete od upisa u Registar hemikalija, osim sirovina i aditiva koji se koriste u proizvodnji hrane jer se u skladu sa Zakonom o bezbednosti hrane definišu kao hrana. 
-Ko ima obavezu dostavljanja podataka za upis u Registar hemikalija? 
-Šta se dostavlja Agenciji prilikom prijave hemikalija radi upisa u Registar? 
-prijava radi upisa hemikalije u Registar hemikalija (potpisana i pečatirana); 
-1. opšte podatke o hemikaliji (registarski broj hemikalije, trgovačko ime hemikalije, broj hemikalija u grupi hemikalija, carinsku tarifnu oznaku i količinu u kojoj je hemikalija stavljena u promet na godišnjem nivou); 
-Uredbu o klasifikaciji delatnosti na osnovu koje se određuje sektor industrije možete preuzeti OVDE: 
-4. obeležavanje hemikalije; 
-5. sastav hemikalije: 
-- CAS broj, EC broj i REACH registarski broj, ako su dodeljeni; 
-- hemijski naziv za supstancu ili trgovačko ime za smešu; 
-- za sastojak klasifikovan kao opasan: klasifikaciju prema propisu kojim se uređuje klasifikacija, pakovanje i obeležavanje hemikalije i određenog proizvoda (u daljem tekstu: DSD / DPD pravilnik) (znak opasnosti, pisano upozorenje, kategoriju efekta za supstance koje su klasifikovane kao karcinogene, mutagene ili toksične po reprodukciju (CMR supstance) i oznaku rizika) odnosno klasifikaciju prema propisu kojim se uređuje klasifikacija, pakovanje i obeležavanje hemikalije i određenog proizvoda u skladu sa Globalno harmonizovanim sistemom za klasifikaciju i obeležavanje UN (u daljem tekstu: CLP / GHS pravilnik) (klasu opasnosti i kategoriju opasnosti, obaveštenje o opasnosti); 
-- maseni udeo izražen u procentima. 
-Napomena: ukoliko se u Registar prijavljuje detergent pored propisanih podataka upisuju se i podaci o surfaktantu. 
-Kada, kako i gde dostaviti dokumentaciju? 
-Do 31. marta tekuće godine, Agenciji za hemikalije proizvođač, uvoznik ili dalji korisnik imaju obavezu podnošenja prijave radi upisa hemikalija u Registar hemikalija koje su stavljene u promet u prethodnoj godini. 
-Dosije o hemikaliji se dostavlja u štampanom, odnosno elektronskom obliku (narezan na CD) i mora biti potpisan od strane odgovornog lica i imati pečat, odnosno kvalifikovani elektronski potpis. 
-Podaci se dostavljaju Agenciji za hemikalije preko pisarnice, ili putem preporučene pošte. 
+Opština Boljevac je zajednica, zadovoljnih, srećnih i zaposlenih ljudi sa kvalitetnim i očuvanim prirodnim uslovima za zdrav život i društveni razvoj stanovništva, sa kvalitetnom upravom i razvijenim partnerstvom na svim nivoima.
+Ministarstvo finansija i privrede će radi povećanja konkurentnosti privrednih subjekata, unapređenja njihovog poslovanja i intrenacionalizacije, kao i kreiranja novih radnih mesta kroz investicije u opremu, sufinansirati nabavku sledeće opreme:
+Formiran Savet za međunacionalne odnose
+Na osnovu člana 98. Zakona o lokalnoj samoupravi (' ' Službeni glasnik Republike Srbije ' ', br. 129 / 07, 54 / 2011) člana 39, 119. i 120. Statuta opštine Boljevac (' ' Službeni list opštine Boljevac ' ', br. 1 / 08), Skupština opštine Boljevac na sednici održanoj 30. 05. 2013. godine donela je Odluku o izboru članova Saveta za međunacionalne odnose.
+Za članove Saveta za međunacionalne odnose na period od tri godine izabrani su: 1. Olga Živadinović, ispred srpskog naroda, 2. Tatjana Maksimović Dobranović, ispred srpskog naroda, 3. Nebojša Marković, ispred vlaške nacionalne manjine, 4. Velimir Kotujić, ispred vlaške nacionalne manjine i 5. Rade Ilić, ispred romske nacionalne manjine.
+:: četvrtak 6. jun 2013.
+Formiran Savet za mlade
+U Savet za mlade, na period od 4 (četiri) godine biraju se: 1) Biljana Aksić iz Boljevca, 2) Isidora Ćosić iz Podgorca, 3) Dragan Trailović iz Boljevca, 4) Vladimir Milošević iz sela Boljevca i 5) Saša Lapadatović iz Bogovine.
+U četvrtak 23.05.2013. god. u prostorijama OU Boljevac sa početkom u 11 časova, održan je prvi sastanak Radne grupe za izradu akcionog plana razvoja malih i srednjih preduzeća i preduzetništva na teritoriji opštine Boljevac.
+Program podrške razvoju inovativnih klastera sprovodi Nacionalna agencija za regionalni razvoj u saradnji sa akreditovanim regionalnim razvojnim agencijama. Opšti cilj programa jeste povećanje produktivnosti i konkurentnosti domaćih preduzeća i preduzetnika povezivanjem u klastere, kao i jačanje njihove saradnje sa naučno - istraživačkim organizacijama.
+Javni poziv za realizaciju mentoring programa sprovodi Nacionalna agencija za regionalni razvoj u saradnji sa partnerskim organizacijama i centrima. Cilj projekta je besplatna usluga mentoringa za odabranih 100 preduzetnika / privrednih društava u trajanju od 50 sati po klijentu, a do kraja novembra 2013. godine.
+Ministarstvo finansija i privrede će, u cilju podsticanja razvoja malih i srednjih preduzeća, kroz promovisanje pozitivnih stavova prema preduzetništvu, kod mladih ljudi, žena i osetljivih grupa, finansirati projekte, koje realizuju udruženja u partnerstvu sa neprofitnim organizacijama a koja ispunjavaju uslove iz Programa.
+KREDITIRANjE START-UP KREDITA PO PROGRAMU FONDA ZA 2013. GODINU
+Pravo na korišćenje ovih sredstava imaju privredni subjekti na području Republike Srbije, registrovani u Agenciji za privredne registre od 01.01.2012 godine i kasnije. Krediti se odobravaju za izgradnju / dogradnju / rekonstrukciju / adaptaciju / sanaciju / kupovinu / poslovnog prostora, proizvodnih i industrijskih objekata koji su u vlasništvu ili ih stiče u vlasništvo podnosilac zahteva za kredit, ili za kupovinu nove opreme od ovlašćenog distributera ili proizvođača opreme...
+Pravo na korišćenje ovih sredstava imaju privredni subjekti registrovani na području Republike Srbije, koji u prethodne dve godine nisu poslovali sa gubitkom. Krediti se odobravaju za izgradnju / dogradnju / rekonstrukciju / adaptaciju / sanaciju i kupovinu poslovnog prostora / proizvodnih i industrijskih objekata ili za kupovinu nove ili polovne opreme...
+Turistička organizacija Opštine Boljevac na sajmu turizma
+Pomozimo malom Stevanu
+U organizaciji Centra za socijalni rad i lokalne samouprave, Kulturno-umetničko društvo Boljevac održaće humanitarni koncert sa željom da se kupovinom karata od 100 dinara obezbede sredstva za Stevanovo lečenje. Pokažimo koliko smo humani. Pomozimo Stevanu. Dođite na folklornu priredbu koja će se održati u Kulturno-obrazovnom centru u Boljevcu 28.02.2013. godine, sa početkom u 19 časova. Stevan ima četiri godine, boluje od cerebralne paralize. Potrebna mu je stalna briga i pomoć, osetljiv je i jako privržen svim članovima porodice, ali veoma brzo se zbližava sa novim ljudima u svom životu.
+:: četvrtak 14. januar 2013.
+Anketiranje malih i srednjih preduzeća
+Kancelarija za lokalno ekonomski razvoj (KLER), u saradnji sa pomoćnikom predsednika za razvoj MSP-a (malih i srednjih preduzeća), vrši anketiranje malih i srednjih preduzeća u Boljevcu u cilju sakupljanja podataka koji upućuju na stanje, potrebe i probleme sa kojima se privrednici suočavaju...
+Obaveštavamo javnost da je u toku Revizija Strategije održivog razvoja opštine Boljevac. Tokom procesa revizije Strateški dokument u oblastima i prioritetima se ne menja proširuje se Akcioni plan iskazan kroz Opšte i Specifične ciljeve.Sve zainteresovane strane mogu slati komentare, sugestije i primedbe u vezi sa predmetom Javne rasprave u vidu popunjenog formulara koji se može preuzeti u prilogu ovog obaveštenja i isti poslati u popunjenoj formi na mejl adresu: kler@opstinaboljevac.rs, ili dostaviti lično, ili poslati poštom na adresu Kancelarija za lokalni ekonomski razvoj Boljevac, Kralja Aleksandra 24.

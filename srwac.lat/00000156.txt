@@ -1,0 +1,11 @@
+Igrajte fudbal... botovima: MDCS BubbleBot
+Microsoft Development Center Serbia po prvi put organizuje zanimljiv " fudbalski " turnir - BubbleBot Cilj ove igre jeste da isprogramirate vašeg bot - a, koji treba da se takmiči sa ostalim botovima. Spremni? Krećemo
+Šta je BubbleBot: Bubble Bot je eksperimentalno takmičenje u programiranju u oblasti veštačke inteligencije koje organizuju zaposleni u Razvojnom centru Microsoft-a u Srbiji (MDCS). BubbleBot je osmišljen da promoviše kreativno, tj. lateralno razmišljanje, konkurenciju u programiranju kao i sportski duh i dobrodošli su svi koje zanima stohastička teorija igara, veštačka inteligencija i video igre. Posetite vebsajt BubbleBot, gde možete naći najnovije i detaljnije informacije.
+Prvi BubbleBot turnir biće održan u decembru, a finale će se održati na ETF Beograd, 7. decembra 2011. godine.
+Ko može da se prijavi: Svi koji nisu zaposleni u MDCS mogu da se takmiče. Takmičarski timovi mogu da imaju jednog ili vise članova. Ista osoba ne može da učestvuje u vise timova.
+Kako da se prijavite: Napravite svog bota (ili vise njih) uz pomoć resursa datih na BubbleBot vebsajtu i pošaljite ih na ovu e-mail adresu. Bota treba dostaviti u izvršnom fajlu (. exe) plus izvorni kod (source code) koji može da bude napisan u bilo kom programskom jeziku. Jedan tim može da pošalje neograničen broj botova. Svaki dostavljeni bot mora da pobedi SimpleBot-a koji možete skinuti sa vebsajta (da bi se sprečio spam).
+U zavisnosti od broja prijava, organizovaćemo i preliminarne runde koje će biti snimljene i postavljene na BubbleBot vebsajt.
+Najbolji botovi učestvuju u Finalu koje će se održati na ETF Beograd 7. decembra 2011. godine. Finalni mečevi održaće se pred publikom na ETF sa direktnim internet prenosom. Svi botovi koji dođu do finala dobiće nagrade, a specijalna nagrada ide botu koji osvoji turnir
+Detaljnije informacije o Finalu uskoro će biti dostupne na BubbleBot vebsajtu, tako da - pratite vebsajt
+Naši prijatelji
+Linkovi

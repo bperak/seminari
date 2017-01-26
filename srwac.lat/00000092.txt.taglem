@@ -1,810 +1,2696 @@
-Siemens	Siemens	Npmsn
-postiže	postizati	Vmr3s
-sveopšti	sveopšt	Agpmsayn
-rast	rast	Ncmsan
-u	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-Prognoza	prognoza	Ncfsn
-za	za	Sa
-rezultat	rezultat	Ncmsan
-iz	iz	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
-je	biti	Var3s
-povećana	povećati	Appfsny
-na	na	Sa
-najmanje	malo	Rgs
-7.5	7.5	Mdc
-mlrd	mlrd	Ncmpg
-EUR	EUR	Npmsn
-U	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-fiskalne	fiskalan	Agpfsgy
-2011	2011	Mdc
-,	,	Z
-Siemens	Siemens	Npmsn
-je	biti	Var3s
-postigao	postići	Vmp-sm
-širok	širok	Agpmsann
-rast	rast	Ncmsan
-i	i	Cc
-ostvario	ostvariti	Vmp-sm
-povećanje	povećanje	Ncnsa
-novih	nov	Agpfpgy
-narudžbi	narudžba	Ncfpg
-za	za	Sa
-28	28	Mdc
-%	%	Z
-u	u	Sl
-odnosu	odnos	Ncmsl
-na	na	Sa
-isti	isti	Agpmsayn
-period	period	Ncmsan
-prethodne	prethodan	Agpfsgy
-godine	godina	Ncfsg
+Osnovni	osnovan	Agpmpny
+objekti	objekt	Ncmpn
+odgovaraju	odgovarati	Vmr3p
+osnovnim	osnovan	Agpnply
+kulturnim	kulturan	Agpnply
+dobrima	dobro	Ncnpl
 .	.	Z
 
-Prihodi	prihod	Ncmpn
+Opisi	opis	Ncmpn
+osnovnih	osnovan	Agpmpgy
+objekata	objekt	Ncmpg
 su	biti	Var3p
-uvećani	uvećati	Appmpny
-za	za	Sa
-7	7	Mdc
-%	%	Z
-.	.	Z
-
-Svi	sav	Agpmpny
-sektori	sektor	Ncmpn
-i	i	Cc
-regije	regija	Ncfpn
-su	biti	Var3p
-doprineli	doprineti	Vmp-pm
-porastu	porast	Ncmsl
-narudžbi	narudžba	Ncfpg
-i	i	Cc
-prihoda	prihod	Ncmpg
-.	.	Z
-
-Prihodi	prihod	Ncmpn
-od	od	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
-su	biti	Var3p
-se	sebe	Px--sa
-više	mnogo	Rgc
-nego	nego	Cc
-udvostručil	udvostručil	Agpfsny
-zbog	zbog	Sg
-značajnog	značajan	Agpnsgy
-poboljšanja	poboljšanje	Ncnsg
-operativne	operativan	Agpfsgy
-dobiti	dobit	Ncfsg
-i	i	Cc
-prihoda	prihod	Ncmpg
-od	od	Sg
-prodaje	prodaja	Ncfsg
-34	34	Mdc
-%	%	Z
-Siemens-ovog	siemens-ov	Aspnsgy
-učešća	učešće	Ncnsg
+minimalni	minimalan	Agpmpny
 u	u	Sl
-Areva	Arev	Npmsl
-NP	N	Npmsl
-.	.	Z
-"	"	Z
-Postigli	postići	Vmp-pm
-smo	biti	Var1p
-izvanredan	izvanredan	Agpmsann
-sveopšti	sveopšt	Agpmsayn
-rast	rast	Ncmsan
-narudžbi	narudžba	Ncfpg
-.	.	Z
-
-Podižemo	podizati	Vmr1p
-i	i	Cc
-procenu	procena	Ncfsa
-rezultata	rezultat	Ncmpg
-za	za	Sa
-fiskalnu	fiskalan	Agpfsay
-2011	2011	Mdc
-godinu	godina	Ncfsa
-na	na	Sa
-minimum	minimum	Ncmsan
-7.5	7.5	Mdc
-mlrd	mlrd	Sg
-EUR-a	EUR	Npmsg
-,	,	Z
-"	"	Z
-rekao	reći	Vmp-sm
-je	biti	Var3s
-Peter	Peter	Npmsn
-Loscher	Loscher	Npmsn
-,	,	Z
-Predsednik	predsednik	Ncmsn
-i	i	Cc
-CEO	cel	Agpmsnn
-Siemens-a	Siemens	Npmsg
-.	.	Z
-
-Siemens	Siemens	Npmsn
-očekuje	očekivati	Vmr3s
-vitalan	vitalan	Agpmsann
-rast	rast	Ncmsan
-porudžbina	porudžbina	Ncfpg
-u	u	Sl
-fiskalnoj	fiskalan	Agpfsly
-2011.	2011.	Mdo
-u	u	Sl
-odnosu	odnos	Ncmsl
-na	na	Sa
-narudžbine	narudžbina	Ncfpa
-od	od	Sg
-74.1	74.1	Mdc
-mlrd	mlrd	Ncmpg
-EUR	EUR	Npmsn
-iz	iz	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
-u	u	Sl
-fiskalnoj	fiskalan	Agpfsly
-2010.	2010.	Mdo
-
-Podržana	podržati	Appfsny
-visokim	visok	Agpmsiy
-nivoom	nivo	Ncmsi
-nefakturisanih	nefakturisan	Agpfpgy
-narudžbina	narudžbina	Ncfpg
-,	,	Z
-kompanija	kompanija	Ncfsn
-očekuje	očekivati	Vmr3s
+smislu	smisao	Ncmsl
 da	da	Cs
 se	sebe	Px--sa
-prihod	prihod	Ncmsn
+osnovni	osnovan	Agpmpny
+objekti	objekt	Ncmpn
+mogu	moći	Vmr3p
+proširivati	proširivati	Vmn
+pri	pri	Sl
+čemu	što	Pi3n-l
+se	sebe	Px--sa
+nasleđuju	nasleđivati	Vmr3p
+osobine	osobina	Ncfpn
+užih	uzak	Agpmpgy
+objekata	objekt	Ncmpg
+.	.	Z
+
+Primer	primer	Ncmsn
+1.	1.	Mdo
+Objekt	objekt	Ncmsn
+koji	koji	Pi-msn
+odgovara	odgovarati	Vmr3s
+digitalnom	digitalan	Agpmsdy
+dokumentu	dokument	Ncmsd
+u	u	Sl
+biblioteci	biblioteka	Ncfsl
+može	moći	Vmr3s
+imati	imati	Vmn
+izdavača	izdavač	Ncmpg
+i	i	Cc
+jezik	jezik	Ncmsan
+na	na	Sa
+kome	koma	Ncfpa
+se	sebe	Px--sa
+izlaže	izlagati	Vmr3s
+intelektualni	intelektualan	Agpmsny
+sadržaj	sadržaj	Ncmsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+,	,	Z
+što	što	Pi3n-n
+nije	biti	Var3s
+od	od	Sg
+značaja	značaj	Ncmsg
+za	za	Sa
+neko	neki	Agpnsay
+likovno	likovni	Agpnsay
+kulturno	kulturan	Agpnsay
+dobro	dobro	Ncnsa
+.	.	Z
+
+Digitalizovani_dokument	digitalizovani_dokument	Ncmsn
+je	biti	Var3s
+objekat	objekat	Ncmsn
+koji	koji	Pi-msn
+odgovara	odgovarati	Vmr3s
+jedinstvenom	jedinstven	Agpmsdy
+dokumentu	dokument	Ncmsd
+u	u	Sl
+digitalnom	digitalan	Agpmsly
+formatu	format	Ncmsl
+.	.	Z
+
+Digitalizovano_kulturno_dobro	digitalizovano_kulturno_dobar	Agpnsny
+je	biti	Var3s
+objekat	objekat	Ncmsn
+koji	koji	Pi-msn
+odgovara	odgovarati	Vmr3s
+jedinstvenom	jedinstven	Agpnsly
+kulturnom	kulturan	Agpnsly
+dobru	dobro	Ncnsl
+koje	koji	Pi-nsn
+je	biti	Var3s
+opisano	opisati	Appnsny
+odgovarajućim	odgovarajući	Agpmsiy
+tekstom	tekst	Ncmsi
+u	u	Sl
+poljima	polje	Ncnpl
+objekta	objekt	Ncmsg
+,	,	Z
+a	a	Cc
+može	moći	Vmr3s
+sadržati	sadržati	Vmn
+više	mnogo	Rgc
+identifikatora	identifikator	Ncmpg
 (	(	Z
-koji	koji	Pi-msn
-je	biti	Var3s
-inače	inače	Rgp
-u	u	Sl
-fiskalnoj	fiskalan	Agpfsly
-2010.	2010.	Mdo
-iznosio	iznositi	Vmp-sm
-69	69	Mdc
-mlrd	mlrd	Agpmsayn
-EUR	EUR	Npmsan
-od	od	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
+pokazivača	pokazivač	Ncmsg
+na	na	Sa
 )	)	Z
+digitalizovanih	digitalizovati	Appmpgy
+dokumenata	dokument	Ncmpg
+.	.	Z
+
+Primer	primer	Ncmsn
+2.	2.	Mdo
+Jedno	jedan	Mlcnsn
+kulturno	kulturan	Agpnsny
+dobro	dobar	Agpnsny
 ,	,	Z
 na	na	Sa
-nivo	nivo	Ncmsan
-održivog	održiv	Agpmsgy
-jednocifrenog	jednocifren	Agpmsgy
-rasta	rast	Ncmsg
-.	.	Z
-
-Nadalje	nadalje	Rgp
+primer	primer	Ncmsan
+trodimenzionalni	trodimenzionalan	Agpmsayn
+objekat	objekat	Ncmsan
 ,	,	Z
-Siemens	Siemens	Npmsn
-predviđa	predviđati	Vmr3s
-rezultat	rezultat	Ncmsan
-iz	iz	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
-od	od	Sg
-najmanje	malo	Rgs
-7.5	7.5	Mdc
-mlrd	mlrd	Ncmpg
-EUR	EUR	Npmsn
-.	.	Z
-
-Rezultat	rezultat	Ncmsn
-iz	iz	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
-u	u	Sl
-fiskalnoj	fiskalan	Agpfsly
-2010.	2010.	Mdo
-bio	biti	Vap-sm
-je	biti	Var3s
-4.3	4.3	Mdc
-mlrd	mlrd	Ncmpg
-EUR	EUR	Npmsn
-.	.	Z
-
-Za	za	Sa
-fiskalnu	fiskalan	Agpfsay
-2010	2010	Mdc
-,	,	Z
-narudžbe	narudžba	Ncfpn
-,	,	Z
-prihodi	prihod	Ncmpn
-i	i	Cc
-rezultat	rezultat	Ncmsan
-iz	iz	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
-ne	ne	Qz
-obuhvataju	obuhvatati	Vmr3p
-rezultate	rezultat	Ncmpa
-Osram-a	Osram	Npmsg
-i	i	Cc
-Siemens	Siemens	Npmsn
-IT	IT	Npmsn
-Solutions	Solutions	Npmsn
-and	and	Xf
-Services	Services	Xf
-,	,	Z
-koji	koji	Pi-msn
+predstavlja	predstavljati	Vmr3s
 se	sebe	Px--sa
-ne	ne	Qz
-smatraju	smatrati	Vmr3p
-redovnim	redovan	Agpnsiy
-poslovanjem	poslovanje	Ncnsi
-u	u	Sl
-fiskalnoj	fiskalan	Agpfsly
-2011.	2011.	Mdo
-
-Ovakva	ovakav	Pd-fsn
-slika	slika	Ncfsn
-isključuje	isključivati	Vmr3s
-uticaj	uticaj	Ncmsan
-pravnih	pravni	Agpfpgy
-i	i	Cc
-zakonskih	zakonski	Agpnpgy
-pitanja	pitanje	Ncnpg
-,	,	Z
-između	između	Sg
-ostalog	ostali	Agpmsgy
-,	,	Z
-mogući	moguć	Agpmsayn
-uticaj	uticaj	Ncmsan
-tekućeg	tekući	Agpmsgy
-arbitražnog	arbitražni	Agpmsgy
-postupka	postupak	Ncmsg
-između	između	Sg
-Siemens-a	Siemens	Npmsg
-i	i	Cc
-Areva	Areva	Npfsn
-SA	SA	Npfsn
+jednim	jedan	Mlcmsi
+objektom	objekt	Ncmsi
+tipa	tip	Ncmsg
+Digitalizovano_kulturno_dobro	digitalizovano_kulturno_dobar	Agpnsny
 .	.	Z
 
-Arbitražni	arbitražni	Agpmsny
-sud	sud	Ncmsn
-će	hteti	Var3s
-,	,	Z
-između	između	Sg
-ostalog	ostali	Agpmsgy
-,	,	Z
-odlučiti	odlučiti	Vmn
-o	o	Sl
-obimu	obim	Ncmsl
-povećanja	povećanje	Ncnsg
-ili	ili	Cc
-smanjenja	smanjenje	Ncnsg
-plaćanja	plaćanje	Ncnsg
-Areva-e	areva-a	Ncfsg
-i	i	Cc
-do	do	Sg
-40	40	Mdc
-%	%	Z
-.	.	Z
-
-U	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-fiskalne	fiskalan	Agpfsgy
-2011.	2011.	Mdo
-nove	nov	Agpfpny
-narudžbe	narudžba	Ncfpn
-su	biti	Var3p
-porasle	porasti	Vmp-pf
-za	za	Sa
-28	28	Mdc
-%	%	Z
-,	,	Z
-na	na	Sa
-20.7	20.7	Mdc
-mlrd	mlrd	Ncmsl
-EUR	EUR	Npmsn
-.	.	Z
-
-Prihod	prihod	Ncmsn
-se	sebe	Px--sa
-popeo	popeti	Vmp-sm
-za	za	Sa
-7	7	Mdc
-%	%	Z
-,	,	Z
-na	na	Sa
-17.7	17.7	Mdc
-mlrd	mlrd	Ncmsl
-EUR	EUR	Npmsn
-.	.	Z
-
-Rast	rast	Ncmsn
-narudžbina	narudžbina	Ncfpg
-i	i	Cc
-prihoda	prihod	Ncmpg
-se	sebe	Px--sa
-značajno	značajno	Rgp
-duguje	dugovati	Vmr3s
-iznad	iznad	Sg
-prosečnom	prosečan	Agpmsly
-rastu	rast	Ncmsl
-u	u	Sl
-zemljama	zemlja	Ncfpl
-u	u	Sl
-razvoju	razvoj	Ncmsl
-.	.	Z
-
-Book-to-bill	Book-to-bill	Npmsn
-racio	raciti	Vmp-sm
-u	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
+To	taj	Pd-nsn
+kulturno	kulturan	Agpnsny
+dobro	dobar	Agpnsny
 je	biti	Var3s
-iznosio	iznositi	Vmp-sm
-1.17.	1.17.	Mdm
-
-Sa	sa	Si
-92	92	Mdc
-mlrd	mlrd	Ncmpg
-EUR	EUR	Npmsn
-nefakturisanih	nefakturisan	Agpfpgy
-porudžbina	porudžbina	Ncfpg
 ,	,	Z
-u	u	Sl
-svim	sav	Agpmply
-sektorima	sektor	Ncmpl
-,	,	Z
-postignut	postignuti	Appmsnn
-je	biti	Var3s
-rekordni	rekordan	Agpmsny
-nivo	nivo	Ncmsn
-u	u	Sl
-odnosu	odnos	Ncmsl
 na	na	Sa
-prethodni	prethodan	Agpmsayn
-kvartal	kvartal	Ncmsan
-,	,	Z
-uprkos	usprkos	Sd
-negativnom	negativan	Agpmsly
-efektu	efekt	Ncmsl
-kursnih	kursni	Agpfpgy
-razlika	razlika	Ncfpg
+primer	primer	Ncmsan
+fotografisano	fotografisati	Appnsny
+sa	sa	Sg
+sve	sav	Agpfsgy
+4	4	Mdc
+strane	strana	Ncfsg
 .	.	Z
 
-Gore	zlo	Rgp
-navedene	navesti	Appfsgy
-brojke	brojka	Ncfsg
-za	za	Sa
-nove	nov	Agpfpay
-narudžbine	narudžbina	Ncfpa
+Skenu	sken	Ncmsl
+svake	svaki	Pi-fsg
+fotografije	fotografija	Ncfsg
+odgovara	odgovarati	Vmr3s
+jedan	jedan	Mlcmsn
+objekat	objekat	Ncmsn
+tipa	tip	Ncmsg
+Digitalni_dokument	digitalni_dokument	Ncmsan
 ,	,	Z
-prihod	prihod	Ncmsan
+a	a	Cc
+objekat	objekat	Ncmsn
+tipa	tip	Ncmsg
+Digitalizovano_kulturno_dobro	digitalizovano_kulturno_dobro	Rgp
+sadrži	sadržati	Vmr3s
+identifikatore	identifikator	Ncmpa
+sva	sav	Agpfsny
+ta	taj	Ncfsn
+4	4	Mdc
+objekta	objekt	Ncmsg
+,	,	Z
+kao	kao	Cs
 i	i	Cc
-dobit	dobit	Ncfsn
+moguće	moguć	Agpmpay
+identifikatore	identifikator	Ncmpa
+drugih	drugi	Mlofpg
+digitalnih	digitalan	Agpfpgy
+reprezentacija	reprezentacija	Ncfpg
+originalnog	originalan	Agpnsgy
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+.	.	Z
+
+Prilikom	prilikom	Sg
+opisivanja	opisivanje	Ncnsg
+objekta	objekt	Ncmsg
+potrebno	potreban	Agpnsny
+je	biti	Var3s
+koristiti	koristiti	Vmn
+te	taj	Pd-mpa
+standardizovane	standardizovan	Agpmpay
+nazive	naziv	Ncmpa
+.	.	Z
+
+Homonimi	homonim	Ncmpn
+(	(	Z
+ista	isti	Agpfsny
+reč	reč	Ncfsn
 ,	,	Z
-ne	ne	Qz
-uključuju	uključivati	Vmr3p
-Siemens	Siemens	Npmsn
-IT	IT	Npmsn
-Solutions	Solutions	Npmsn
-and	and	Xf
-Services	Services	Xf
-,	,	Z
-Osram	osrati	Vmr1s
-diviziju	divizija	Ncfsa
+različito	različit	Agpnsny
+značenje	značenje	Ncnsn
+)	)	Z
+se	sebe	Px--sa
+moraju	morati	Vmr3p
+unositi	unositi	Vmn
+kao	kao	Cs
+različiti	različit	Agpmpny
+kontrolisani	kontrolisati	Agpmpny
+termini	termin	Ncmpn
 .	.	Z
 
 Od	od	Sg
-drugog	drugi	Mlomsg
-kvartala	kvartal	Ncmsg
-,	,	Z
-rezultati	rezultat	Ncmpn
-ove	ovaj	Pd-fsg
-dve	dva	Ncfsg
-divizije	divizija	Ncfsg
-ne	ne	Qz
-spadaju	spadati	Vmr3p
-u	u	Sa
-redovno	redovan	Agpnsay
-poslovanje	poslovanje	Ncnsa
+osnovnih	osnovan	Agpmpgy
+objekata	objekt	Ncmpg
+formira	formirati	Vmr3s
+se	sebe	Px--sa
+hijerarhija	hijerarhija	Ncfsn
+kolekcija	kolekcija	Ncfsn
+koja	koji	Pi-fsn
+služi	služiti	Vmr3s
+za	za	Sa
+grupisanje	grupisanje	Ncnsa
+objekata	objekt	Ncmpg
+po	po	Sl
+određenim	određen	Agpmply
+kriterijumima	kriterijum	Ncmpl
 .	.	Z
 
-Kao	kao	Cs
-rezultat	rezultat	Ncmsn
-toga	taj	Pd-nsg
-,	,	Z
-odgovarajući	odgovarajući	Agpmpny
-podaci	podatak	Ncmpn
-za	za	Sa
-drugi	drugi	Mlomsan
-kvartal	kvartal	Ncmsan
-fiskalne	fiskalan	Agpfsgy
-2010.	2010.	Mdo
-i	i	Cc
-prvi	prvi	Mlomsn
-kvartal	kvartal	Ncmsn
-fiskalne	fiskalan	Agpfsgy
-2011.	2011.	Mdo
-obračunati	obračunati	Vmn
+Kolekcije	kolekcija	Ncfpn
 su	biti	Var3p
-na	na	Sl
-uporedivoj	uporediv	Agpfsly
-osnovi	osnova	Ncfsl
+skupovi	skup	Ncmpn
+objekata	objekt	Ncmpg
+koji	koji	Pi-mpn
+ne	ne	Qz
+moraju	morati	Vmr3p
+biti	biti	Van
+disjunktni	disjunktan	Agpmpny
 .	.	Z
 
-Sredinom	sredin	Sg
-decembra	decembar	Ncmsg
-2010.	2010.	Mdo
-
-Siemens	Siemens	Npmsn
-je	biti	Var3s
-objavio	objaviti	Vmp-sm
-prodaju	prodaja	Ncfsa
-Siemens	Siemens	Npmsn
-IT	IT	Npmsn
-Solutions	Solutions	Npmsn
-and	and	Xf
-Services	Services	Npmsn
-Atos	Atos	Npmsn
-Origin-u	Origin	Npmsd
+Kolekcije	kolekcija	Ncfpn
+se	sebe	Px--sa
+mogu	moći	Vmr3p
+formirati	formirati	Vmn
+i	i	Qo
+od	od	Sg
+drugih	drugi	Mlofpg
+kolekcija	kolekcija	Ncfpg
 .	.	Z
 
-Krajem	krajem	Sg
-marta	mart	Ncmsg
-,	,	Z
-Siemens	Siemens	Npmsn
-je	biti	Var3s
-objavio	objaviti	Vmp-sm
-nameru	namera	Ncfsa
-javne	javan	Agpfsgy
-ponude	ponuda	Ncfsg
-Osram	Osram	Sg
-divizije	divizija	Ncfsg
-za	za	Sa
-jesen	jesen	Ncfsa
-2011.	2011.	Mdo
-
-Kompanija	kompanija	Ncfsn
-namerava	nameravati	Vmr3s
-da	da	Cs
-ubuduće	ubuduće	Rgp
-zadrži	zadržati	Vmr3s
-manjinski	manjinski	Agpmsny
-akcionarski	akcionarski	Agpmsny
-udeo	udeo	Ncmsn
-Osram-a	Osram	Npmsg
+Pri	pri	Sl
+navođenju	navođenje	Ncnsl
+imena	ime	Ncnsg
+osoba	osoba	Ncfpg
+treba	trebati	Vmr3s
+voditi	voditi	Vmn
+računa	račun	Ncmsg
+o	o	Sl
+jasnom	jasan	Agpnsly
+razdvajanju	razdvajanje	Ncnsl
+imena	ime	Ncnsg
 i	i	Cc
-ostane	ostati	Vmr3s
-dugoročan	dugoročan	Agpmsann
-akcionar	akcionar	Ncmsan
+prezimena	prezime	Ncnsg
 .	.	Z
+
+Primeri	primer	Ncmpn
+obaveznih	obavezan	Agpnpgy
+imena	ime	Ncnpg
+(	(	Z
+kada	kada	Cs
+nema	nemati	Vmr3s
+prezimena	prezime	Ncnsg
+)	)	Z
+:	:	Z
+neimar	neimar	Ncfsn
+Rade	rada	Ncfsg
+,	,	Z
+Deli	Deli	Npmsn
+Radivoje	Radivoje	Npmsn
+.	.	Z
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Usvojeno_ime	usvojeno_ime	Ncnsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+tekst	tekst	Ncmsan
+
+Naziv	naziv	Ncmsn
+
+Usvojeno_ime	usvojeno_ime	Ncnsn
+.	.	Z
+ime	ime	Ncnsn
+
+Definicija	definicija	Ncfsn
+
+Ime	ime	Ncnsn
+osobe	osoba	Ncfsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ponavljanje	ponavljanje	Ncnsn
+podatka	podatak	Ncmsg
+u	u	Sl
+opisu	opis	Ncmsl
+
+Format	format	Ncmsn
+opisa	opis	Ncmsg
+
+Slobodan	slobodan	Agpmsnn
+tekst	tekst	Ncmsn
+
+Linkovi	link	Ncmpn
+
+Spisak	spisak	Ncmsn
+potpolja	potpolje	Ncnsg
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Ime	ime	Ncnsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+First	first	Ncfsn
+name	nama	Ncfsg
+
+Komentar	komentar	Ncmsn
+
+Potpolje	potpolja	Ncfpn
+polja	polje	Ncnsg
+Usvojeno_ime	usvojeno_ime	Ncnsn
+
+Naziv	naziv	Ncmsn
+
+Usvojeno_ime	usvojeno_ime	Ncnsn
+.	.	Z
+srednje_ime	srednje_ime	Ncnsn
+
+Definicija	definicija	Ncfsn
+
+Srednje	srednji	Agpnsny
+ime	ime	Ncnsn
+osobe	osoba	Ncfsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Srednje	srednji	Agpnsny
+ime	ime	Ncnsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Patronic	patronic	Ncfsn
+name	nama	Ncfsg
+
+Komentar	komentar	Ncmsn
+
+Potpolje	potpolja	Ncfpn
+polja	polje	Ncnsg
+Usvojeno_ime	usvojeno_ime	Ncnsn
+,	,	Z
+sadrži	sadržati	Vmr3s
+srednje	srednji	Agpnsay
+ime	ime	Ncnsa
+,	,	Z
+tj.	tj.	Y
+srednje	srednji	Agpnsny
+slovo	slovo	Ncnsn
+
+Naziv	naziv	Ncmsn
+
+Usvojeno_ime	usvojeno_ime	Ncnsn
+.	.	Z
+prezime	prezime	Ncnsn
+
+Definicija	definicija	Ncfsn
+
+Prezime	prezime	Ncnsn
+osobe	osoba	Ncfsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Verzija_imena	verzija_ime	Ncnsg
+
+Definicija	definicija	Ncfsn
+
+Verzija	verzija	Ncfsn
+imena	ime	Ncnsg
+osobe	osoba	Ncfsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ako	ako	Cs
+verzija	verzija	Ncfsn
+postoji	postojati	Vmr3s
+,	,	Z
+obavezno	obavezan	Agpnsny
+je	biti	Var3s
+uneti	uneti	Vmn
+bar	bar	Ncmsan
+jedno	jedan	Mlcnsn
+od	od	Sg
+potpolja	potpolje	Ncnpg
+Ime	ime	Ncnsn
+,	,	Z
+Prezime	prezime	Ncnsn
+
+Ponavljanje	ponavljanje	Ncnsn
+podatka	podatak	Ncmsg
+u	u	Sl
+opisu	opis	Ncmsl
+
+Moguće	moguć	Agpnsny
+
+Format	format	Ncmsn
+opisa	opis	Ncmsg
+
+Slobodan	slobodan	Agpmsnn
+tekst	tekst	Ncmsn
+
+Ime	ime	Ncnsn
+,	,	Z
+Srednje	srednji	Agpnsny
+ime	ime	Ncnsn
+,	,	Z
+Prezime	prezime	Ncnsn
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Ime	ime	Ncnsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Name	nam	Agpfpny
+
+Komentar	komentar	Ncmsn
+
+Može	moći	Vmr3s
+postojati	postojati	Vmn
+više	mnogo	Rgc
+verzija	verzija	Ncfpg
+(	(	Z
+inačica	inačica	Ncfsn
+)	)	Z
+imena	ime	Ncnsg
+osobe	osoba	Ncfsg
+.	.	Z
+
+Obaveznost	obaveznost	Ncfsn
+unosa	unos	Ncmsg
+potpolja	potpolj	Ncmpg
+je	biti	Var3s
+ista	isti	Agpfsny
+kao	kao	Cs
+kod	kod	Sg
+polja	polje	Ncnsg
+Usvojeno_ime	usvojeno_ime	Ncnsn
+.	.	Z
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Verzija_imena	verzija_ime	Ncnsg
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+tekst	tekst	Ncmsan
+
+Naziv	naziv	Ncmsn
+
+Verzija_imena	verzija_ime	Ncnsg
+.	.	Z
+ime	ime	Ncnsn
+
+Definicija	definicija	Ncfsn
+
+Verzija	verzija	Ncfsn
+imena	ime	Ncnsg
+osobe	osoba	Ncfsg
+
+Nadimak	nadimak	Ncmsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Nickname	nicknam	Agpfpny
+
+Komentar	komentar	Ncmsn
+
+Polje	polje	Ncnsn
+sadrži	sadržati	Vmr3s
+nadimak	nadimak	Ncmsan
+(	(	Z
+nadimke	nadimak	Ncmpa
+)	)	Z
+osobe	osoba	Ncfpa
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Datum_rođenja	datum_rođenje	Ncnsg
+
+Definicija	definicija	Ncfsn
+
+Datum	datum	Ncmsn
+rođenja	rođenje	Ncnsg
+osobe	osoba	Ncfsg
+,	,	Z
+moguće	moguć	Agpnsny
+je	biti	Var3s
+da	da	Cs
+nije	biti	Var3s
+precizno	precizno	Rgp
+poznat	poznat	Agpmsnn
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Ne	ne	Qz
+
+Format	format	Ncmsn
+opisa	opis	Ncmsg
+
+yyyy	yyyy	Npmsn
+[	[	Z
+-	-	Z
+mm	mm	I
+[	[	Z
+-	-	Z
+dd	dd	Ncmsn
+]	]	Z
+]	]	Z
+[	[	Z
+/	/	Z
+yyyy	yyyy	Ncfsn
+[	[	Z
+-	-	Z
+mm	mm	I
+[	[	Z
+-	-	Z
+dd	dd	Ncmsn
+]	]	Z
+]	]	Z
+]	]	Z
+
+Linkovi	link	Ncmpn
+
+Spisak	spisak	Ncmsn
+potpolja	potpolje	Ncnsg
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Datum	datum	Ncmsn
+rođenja	rođenje	Ncnsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Day	Day	Xf
+of	of	Xf
+birth	birth	Xf
+
+Komentar	komentar	Ncmsn
+
+Ako	ako	Cs
+je	biti	Var3s
+poznat	poznat	Agpmsnn
+tačan	tačan	Agpmsnn
+datum	datum	Ncmsn
+,	,	Z
+navodi	navoditi	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+formatu	format	Ncmsl
+yyyy-mm-dd	yyyy-mm-dd	Npfsl
+,	,	Z
+ako	ako	Cs
+se	sebe	Px--sa
+znaju	znati	Vmr3p
+samo	samo	Rgp
+godina	godina	Ncfpg
+i	i	Cc
+mesec	mesec	Ncmsan
+unosi	unositi	Vmr3s
+se	sebe	Px--sa
+yyyy-mm	yyyy-mm	Ncmsn
+.	.	Z
+
+Ako	ako	Cs
+se	sebe	Px--sa
+zna	znati	Vmr3s
+samo	samo	Rgp
+godina	godina	Ncfsn
+unosi	unositi	Vmr3s
+se	sebe	Px--sa
+yyyy	yyyyti	Vmr3s
+.	.	Z
+
+Ako	ako	Cs
+se	sebe	Px--sa
+zna	znati	Vmr3s
+samo	samo	Rgp
+opseg	opseg	Ncmsn
+u	u	Sl
+kojem	koji	Pi-msl
+se	sebe	Px--sa
+nalazi	nalaziti	Vmr3s
+datum	datum	Ncmsn
+koristi	koristiti	Vmr3s
+se	sebe	Px--sa
+/	/	Z
+pri	pri	Sl
+čemu	što	Pi3n-l
+za	za	Sa
+deo	deo	Ncmsan
+zapisa	zapis	Ncmsg
+iza	iza	Sg
+crte	crta	Ncfsg
+važe	vagati	Vmr3s
+ista	isti	Agpnpay
+pravila	pravilo	Ncnpa
+kao	kao	Cs
+i	i	Qo
+za	za	Sa
+deo	deo	Ncmsan
+pre	pre	Sg
+crte	crta	Ncfsg
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Datum_smrti	datum_smrt	Ncfpn
+
+Definicija	definicija	Ncfsn
+
+Biografije	biografija	Ncfpn
+mogu	moći	Vmr3p
+biti	biti	Van
+na	na	Sl
+Internetu	internet	Ncmsl
+,	,	Z
+ili	ili	Cc
+u	u	Sl
+klasičnim	klasičan	Agpnply
+izdanjima	izdanje	Ncnpl
+.	.	Z
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Link_biografija	link_biografija	Ncfpg
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+tekst	tekst	Ncmsan
+
+Naziv	naziv	Ncmsn
+
+Link_biografija	link_biografija	Ncfsn
+.	.	Z
+srpska_biografija	srpska_biografija	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Povezuje	povezivati	Vmr3s
+osobu	osoba	Ncfsa
+sa	sa	Si
+raspoloživim	raspoloživ	Agpfpiy
+biografijama	biografija	Ncfpi
+na	na	Sl
+srpskom	srpski	Agpmsly
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Izvori	izvor	Ncmpn
+u	u	Sl
+vezi	veza	Ncfsl
+sa	sa	Si
+osobom	osoba	Ncfsi
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Resources	Resources	Pq3n-a
+related	related	Sa
+to	taj	Pd-nsa
+the	the	Xf
+person	person	Xf
+
+Komentar	komentar	Ncmsn
+
+Izvori	izvor	Ncmpn
+mogu	moći	Vmr3p
+biti	biti	Van
+na	na	Sl
+Internetu	internet	Ncmsl
+,	,	Z
+ili	ili	Cc
+u	u	Sl
+klasičnim	klasičan	Agpmply
+oblicima	oblik	Ncmpl
+(	(	Z
+knjiga	knjiga	Ncfsn
+,	,	Z
+skulptura	skulptura	Ncfsn
+,	,	Z
+elektronski	elektronski	Agpmsny
+dokument	dokument	Ncmsn
+itd.	itd.	Y
+)	)	Z
+
+Naziv	naziv	Ncmsn
+
+Slika	slika	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Povezuje	povezivati	Vmr3s
+osobu	osoba	Ncfsa
+sa	sa	Si
+slikama	slika	Ncfpi
+(	(	Z
+portretima	portret	Ncmpi
+)	)	Z
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Linkovi	link	Ncmpn
+
+Spisak	spisak	Ncmsn
+potpolja	potpolje	Ncnsg
+
+Napomena_srpska	napomena_srpski	Agpfsny
+,	,	Z
+Napomena_engleska	Napomena_engleska	Npfsn
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Napomena	napomena	Ncfsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Note	nota	Ncfpn
+
+Komentar	komentar	Ncmsn
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Napomena	napomena	Ncfsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+tekst	tekst	Ncmsan
+.	.	Z
+
+Ovde	ovde	Rgp
+je	biti	Var3s
+moguće	moguć	Agpnsny
+nezavisno	nezavisan	Agpnsny
+zapisati	zapisati	Vmn
+biografiju	biografija	Ncfsa
+osobe	osoba	Ncfsg
+,	,	Z
+nevezano	nevezano	Rgp
+od	od	Sg
+linkova	link	Ncmpg
+na	na	Sa
+biografiju	biografija	Ncfsa
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Napomena	napomena	Ncfsn
+.	.	Z
+napomena_srpska	napomena_srpski	Agpfsny
+
+Definicija	definicija	Ncfsn
+
+Kreator	kreator	Ncmsn
+(	(	Z
+i	i	Cc
+)	)	Z
+zapisa	zapis	Ncmsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Record	Record	Npmsn
+creator	creator	Ncmsn
+(	(	Z
+s	sa	Si
+)	)	Z
+
+Komentar	komentar	Ncmsn
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+da	da	Cs
+ima	imati	Vmr3s
+i	i	Qo
+više	mnogo	Rgc
+kreatora	kreator	Ncmpg
+,	,	Z
+u	u	Sl
+kom	koji	Pi-msl
+slučaju	slučaj	Ncmsl
+se	sebe	Px--sa
+navode	navoditi	Vmr3p
+kao	kao	Cs
+spisak	spisak	Ncmsn
+razdvojen	razdvojiti	Appmsnn
+zarezom	zarez	Ncmsi
+.	.	Z
+
+Ne	ne	Qz
+ističu	isticati	Vmr3p
+se	sebe	Px--sa
+kao	kao	Cs
+osobe	osoba	Ncfpn
+koje	koji	Pi-fpn
+imaju	imati	Vmr3p
+intelektualni	intelektualan	Agpmsayn
+ili	ili	Cc
+neki	neki	Pi-msn
+drugi	drugi	Mlomsan
+doprinos	doprinos	Ncmsan
+u	u	Sl
+vezi	veza	Ncfsl
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+.	.	Z
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+navesti	navesti	Vmn
+ulogu	uloga	Ncfsa
+u	u	Sl
+kreiranju	kreiranje	Ncnsl
+pojedinih	pojedini	Agpmpgy
+delova	deo	Ncmpg
+zapisa	zapis	Ncmsg
+.	.	Z
+
+Na	na	Sa
+primer	primer	Ncmsan
+,	,	Z
+napisao	napisati	Vmp-sm
+je	biti	Var3s
+opis	opis	Ncmsan
+ili	ili	Cc
+preveo	prevesti	Vmp-sm
+na	na	Sa
+engleski	engleski	Agpmsayn
+itd.	itd.	Ncmsan
+
+Naziv	naziv	Ncmsn
+
+Vlasnik_zapisa	vlasnik_zapis	Ncmsg
+
+Definicija	definicija	Ncfsn
+
+Ime	ime	Ncnsn
+vlasnika	vlasnik	Ncmpg
+zapisa	zapis	Ncmsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Iz	iz	Sg
+podskupa	podskup	Ncmsg
+Vlasnici	vlasnik	Ncmpn
+i	i	Cc
+Institucije	institucija	Ncfpn
+,	,	Z
+skupa	skupa	Rgp
+kontrolisanih	kontrolisati	Agpmpgy
+termina	termin	Ncmpg
+
+Linkovi	link	Ncmpn
+
+Spisak	spisak	Ncmsn
+potpolja	potpolje	Ncnsg
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Vlasnik	vlasnik	Ncmsn
+zapisa	zapis	Ncmsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Record	record	Agpmsny
+owner	owner	Ncmsn
+
+Komentar	komentar	Ncmsn
+
+Polje	polje	Ncnsn
+može	moći	Vmr3s
+da	da	Cs
+sadrži	sadržati	Vmr3s
+samo	samo	Rgp
+predefinisana	predefinisan	Agpnpay
+imena	ime	Ncnpa
+iz	iz	Sg
+skupa	skupa	Rgp
+kontrolisanih	kontrolisati	Agpmpgy
+termina	termin	Ncmpg
+.	.	Z
+
+Identifikator	identifikator	Ncmsn
+,	,	Z
+Uloga	uloga	Ncfsn
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Član	član	Ncmsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Member	member	Ncfsn
+
+Komentar	komentar	Ncmsn
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Član	član	Ncmsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+podatke	podatak	Ncmpa
+.	.	Z
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+da	da	Cs
+nema	nemati	Vmr3s
+potrebe	potreba	Ncfsg
+za	za	Sa
+isticianjem	isticianje	Ncfpa
+članova	član	Ncmpg
+,	,	Z
+u	u	Sl
+kom	koji	Pi-msl
+slučaju	slučaj	Ncmsl
+se	sebe	Px--sa
+polje	polje	Ncnsn
+ne	ne	Qz
+piše	pisati	Vmr3s
+.	.	Z
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+da	da	Cs
+ima	imati	Vmr3s
+više	mnogo	Rgc
+članova	član	Ncmpg
+,	,	Z
+u	u	Sl
+kom	koji	Pi-msl
+slučaju	slučaj	Ncmsl
+se	sebe	Px--sa
+polje	polje	Ncnsn
+ponavlja	ponavljati	Vmr3s
+.	.	Z
+
+Član	član	Ncmsn
+može	moći	Vmr3s
+biti	biti	Van
+pojedinac	pojedinac	Ncmsn
+ili	ili	Cc
+grupa	grupa	Ncfsn
+osoba	osoba	Ncfpg
+.	.	Z
+
+Primer	primer	Ncmsn
+:	:	Z
+član	član	Ncmsn
+orkestra	orkestar	Ncmsg
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Član	član	Ncmsn
+.	.	Z
+identifikator	identifikator	Ncmsn
+
+Definicija	definicija	Ncfsn
+
+Identifikator	identifikator	Ncmsn
+člana	član	Ncmsg
+ili	ili	Cc
+grupe	grupa	Ncfsg
+članova	član	Ncmpg
+grupe	grupa	Ncfsg
+osoba	osoba	Ncfpg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Potpolje	potpolje	Ncnsn
+polja	polje	Ncnsg
+Član	član	Ncmsn
+.	.	Z
+
+Ispisuje	ispisivati	Vmr3s
+se	sebe	Px--sa
+ime	ime	Ncnsn
+osobe	osoba	Ncfsg
+ili	ili	Cc
+grupe	grupa	Ncfsg
+osoba	osoba	Ncfpg
+i	i	Cc
+linkovi	link	Ncmpn
+na	na	Sa
+odgovarajuće	odgovarajući	Agpmpay
+objekte	objekt	Ncmpa
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Član	član	Ncmsn
+.	.	Z
+uloga	uloga	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Uloga	uloga	Ncfsn
+člana	član	Ncmsg
+ili	ili	Cc
+grupe	grupa	Ncfsg
+članova	član	Ncmpg
+u	u	Sl
+grupi	grupa	Ncfsl
+osoba	osoba	Ncfpg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Širi	širok	Agcmsayn
+termin	termin	Ncmsan
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Broader	broader	Ncfsn
+term	tera	Ncfsg
+
+Komentar	komentar	Ncmsn
+
+Termin	termin	Ncmsn
+može	moći	Vmr3s
+imati	imati	Vmn
+više	mnogo	Rgc
+termina	termin	Ncmpg
+koji	koji	Pi-mpn
+ga	on	Pp3msa
+pojmnovno	pojmnovno	Rgp
+obuhvataju	obuhvatati	Vmr3p
+.	.	Z
+
+Primer	primer	Ncmsn
+:	:	Z
+Internet	internet	Ncmsn
+kao	kao	Cs
+šire	širok	Agcmpay
+termine	termin	Ncmpa
+može	moći	Vmr3s
+imati	imati	Vmn
+Komunikacije	komunikacija	Ncfpa
+,	,	Z
+Računar	Računar	Npmsn
+.	.	Z
+
+Ispisuje	ispisivati	Vmr3s
+se	sebe	Px--sa
+usvojeni	usvojen	Agpmsny
+oblik	oblik	Ncmsn
+termina	termin	Ncmpg
+i	i	Cc
+link	link	Ncmsan
+na	na	Sa
+njega	on	Pp3msa
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Termin_u_vezi	termin_u_veza	Ncfsl
+
+Definicija	definicija	Ncfsn
+
+Termin	termin	Ncmsn
+koji	koji	Pi-msn
+je	biti	Var3s
+povezan	povezati	Appmsnn
+po	po	Sl
+značenju	značenje	Ncnsl
+sa	sa	Si
+terminom	termin	Ncmsi
+koji	koji	Pi-msn
+se	sebe	Px--sa
+opisuje	opisivati	Vmr3s
+.	.	Z
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+naziv	naziv	Ncmsn
+koji	koji	Pi-msn
+odgovara	odgovarati	Vmr3s
+digitalizovanom	digitalizovati	Appmsly
+sadržaju	sadržaj	Ncmsl
+,	,	Z
+na	na	Sa
+primer	primer	Ncmsan
+leva	levati	Vmr3s
+strana	strana	Ncfsn
+predmeta	predmet	Ncmsg
+.	.	Z
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Ime	ime	Ncnsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+tekst	tekst	Ncmsan
+.	.	Z
+
+Obavezno	obavezan	Agpnsny
+je	biti	Var3s
+bar	bar	Rgp
+jedno	jedan	Mlcnsn
+od	od	Sg
+potpolja	potpolje	Ncnpg
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Ime	ime	Ncnsn
+.	.	Z
+ime_srpsko	ime_srpski	Agpnsny
+
+Definicija	definicija	Ncfsn
+
+Srpsko	srpski	Agpnsny
+ime	ime	Ncnsn
+pridruženo	pridružiti	Appnsny
+digitalnom	digitalan	Agpmsly
+dokumentu	dokument	Ncmsl
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Prezentacionu	prezentacioni	Agpfsay
+verziju	verzija	Ncfsa
+digitalnog	digitalan	Agpmsgy
+dokumenta	dokument	Ncmsg
+povezuje	povezivati	Vmr3s
+sa	sa	Si
+digitalizovanim	digitalizovati	Agpmpiy
+kulturnim	kulturan	Agpnsiy
+dobrom	dobro	Ncnsi
+koje	koji	Pi-mpa
+dokument	dokument	Ncmsan
+predstavlja	predstavljati	Vmr3s
+.	.	Z
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+da	da	Cs
+postoji	postojati	Vmr3s
+više	mnogo	Rgc
+digitalizovanih	digitalizovati	Appmpgy
+kulturnih	kulturan	Agpmpgy
+dobara	dobro	Ncmpg
+koje	koji	Pi-mpa
+dokument	dokument	Ncmsan
+predstavlja	predstavljati	Vmr3s
+.	.	Z
+
+Na	na	Sa
+primer	primer	Ncmsan
+,	,	Z
+na	na	Sl
+jednoj	jedan	Agpfsly
+fotografiji	fotografija	Ncfsl
+se	sebe	Px--sa
+nalaze	nalaziti	Vmr3p
+2	2	Mdc
+kulturna	kulturan	Agpnpay
+dobra	dobro	Ncnpa
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Napomena	napomena	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Format	format	Ncmsn
+(	(	Z
+i	i	Cc
+)	)	Z
+digitalnog	digitalan	Agpmsgy
+dokumenta	dokument	Ncmsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Digital	Digital	Xf
+document	document	Xf
+format	format	Ncmsan
+(	(	Z
+s	sa	Si
+)	)	Z
+
+Komentar	komentar	Ncmsn
 
 U	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-fiskalne	fiskalan	Agpfsgy
-2011	2011	Mdc
-,	,	Z
-sva	sav	Agpmsgy
-tri	tri	Mlc
-sektora	sektor	Ncmsg
+formi	forma	Ncfsl
+slobodnog	slobodan	Agpmsgy
+teksta	tekst	Ncmsg
+se	sebe	Px--sa
+navodi	navoditi	Vmr3s
+format	format	Ncmsn
+digitalnog	digitalan	Agpmsgy
+dokumenta	dokument	Ncmsg
+(	(	Z
+standardizovani	standardizovati	Appmpny
+nazivi	naziv	Ncmpn
+formata	format	Ncmsg
 -	-	Z
-Industrija	industrija	Ncfsn
+tiff	tiff	Rgp
 ,	,	Z
-Energija	energija	Ncfsn
-i	i	Cc
-Medicinska	medicinski	Agpfsny
-zaštita	zaštita	Ncfsn
-doprinela	doprineti	Vmp-sf
-su	biti	Var3p
-povećanju	povećanje	Ncnsl
-broja	broj	Ncmsg
-novih	nov	Agpfpgy
-narudžbi	narudžba	Ncfpg
-i	i	Cc
-prihoda	prihod	Ncmpg
+jpg	jpg	Ncmsn
+,	,	Z
+gif	gif	Ncmsn
+,	,	Z
+mpg	mi	Agpmsayy
+,	,	Z
+mp3	mp3	X
+;	;	Z
+rezolucija	rezolucija	Ncfsn
+audio	audio	Ncmsn
+ili	ili	Cc
+vizuelnog	vizuelan	Agpnsgy
+skeniranja	skeniranje	Ncnsg
+,	,	Z
+dubina	dubina	Ncfsn
+boja	boja	Ncfpg
+itd.	itd.	Y
+)	)	Z
 .	.	Z
 
-Sa	sa	Sg
-rekordnih	rekordan	Agpmpgy
-51	51	Mdc
-%	%	Z
-povećanjem	povećanje	Ncnsi
-novih	nov	Agpfpgy
-narudžbi	narudžba	Ncfpg
-,	,	Z
-sektor	sektor	Ncmsn
-energetike	energetika	Ncfsg
+Moguće	moguć	Agpnsny
 je	biti	Var3s
-bio	biti	Vap-sm
-vodeći	vodeći	Agpmsny
-pokretač	pokretač	Ncmsn
-rasta	rast	Ncmsg
+da	da	Cs
+postoji	postojati	Vmr3s
+više	mnogo	Rgc
+formata	format	Ncmpg
+dokumenta	dokument	Ncmsg
+koji	koji	Pi-mpn
+ulaze	ulaziti	Vmr3p
+u	u	Sa
+pezentaciju	pezentacija	Ncfsa
+,	,	Z
+u	u	Sl
+kom	koji	Pi-msl
+slučaju	slučaj	Ncmsl
+se	sebe	Px--sa
+navode	navoditi	Vmr3p
+redom	red	Ncmsi
+,	,	Z
+razdvojeni	razdvojiti	Appmpny
+zarezom	zarez	Ncmsi
 .	.	Z
 
-Sektor	sektor	Ncmsn
+Ako	ako	Cs
+postoji	postojati	Vmr3s
+razlika	razlika	Ncfsn
+između	između	Sg
+arhivske	arhivski	Agpfsgy
+i	i	Cc
+prezentacione	prezentacioni	Agpfpay
+verzije	verzija	Ncfpa
+digitalnog	digitalan	Agpmsgy
+dokumenta	dokument	Ncmsg
+navode	navoditi	Vmr3p
+se	sebe	Px--sa
+formati	format	Ncmpn
+i	i	Cc
+jedne	jedan	Agpfpny
+i	i	Cc
+druge	drugi	Mlofpa
+verzije	verzija	Ncfpa
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Veličina	veličina	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Dimenzije	dimenzija	Ncfpn
+digitalnog	digitalan	Agpmsgy
+dokumenta	dokument	Ncmsg
+u	u	Sl
+bajtima	bajt	Ncmpl
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Autorska	autorski	Agpnpay
+prava	pravo	Ncnpa
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Rights	Rights	Pq-mpn
+
+Komentar	komentar	Ncmsn
+
+Na	na	Sa
+primer	primer	Ncmsan
+,	,	Z
+vlasnik	vlasnik	Ncmsn
+Copyright-a	Copyright	Npmsg
+,	,	Z
+(	(	Z
+nije	biti	Var3s
+)	)	Z
+dozvoljeno	dozvoliti	Appnsny
+profitabilno	profitabilan	Agpnsny
+korišćenje	korišćenje	Ncnsn
+,	,	Z
+korišćenje	korišćenje	Ncnsa
+samo	samo	Rgp
+u	u	Sl
+celini	celina	Ncfsl
+sa	sa	Si
+napomenom	napomena	Ncfsi
+o	o	Sl
+poreklu	poreklo	Ncnsl
+itd.	itd.	Y
+
+Lokacija	lokacija	Ncfsn
+arhivskog	arhivski	Agpmsgy
+digitalnog	digitalan	Agpmsgy
+dokumenta	dokument	Ncmsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Archive	archiv	Agpfpny
+location	location	Xf
+
+Komentar	komentar	Ncmsn
+
+Moguće	moguć	Agpnsny
 je	biti	Var3s
-profitirao	profitirati	Vmp-sm
+da	da	Cs
+postoji	postojati	Vmr3s
+više	mnogo	Rgc
+kipoja	kipoj	Ncmpg
+arhivske	arhivski	Agpfsgy
+verzije	verzija	Ncfsg
+digitalnog	digitalan	Agpmsgy
+dokumenta	dokument	Ncmsg
+.	.	Z
+
+Može	moći	Vmr3s
+biti	biti	Van
+dato	dati	Appnsny
+kao	kao	Cs
+URL	url	Ncmsn
+ili	ili	Cc
+URN	URN	Npmsn
+(	(	Z
+universal	universal	Xf
+resource	resource	Xf
+name	name	Xf
+)	)	Z
+
+Naziv	naziv	Ncmsn
+
+Vlasnik_digitalnog_dokumenta	vlasnik_digitalnog_dokument	Ncmsg
+
+Definicija	definicija	Ncfsn
+
+Ime	ime	Ncnsn
+vlasnika	vlasnik	Ncmpg
+dokumenta	dokument	Ncmsg
+koji	koji	Pi-msn
+predstavlja	predstavljati	Vmr3s
+digitalizovano	digitalizovati	Agpnsay
+kulturno	kulturan	Agpnsny
+dobro	dobro	Ncnsn
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Ime	ime	Ncnsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+tekst	tekst	Ncmsan
+.	.	Z
+
+Obavezno	obavezan	Agpnsny
+je	biti	Var3s
+bar	bar	Rgp
+jedno	jedan	Mlcnsn
+od	od	Sg
+potpolja	potpolje	Ncnpg
+.	.	Z
+
+Ako	ako	Cs
+je	biti	Var3s
+originalno	originalan	Agpnsny
+ime	ime	Ncnsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+na	na	Sl
+savremenom	savremen	Agpmsly
+srpskom	srpski	Agpmsly
+ili	ili	Cc
+engleskom	engleski	Agpmsly
+,	,	Z
+upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+u	u	Sa
+potpolje	potpolje	Ncnsa
+ime_originalno	ime_originalno	Rgp
+,	,	Z
+a	a	Cc
+ne	ne	Qz
+u	u	Sa
+ime_srpsko	ime_srpski	Agpnsay
+,	,	Z
+odnosno	odnosno	Rgp
+u	u	Sa
+ime_englesko	ime_engleski	Agpnsay
+
+Naziv	naziv	Ncmsn
+
+Ime	ime	Ncnsn
+.	.	Z
+ime_originalno	ime_originalan	Agpnsny
+
+Definicija	definicija	Ncfsn
+
+Originalno	originalan	Agpnsny
+ime	ime	Ncnsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Predmetna	predmetni	Agpfsny
+odrednica	odrednica	Ncfsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Subject	Subject	Npmsn
+
+Komentar	komentar	Ncmsn
+
+Predmetne	predmetni	Agpfpny
+odrednice	odrednica	Ncfpn
+,	,	Z
+odnosno	odnosno	Rgp
+ključne	ključan	Agpfpay
+reči	reč	Ncfpa
+iz	iz	Sg
+kontrolisanog	kontrolisati	Agpmsgy
+rečnika	rečnik	Ncmsg
+.	.	Z
+
+Može	moći	Vmr3s
+ih	oni	Pp3-pa
+biti	biti	Van
+više	mnogo	Rgc
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Klasifikacija	klasifikacija	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Oznaka	oznaka	Ncfsn
+klasifikacije	klasifikacija	Ncfsg
+prema	prema	Sl
+kojoj	koji	Pi-fsl
+se	sebe	Px--sa
+vršu	vrša	Vmr3p
+klasifikacija	klasifikacija	Ncfsn
+originalnog	originalan	Agpnsgy
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Objekt	objekt	Ncmsn
+može	moći	Vmr3s
+biti	biti	Van
+proglašen	proglasiti	Appmsnn
+za	za	Sa
+kulturno	kulturan	Agpnsay
+dobro	dobro	Ncnsa
+,	,	Z
+može	moći	Vmr3s
+biti	biti	Van
+kategorisan	kategorisati	Appmsnn
+i	i	Cc
+može	moći	Vmr3s
+biti	biti	Van
+na	na	Sl
+listi	lista	Ncfsl
+UNESCO	UNESCO	Npmsn
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+podatke	podatak	Ncmpa
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Kategorija	kategorija	Ncfsn
+.	.	Z
+
+Datum_proglašenja	datum_proglašenje	Ncnsg
+
+Definicija	definicija	Ncfsn
+
+Datum	datum	Ncmsn
+proglašenja	proglašenje	Ncnsg
+za	za	Sa
+nacionalno	nacionalan	Agpnsay
+kulturno	kulturan	Agpnsay
+dobro	dobro	Ncnsa
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Kategorija	kategorija	Ncfsn
+može	moći	Vmr3s
+biti	biti	Van
+:	:	Z
+nije	biti	Var3s
+proglašeno	proglašen	Agpnsny
+za	za	Sa
+kulturno	kulturan	Agpnsay
+dobro	dobro	Ncnsa
+,	,	Z
+proglašeno	proglašen	Agpnsny
+ali	ali	Cc
+nekategorisano	nekategorisan	Agpnsny
+,	,	Z
+od	od	Sg
+izuzetnog	izuzetan	Agpmsgy
+značaja	značaj	Ncmsg
+A	a	Cc
+,	,	Z
 od	od	Sg
 velikog	velik	Agpmsgy
-broja	broj	Ncmsg
-narudžbi	narudžba	Ncfpg
-za	za	Sa
-elektrane	elektrana	Ncfpa
-na	na	Sa
-fosilna	fosilan	Agpnpay
-goriva	gorivo	Ncnpa
+značaja	značaj	Ncmsg
+B	B	Npfsg
 ,	,	Z
-elektrane	elektrana	Ncfsg
-na	na	Sa
-pogon	pogon	Ncmsan
-vetra	vetar	Ncmsg
-i	i	Cc
-sisteme	sistem	Ncmpa
-za	za	Sa
-prenos	prenos	Ncmsan
-električne	električan	Agpfsgy
-energije	energija	Ncfsg
+od	od	Sg
+značaja	značaj	Ncmsg
+C	C	X
+
+Naziv	naziv	Ncmsn
+
+Kategorija	kategorija	Ncfsn
 .	.	Z
 
-Prihod	prihod	Ncmsn
-sektora	sektor	Ncmsg
-energetika	energetika	Ncfsn
+Datum_nacionalne_kategorizacije	datum_nacionalne_kategorizacija	Ncfpn
+
+Definicija	definicija	Ncfsn
+
+Datum	datum	Ncmsn
+kada	kada	Cs
+je	biti	Var3s
+izvršena	izvršiti	Appfsny
+nacionalna	nacionalan	Agpfsny
+kategorizacija	kategorizacija	Ncfsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Rešenje	rešenje	Ncnsn
+o	o	Sl
+kategorisanju	kategorisanje	Ncnsl
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Decision	Decision	Xf
+for	for	Xf
+the	the	Xf
+national	national	Xf
+categorization	categorization	Xf
+
+Komentar	komentar	Ncmsn
+
+Broj	broj	Ncmsn
+rešenja	rešenje	Ncnsg
+i	i	Cc
+gde	gde	Rgp
+je	biti	Var3s
+objavljeno	objaviti	Appnsny
+
+Naziv	naziv	Ncmsn
+
+Kategorija	kategorija	Ncfsn
+.	.	Z
+
+Proglašavač_kategorije	proglašavač_kategorija	Ncfpn
+
+Definicija	definicija	Ncfsn
+
+Ko	tko	Pi3m-n
+je	biti	Var3s
+doneo	doneti	Vmp-sm
+rešenje	rešenje	Ncnsa
+prema	prema	Sl
+kome	tko	Pq3m-d
+je	biti	Var3s
+objekat	objekat	Ncmsn
+kategorisan	kategorisati	Appmsnn
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Kategorija	kategorija	Ncfsn
+,	,	Z
+Datum	datum	Ncmsn
+,	,	Z
+Rešenje	rešenje	Ncnsn
+,	,	Z
+Proglašavač	Proglašavač	Npmsn
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Internacionalna	internacionalan	Agpfsny
+kategorija	kategorija	Ncfsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+International	International	Npmsn
+category	category	Xf
+of	of	Xf
+the	the	Xf
+cultural	cultural	Xf
+monument	monument	Ncmsn
+
+Komentar	komentar	Ncmsn
+
+Obavezno	obavezno	Rgp
 se	sebe	Px--sa
-popeo	popeti	Vmp-sm
-za	za	Sa
-8	8	Mdc
-%	%	Z
+upisuje	upisivati	Vmr3s
+ako	ako	Cs
+postoji	postojati	Vmr3s
+međunarodna	međunarodni	Agpfsny
+kategorija	kategorija	Ncfsn
+objekta	objekt	Ncmsg
 .	.	Z
 
-Porast	porast	Ncmsn
-narudžbi	narudžba	Ncfpg
-u	u	Sl
-Industrijskom	industrijski	Agpmsly
-sektoru	sektor	Ncmsl
-je	biti	Var3s
-takođe	također	Rgp
-dvocifren	dvocifren	Agpmsnn
-i	i	Cc
-iznosi	iznositi	Vmr3s
-22	22	Mdc
-%	%	Z
-.	.	Z
+Kategorija	kategorija	Ncfsn
+može	moći	Vmr3s
+biti	biti	Van
+:	:	Z
+UNESCO	UNESCO	Npmsn
+World	World	Xf
+Heritage	Heritage	Xf
+List	list	Ncmsn
+...	...	Z
 
-Prihod	prihod	Ncmsn
-u	u	Sl
-Industrijskom	industrijski	Agpmsly
-sektoru	sektor	Ncmsl
-porastao	porasti	Vmp-sm
-je	biti	Var3s
-za	za	Sa
-9	9	Mdc
-%	%	Z
-.	.	Z
-
-Najveće	velik	Agpfpny
-nove	nov	Agpfpny
-narudžbine	narudžbina	Ncfpn
-realizovane	realizovati	Appfpny
-su	biti	Var3p
-u	u	Sa
-domenu	domena	Ncfsa
-industrijske	industrijski	Agpfsgy
-automatizacije	automatizacija	Ncfsg
-,	,	Z
-pogonskih	pogonski	Agpfpgy
-tehnologija	tehnologija	Ncfpg
-i	i	Cc
-saobraćajnih	saobraćajni	Agpmpgy
-sistema	sistem	Ncmpg
-.	.	Z
-
-U	u	Sl
-sektoru	sektor	Ncmsl
-zdravstvene	zdravstven	Agpfsgy
-zaštite	zaštita	Ncfsg
-broj	broj	Ncmsn
-novih	nov	Agpfpgy
-narudžbina	narudžbina	Ncfpg
-je	biti	Var3s
-porastao	porasti	Vmp-sm
-za	za	Sa
-6	6	Mdc
-%	%	Z
-,	,	Z
-dok	dok	Cs
-su	biti	Var3p
-prihodi	prihod	Ncmpn
-porasli	porasti	Vmp-pm
-za	za	Sa
-5	5	Mdc
-%	%	Z
-.	.	Z
-
-Ukupan	ukupan	Agpmsnn
-profit	profit	Ncmsn
-svih	sav	Agpmpgy
-sektora	sektor	Ncmpg
-je	biti	Var3s
-udvostručen	udvostručiti	Appmsnn
-u	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-dostigavši	dostići	Rr
-3.7	3.7	Mdc
-mlrd	mlrd	Agpmsayn
-EUR	EUR	Npmsan
-,	,	Z
-uz	uz	Sa
-najveći	velik	Agsmsayn
-doprinos	doprinos	Ncmsan
-sektora	sektor	Ncmsg
-Energetike	energetika	Ncfsg
-.	.	Z
-
-Profit	profit	Ncmsn
-sektora	sektor	Ncmsg
-energetika	energetika	Ncfsn
-od	od	Sg
-2,4	2,4	Mdc
-mlrd	mlrd	Ncmsg
-EUR	EUR	Npmsn
-u	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-obuhvata	obuhvatati	Vmr3s
-1.5	1.5	Mdc
-mlrd	mlrd	Ncmpg
-EUR	EUR	Npmsn
-profita	profit	Ncmsg
-pre	pre	Sg
-oporezivanja	oporezivanje	Ncnsg
-od	od	Sg
-prodaje	prodaja	Ncfsg
-34	34	Mdc
-%	%	Z
-učešća	učešće	Ncnsg
-u	u	Sl
-Areva	Arev	Npmsl
-SA	sa	Si
-,	,	Z
-što	što	Pi3n-n
-je	biti	Var3s
-gotovo	gotovo	Rgp
-trostruko	trostruko	Rgp
-više	mnogo	Rgc
-u	u	Sl
-odnosu	odnos	Ncmsl
-na	na	Sa
-rezultat	rezultat	Ncmsan
-ostvaren	ostvariti	Appmsnn
-u	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-2010.	2010.	Mdo
-
-Zahvaljujući	zahvaljivati	Rr
-porastu	porast	Ncmsd
-dobiti	dobit	Ncfsg
-svih	sav	Agpmpgy
-sektora	sektor	Ncmpg
-,	,	Z
-rezultat	rezultat	Ncmsn
-iz	iz	Sg
-redovnog	redovan	Agpnsgy
-poslovanja	poslovanje	Ncnsg
-povećan	povećati	Appmsnn
-je	biti	Var3s
-za	za	Sa
-122	122	Mdc
-%	%	Z
-,	,	Z
-na	na	Sa
-3.2	3.2	Mdc
-mlrd	mlrd	Ncmsl
-EUR	EUR	Npmsn
-.	.	Z
-
-Rezultat	rezultat	Ncmsn
-iz	iz	Sg
-poslovanja	poslovanje	Ncnsg
-koje	koji	Pi-nsn
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
 ne	ne	Qz
-spada	spadati	Vmr3s
-u	u	Sa
-redovno	redovan	Agpnsay
-u	u	Sl
-izveštajnom	izveštajni	Agpmsly
-periodu	period	Ncmsl
-je	biti	Var3s
-bio	biti	Vap-sm
-negativan	negativan	Agpmsnn
-338	338	Mdc
-mil	mi	Ncmpg
-EUR	EUR	Npmsn
+sadrži	sadržati	Vmr3s
+podatke	podatak	Ncmpa
 .	.	Z
 
-Osram	Osram	Npmsn
+Slobodan	slobodan	Agpmsnn
+tekst	tekst	Ncmsn
+,	,	Z
+Link	link	Ncmsn
+na	na	Sa
+međunarodnu	međunarodni	Agpfsay
+listu	lista	Ncfsa
+u	u	Sl
+kojoj	koji	Pi-fsl
 je	biti	Var3s
-u	u	Sl
-drugom	drugi	Mlomsl
-kvartalu	kvartal	Ncmsl
-zabeležio	zabeležiti	Vmp-sm
-87	87	Mdc
-mil	mi	Ncmpg
-EUR	EUR	Ncmsan
-neto	neto	Agpfsgy
-dobiti	dobit	Ncfsg
-zahvaljujući	zahvaljivati	Si
-povećanim	povećan	Agpmpiy
-prihodima	prihod	Ncmpi
-u	u	Sl
-svim	sav	Agpfply
-poslovnim	poslovan	Agpfply
-jedinicama	jedinica	Ncfpl
+objekat	objekat	Ncmsn
+kategorisan	kategorisati	Appmsnn
+
+Linkovi	link	Ncmpn
+
+Spisak	spisak	Ncmsn
+potpolja	potpolje	Ncnsg
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Rešenje	rešenje	Ncnsn
+o	o	Sl
+internacionalnom	internacionalan	Agpmsly
+kategorisanju	kategorisanj	Ncmsl
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Komentar	komentar	Ncmsn
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+ako	ako	Cs
+je	biti	Var3s
+objekat	objekat	Ncmsn
+kategorisan	kategorisati	Appmsnn
+,	,	Z
+Broj	broj	Ncmsn
+rešenja	rešenje	Ncnsg
 i	i	Cc
-regijama	regija	Ncfpl
-.	.	Z
-
-Sa	sa	Sg
-druge	drugi	Mlofsg
-strane	strana	Ncfsg
-,	,	Z
-Siemens	Siemens	Npmsn
-IT	IT	Npmsn
-Solutions	Solutions	Npmsn
-and	and	Sg
-Services	Services	Npfsg
-,	,	Z
+gde	gde	Rgp
 je	biti	Var3s
-zabeležio	zabeležiti	Vmp-sm
-gubitak	gubitak	Ncmsan
-posle	posle	Sg
-oporezivanja	oporezivanje	Ncnsg
-u	u	Sl
-iznosu	iznos	Ncmsl
-345	345	Mdc
-mil	mi	Ncmpg
-EUR	EUR	Npmsn
+objavljeno	objaviti	Appnsny
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
 .	.	Z
 
-Ova	ovaj	Pd-fsn
-brojka	brojka	Ncfsn
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Datum_mesto	datum_mesto	Ncnsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+podatke	podatak	Ncmpa
+.	.	Z
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+da	da	Cs
+podaci	podatak	Ncmpn
+o	o	Sl
+datumu	datum	Ncmsl
+i	i	Cc
+mestu	mesto	Ncnsl
+nisi	biti	Var2s
+poznati	poznati	Vmn
+,	,	Z
+u	u	Sl
+kom	koji	Pi-msl
+slučaju	slučaj	Ncmsl
+se	sebe	Px--sa
+polje	polje	Ncnsn
+ne	ne	Qz
+piše	pisati	Vmr3s
+.	.	Z
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+razlikovati	razlikovati	Vmn
+datum	datum	Ncmsan
+/	/	Z
+mesto	mesto	Ncnsa
+nastanka	nastanak	Ncmsg
+,	,	Z
+recimo	reći	Vmm1p
+pisanja	pisanje	Ncnsg
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+,	,	Z
+i	i	Cc
+datum	datum	Ncmsan
+/	/	Z
+mesto	mesto	Sg
+prvog	prvi	Agpnsgy
+štampanja	štampanje	Ncnsg
+koji	koji	Pi-msn
+se	sebe	Px--sa
+onda	onda	Rgp
+vodi	voditi	Vmr3s
+kao	kao	Cs
+datum	datum	Ncmsan
+/	/	Z
+mesto	mesto	Sg
+verzije	verzija	Ncfsg
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Datum_mesto	datum_mesto	Ncnsn
+.	.	Z
+datum_nastanka	datum_nastanak	Ncmsg
+
+Definicija	definicija	Ncfsn
+
+Datum	datum	Ncmsan
+nastanka	nastanak	Ncmsg
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Kod	kod	Sg
+kulturnih	kulturan	Agpnpgy
+dobara	dobro	Ncnpg
+koja	koji	Pi-npn
+se	sebe	Px--sa
+štampaju	štampati	Vmr3p
+može	moći	Vmr3s
+se	sebe	Px--sa
+odnositi	odnositi	Vmn
+na	na	Sa
+mesto	mesto	Ncnsa
+nastanka	nastanak	Ncmsg
+ili	ili	Cc
+mesto	mesto	Ncnsa
+štampanja	štampanje	Ncnsg
+,	,	Z
+tj.	tji	Agpnsny
+mesto	mesto	Ncnsn
+nastanka	nastanak	Ncmsg
+štampane	štampati	Agpfsgy
+verzije	verzija	Ncfsg
+dobra	dobar	Agpfsny
+.	.	Z
+
+Opisuje	opisivati	Vmr3s
+je	biti	Var3s
+se	sebe	Px--sa
+o	o	Sl
+kakvoj	kakav	Pi-fsl
+verziji	verzija	Ncfsl
+je	biti	Var3s
+reč	reč	Ncfsn
+:	:	Z
+posebno	poseban	Agpnsny
+izdanje	izdanje	Ncnsn
+,	,	Z
+varijanta	varijanta	Ncfsn
+dela	deo	Ncmsg
+,	,	Z
+...	...	Z
+
+Naziv	naziv	Ncmsn
+
+Datum_mesto	datum_mesto	Ncnsn
+.	.	Z
+verzija	verzija	Ncfsn
+.	.	Z
+datum_verzije	datum_verzija	Ncfsg
+
+Definicija	definicija	Ncfsn
+
+Datum	datum	Ncmsn
+nastanka	nastanak	Ncmsg
+verzije	verzija	Ncfsg
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Naziv	naziv	Ncmsn
+dimenzije	dimenzija	Ncfsg
+,	,	Z
+fizička	fizički	Agpfsny
+dimenzija	dimenzija	Ncfsn
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Dimenzije	dimenzija	Ncfpn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Dimension	Dimension	Xf
+
+Komentar	komentar	Ncmsn
+
+Odnosi	odnositi	Vmr3s
+se	sebe	Px--sa
+na	na	Sa
+originalno	originalan	Agpnsay
+kulturno	kulturan	Agpnsay
+dobro	dobro	Ncnsa
+,	,	Z
+ne	ne	Qz
+na	na	Sa
+digitalizovanu	digitalizovati	Appfsay
+reprezentaciju	reprezentacija	Ncfsa
+.	.	Z
+
+Upisuje	upisivati	Vmr3s
+sae	saa	Ncfpa
+kao	kao	Cs
+potpolja	potpolja	Ncfsn
+.	.	Z
+
+Ako	ako	Cs
+je	biti	Var3s
+kulturno	kulturan	Agpnsny
+dobro	dobro	Ncnsn
+elektronsko	elektronski	Agpnsny
+,	,	Z
+onda	onda	Rgp
+dimenzija	dimenzija	Ncfsn
 uključuje	uključivati	Vmr3s
-obezvređenja	obezvređenje	Ncnpa
-pre	pre	Sg
-poreza	porez	Ncmsg
-u	u	Sl
-iznosu	iznos	Ncmsl
-464	464	Mdc
-mil	mi	Ncmpg
-EUR	EUR	Npmsn
+i	i	Qo
+memorijsku	memorijski	Agpfsay
+veličinu	veličina	Ncfsa
 .	.	Z
 
-Siemens-ov	Siemens-ov	Pd-nsn
-neto	neto	Agpmsny
-rezultat	rezultat	Ncmsn
+Naziv	naziv	Ncmsn
+
+Dimenzija	dimenzija	Ncfsn
+.	.	Z
+naziv_dimenzije	naziv_dimenzija	Ncfsg
+
+Definicija	definicija	Ncfsn
+
+Ime	ime	Ncnsn
+dimenzije	dimenzija	Ncfsg
+originalnog	originalan	Agpnsgy
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Vrednost	vrednost	Ncfsn
+fizičke	fizički	Agpfsgy
+dimenzije	dimenzija	Ncfsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Value	Value	Xf
+of	of	Xf
+dimension	dimension	Xf
+
+Komentar	komentar	Ncmsn
+
+Naziv	naziv	Ncmsn
+
+Materijal	materijal	Ncmsn
+
+Definicija	definicija	Ncfsn
+
+Materijal	materijal	Ncmsn
+od	od	Sg
+koga	tko	Pi3m-g
 je	biti	Var3s
-iznosio	iznositi	Vmp-sm
-2.8	2.8	Mdc
-mlrd	mlrd	Agpmsayn
-EUR	EUR	Npmsan
-dok	dok	Cs
+napravljeno	napraviti	Appnsny
+originalno	originalan	Agpnsny
+kulturno	kulturan	Agpnsny
+dobro	dobro	Ncnsn
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Materijal	materijal	Ncmsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Material	Material	Npmsn
+
+Komentar	komentar	Ncmsn
+
+Moguće	moguć	Agpnsny
+je	biti	Var3s
+da	da	Cs
+je	biti	Var3s
+kulturno	kulturan	Agpnsny
+dobro	dobro	Rgp
+sastavljeno	sastaviti	Appnsny
+od	od	Sg
+više	mnogo	Rgc
+materijala	materijal	Ncmpg
+(	(	Z
+recimo	reći	Vmm1p
+kamen	kamen	Ncmsn
+i	i	Cc
+staklo	staklo	Ncnsa
+)	)	Z
+,	,	Z
+tako	tako	Cs
+da	da	Cs
+je	biti	Var3s
+polje	polje	Ncnsn
+ponovljivo	ponovljiv	Agpnsny
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Tip	tip	Ncmsn
+
+Definicija	definicija	Ncfsn
+
+Tip	tip	Ncmsn
+originalnog	originalan	Agpnsgy
+kulturnor	kulturnor	Agpnsgy
+dobra	dobro	Ncnsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Da	da	Cs
+
+Tip	tip	Ncmsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Type	typa	Ncfpn
+
+Komentar	komentar	Ncmsn
+
+Tip	tip	Ncmsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+treba	trebati	Vmr3s
+da	da	Cs
 je	biti	Var3s
 u	u	Sl
-uporedivom	uporediv	Agpmsly
-periodu	period	Ncmsl
-prethodne	prethodan	Agpfsgy
-godine	godina	Ncfsg
-iznosio	iznositi	Vmp-sm
-1.5	1.5	Mdc
-mlrd	mlrd	Xf
-EUR	EUR	Xf
+skladu	sklad	Ncmsl
+sa	sa	Si
+standardnom	standardan	Agpfsiy
+klasifikacijom	klasifikacija	Ncfsi
 .	.	Z
-06.05.2011.	06.05.2011.	Mdo
+
+Može	moći	Vmr3s
+biti	biti	Van
+(	(	Z
+tekst	tekst	Ncmsn
+,	,	Z
+slika	slika	Ncfsn
+,	,	Z
+ploča	ploča	Ncfsn
+,	,	Z
+skulptura	skulptura	Ncfsn
+,	,	Z
+elektronski	elektronski	Agpmsny
+dokument	dokument	Ncmsn
+itd.	itd.	Y
+)	)	Z
+
+Širi	širok	Agcmsayn
+objekt	objekt	Ncmsan
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Broader	Broader	Xf
+object	object	Xf
+
+Komentar	komentar	Ncmsn
+
+Objekt	objekt	Ncmsn
+može	moći	Vmr3s
+imati	imati	Vmn
+više	mnogo	Rgc
+drugih	drugi	Mlompg
+objekata	objekt	Ncmpg
+koji	koji	Pi-mpn
+ga	on	Pp3msa
+pojmnovno	pojmnovno	Rgp
+obuhvataju	obuhvatati	Vmr3p
+.	.	Z
+
+Primer	primer	Ncmsn
+:	:	Z
+ako	ako	Cs
+je	biti	Var3s
+objekt	objekt	Ncmsn
+detalj	detalj	Ncmsn
+rukopisne	rukopisni	Agpfsgy
+knjige	knjiga	Ncfsg
+,	,	Z
+zavisno	zavisno	Rgp
+od	od	Sg
+organizacije	organizacija	Ncfsg
+nadređeni	nadrediti	Agpmsny
+objekt	objekt	Ncmsn
+može	moći	Vmr3s
+biti	biti	Van
+stranica	stranica	Ncfsn
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+cela	cel	Agpfsny
+knjiga	knjiga	Ncfsn
+.	.	Z
+
+Ispisuje	ispisivati	Vmr3s
+se	sebe	Px--sa
+naziv	naziv	Ncmsn
+objekta	objekt	Ncmsg
+i	i	Cc
+link	link	Ncmsan
+na	na	Sa
+njega	on	Pp3msa
+.	.	Z
+
+Tip_veze	tip_veza	Ncfpa
+,	,	Z
+Identifikator	identifikator	Ncmsn
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Objekt	objekt	Ncmsn
+u	u	Sl
+vezi	veza	Ncfsl
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Related	Related	Xf
+object	object	Xf
+
+Komentar	komentar	Ncmsn
+
+Objekt	objekt	Ncmsn
+može	moći	Vmr3s
+imati	imati	Vmn
+više	mnogo	Rgc
+objekata	objekt	Ncmpg
+koji	koji	Pi-mpn
+su	biti	Var3p
+sa	sa	Si
+njim	on	Pp3msi
+u	u	Sl
+vezi	veza	Ncfsl
+.	.	Z
+
+Tip	tip	Ncmsn
+veze	veza	Ncfsg
+i	i	Cc
+identifikacija	identifikacija	Ncfsn
+se	sebe	Px--sa
+opisuju	opisivati	Vmr3p
+potpoljima	potpolj	Ncmpi
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+nema	nemati	Vmr3s
+sadržaj	sadržaj	Ncmsan
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Objekt_u_vezi	objekt_u_veza	Ncfsl
+.	.	Z
+tip_veze	tip_veza	Ncfpn
+
+Definicija	definicija	Ncfsn
+
+Tip	tip	Ncmsn
+veze	veza	Ncfsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Type	Type	Xf
+of	of	Xf
+relation	relation	Xf
+
+Komentar	komentar	Ncmsn
+
+Potpolje	potpolja	Ncfpn
+polja	polje	Ncnsg
+Objekt_u_vezi	objekt_u_veza	Ncfsl
+.	.	Z
+
+Recimo	reći	Vmm1p
+više	mnogo	Rgc
+obrada	obrada	Ncfpg
+istog	isti	Agpmsgy
+dokumenta	dokument	Ncmsg
+,	,	Z
+ili	ili	Cc
+druga	drugi	Mlonpa
+poglavlja	poglavlje	Ncnpa
+iste	isti	Agpfsgy
+knjige	knjiga	Ncfsg
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Objekt_u_vezi	objekt_u_veza	Ncfsl
+.	.	Z
+identifikator	identifikator	Ncmsn
+
+Definicija	definicija	Ncfsn
+
+Upisuje	upisivati	Vmr3s
+se	sebe	Px--sa
+samo	samo	Rgp
+kao	kao	Cs
+potpolje	potpoivati	Vmr3s
+ili	ili	Cc
+potpolja	potpolje	Ncnsg
+.	.	Z
+
+Samo	sam	Agpnsny
+polje	polje	Ncnsn
+Istorijat	istorijat	Ncmsn
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+tekst	tekst	Ncmsan
+.	.	Z
+
+Istorijat	istorijat	Ncmsn
+se	sebe	Px--sa
+odnosi	odnositi	Vmr3s
+na	na	Sa
+samo	sam	Agpnsay
+kulturno	kulturan	Agpnsay
+dobro	dobro	Ncnsa
+,	,	Z
+ali	ali	Cc
+je	biti	Var3s
+moguće	moguć	Agpnsny
+dati	dati	Vmn
+i	i	Cc
+prikaz	prikaz	Ncmsan
+istorijskih	istorijski	Agpmpgy
+,	,	Z
+političkih	politički	Agpfpgy
+i	i	Cc
+drugih	drugi	Agpmpgy
+uslova	uslov	Ncmpg
+u	u	Sl
+kojima	koji	Pi-mpl
+delo	delo	Ncnsa
+nastanje	nastanja	Ncfsg
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Istorijat	istorijat	Ncmsn
+.	.	Z
+istorijat_srpski	istorijat_srpski	Agpmsny
+
+Definicija	definicija	Ncfsn
+
+Istorijat	istorijat	Ncmsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+na	na	Sl
+srpskom	srpski	Agpmsly
+jeziku	jezik	Ncmsl
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Istorijat	istorijat	Ncmsn
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Object	Object	Npmsn
+s	sa	Si
+history	history	Xf
+in	in	Xf
+serbian	serbian	Xf
+
+Komentar	komentar	Ncmsn
+
+Potpolje	potpolje	Ncnsn
+polja	polje	Ncnsg
+Istorijat	istorijat	Ncmsn
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Istorijat	istorijat	Ncmsn
+.	.	Z
+
+Istorijat_engleski	istorijat_engleski	Agpmsny
+
+Definicija	definicija	Ncfsn
+
+Opis	opis	Ncmsn
+na	na	Sl
+engleskom	engleski	Agpmsly
+jeziku	jezik	Ncmsl
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Signatura	signatura	Ncfsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Source	sourca	Ncfpn
+object	object	Vmn
+id	id	Ncmsan
+
+Komentar	komentar	Ncmsn
+
+Polje	polje	Ncnsn
+sadrži	sadržati	Vmr3s
+oznaku	oznaka	Ncfsa
+pod	pod	Si
+kojom	koji	Pi-fsi
+je	biti	Var3s
+kod	kod	Sg
+vlasnika	vlasnik	Ncmpg
+originalnog	originalan	Agpnsgy
+kulturnog	kulturan	Agpnsgy
+dobra	dobro	Ncnsg
+samo	samo	Rgp
+dobro	dobro	Rgp
+jedinstveno	jedinstveno	Rgp
+određeno	određen	Agpnsny
+i	i	Cc
+na	na	Sl
+osnovu	osnov	Ncmsl
+čega	što	Pi3n-g
+može	moći	Vmr3s
+biti	biti	Van
+locirano	locirati	Appnsny
+.	.	Z
+
+Može	moći	Vmr3s
+biti	biti	Van
+sastavljena	sastaviti	Appfsny
+i	i	Cc
+od	od	Sg
+više	mnogo	Rgc
+delova	deo	Ncmpg
+,	,	Z
+na	na	Sl
+osnovu	osnov	Ncmsl
+načina	način	Ncmsg
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+u	u	Sl
+konkretnoj	konkretan	Agpfsly
+instituciji	institucija	Ncfsl
+koriste	koristiti	Vmr3p
+.	.	Z
+
+Naziv	naziv	Ncmsn
+
+Bibliografija	bibliografija	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Bibliografija	bibliografija	Ncfsn
+o	o	Sl
+kulturnom	kulturan	Agpnsly
+dobru	dobro	Ncnsl
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Slobodan	slobodan	Agpmsann
+tekst	tekst	Ncmsan
+,	,	Z
+ili	ili	Cc
+link	link	Ncmsan
+na	na	Sa
+bibliografski	bibliografski	Agpmsayn
+jedinicu	jedinica	Ncfsa
+
+Linkovi	link	Ncmpn
+
+Spisak	spisak	Ncmsn
+potpolja	potpolje	Ncnsg
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Bibliografija	bibliografija	Ncfsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Bibliography	bibliography	Ncfsn
+
+Komentar	komentar	Ncmsn
+
+Polje	polje	Ncnsn
+sadrži	sadržati	Vmr3s
+odrednicu	odrednica	Ncfsa
+na	na	Sa
+bibliografsku	bibliografski	Agpfsay
+jedinicu	jedinica	Ncfsa
+o	o	Sl
+kultuenom	kultuen	Agpnsly
+dobru	dobro	Ncnsl
+
+Naziv	naziv	Ncmsn
+
+Napomena	napomena	Ncfsn
+
+Definicija	definicija	Ncfsn
+
+Daje	davati	Vmr3s
+se	sebe	Px--sa
+za	za	Sa
+objekte	objekt	Ncmpa
+koji	koji	Pi-mpn
+su	biti	Var3p
+pronađeni	pronaći	Appmpny
+tokom	tokom	Sg
+istraživanja	istraživanje	Ncnsg
+na	na	Sl
+terenu	teren	Ncmsl
+.	.	Z
+
+Ponavlja	ponavljati	Vmr3s
+se	sebe	Px--sa
+ako	ako	Cs
+je	biti	Var3s
+objekat	objekat	Ncmsn
+pronađen	pronaći	Appmsnn
+na	na	Sa
+više	mnogo	Rgc
+mesta	mesto	Ncnsg
+ili	ili	Cc
+u	u	Sl
+različitim	različit	Agpmply
+terminima	termin	Ncmpl
+
+Naziv	naziv	Ncmsn
+
+Nalaz	nalaz	Ncmsn
+.	.	Z
+
+Pronađeni_deo	pronađeni_deo	Ncmsn
+
+Definicija	definicija	Ncfsn
+
+Pronađeni	pronađen	Agpmsny
+deo	deo	Ncmsn
+objekta	objekt	Ncmsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Deo	deo	Ncmsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Part	part	Ncfsn
+
+Komentar	komentar	Ncmsn
+
+Naziv	naziv	Ncmsn
+pronađenog	pronađen	Agpmsgy
+dela	deo	Ncmsg
+objekta	objekt	Ncmsg
+(	(	Z
+ukoliko	ukoliko	Cs
+je	biti	Var3s
+objekat	objekat	Ncmsn
+pronađen	pronaći	Appmsnn
+u	u	Sa
+više	mnogo	Rgc
+navrata	navrat	Ncmpg
+)	)	Z
+na	na	Sa
+koji	koji	Pi-msan
+se	sebe	Px--sa
+odnose	odnositi	Vmr3p
+naredni	naredan	Agpmsayn
+datum	datum	Ncmsan
+,	,	Z
+lokalitet	lokalitet	Ncmsn
+itd.	itd.	Y
+
+Naziv	naziv	Ncmsn
+
+Nalaz	nalaz	Ncmsn
+.	.	Z
+
+Datum	datum	Ncmsn
+
+Definicija	definicija	Ncfsn
+
+Datum	datum	Ncmsn
+nalaženja	nalaženje	Ncnsg
+objekta	objekt	Ncmsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Ime	ime	Ncnsn
+,	,	Z
+Ime	ime	Ncnsn
+dela	deo	Ncmsg
+lokaliteta	lokalitet	Ncmsg
+,	,	Z
+Koordinate	Koordinata	Npfsg
+,	,	Z
+Mesto	mesto	Ncnsn
+,	,	Z
+Opština	opština	Ncfsn
+,	,	Z
+Region	region	Ncmsn
+,	,	Z
+Država	država	Ncfsn
+
+Naziv_srpski	naziv_srpski	Agpmsny
+
+Lokalitet	lokalitet	Ncmsn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Place	placa	Ncfpn
+
+Komentar	komentar	Ncmsn
+
+Naziv	naziv	Ncmsn
+
+Nalaz	nalaz	Ncmsn
+.	.	Z
+
+Lokalitet	lokalitet	Ncmsn
+.	.	Z
+
+Ime	ime	Ncnsn
+
+Definicija	definicija	Ncfsn
+
+Ime	ime	Ncnsn
+lokaliteta	lokalitet	Ncmsg
+nalaženja	nalaženje	Ncnsg
+objekta	objekt	Ncmsg
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ako	ako	Cs
+je	biti	Var3s
+lokalitet	lokalitet	Ncmsn
+u	u	Sl
+samom	sam	Agpnsly
+mestu	mesto	Ncnsl
+unose	unositi	Vmr3p
+se	sebe	Px--sa
+oba	oba	Mls
+polja	polje	Ncnsg
+(	(	Z
+lokalitet	lokalitet	Ncmsn
+.	.	Z
+ime	ime	Ncnsn
+,	,	Z
+lokalitet	lokalitet	Ncmsn
+.	.	Z
+mesto	mesto	Ncnsn
+)	)	Z
+ili	ili	Cc
+se	sebe	Px--sa
+lokalitet	lokalitet	Ncmsn
+dodatno	dodatno	Rgp
+specificira	specificirati	Vmr3s
+
+Naziv	naziv	Ncmsn
+
+Nalaz	nalaz	Ncmsn
+.	.	Z
+
+Lokalitet	lokalitet	Ncmsn
+.	.	Z
+
+Ime_dela_lokaliteta	ime_dela_lokalitet	Ncmsg
+
+Definicija	definicija	Ncfsn
+
+Ime	ime	Ncnsn
+dela	deo	Ncmsg
+lokaliteta	lokalitet	Ncmsg
+na	na	Sa
+kome	koma	Ncfpa
+je	biti	Var3s
+objekat	objekat	Ncmsn
+pronađen	pronaći	Appmsnn
+
+Obaveznost	obaveznost	Ncfsn
+upisa	upis	Ncmsg
+
+Ne	ne	Qz
+
+Koordinate	koordinata	Ncfpn
+
+Naziv_engleski	naziv_engleski	Agpmsny
+
+Coordinates	Coordinates	Npmsn
+
+Komentar	komentar	Ncmsn
+
+Preciznije	precizno	Rgc
+određuje	određivati	Vmr3s
+mesto	mesto	Ncnsa
+pronalaženja	pronalaženje	Ncnsg
+objekta	objekt	Ncmsg
+,	,	Z
+recimo	reći	Vmm1p
+podaci	podatak	Ncmpn
+iz	iz	Sg
+GPS-a	GPS	Npmsg
+
+Naziv	naziv	Ncmsn
+
+Nalaz	nalaz	Ncmsn
+.	.	Z
+
+Lokalitet	lokalitet	Ncmsn
+.	.	Z
+
+Mesto	mesto	Ncnsn
+
+Definicija	definicija	Ncfsn
+
+Mesto	mesto	Ncnsn
+kod	kod	Sg
+koga	tko	Pi3m-g
+se	sebe	Px--sa
+nalazi	nalaziti	Vmr3s
+lokaliteta	lokalitet	Ncmsg
+nalaženja	nalaženje	Ncnsg
+objekta	objekt	Ncmsg
 

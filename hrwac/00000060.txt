@@ -1,0 +1,16 @@
+Internet arheologija
+Tuesday, April 27 th, 2010
+Članak na tportal.hr verziji Plana B me podsjetio da sam u pripremama ovog bloga i ja nabasao na vrijedno nalazište iz vlastite Internet prošlosti.
+Moji nalazi mahom datiraju iz 1997., a neki imaju korijene i u 1996. Ovo su godine u kojima sam zajedno s Marcellom radio svoje prve Internet stranice
+Počeli smo koristeći NetObjects Fusion program za koji smo tada bili uvjereni da je sjajan zato što je nudio WYSIWYG sučelje i igrali se sa čudom koje koristi vektore, a koje se tada zvalo Macromedia Flash. U to doba je Flash bilo teško primjeniti u stvarnim stranicama, ali se brže nego su mnogi mislili i to počelo dešavati. Kada je objavljen Flash 2 (1997.) odradili smo i recenziju za Internet Monitor koji je onda izlazio i u tiskanom izdanju
+Moram priznati da me ugodno iznenadilo kako smo ipak uspjeli zadržati dostojanstvo na ovom projektu. Kad malo bolje pogledate nismo pretjerali (jel tako da nismo?) kao recimo naši tadašnji provideri Abacus sa svojim projektom Hrvatska.com.
+Odmah sa naslovnice je jasno da smo mi koji kužimo Internet jako cool, da je ICQ najveća revolucija u industriji i da na Internetu postoji hvale vrijedan bilten Hrvatska Svijet koji osim tekstova o biotehnologiji na Internetu (?) ima i prave pravcate ASCII reklame za recimo poduzeće za proizvodnju ploča i stolova.
+Klijenti
+Klijentima smo u to vrijeme smatrali sve one koji su pristali (nakon nagovaranja, naravno) da im napravimo web stranice. Novac nije bio predmet razgovora, a sada kad vidim većinu tih radova mislim da je to bila ispravna taktika:
+Vještice imaju mudro odabrano duplo sučelje na naslovnici, nabrijanu crnu pozadinu i psihodelične slike iz svog novog spota koji je prvi u nas rađen u silicon graphics tehnologiji
+Pađen Band ima naslovnicu obučenu u prikladniji rokerski štih kojem ne bi škodilo malo anti-aliasinga, ali je veličina datoteka bila presudni faktor. Nikako ne propustite ekskluzivni poklon posjetiteljima tekst pjesme Internet.
+Top DJ Mag ste sigurno nekad gledali na televiziji, ali teško da ste vidjeli ovu ekskluzivu wannabe 3 D početna stranica i raskoš frejmova u vrijeme cvjetanja I hate frames klubova.
+Božesačuvaj je naš prvi (i nažalost ne i posljednji) blind navigation site odrađen u suradnji sa ovim dizajnerskim dvojcem i obogaćen kompleksnim gif animacijama buba
+Mislim da je ovo dovoljno za početak, a ako želite još, slobodno svratite na popis linkova svega što je nama prije 14 godina bilo super na domaćem i stranom Internetu.
+aaa gif animacije su Z-A-K-O-N imam bogatu kolekciju iz vremena dok smo i internet i ja bili mladi if it moves, it must be mine što se tiče vještica i pađen benda, klijenata koje ste morali nagovarati da im napravite stranice, predmnijevam da ste se za njih odlučili iz čisto fanovskih motiva harharhar
+@Ivan nisam 100 % siguran, ali mislim da ovaj današnji ruler u backgroundu vuče korjene iz redizajna kojeg smo mi napravili kao gosti webmasteri. Bio je i veliki skandal oko toga jer smo u poplavi šarenila napravili crno-bijeli site, pa su nas prozivali da smo idioti jer da Internet nudi toliko grafičkih mogućnosti, a mi ih ne koristimo

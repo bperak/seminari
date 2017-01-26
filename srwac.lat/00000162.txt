@@ -1,0 +1,16 @@
+Dell Inspirion 1501
+Dell Inspirion 1501 je LapTop računar u klasi Desktop Replacement, što znači da je snažan koliko i standardan Desktop PC. Dolazi sa AMD Turion 64 x2 Dual-Core Mobile procesorom i integrisanom grafičkom kartom Radeon 1150, sa 256 MB memorije. Ekran je po WXGA standardu, dijagonale 15.4 inča i rezolucijom od 1280 x800. Hard disk je do 80 GB.
+Osnovne tehničke karakteristike su:
+4 USB 2.0 porta
+RJ45 Ethernet port 10 / 100
+Broadcom 802.11 g WiFi adapter
+RJ11 modem port
+Video izlaz 15 pin
+Card Reader
+Audio ulazi / izlazi
+Širina 14 inča, visina 1.44 inča, dubina 10.45 inča
+Težina oko 3 kg
+Primerak koji smo imali na testu je imao procesor AMD Turion 64 X2 Mobile Technology TL-50 1.60 GHz, hard disk Hitachi 80 GB, DVD-RW i 512 GB RAM memorije. Operativni sistem pod kojim smo testirali Inspirion 1501 je bio Widows Vista Enterprise, koji je uzeo 320 MB RAM memorije (70 %). Jasno je da je za ovako snažan operativni sistem potrebno bar 1 GB memorije.
+Hard disk test je pokazao 48 MB / s protoka, u odnosu na 56 MB / s koliko smo izmerili na standardnom desktop PC-ju, sa 3,5 inčnim tvrdim diskom. Po pitanju brzine procesora Turion TL-50 je u celobrojnim operacijama 44 % brži od Semprona 2800 i 96 % brži sa Floating Point operacijama. Slično je sa pristupom memoriji, Inspirion 1501 je 39 % brži u odnosu na 2.8 GHz desktop sa DDR400 memorijom. Možemo da zaključimo da AMD Turion TL-50 radi kao ekvivalent Semprona na 4.0 GHz, što je više nego dovoljno za svakodnevne potrebe.
+U osnovnoj verziji je predviđen garanti rok od godinu dana. Za dodatnih 50 EUR možete da dobijete dodatne dve godine garancije (ukupno 3 godine), to je svega 2 EUR mesečno. Servis je obezbeđen u DELL Autorizovanom servisnom centru INFORMATIKE, koja je DELL Autorizovani distributer za Srbiju.
+Notebook se isporučuje bez operativnog sistema. Ako se odlućite za Microsoft Windows okruženje doplate za operativni sistem su:

@@ -1,15 +1,23 @@
-Edukacija fizioterapeuta 
-U Centru za korektivnu gimnastiku i fizikalnu terapiju postoji mogućnost obavljanja pred diplomske prakse i obaveznog volonterskog staža, ali i volonterskog rada sa decom i odraslima uz našu pomoć. Svo naše znanje, iskustvo kao i stručna literatura su vam dostipni. Po završenoj praksi svi terapeuti mogu da dobiju naše preporuke i pomoć u pronalaženju posla. 
-Komentari fizioterapeuta koji su se obučavali ili usavršavali u Centru za korektivnu gimnastiku i fizikalnu terapiju 
-Olivera Bajić viši terapeut 
-" Neposredno pre diplomiranja na VMŠ (smer viši fizioterapeut) u Beogradu, uključila sam se kao saradnik - volonter kod Snežane Milanović u " Centru za korektivnu gimnastiku i fizikalnu terapiju ". To je bilo moje prvo iskustvo sa takvim programom rada i uopšte programom korektivnih vežbi, koje je trebalo da sprovodim manje-više samostalno, predvodeći grupu. Ovakva vrsta posla je jako zahvalna, zbog toga što su rezultati skoro uvek pozitivni u oba smera. 
-Naime, vrlo brzo sam osetila promene na telesno-duhovnom planu - poboljšanu pokretljivost, elastičnost zglobova i muskulature, kao i koncentrisanost u radu. 
-A onda sam naravno shvatila da se i ljudi koji dolaze bilo na rehabilitaciju ili rekreaciju, kao i deca koja dolaze na korektivne vežbe, isto tako dobro osećaju i napreduju u oporavku, kondiciji i sl. Rad u Centru za korektivnu gimnastiku i fizikalnu terapiju dodatno uliva pozitivizam i daje motiv za daljim napredovanjem u struci. 
-Rad u Centru je bio temelj mog daljeg usavršavanja u ovom poslu i naravno izuzetno mi je drago što sam imala priliku da sarađujem i učim od fizioterapeuta kakva je Snežana Milanović. " 
-" Učenje celog života i kontinuirani stručni razvoj su odlike kompetentnog fizioterapeuta, sudelovanje u kontinuiranom obrazovanju doprinosi razvoju i održavanju kvaliteta struke " 
-WCPT, Deklaracija o principima, 1995. 
-Ivan Vuković viši radni terapeut 
-" Vođen ličnom željom za znanjem i pricipom usvojenim u Standardima fizioterapeutske prakse o kontinuiranoj edukaciji terapeuta, našao sam se u timu osoblja CENTRA za korektivnu gimnastiku SM. Spoj višegodišnjeg iskustva osoblja Centra u obavljanju fizioterapeutske prakse i moje želje za napretkom u struci brzo je dao svoje pozitivne rezultate. Gledao sam, slušao, pitao, pisao i čitao. Jednom rečju - učio sam. To isto radim i sada i radiću i dalje, kao što u Centru svi rade bez obzira na znanje i iskustvo koje poseduju. 
-Iako sam u Centar došao sa izvesnim radnim iskustvom, rad sa Snežanom Milanović za mene je bio novo iskustvo koje je otvorilo dimenzije u mom stručnom usavršavanju. Širok spektar patoloških stanja i bolesti, pacijenti svih životnih doba koji su dolazili na lečenje u Centar pružao mi je mogućnost da se upoznam sa savremenim i kvalitetnim načinom lečenja koji im je pružan. 
-Osoblje Centra mi je uvek pružalo podršku savetima, svežim informacijama o savremenoj rehabilitaciji i dostupnošću stučne literature koju poseduju. 
-Godinama gajen duh stručnosti, humanosti i profesionalnost u obavljanju fiziotrapeutske prakse preneli su na mene i ja ga sada čuvam i dalje nadograđujem. Znanje koje sam stekao u Centru primenjujem u svakodnevnom radu i nesebično ga delim kao što su ga oni delili sa mnom. " 
+Blogroll
+Search
+Archive for the bash Category
+Hteo bih da imam mogućnost da pristupim svom kućnom računaru preko interneta kad god je uključen. Problem je što se relativno često menja IP adresa mog kablovskog modema, zbog problema sa provajderom, eventualnim resetovanjem modema itd.
+Šta je ideja? Ideja je da moj kućni računar periodično pristupa web serveru (koji ima fiksnu adresu), da se tamo predstavi i da ostavi svoju IP adresu, koju bih ja kasnije mogao da pročitam i iskoristim je za ssh ili neki drugi vid pristupa.
+Na serveru bih napravio mali php portal kome ne bi mogli da pristupaju roboti pretraživača, drugi korisnici, već samo ja i moj kućni računar. Pretpostavljam da bi tu trebalo da postoji neka php strana, eventualno minijaturna mySQL baza u kojoj bih čuvao promene IP adrese. Ovaj poslednji deo bi mogao da bude i u obliku nekog log fajla, ali bih voleo da se poigram i sa bazama, u cilju vežbe.
+Na mom kućnom računaru bi bila bash skripta koja bi se pokretala automatski, a koja bi se u određenom vremenskom intervalu logovala na portal i ostavljala IP adresu, vreme, i eventualno neki drugi podatak, kao što je status ssh servera ili slično.
+Nažvrljao sam i shemu, iako je, rekao bih, sve sasvim jasno:)
+Mrzelo me da lepo crtam:)
+U php-u nisam nikad radio, ali jesam dosta u C-u, pa mislim da mi ne bi bio problem da razumem neki komad php koda.
+Dugo sam koristio Tildu, jednostavnu GTK aplikaciju sa kojom sam imao fin, crn terminal, malo proziran, po sred ekrana, a aktivirala ga je moja omiljena prečica Meta F2.
+Međutim, otkad sam promenio path za dokumente u svom home folderu na / Papiri, tilda se uvek pokreće tako da joj je ovaj folder početni. Konsole, KDE-ov terminal emulator je pritom normalno imao kao početni folder. Čudno. Nisam se mnogo bavio time (ali ako neko ima ideju kako da to promenim u tildi, nek ostavi u komentarima, biću zahvalan:)) nego sam potražio alternetivu. Tako sam naišao na Yakuake.
+Zapravo, naišao sam odavno na ovaj program, ali mi se u prvi mah nije učinio privlačnim, a i smetalo mi je što ne mogu da ga podesim tako da mi prozor terminala bude na centru desktopa.
+Ovog puta sam mu pružio šansu, malo se poigrao podešavanjima, i sad sam zadovoljan Meta F2 otvara Yakuake, praaaavi fensi emulator terminala za KDE:)
+Ah, da, ime programa sa razlogom liči na Quake, jer je ovaj terminal emulator zamišljen tako da oponaša konzolu koja se pojavljuje u ovoj slavnoj igri.
+Nekoliko puta sam na Internetu pronašao stripove, kataloge i sl. koji su skenirani i ostavljeni kao gomila JPEG fajlova. Pošto je ovo baš nepraktično, nepregledno, a i može biti mučno za kopiranje, snimanje na optičke medije itd. našao sam elegantan način da rešim ovaj problem.
+Kada je reč o stripovima, najrasprostranjeniji način distribucije je CBZ ili CBR, tj najobičnija ZIP, odnosno RAR arhiva sa specifičnom ekstenzijom koja kaže programu za čitanje da su datoteke u arhivi zapravo stranice stripa. Korisnici Ubuntua neće imati problema da otvore ove fajlove, niti potrebe da instaliraju neki dodatni program, s obzirom da ih Evince (Document Viewer) sasvim lepo čita.
+Međutim, meni je u svakom pogledu draži PDF format. Jednostavno, može se pročitati na praktično svakom računaru, kompaktan je, a postoji puno alata za eventualnu naknadnu manipulaciju, smanjivanje kvaliteta / veličine dokumenta, lakši je za štampu itd.
+Kako napraviti pdf od gomile jpg slika? Lako
+Najbolje je kada su sve slike u jednom folderu zapravo strane jednog stripa, i da su imenovane tako da idu po redu. Ovo je najčešće ispunjen uslov, pa nema razloga da se korisnik maltretira nekim napornim preimenovanjem datoteka. Dakle, treba ući u folder sa slikama, i zadati komandu:
+convert jpg naziv_stripa.pdf
+i to je to Ovo jpg u komandi je samo za svaki slučaj, npr ukoliko se u folderu nalazi neki. nfo fajl ili slično. Dakle, sintaksa je krajnje jednostavna convert od čega pravim pdf naziv pdf-a. Naravno, opcije su mnogobrojne, može sa manipulisati slikama do najsitnijih detalja, ali to je već tema koja se obrađuje čitanjem man strana uz šolju kafe:)
+Nadam se na će nekome ovo biti od koristi, posebno ako vole da ovakve zadatke obave u pravom bash kung fu maniru:)

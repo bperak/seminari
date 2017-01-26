@@ -1,0 +1,310 @@
+Programski modul RobPro XP je namenjen za vodjenje robnog knjigovodstva trgovniskih i mešovitih preduzeća i privatnih preduzetnika i upotrebu u komercijali.
+Ovaj programski modul pokriva poslovanje veleprodaje i maloprodaje kao i konsignacionu prodaju. Podaci koji se unose kroz dokumente koji su sastavni deo ovog modula, automatski se mogu knjižiti u finansijske naloge modula FinPro XP koji se koristi sa vodjenje finansijskog knjigovodstva preduzeća.
+Pri startovanju modula, potrebno je izabrati podatke korisnika / knjigovodstvenu godinu i prijaviti se sistemu unoseći svoje korisničko ime i lozinku. Od nivoa koji je dodeljen korisničkom imenu zavisiće i prava koja korisnik ima unutar programskog modula.
+Glavni meni
+Startovanjem modula RobProXP na ekranu se pojavljuje Glavni meni kao glavni ekran za navigaciju kroz opcije programskog modula. Za generalno objašnjenje delova i opcija glavnog menija kliknite ovde...
+Glavni meni programskog modula RobProXP podeljen je na više logičkih celina-podmenija i to:
+Podmeni Šifarnici sadrži sve šifarnike neophodne za funkcionisanje programskog modula. Isti šifarnici su zajednički za sve module tako da su podaci uneti u jednom modulu u šifarnik vidljivi i u ostalim modulima. To znači da je sve jedno da li ćete Komitenta (Dobavljača / Kupca) uneti u modulu FinProXP, RobProXP, MatProXP ili Kasa - on će biti vidljiv iz svih modula. Za pregled spiska svih raspoloživih šifarnika u programu kliknite ovde...
+Da bi se omogućio pravilan rad programa, svaka šifra uneta u šifarnik mora da bude jedinstvena na nivou celog programa.
+Podaci se u pojedine šifarnike mogu uneti i direktno prilikom unosa dokumenata. Ovo važi za šifarnike u kojima je potreban češći unos novih podataka kao što su Šifarnik komitenata ili Šifarnik artikala / usluga. Svim šifarnicima potrebnim za rad programskog modula moguće je pristupiti iz Menija sa podmenijima, a pojedinim je moguće pristupiti i preko Glavnog toolbar-a i / ili dugmadi DGT forme.
+Podmeni Veleprodaja, kao što mu samo ime kaže, sadrži funkcije vezane za formiranje svih dokumenata vezanih za funkcionisanje veleprodaje. Unošenje dokumenata automatski se odražava na stanja lager listi i ostalih dokumenata odgovarajućih VP magacina. Većina ovako formiranih dokumenata automatski se može isknjižiti u modul za finansijsko knjigovodstvo FinPro XP upotrebom funkcija za automatsko knjiženje.
+2. 1 Prijem robe
+Kalkulacija je dokument koji se popunjava pri prijemu robe od dobavljača u veleprodajni magacin. Dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i automatski zadužuje lager odabranog magacina i evidentira obaveze prema dobavljaču.
+Više informacija o korišćenju funkcija dvoprozorskog tabelarnog pregleda možete naći ovde...
+Veleprodajna kalkulacija je dokument koji je predvidjen za automatsko knjiženje u modul za finansijsko knjigovodstvo upotrebom specijalizovanih funkcija tog programskog modula. U slučaju da je dokument već automatski isknjižen njegovo menjanje ili brisanje nije dozvoljeno.
+Dokument Kalkulacija snabdeven je modulom za izradu automatskih nivelacija. Ako je opcija Automatska nivelacija uključena u setup-u programa u slučaju da program detektuje da se na lageru odabranog magacina već nalazi neka količina robe po drugoj ceni, automatski će cena robe na lageru biti promenjena na cenu po kojoj je primljena nova roba i biti napravljen prateći dokument Nivelacija kojim će biti pokrivena promena cene i usaglašena vrednost Knjige evidencije prometa i usluga sa Lager listom za odabrani magacin. Menjanje dokumenata za koje je vezana automatska nivelacija nije moguće, a brisanje je moguće ako hronološki gledano iza tog dokumenta ne postoji ni jedan dokument kojim je menjana cena artikla. Ako je cena artikla menjana iza odabranog dokumenta, dokument nije moguće ni brisati, već je potrebno obrisati dokumente unete iza njega da bi se omogućilo brisanje tog dokumenta. U suprotnom konzistentnost podataka bila bi ugrožena.
+Vi še podataka o pravilima i principima na osnovu kojih se formira automatska nivelacija možete naći ovde...
+Zaglavlje kalkulacije sadrži sledeća polja:
+Polje
+Opis
+Šifra dobavljača
+Šifra dobavljača artikla. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma u kojoj je moguće definisati novog komitenta ako komitent do sada nije već definisan....
+Šifra magacina
+Kalkulacija broj
+Polje sa brojem kalkulacije u formatu xxxxx / mmmmm, gde je sa mmmmm predstavljena odgovarajuća šifra magacina. Broj kalkulacije mora biti jedinstven. Ako je uključena opcija Automatski redni broj dokumenta u setup-u programa program će svakom novom nalogu automatski davati prvi sledeći slobodan broj.
+Datum dokumenta
+Datum kalkulacije.
+Po otpr / fakturi broj
+Broj dokumenta dobavljača na osnovu koga knjižimo kalkulaciju.
+Datum prijema
+Datum kada je roba fizički primljena u magacin.
+Rok za plaćanje
+Rok za plaćanje izražen u danima.
+Polj.proizvodi
+Markirati polje ako se radi o nabavci-otkupu poljoprivrednih proizvoda od registrovanih poljoprivrednih proizvodjača.
+PDV
+Da li kalklulacija ulazi u ulazni PDV. U slučaju da komitent nije obveznik PDV-a, ovo polje nije moguće čekirati. Program prati status komitenta u vezi sa PDV-om, t. j. da li je komitent obveznik PDV-a u trenutku kada se dokument formira i taj podatak uzima pri formiranju izve štaja, zbog mogućnosti promene statusa obvezniznika PDV-a u toku godine (mogućnosti da tu toku godine komitent izgubi status obveznika PDV-a ili postane obveznik PDV-a a da to prethodno nije bio). U tom slučaju, dokumenti će se tretirati po statusu korisnika u vezi PDV-a koji je imao u trenutku formiranja dokumenta.
+Napomena
+Tekstualno polje u koje se mogu upisati proizvoljne napomene.
+U gornjem delu prozora za unos stavke kalkulacije nalaze se informacije o kojoj se kalkulaciji radi, za kog komitenta i koji magacin. Unosom cele stavke kalkulacije i potvrdom da želimo da je snimimo, automatski se zadužuju svi dokumenti vezani za dobavljača i atrikal i na lager magacina dodaje nova količina izabrane robe. Kada izaberemo artikal, u desnom gornjem uglu prozora pojaviće se podatak o tome koliko odabrane robe ima na lageru magacina i po kojoj ceni.
+Cena robe na lageru veleprodajnih magacina vodi se po krajnjoj ceni iz kalkulacije bez poreza.
+U slučaju da se cena bez poreza ne poklapa sa cenom na lageru, automatski će biti formirana prateća nivelacija koja če biti vezana za kalkulaciju.
+Unos stavke kalkulacije sadrži polja koja se unose i polja koja se automatski izračunavaju.
+Kalkulacija se može uneti na dva načina:
+Klasična kalkulacija (unapred) - cena bez poreza se formira unošenjem svih polja klasičnim kalkulisanjem na osnovu zadatog procenta razlike u ceni;
+Kalkulacija unazad - ako je poznata cena po kojoj će se roba prodavati, unesu se polja količina, nabavna cena i odmah iza toga cena bez poreza, a ostala polja se automatski izračunavaju.
+Stavke kalkulacije sadr že sledeća polja:
+Polje
+Količina
+Količina artikla na kalkulaciji. Količina se unosi u jedinici mere koja je definisana pri otvaranju robe u šifarniku artikala / usluga. U slučaju da je artikal u šifarniku artikala definisan kao artikal za unos serijskih brojeva, kolicina uneta u ovom polju mora da bude celobrojna vrednost.
+Jedinična cena sa uračunatim porezom po stopi koja je uneta kao važeća stopa za izabrani artikal.
+Garancija od dobavlja ča
+Garancija dobijena od dobavljača za uneti artikal u mesecima. Ovo polje je vidljivo i aktivno samo u slučaju da je za navedeni artikal u Šifarniku artikala / usluga u polje Garancija uneta vrednost različita od nule.
+Povratnica dobavljaču je dokument koji se popunjava pri vraćanju robe iz veleprodaje dobavljaču. Dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i automatski razdužuje lager odabranog magacina i evidentira smanjenje obaveza prema dobavljaču. U osnovi, ovo je suprotan dokument od Kalkulacije i praktično ima isti efekat kao uneta storno kalkulacija.
+Datum povratnice.
+Broj vezanog dokumenta
+Broj naše vezane kalkulacije po kojoj je roba primljena ili dokumenta dobavljača - polje se popunjava prema potrebama i standardima poslovanja korisnika.
+PDV
+Klasična povratnica (unapred) - na osnovu unosa cene kod dobavljača i procenta razlike u ceni izračunava se cena na lageru;
+Šifra artikla. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma. Klikom na dugme sa znakom ili pritiskom na taster F11 &gt; otvara se spisak svih artikala kojih trenutno ima na stanju u odabranom magacinu, dok se klikom na dugme sa oznakom ili klikom na taster F12 &gt; otva ra forma za odabir artikla odnosno usluga iz šifarnika artikala / usluga. U ovoj formi je moguće definisati nov artikal / uslugu ako do sada nije već definisan...
+Količina
+Primljeno knjižno odobrenje je dokument koji služi za unos finansijskih odobrenja za knjiženje izdatih od strane dobavljača. Dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i ne utiče na lager liste ili bilo koje druge izveštaje. U pitanju je dokument koji nema uticaja na tok robe.
+Datum dokumenta.
+Po dokumentu broj
+Broj knjižnog odobrenja kod dobavljača.
+Datum DPO
+Datum nastanka dužničko poverilačkog odnosa.
+PDV
+Da li po knjižnom odobrenju postoji PDV.
+Napomena
+Tekstualno polje u koje se mogu upisati proizvoljne napomene. U setup-u programa moguće je promeniti preddefinisan tekst koji se pojavljuje u ovom polju za svaki predračun.
+Unos stavke odobrenja sadrži polja koja se unose i polja koja se automatski izračunavaju. Primljeno knjižno odobrenje je finansijski dokument koji se ne oslanja na šifarnik artikala i unos polja Naziv je slobodan.
+Moguć je unos vrednosti sa ili bez poreza. Druga vrednost će biti automatski obračunata u skladu sa na odabranom poreskom tarifom.
+Naziv
+Polje slobodno za unos bilo kakvog opisa. Dužina unetog teksta u ovo polje je minimalno 3 karaktera, a maksimalo 255 karaktera.
+Tar.br.
+Tarifni broj poreza koji se obračunava na plaćanje. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma... U slučaju da je stopa poreza 0 % - oslobodjeno poreza. Ovo polje se može ostaviti prazno.
+Veleprodajna cena
+Jedinična cena artikla u ulaznom magacinu. Izlazni magacin biva razdužen po ceni u tom magacinu.
+Veleprodajna vrednost
+Ukupna vrednost robe za ukupnu količinu.
+2.3 Prodaja robe
+Predračun (profaktura) je dokument koji služi za izradu zvaničnih ponuda potencijalnim kupcija roba ili usluga. Dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i ne utiče na lager liste ili bilo koje druge izveštaje. U pitanju je dokument koji radi sam za sebe čija je jedina svrha olakšana izrada zvaničnih ponuda i evidencija o do sada datim ponudama. Profaktura može da sadrži istovremeno i artikle i usluge.
+U slučaju da je barem jednom artiklu / usluzi na predračunu dodata slika ili opis artikla prilikom startovanja štampe biće ponudjena opcija štampanja dokumenta sa slikama ili bez slika.
+Zaglavlje predračuna sadrži sledeća polja:
+U zaglavlju predračuna je moguće uneti i proizvoljnog kupca koji nije definisan u šifarniku komitenata, za razliku od drugih dokumenata. Ova mogućnost je predvidjena da se koristi za formiranje predračuna za slobodan unos kupca. U tom slučaju prilikom unosa šifru kupca treba ostaviti praznu i program će automatski ponuditi da omogući slobodan unos kupca. U ovom slučaju se polje šifra kupca automatski popunjava šifrom - - - - - - - - i otvara se prozor za slobodan unos podataka kupca.
+Predračun broj
+Zaglavlje za štampu
+Bira zaglavlje koje se štampa na profakturi. U programu je omogućeno štampanje različitih zaglavlja, koja se posebno mogu definisati opcijom Šabloni zaglavlja predračuna iz menija Održavanje, Glavnog menija. U slučaju da se u ovom polju odabere opcija STANDARDNO biće štampano zaglavlje definisano generalno za sve dokumente u Setup-u opcija korisnika.
+Napomena
+Tekstualno polje u koje se mogu upisati proizvoljne napomene. U setup-u programa moguće je promeniti preddefinisan tekst koji se pojavljuje u ovom polju za svaki predračun. Pored polja Napomena nalazi se dugme koje omogućava učitavanje preddefinisanih šablona napomena. Ove šablone moguće je definisati korišćenjem opcije Šabloni napomena podmenija Održavanje, Glavnog menija programskog modula.
+U predračun je moguće uneti i proizvoljan artikal ili uslugu koji nije definisan u šifarniku artikala usluga, za razliku od drugih dokumenata. Ova mogućnost je predvidjena da se koristi za formiranje predračuna za artikle ili usluge koji se ne nalaze redovno na stanju. U tom slučaju prilikom unosa šifru artikla / usluge treba ostaviti praznu i program će automatski ponuditi da omogući unos proizvoljnog artikla / usluge. U ovom slučaju se polje šifra artikla / usluge automatski popunjava šifrom 0000000000 i dozvoljava se unos proizvoljnog naziva, jedinice mere i PDV tarife artikla / usluge.
+Naziv
+Naziv artikla / usluge. Ovo polje je otklju čano za unos / promenu u slučaju da je u šifarniku atikala / usluga odabrana šifra usluge. U tom slučaju se polje automatski popunjava nazivom usluge definisanim unutar šifarnika artikala / usluga. Ovaj naziv je moguće u potpunosti prilagoditi fakturisanoj usluzi. U ovo polje je moguće uneti do 255 znakova kao opis.
+Tarifni broj poreza (PDV-a) koji se obračunava na dati artikal / uslugu. Uneti tarifni broj mora prethodno da bude definisan u šifarniku poreskih tarifa. O dabirom poreske tarife, automatski se popunjavaju polja Stopa i Naziv tarife. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma... Ovo polje je moguće uneti samo u slučaju unosa artikla / usluge koji nije definisan u šifarniku artikala
+Slika
+Ozna čavanje ovog polja pokazuje nameru korisnika da doda sliku artikla u štampanu verziju predračuna i uključuje dugme koje služi za odabiranje slike artikla. Klik na ovo polje ima različit efekat i to:
+Ako je artiklu / usluzi u šifarniku dodata samo jedna slika, kopija slike napravljena u sistemskom folderu programa za slike, automatski će biti ubačena na obrazac predračuna;
+Ako je atriklu / usluzi u šifarniku dodato više slika, automatski će biti ponudjeno korisniku da odabere jednu od kopija slike napravljenih u sistemskom folderu programa za slike i ubaci je na predračun;
+Ako je atriklu / usluzi u šifarniku nije dodata ni jedna slika, korisniku će biti ponudjeno da artiklu pridruži sliku u trenutku unosa. Ovako odabrana slika biće automatski kopirana u sistemski folder za slike i kopija će biti prikazana na predračunu;
+U slučaju da je korisnik odabrao da unese proizvoljan artikal ili uslugu koji nije definisan u šifarniku artikala usluga, biće mu ponudjeno da izabere sliku koju želi da pridruži artiklu / usluzi. Kopija slike ce automatski biti presnimljena u sistemski folder programa sa slikama i program nadalje radi sa ovom kopijom pridružene slike čime se obezbedjuje mogućnost snimanja rezervnih kopija podataka jednim klikom i konzistentnost podataka u klijent / server radnom okruženju.
+Slika i dodatni opis artikla se štampaju samo u slučaju odabira štampe predračuna sa slikama.
+Dodaj opis
+Ozna čavanje ovog polja pokazuje nameru korisnika da doda i dodatni tekstualni opis artikla / usluge pored standardnog naziva artikla koji može biti dug maksimalno 255 karaktera. Klikom na ovo polje automatski se uključuje dugme i pojavljuje forma za dodavanje dodatnog opisa artikla / usluge.
+Ova forma se inicijalno automatski popunjava opisom artikla unetim u polju Napomena u Šifarniku artikala / usluga, ali se može prekucati, ili se može izabrati neki od opštih Šablona napomena definisanih odabirom opcije Šabloni napomena, podmenija Održavanje, Glavnog menija programskog modula, klikom na dugme ili napomene unete za odabrani artikal u Šifarniku artikala klikom na dugme.
+Jedinična veleprodajna cena artikla. Po ovoj ceni se vodi roba na stanju u veleprodajnim magacinima. Ovo polje je otključano za unos zbog mogućnosti davanja predračuna za uslugu ili robu koja još nije nabavljena.
+1 Klikom na ikonu koja se nalazi pored polja CENA BEZ RABATA I PDV-a uklju ču je / isključuje se prozor sa podacima o poslednjoj prodaji odgovaraju ćeg artikla odabranom komitentu.
+Napomena: Za razliku od artikala koji su definisani u šifarniku artikala / usluga koje je moguće na svakom dokumentu uneti samo kao jedinstvenu stavku, proizvoljno unetih artikala sa šifrom 0000000000 je moguće uneti neograničeno puta na istom predračunu. Ovakav artikal / uslugu moguće je uneti samo na predračunu. Pre unosa na bilo koji drugi dokument neophodno je definisati artikal / uslugu u šifarniku artikala / usluga.
+Pošiljalac
+Pošiljalac robe (polje je aktivno za unos u slučaju da je uključena opcija Uklju čena polja otpreme na VP računu (špedicija) u Setup-u opcija programa, tab RobProXP, i koristi se u slučaju da je korisnik špediterska firma (Pošiljalac) koja daje fakturu kupcu za usluge špedicije na osnovu fakture za robu koju je kupac izdao krajnjem korisniku. Ovde se upisuje naziv firme koja šalje robu.
+Po računu broj
+Reg.oznaka vozila
+Registracija vozila kojim se otprema roba.
+Br. fisk.isečka
+Broj fiskalnog isečka po kome se izdaje račun. Ovo polje je aktivno ako je u Setup-u opcija programa, tab Podešavanje programa uključena opcija VP fiskalni račun. Više informacija o radu sa fiskalnim uredjajima u VP možete naći ovde...
+PDV
+Prilikom odabira šifre artikla ovo polje se automatski popunjava vrednošću podrazumevanog roka garancije iz šifarnika artikala / usluga. U slučaju da se u polje upiše duži garantni rok od onoga koji je naveden u šifarniku artikala / usluga, program će upozoriti korisnika na tako unesen podatak i ako korisnik potvrdi tačnost unosa, prihvatiti uneti podatak.
+Klasična povratnica (unapred) - na osnovu unosa količine, veleprodajne cene (cena na lageru magacina) i procenta razlike u ceni izračunava se cena bez poreza (cena po kojoj je roba prodata kupcu / po kojoj se kupac razdužuje);
+U slučaju da je u Setup-u opcija rada programa, tab Podešavanje programa uključeno polje VP fiskalni račun u ovom polju će biti moguć i unos usluge radi omogućavanja štampe Veleprodajnog reklamiranog fiskalnog računa. Više podataka o radu sa fiskalnim uredjajima u veleprodaji možete naći ovde...
+Količina
+Šifra org.jedinice
+Šifra organizacione jedinice u kojoj je artikal utrošen. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma iz koje je moguće izabrati sve definisane organizacione jedinice, uključujući i magacin iz koga se roba izdaje...
+Račun broj
+Na početku rada sa programom ili početku knjigovodstvene godine potrebno je uneti stanja robe u svim veleprodajnim magacinima. Dokument kojim se unosi ovo prvo stanje lagera magacina naziva se početno stanje. Ovaj dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i automatski zadužuje lager odabranog magacina unetok količinom i vrednošću robe.
+Početno stanje se ne knjiži automatski u modul za finansijsko knjigovodstvo FinPro XP, pošto i samo finansijsko knjigovodstvo mora da ima nalog početnog stanja, a konta zaliha magacina po početnom stanju u modulu za finansijsko knjigovodstvo se moraju pojedinačno slagati sa vrednostima unetim u dokumentu početno stanje.
+Zaglavlje početnog stanja sadrži sledeća polja:
+Nivelacija cena je dokument koji se formira kada je potrebno promeniti cenu artikala. Ovaj dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i neophodno ga je uneti pri promeni cene artikla. U slučaju da se cena artikla promeni, a ne postoji prateca nivelacija, stanje magacina po KEPU knjizi i vrednost magacina u lager listi neće se poklapati za vrednost nedostajuće nivelacije.
+Nivelacija cena može biti automatska prateća nivelacija i ručna nivelacija. O kojoj se nivelaciji radi može se zaključiti na osnovu polja Vrsta dok. u gornjem prozoru (prozoru sa zaglavljem dokumenta dvoprozorskog tabelarnog pregleda. Ako je ovo polje popunjeno radi se o automatskoj nivelaciji, a ako nije o ručnoj.
+Ručno menjanje ili brisanje automatskih nivelacija nije dozvoljeno. Ovakva nivelacija može se obrisati samo automatski, ako se obriše dokument za koji je vezana.
+Više podataka o pravilima formiranja automatske prateće nicelacije možete naći ovde...
+Ručna nivelacija se formira ručnim unosom artikala koje nivelišemo.
+Stavke nivelacije možemo unositi tako što proizvoljno možemo menjati sva brojčana polja. Na osnovu promene jednog od polja sva ostala će biti preračunata i odgovarajuće uskladjena sa novounetom vrednošću.
+Stara cena
+Jedinična cena artikla sa koje nivelišemo.
+Stara vrednost
+Ukupna stara vrednost za celu količinu.
+Razlika u ceni (%)
+Procenat razlike u ceni.
+Iznos razlike
+Iznos razlike u ceni za celu količinu atrikla.
+Nova cena
+Jedinična cena artikla na koju nivelišemo.
+Nova vrednost
+U slučaju da je u setup-u programa uključena automatska nivelacija polja Količina i Stara cena se automatski popunjavaju količinom i cenom artikla na lageru odgovarajućeg magacina i njihovo dalje menjanje je zabranjeno.
+U periodu od formiranja popisne liste, do sravnjivanja stanja ne smeju se otvarati novi dokumenti niti na bilo koji način menjati stanje na lageru magacina za koji se radi popis. U suprotnom je moguće da dođe do neslaganja.
+Više podataka o pravilima koja važe prilikom formiranja popisa možete naći ovde...
+Opcija Popisna lista podmenija Veleprodaja služi za inicijalno formiranje i popunjavanje popisnih lista. Prilagođena je za rad u velikim i malim preduzećima i može se koristiti na više načina, u zavisnosti od potreba korisnika. Formiranjem i unosom popisne liste same po sebi ne dešavaju se nikakve promene na lageru magacina, več ovaj modul služi za pripremu odgovarajuće popisne liste. Ovaj dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i neophodno ga je uneti pri promeni cene artikla.
+U tabelarnom pregledu popisnih lista nalaze se samo popisne liste koje nisu sravnjene. Po sravnjenju popisnie liste, ona " nestaje " iz spiska popisnih lista, a pojavljuje se u p regledu već sravljenih popisa.
+Prilikom otvaranja nove popisne liste program nudi da popuni listu trenutnim podacima sa lagera.
+Ako odgovorite sa OK, lista će automatski biti popunjena trenutnim sadržajem lager liste odabranog magacina, gde će kao knjigovodstvena količina biti upisana trenutna količina na lageru. Ovaj postupak je pogodniji za veća preduzeća / organizacije. Od ovog trenutka se ne sme menjati ništa vezano za lager listu magacina (unositi, ažurirati ili brisati dokumenta). Dalji postupak podrazumeva:
+štampanje popisne liste (štampa se bez knjigovodstvenih količina) i davanje iste magacioneru da popuni robama na lageru
+unos stvarnih količina koje je magacioner popunio tako što se u lager listi svaka stavka koja se ne slaže ažurira i unese razlika po popisu. Ako postoje artikli koji ne postoje na knjigovodstvenom stanju a fizički postoje u magacinu, moguće ih je dodati u spisak stavki korišćenjem standardne procedure za unos stavke u tabelarni pregled;
+Ako odgovorite sa Cancel lista će biti ostavljena praznom. Ovaj postupak je pogodniji za manja preduzeća / organizacije. U ovom slučaju je moguće uneti ručno samo one robe za koje znamo da se stanje po popisu ne slaže i nastaviti sa sledećom tačkom sprovođenja popisa. U ovom slučaju program u popisu ne uzima automatski knjigovodstvenu količinu sa lagera odabranog magacina;
+Stavke popisa sadrže sledeća polja:
+Polje
+Klnigovodstvena količina
+Količina artikla koja po računaru postoji na stanju odabranog magacina.
+Razlika po popisu
+Količina za koju se razlikuje stvarna količina od knjigovodstvene količine. Na osnovu ovog polja automatski se izračunava nova količina.
+Sravnjenje stanja je specijalizovana funkcija koja automatski usaglašava knjigovodstveno i stvarno stanje knjižeći količinski i vrednosno razlike po popisu samo za one artikle kog kojih razlika postoji.
+Sravnjenje stanja je funkcija za masovnu obradu podataka posle koje nije moguće automatsko vraćanje podataka na staro stanje.
+Po startovanju ove funkcije pojavljuje se ekran za izbor popisne liste na osnovu koje vršimo sravnjivanje stanja. Popisnu listu možemo odabrati iz asistent forme koju pozivamo klikom na dugme pored odgovarajućeg polja.
+Klikom na taster OK započinjemo proceduru slaganja stanja. Program će nas posle toga još jednom upozoriti i zatraziti potvrdu da zaista želimo da stanje na lageru magacina uskladimo sa odabranom popisnom listom i posle potvrde započeti sa slaganjem stanja. Ova funkcija, u zavisnosti od količine podataka i konfiguracije računara / računarske mreže može da potraje neko vreme. Potvrda da je slaganje stanja završeno pojaviće se na sredini ekrana. Dok se ova potvrda ne pojavi, ne treba nasilno prekidati izvršenje programa ili na drugi način remetiti izvršavanje funkcije.
+Opcija Pregled prethodno sravnjenih popisa podmenija Veleprodaja služi za pregled popisnih lista po kojima je već izvršeno sravnjivanje t. j. završenih popisa. Ovaj modul omogućava štampanje popisnih lista po kojima je već izvršen popis. Za razliku od popisnih lista koje se štampaju korišćenjem opcije popisna lista, popisne liste odštampane iz ovog pregleda sadrže sve podatke, količine, stare i nove cene. Startovanjem ove opcije na ekranu se dobija standardni dvoprozorski tabelarni pregled.
+U samom pregledu već sravnjenih popisa određene funkcije dvoprozorskog tabelarnog pregleda vezane za manipulaciju podacima nisu aktivne (unos, ažuriranje zaglavlja i stavke...).
+Opcija Troškovi podmenija Veleprodaja služi za unos, a žuriranje i brisanje podataka o prispelim računima koji se mogu svrstati u troškove poslovanja. Računi za nabavku trgovačke robe (programski modul RobProXP) ili repromaterijala (programski modul MatProXP) ne unose se na ovom mestu već se za to koristi opcija Kalkulacija (RobProXP) ili Prijemnica materijala (MatProXP). Podaci uneti korišćenjem ove opcije odražavaju se na finansijsko stanje u kartici odabranog komitenta. Startovanjem ove opcije na ekranu se dobija standardni jednoprozorski tabelarni pregled.
+Za razliku od drugih tabelarnih izveštaja prikaz već unetih troškova je podešen tako da su zadnji računi postavljeni na početak spiska. Drukčije sortiranje po svakoj koloni može se postići korišćenjem standardnih kontrola jednoprozorskog tabelarnog pregleda.
+Funkcija za š tampu u slučaju unosa troškova štampa spisak svih unetih računa za troškove. U slučaju da želimo dobiti podatke koji su određenji u smislu vrste troškova navedenih u spisku po bilo kojem od unesenih parametara ili proizvoljnoj kombinaciji unetih podataka, treba odabrati izveštaj Analiza računa za troškove.
+Prozor za unos računa za troškove sadrži sledeća polja:
+Šifra vr.troška
+Šifra vrste troška. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma koja prikazuje sve već definisane dokumente unutar programa. Ovo polje nije obavezno za unos. Više podataka o vrstama troškova možete naći ovde...
+Datum valute racuna za troskove (polje je omogućeno za unos samo u slučaju da je za način plaćanja odabrana opcija Virmanski)
+Broj računa
+Broj računa dobavljača.
+Opis
+Tekstualni opis troška.
+PDV
+Da li se uneti trošak uzima u obračunu PDV-a kao odbitna stavka. Ovo polje je aktivno za unos samo u slučaju da je dobavljač u sistemu PDV-a i da je odabrana vrsta troška koja je definisana da se može koristiti kao odbitna stavka.
+Tar.br.
+Račune za troškove koji su otvoreni ili povezani automatski prilikom unosa stavke Putnog naloga (programski modul Kadrovska evidencija / Plate) ili Naloga blagajni za isplatu (programski modul FinProXP) nije moguće menjati niti brisati iz pregleda troškova, već je potrebno obrisati odgovarajuću stavku putnog naloga i / ili naloga blagajni i ponovo je uneti.
+Ova opcija je aktivna i vidljiva u podmeniju Veleprodaja samo u slucaju da je u Setup-u korisnika kao način vodjenja knjiga izabrano Dvojno knjigovodstvo.
+Šifra dokumenta
+Šifra dokumeta po kom je komitent uplatio ili po kome je isplaćen uneti iznos. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma koja prikazuje definisane dokumente unutar programa za koje se može izvršiti uplata ili isplata. Spisak prikazanih raspoloživih vrsta dokumenata zavisi od toga da li je izabrana uplata ili isplata. Vrste dokumenata su definisane od strane programera i nije ih moguće menjati. Ovo polje nije obavezno za unos.
+Izvodi računa banaka se unose kao osnova za formiranje dela podataka u Poslovnoj knjizi (PK knjiga). Dokument se formira unosom iz standardnog dvoprozorskog tabelarnog pregleda i nema uticaja na tok robe.
+Unos stavke izvoda žiro računa predstavlja inteligentnu formu koja omogućava odnosno onemogućava unos polja u skladu sa odabranom šifrom vrste uplate / isplate. Na osnovu unosa ovog polja automatski se uključuju odgovarajuća polja za unos. Na osnovu ovih knjiženja automatski se popunjava Poslovna knjiga (PK knjiga).
+Šifre vrste uplate / isplate su logički podeljene na isplate sa žiro računa (šifre su numerisane brojevima počev od 1) i uplate na žiro račun (šifre su označene slovima abecede počev od A). Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma...
+Uplate (Duguje)
+Suma uplate na žiro račun. Ovo polje je aktivno samo u slučaju da šifra vrste uplate / isplate odgovara uplati na žiro račun (slovo)
+Isplate (Potražuje)
+Gotovinski
+Iznos koji je uplaćen / isplaćen gotovinski. Ovaj iynos mora biti manji ili jednak iznosu uplate / isplate
+Bezgotovinski
+IPolje se automatski izračunava na osnovu gornjih unosa
+Tarifni broj
+Ovo polje je aktivno i vidljivo samo kada je kao šifra vrste uplate / isplate naveden PDV ili neki od prihoda ili rashoda sa PDV-om.
+Šifra org.jed.
+Šifra organizacione jedinice na koju se promena odnosi. Uneta šifra organizacione jedinice mora prethodno da bude definisana u šifarniku organizacionih jedinica. O dabirom šifre organizacione jedinice, automatski se popunjava odgovarajuće polje Naziv. Klikom na dugme pored polja može se pozvati odgovarajuća asistent forma...
+2.10 Uvoz / izvoz
+Predračun ino. kupcu (devizni) je dokument koji služi za izradu zvaničnih ponuda potencijalnim kupcima roba ili usluga u inostranstvu. Ovo je dvovalutni i višejezični dokument koji je snabdeven funkcijama za automatsku konverziju valuta i automatski prevod. Na predračunu ino.kupcu se u obračunu ne uzima u obzir PDV, t. j. PDV je 0 % pošto se radi o izvoznom dokumentu.
+Kurs, valuta
+Valuta u kojoj je izražena devizna cena i važeći kurs za preracun između domaće valute i navedene valute. Sve cene za domaće kupce automatski će biti podeljene unetom cifrom.
+Zaglavlje za štampu
+Tekstualno polje u koje se mogu upisati proizvoljne napomene. U zavisnosti od odabira osnovnog jezika na kome je profaktura u ovo polje se automatski učitava podrazumevani tekst na engleskom ili jeziku programa. Više podataka o funkciji automatskog prevodioca možete naći ovde.
+Svi iznosi unutar unos stavke dokumenta izraženi su u osnovnoj valuti u kojoj program radi podešenoj u setup-u parametara programa osim polja za koja je drukčije navedeno. Prilikom štampanja izveštaja svi iznosi se automatski preračunavaju i izražavaju u valuti u kojoj je izražen predračun.
+U slučaju da je korisnik odabrao da unese proizvoljan artikal ili uslugu koji nije definisan u šifarniku artikala usluga, biće mu ponudjeno da izabere sliku koju želi da pridruži artiklu / usluzi: Ovako odabrana slika biće linkovana na predračunu, ali ne i presnimljena u sistemski folder programa za slike tako da se, u slučaju fizičkog brisanja originala slike sa hard diska računara, automatski brise i slika artikla / usluge iz predračuna.
+KRAJNJA CENA
+Krajnja jedinična cena artikla u osnovnoj valuti programa.
+KRAJNJA CENA U (valuta)
+Krajnja jedinična cena u valuti predračuna.
+Jedinična veleprodajna cena artikla. Po ovoj ceni se vra ć a roba na stanje veleprodajnog magacina - zadužuje veleprodajni magacin.
+Maloprodajna cena
+Jedinična cena artikla u ulaznoj prodavnici. Izlazna prodavnica biva razdužena po ceni u toj prodavnici.
+Veleprodajna vrednost
+Iznos plaćen karticom. Polje je aktivno u slučaju da je u setup-u programa uključeno finansijsko razduženje maloprodaje.
+Br. fisk.isečka
+Broj fiskalnog isečka. Ovaj broj fiskalnog isečka se pojavljuje prilikom štampe maloprodajnog PDV računa.
+Br. dnev.izv (BDI)
+Broj dnevnog izveštaja.
+Napomena
+1 Ova polja su aktivna samo ako je u setup-u programa tab RobPro XP uključena opcija Finansijsko razduženje maloprodaje. U tom slučaju radi razduženja maloprodaje nije potrebno unositi količine prodatih artikala posebno, već se razduženje vrši unošenjem polja Gotovina, Ček i Kartica. Eventualne stavke unete u računu u slučaju da je uključeno finansijsko razduženje mapolrodaje neće biti uzete u obzit prilikom izrade izveštaja i imaju ulogu samo prilikom štampanja gotovinskog MP računa. Lager listu maloprodajnih objekata nije moguće dobiti ako je uključeno finansijsko razduženje maloprodaje.
+Gotovina
+Iznos plaćen gotovinom.
+Čekovi
+Iznos plaćen čekovima.
+Kartica / rač.
+Iznos plaćen karticom ili preko računa.
+Napomena
+Na početku rada sa programom ili početku knjigovodstvene godine potrebno je uneti stanj e kojim po činjemo knjiženje poslovne (PK knjige). Odabirom ove opcije, automatski se otvara forma za unos, odnosno ažuriranje početnog stanja poslovne knjige. Ovde uneti podaci se automatski se odražavaju prilikom formiranja izveštaja Poslovna knjiga podmenija Izveštaji.
+Forma za unos početnog stanja sadrži samo polja koja služe za unos početnih stanja kolona koje mogu imati početno stanje i to:
+Polje
+Opis
+Prethodni PDV
+Uneta vrednost predstavlja početno stanje kolone Prethodni PDV u prvom delu PK knjige koji se odnosi na prihode.
+Nabavna vrednost
+Stanje žiro računa
+Uneta vrednost predstavlja početno stanje kolone Tekući račun - Uplaćeno u drugom delu PK knjige koji se odnosi na rashode. Vrednost ovog polja može imati i negativnu vrednost, za razliku od prethodno navadenih polja u koja se može uneti samo pozitivna vrednost ili nula.
+Sabiranjem vrednosti unetih u polja Nabavna vrednost, Razlika u ceni i Ukalkulisani PDV automatski se izračunava i popunjava polje Prodajna vrednost.
+Sastavni deo podmenija Izveštaji su funkcije koje se koriste za dobijanje predvidjenih standardizovanih izveštaja unutar programa, bilo da je reč o dokumentima čiji je izgled i sadržaj propisan od strane zakonodavca, bilo da se radi o nezvaničnim izveštajima koji olakšavaju pregled podataka. Svim izveštajima programskog modula moguće je pristupiti iz Menija sa podmenijima, a pozivanje većine stavki menija Izveštaji može se uraditi na drugi način korišćenjem QA menija u slučaju da je u setup-u opcija programa uključen rad sa DGT formama.
+Napomena: Pojedini izveštaji pozvani iz jednog modula mogu se oslanjati na podatke koji se unose u drugim modulima programa.
+Podmeni Izveštaji programskog modula RobProXP sadrži sledeće izveštaje i podmenije:
+Opcija Poslovna knjiga je aktivna samo u slučaju da je u Setup-u korisnika kao Način vo đ enja knjiga izabrano Prosto knjigovodstvo. U slučaju da je odabrani način vođenja knjiga dvojno knjigovodstvo, ova opcija neće biti aktivna.
+4.1 Lager liste
+Odabirom opcije Veleprodaja podmenija Lager liste pojavljuje se ekran za postavljanje parametara izveštaja. Parametri koji se unose na ovom ekranu fino podešavaju i odredjuju okvir podataka koji će se naći u izveštaju.
+Izveštaj Lager lista daje informaciju o artiklima koji se nalaze na stanju odabranog magacina ili cele veleprodaje i može se podesiti davanjem šifre magacina za koji se tra ži izveštaj.
+Šifra magacina Ako se želi pregled lager liste za jedan magacin u polje Šifra magacina treba uneti šifru magacina za koji se želi pregled. Pri odabiru šifre magacina, na raspolaganju je i odgovarajuća asistent forma. U slučaju da polje Šifra magacina ostavite prazno, klikom na dugme OK biće prikazana zbirna lager lista za celu veleprodaju u kojoj će količine i iznosi za svaki artikal posebno biti prikazane po magacinima i sabran iznos njihovih vrednosti za celu veleprodaju.
+Podrazumevani prikaz lager liste je Samo artikli na stanju. U slučaju da želite prikaz svih artikala za koje je bilo prometa u odabranom magacinu ili celoj veleprodaji treba odabrati opciju Svi artikli.
+Treba obratiti pažnju da vreme potrebno da se obrade podaci i prikaže izveštaj direktno zavisi od opsega zadatih podataka.
+Cene artikala u svim izveštajima vezanim za veleprodaju i veleprodajne magacine date su bez uračunatog PDV-a. Za više informacija o cenama u veleprodaji i maloprodaji i pravilima koja se poštuju pri formiranju automatskih dokumenata kliknite ovde...
+Pregled Lager liste veleprodaje snabdeven je dodatnim dugmetom za pozivanje Kartice artikla. Dugme je obeleženo ikonicom i klikom na njega dobija se kartica artikla za izabrani magacin i artikal na kome se kursor nalazi u središnjem prozoru jednoprozorskog tabelarnog pregleda. Ovaj izveštaj je moguće pozvati iz lager liste veleprodaje i pritiskom na razmaknicu na tastaturi (space). Više podataka o stadnardnim prečicama na tastaturi unutar programa možete naći ovde...
+Knjiga primljenih računa može se formirati na osnovu knjiženih finansijskih naloga i na osnovu primljenih računa.
+Na osnovu knjiženih finansijskih naloga Ovako formiran izveštaj uzima u obzir podatke unete u modulu za finansijsko knjigovodstvo FinProXP. U zavisnosti od odabrane opcije opseg datuma može se odnositi na datum naloga unet u zaglavlju naloga (opcija datum knjiženja) ili datum dokumenta unet u stavkama naloga. Ako se izveštaj poziva iz modula za finansijsko knjigovodstvo FinPro XP podrazumevan je prikaz ovako formiranog izveštaja.
+Na osnovu primljenih računa Ovako formiran izveštaj uzima u obzir podatke unete u modulima za robno knjigovodstvo RobProXP, materijalno knjigovodstvo MatProXP i modulu Kasa i može uzimati u obzir samo podatke iz dokumenata veleprodaje, samo dokumenata maloprodaje ili podatke svih unetih dokumenata. Ako se odaberu samo dokumenti veleprodaje, u izveštaj će biti uključeni i podaci uneti u modulu za materijalno knjigovodstvo.Ako se izveštaj poziva iz modula za robno knjigovodstvo RobPro XP ili materijalno knjigovodstvo MatPro XP podrazumevan je prikaz ovako formiranog izveštaja (na slici). U slučaju poziva izveštaja iz modula Kasa nije moguće dobiti izveštaj samo po dokumentima veleprodaje.
+Uklju čeni računi za troškove Određuje da li knjiga primljenih računa treba da uzme u obzir ulazne račune za troškove.
+Opseg datuma Unošenjem početnog i krajnjeg datuma odredjuje se datumski opseg promena koji treba da udju u izveštaj. Na pr. ako se postavi opseg od 01.04.2009. do 30.04.2009. u izveštaj će ući samo promene čiji je datum izmedju ova dva datuma (uključujući i njih).
+Klikom na taster OK formira se izveštaj Knjiga primljenih računa koji se prikazuje u obliku standardnog jednoprozorskog tabelarnog pregleda. U nazivu izveštaja je naznačeno na osnovu kojih podataka je uradjen. Za više podataka o ovoj vrsti izveštaja, kliknite ovde...
+Kartica artikla u veleprodaji daje sve promene vezane za odabrani artikal u odabranom magacinu ili celoj veleprodaji izmedju dva datuma. Izveštaj se formira na osnovu sledećih parametara:
+Kartica komitenta daje sve promene vezane za odabranog komitenta unete preko bilo kog dokumenta unutar programa izmedju dva datuma. Izveštaj se formira na osnovu sledećih parametara. U opseg izveštaja ulaze virmanski računi za troškove, dok se gotovinski računi ne knjiže u ovoj kartici.
+Prikaz kartice komitenta
+kao kupac - odabirom ove opcije u koloni zaduženje će biti sabrani izlazni dokumenti - dokumenti koji razdužuju VP ili MP i zadužuju komitenta kao kupca, povratnice po izlaznim dokumentima i eventualna plaćanja komitentu (VP i MP račun, povratnica od kupca kao storno...), a u kolonu razduženje će biti sabrani ulazni dokumenti, eventualne povratnice po ulaznim dokumentima i primljene uplate od strane komitenta (VP i MP kalkulacija, storno povratnica dobavljaču, povratnica dobavljaču kao storno...)
+Vezivanje uplata / isplata sa dokumentima Ako je uključena ova opcija biće automatski formirana verzija kartice komitenta u kojoj su povezani dokumenti i uplate, odnosno isplate preko broja dokumenta. U slučaju da je u pitanju katrica komitenta kao kupca, svi izlazni računi biće upareni sa uplatama od kupca kod kojih je kao broj vezanog dokumenta naveden broj izlazne fakture iz programa. Takodje, ako je u pitanju kartica komitenta kao dobavljača svi ulazni računi biće zatvoreni kalkulacijama u kojima je kao broj vezanog dokumenta naveden broj računa izdatog od strane dobavljača. U slučaju da je plaćanje izvršeno po predračunu i naveden broj predračuna ove isplate neće biti vezane.
+Ovako formiran izveštaj, osim kolona zadu ženje, razduženje i kumuzlativnog salda sadrži i kolonu razlika u kojoj je data razlika izmedju sume računa i uplate.
+Pregled Kartice komitenta snabdeven je dodatnim dugmetom za pozivanje Kartona kontakata. Dugme je obeleženo ikonicom i klikom na njega dobija se mogućnost pregleda, unosa, ažuriranja ili brisanja hronologije kontakata sa izabranim komitentom. Ovaj izveštaj je moguće pozvati i pritiskom na kombinaciju tastera Alt &gt; K &gt; na tastaturi.
+U slu čaju da je aktivno Vezivanje uplata / isplata sa dokumentima na raspolaganju je i dugme Vezane st. za pregled plaćanja vezanih za dokument. Klikom na ovo dugme pojavljuje se hronološki spisak svih plaćanja koja su vezana za odabrani dokument. Da bi ovo bilo moguće, pre klika na ovo dugme potrebno je obeležiti dokument za koji želimo pregled vezanih plaćanja. Ovaj izveštaj je moguće pozvati i pritiskom na kombinaciju tastera Alt &gt; V &gt; na tastaturi.
+Pregled potraživanja / dugovanja prema komitentima sabira sva potraživanja od komitenata u kolonu Komitent duguje i sva dugovanja prema komitentu u kolonu Komitent potražuje. Izveštaj se daje za sve komitente koji ispunjavaju uslove postavljene u ekranu za unos parametara izveštaja. U opseg izveštaja ulaze virmanski računi za troškove, dok se gotovinski računi ne knjiže u ovoj kartici.
+Opseg šifara komitenata Unošenjem početne i krajnje šifre komitenta odredjuje se opseg komitenata za koga se želi pregled. Pri odabiru šifara komitenata, na raspolaganju su i odgovarajuće asistent forme.
+Okvir prikaza:
+Svi komitenti - u izveštaju će se pojaviti svi komitenti iz zadatog opsega šifara komitenata za koje su knjižene bilo kakve promene unutar zadatog datumskog opsega;
+Samo nezatvoreni komitenti - u izveštaju će se pojaviti samo komitenti iz zadatkog opsega šifara i datumskog opsega za koje postoje dugovanja i / ili potraživanja (trenutni saldo nije jednak nuli).
+Odabiranjem opcije Samo dug van valute u izve štaj ulaze samo potraživanja / dugovanja kojima je istekla valuta za plaćanje, a ako polje nije čekirano ulaze sva dugovanja prema datumu dokumenta.
+Knjiga evidencije prometa i usluga prikazuje promet i usluge u odabranom veleprodajnom objektu - magacinu u obliku zakonom propisanog izveštaja KEPU knjige. U kolonu Zaduženje upisuju se vrednost nabavljene robe po veleprodajnim cenama za svaki dokument. U kolonu Razduženje upisuje se vrednost prodate robe i usluga.
+Prikaz KEPU knjige:
+sa PDV-om - svi iznosi u okviru izve štaja biće dati sa uračunatim PDV-om;
+bez PDV-a - svi iznosi u okviru izveptaja biće dati bez uračunatog PDV-a.
+KEPU knjiga maloprodaje prikazuje promet i usluge u odabranom maloprodajnom objektu - prodavnici u obliku zakonom propisanog izveštaja KEPU knjige maloprodaje. U kolonu Zaduženje upisuju se vrednost nabavljene robe po maloprodajnim cenama za svaki dokument. U kolonu Razduženje upisuje se vrednost prodate robe i usluga. Kolona Uplate na ra č un sadrži iznose uplaćenog pazara unete korišćenjem opcije Pazari podmenija Maloprodaja. U slučaju da je uneto više vrsta pazara (gotovina, čekovi, kartica, ostalo), svaka vrsta pazara će se pojaviti pojedinačno u posebnom redu KEPU knjige maloprodaje. Polje Br. dnev.izv. sadrži broj dnevnog izveštaja fiskalnog uređaja po osnovu koga je izvšeno evidentiranje maloprodajnog pazara.
+Izveštaj Poslednje prodajne cene po komitentu daje cene i količine koje je komitent dobio od komercijaliste prilikom poslednje prodaje. Izveštaj je namenjen za korišćenje prilikom prodajnog razgovora sa kupcem. Izveštaj se formira na osnovu sledećih parametara:
+Šifra komitenta Šifra komitenta za koga se pregled želi. Pri odabiru šifre artikla, na raspolaganju je i odgovarajuća asistent forma.
+Cene artikala date su bez uračunatog PDV-a ako je kupcu roba prodata dokumentom iz veleprodaje, a sa uračunatim PDV-om ako je kupcu prodata roba dokumentom iz maloprodaje. Da li je dokument iz veleprodaje ili maloprodaje može se zaključiti na osnovu datog broja dokumenta jer je broj dokumenta dat u formi xxxxx / mmmmm, gde je mmmmm šifra organizacione jedninice za koju je dokument izdat. Ako je prva cifra šifre organizacione jedinice 0 radi se o veleprodajnom magacinu, a ako je prva cifra 1, radi se o maloprodajnom objektu - prodavnici.
+Izveštaj Cenovnik artikala prikazuje veleprodajni ili maloprodajni cenovnik određene organizacione jedinice. Cene artikala u veleprodaji odnosno maloprodaji vode se na nivou veleprodajnog / maloprodajnog objekta i mogu biti različite u svakom objektu ponaosob. Ove cene se automatski uskladjuju u slučaju da je uključen rad sa automatskom nivelacijom. Za više informacija o cenama u veleprodaji i maloprodaji i pravilima koja se poštuju pri formiranju automatskih dokumenata kliknite ovde... I
+Vrsta cenovnika Odabiranjem opcije veleprodajni cenovnik ili maloprodajni cenovnik bira se vrsta objekta i cenovnika U slučaju odabira opcije Veleprodajni cenovnik biće ponudjena šifra magacina za unos, a ako odaberemo opciju Maloprodajni cenovnik opcija unosa šifre objekta biće prilagodjena za unos prodavnice. U slučaju pozivanja cenovnika artikala iz modula Kasa podrazumevana vrsta cenovnika je Maloprodajni cenovnik.
+Izveštaj Cenovnik usluga prikazuje cenovnik usluga koji se formira na nivou preduzeća. Cenovnik usluga je jedinstven za celu veleprodaju i sve maloprodajne objekte i formira se prilikom usnosa usluge u šifarniku artikala / usluga. Cene usluga se menjaju direktno u šifarniku artikala / usluga bez formiranja dokumenta nicelacija koji služi za nivelisanje cena artikala na lageru u veleprodaji i maloprodaji.
+Izveštaj Stok minimum daje informaciju o artiklima čija je raspoloživa količina na lageru manja od zadate minimalne količine u šifarniku artikala / usluga, automatski formira listu artikala za naručivanje i može se podesiti davanjem šifre magacina za koji se tra ži izveštaj.
+Pošto svaka stavka Poslovne knjige mora biti jedinstveno numerisana, u slučaju da ne postoje knjiženja pre početnog datuma, pod rednim brojem 0 će se naći vrednosti unete kao Početno stanje poslovne knjige, a ostale promene biće numerisane počevši brojem 1. U slučaju da postoje knjiženja u poslovnoj knjizi pre zadatog početnog datuma, pod rednim brojem 0 će biti prikazana sva kniženja pre zadatog početnog datuma zbirno (uključujući i vrednosti unete kao početno stanje poslovne knjige, a promene za zadati početni datum i hronološki iza početnog datuma biće numerisane redom brojevima, počevši od rednog broja prve pojedinačno prikazane promene u poslovnoj knjizi. Promene hronološki iza krajnjeg datuma neće biti prikazane u poslovnoj knjizi.
+Poslovna knjiga se formira na osnovu unete dokumentacije u veleprodaji i maloprodaji. Vrednosti unete u dokumentima upisuju se u propisane kolone. U slučaju da je za dokument koji se knjži u poslovnu knjigu uneto samo zaglavlje, dokument će biti unet u knjigu sa nulama kao vrednostima uknjiženim u svim kolonama knjige. Knjiže se samo dokumenti vezani za programski modul RobPro XP (robno knjigovodstvo) i to navedeni dokumenti po sledećim pravilima:
+Knjiže se u zavisnosti od odabrane Šifre vrste uplate / isplate i to na seldeći način:
+1 - Rashod za robu knji ži se u polje Tekući račun-Isplaćeno (deo rashodi);
+2 - PDV knjiži se u polje PDV-Uplaćen (deo prihodi) i Tekući račun-Isplaćeno (deo rashodi);
+3 - Materijalni trošak knjiži se u polje Troškovi proizvodnih usluga, amortizacije i nemat.usluga i Tekući račun-Isplaćeno (oba u delu rashodi);
+od promene 7 - Rashodi finansiranja do promene 12 - Kazne, penali i kamate knji ži se u polje Finansijski i ostali rashodi (grupa 56 do 59) i Tekući račun-Isplaćeno (oba u delu rashodi);
+od promene A-Prihod od robe sa PDV-om do promene D-Prihod od usluga bez PDV-a knjiži se u Prihod od prodaje dobara odnosno usluga u kolonu koja zavisi od poreske stope, kolonu SVEGA (deo prihodi) i Tekući račun-Uplaćeno (deo rashodi);
+od promene E-Prihod od finansiranja do promene G-Povećanje osnivačkog uloga knjiži se u Ostali prihodi (grupe 63 do 69), kolonu SVEGA (deo prihodi) i Tekući račun-Uplaćeno (deo rashodi).
+Napomena: Pošto je poslovna knjiga izveštaj koji se sastoji od 23 kolone, njegovo štampanje odjednom je nemoguće, pa je štampa izveštaja prilagodjena, tako da se posebno štampa I deo knjige koji se odnosi na kolone sa prihodima, a posebno drugi deo sa kolonama koje se odnose na rashode.
+4.13 Analiza prodaje
+Izveštaj Neprodavani artikli daje spisak artikala koji nisu prodavani od zadatog datuma, kao i njihove cene i raspoložive količine na lageru odabranog veleprodajnog ili maloprodajnog objekta. Izveštaj se formira na osnovu sledećih parametara:
+Datum za pregled je polje u koje treba upisati datum koji određuje granicu izveštaja. U izveštaj će ući podaci o svim artiklima odabrane ogranizacione jedinice za koje nije bilo prometa posle unetog datuma.
+Izveštaj Najbolje prodavanih 50 artikala daje spisak prvih 50 artikala po prodaji u odredjenom periodu poredjan od najbolje prodavanog ka najgore prodavanom sa prodatim količinama. Izveštaj se formira na osnovu sledećih parametara:
+Izveštaj Pregled prodaje daje podatke o prodaji artikala sa podacima o ukupno nabavljenoj i prodatoj količini artikla za zadati vremenski period, raspoloživoj količini i trenutnoj ceni na lageru odabrane organizacione jedinice. Izveštaj se formira na osnovu sledećih parametara:
+Izveštaj Analiza računa za troškove daje spisak računa za troškove poslovanja koji zadovoljavaju zadate parametre u skladu sa filterom. Izveštaj se formira na osnovu sledećih parametara:
+Šifra dobavljača: U polje Šifra dobavljača treba uneti šifru dobavljača koji je izdao račun za troškove. U slučaju da ovo polje ostavimo praznim u izveštaj će ući računi svih dobavljača. Pri odabiru šifre dobavljača, na raspolaganju je i odgovarajuća asistent forma.
+Način plaćanja Odabiranjem opcije virmanski ili gotovinski bira se vrsta računa po načinu plaćanja za koju se želi pregled. U slučaju odabira opcije Virmanski biće uzeti u obzir samo računi za troškove predviđeni za plaćanje preko računa, a opcija Gotovinski uključuje samo gotovinske račune. Opcija bez obzira na vr.rac u izveštaj uključuje i gotovinske i virmanske račune.
+Ulazni PDV Odabiranjem opcije sa PDV-om ili bez PDV-a bira se vrsta računa po tome da li se račun za troškove poslovanja može uzeti u obzir kao odbitna stavka PDV-a pri obračunu. U slučaju odabira opcije sa ODV-om biće uzeti u obzir samo računi za troškove koji se mogu uzeti kao odbitna stavka, a opcija bez PDV-a uključuje prikaz računa koji nisu odbitna stavka. Opcija bez obzira na PDV u izveštaj uključuje sve račune koji zadovoljavaju ostale kriterijume, bez obzira na PDV.
+Izveštaj Kartica serijskog broja daje sve promene vezane za odabrani serijski broj za koje postoje dokumenti unutar celokupne baze podataka za odabranog korisnika i / ili knjigovodstvenu godinu izmedju dva datuma. Izveštaj se formira na osnovu sledećih parametara:
+Serijski broj U polje Serijski broj treba uneti tra ženi serijski broj za koju se želi pregled. Pri odabiru serijskog broja, na raspolaganju je i odgovarajuća asistent forma. Eventualno pretraživanje serijskog broja ili dela serijskog broja može se izvršiti korišćenjem funkcija za pretraživanje unutar asistent forme.
+U slučaju da je uneti serijski broj jedinstven, odnosno da postoji samo jedna šifra artikla za koju postoji unet ovaj serijski broj, polja Šifra artikla i Naziv biće automatski popunjena na osnovu unetog serijskog broja. Ako postoji više artikala za koje se uneti serijski broj pojavljuje kao ulaz ili izlaz na dokumentima, potrebno je popuniti polje Šifra artikla. Pri odabiru šifre artikla, na raspolaganju je i odgovarajuća asistent forma.
+Izveštaj Pregled s / n na stanju daje informaciju o serijskim brojevima koji se nalaze na stanju u skladu sa parametrima koji na osnovu kojih je formiran.
+Ovaj izveštaj se formira na osnovu podataka koji su uneti korišćenjem sistema za unos / odabir serijskih brojeva i potpuno je nezavistan od sistema količinskog i finansijskog zaduživanja / razduživanja magacina. Zbog toga se može desiti da se količine pojedinih artikala na osnovu lager liste i podataka na osnovu serijskih brojeva ne slažu jer je ostavljena mogućnost da na pojedinim dokumentima ne budu uneti svi serijski brojevi.
+Sve organizacione jedinice - pregled serijskih brojeva po artiklima i organizacionim jedinicama za celokupno preduzeće / organizaciju
+Šifra org.jed.. Ovo polje se popunjava u slučaju da je za vrstu pregleda odabran pregled za odabranu organizacionu jedinicu. Pri odabiru organizacione jedinice, na raspolaganju je i odgovarajuća asistent forma.
+Šifra robe Polja Šifra robe služe za unos minimalne i maksimalne šifre artikla koja će da uđe u okvir izveštaja. U slučaju da je potrebno dobiti pregled serijskih brojeva samo za jedan artikal po organizacionim jedinicama u skladu sa zadatom vrstom pregleda, treba postaviti obe šifre na istu vrednost. Ova polja mogu biti popunjena ivrednostima šifara koje ne postoje u šifarniku artikala. U tom slučaju će korisniku biti prijavljena greška odnosno upoorenje, polje naziv neće biti popunjeno, ali će, bez obzira na upozorenje, u izveštaj ući svi artikli sa šiframa koje su unutar zadatog okvira. Početnu i krajnju šifru robe je moguće odabrati i korišćenjem odgovarajuće asistent forme.
+Izveštaj Dokumenti sa nepotpuno unetim serijskim brojevima daje informaciju o dokumentima na kojima je detektovano da se količuna artikla uneta u stavci za odredjeni artikal ne slaže sa brojem serijskih brojeva koji su uneti za odabrani dokument. U slučaju da je ovo slučaj izveštaj Pregled s / n po artiklima trenutno na stanju i odgovarajuća Lager lista u najvećem broju slučajeva neće se slagati, jer dokumentacija na osnovu koje se formiraju ova dva izveštaja nije usklađena.
+Ako su svi podaci ispravno uneti kompletirani ovaj izveštaj bi trebalo da bude prazan.
+Pošto je ovaj izveštaj informativnog karaktera i služi za dobijanje informacije o greškama koje treba ispraviti, njega nije moguće odštampati.

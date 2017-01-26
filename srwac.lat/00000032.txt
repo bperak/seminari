@@ -1,28 +1,128 @@
-predstavljaju jedan od najvažnijih segmenata sistema tehničke zaštite. Tehnomobil-Protech d. o. o. prati sve trendove u detekciji i dojavi požara garantujući da će pronaći pravo rešenje za Vaš objekat. Našu ponudu u ovoj oblasti baziramo na sistemima i opremi proizvođača Esser. 
-Kolektivni sistemi za detekciju i dojavu požara i dalje se koriste zbog niske cene i mogućnosti korišćenja starih instalacija. Ovakvi sistemi su pogodni za zaštitu manjih privatnih ili poslovnih objekata, tj. objekata sa malim brojem prostorija gde nije od esencijalne važnosti znati istog trenutka u kojoj je tačno prostoriji nastao požarni alarm. Takođe kolektivne detektore požara moguće je priključiti na protivprovalne centrale i na taj način se mogu pokriti manji prostori i objekti koji su već obezbeđeni protivprovalnim sistemom. 
-U ovoj oblasti predlažemo ugradnju visoko kvalitetne opreme sledećeg proizvođača: 
-Postoji veliki izbor podnožja za sve detektore uključujući podnožja sa relejima. Svi detektori iz serije 9000 zadovoljavaju EN54 i VdS standard. 
-ESSER FACP80 
-je kolektivna centrala na koju je moguće priključiti detektore iz serije 9000. Centrala podržava 4 ili 8 detektorskih zona, a svaka zona može da primi po 30 detektora požara. Centrala zadovoljava evropske standarde EN54 i VdS. 
-Adresabilni sistemi za detekciju i dojavu požara pružaju najmoderniju i najbolju zaštitu od požara. Osim olakšanog testiranja ovi sistemi se odlikuju velikom fleksibilnošću i visokom preciznošću detekcije požara. Moguće je veoma brzo i precizno odrediti tačnu lokaciju požara u objektu i pravovremeno izvršiti sve potrebne akcije kao što su: upravljanje ventilacijom, protivpožarnim vratima, uključivanje sistema za gašenje požara i obaveštavanje vatrogasne službe. Namenjeni su za zaštitu većih privatnih, poslovnih ili industrijskih objekata sa velikim brojem prostorija, kao i za zaštitu međusobno udaljenih objekata. 
-ESSER IQ8Quad 
-je serija adresabilnih, interaktivnih detektora požara vrhunskog dizajna i kvaliteta. Odlikuju se pouzdanom i ranom detekcijom požara zahvaljujući patentiranoj multisenzorskoj tehnologiji. Ono što posebno izdvaja ove detektore su sledeće karakteristike: 
-- 
-multifunkcionalnost (svaki automatski detektor objedinjuje funkcije detekcije i svetlosnog alarma u jednom kućištu, a opciono moguće je naručiti i detektore sa zvučnim ili govornim alarmom); 
-- 
-integrisana adaptivna tehnologija koja garantuje preciznu detekciju požara nezavisno od promene uslova u okolini detektora; 
-U ovoj seriji postoje sledeće vrste detektora požara: O - optički detektor; T - termički detektor; OT - optičko-termički detektor; O2T - optičko-termički detektor sa dve komore za optičku detekciju (razlikuje vrste dimova); OTG - kombinovani optičko-termički detektor sa integrisanom detekcijom CO; OTblue - optičko-termički detektor sa plavim laserom koji omogućava detekciju nevidljivih dimova (predstavlja idealnu zamenu za jonizacione detektore koji se više ne koriste zbog radioaktivnih elemenata). 
-Postoji veliki izbor podnožja za sve detektore uključujući i podnožja sa relejima koja se mogu koristiti za upravljačke funkcije. Svi detektori zadovoljavaju brojne evropske standarde uključujući EN54 i VdS. 
-ESSER IQ8Control 
-je serija adresabilnih, mikroprocesorski kontrolisanih protivpožarnih centrala na koje je moguće priključiti adresabilne detektore požara iz serije IQ8Quad. Ove centrale imaju modularnu konstrukciju i usled toga veliku fleksibilnost i skalabilnost. 
-Integrisani mrežni interfejs omogućava različite mrežne konfiguracije IQ8Control centrala pa je moguće pokriti srednje i velike objekte sa više hiljada javljača požara i drugih pratećih uređaja. 
-Sve centrale imaju rezervno napajanje, potrebne interfejse za vezu sa računarom i štampačem, neophodne releje za upravljanje drugim sistemima i zadovoljavaju evropske norme EN54 i VdS. 
-IQ8Quad centrale mogu biti opremljene različitim jezicima i odgovarajućim vrstama pisama kako bi udovoljile nacionalnim zahtevima, standardnim ili VGA displejem i zonskim indikatorom za do 192 zone. 
-Mikroprocesorski kontrolisana adresabilna centrala za detekciju požara 8008 je centrala visokih performansi koja je kao i centrale iz serije IQ8Control bazirana na modularnoj konstrukciji. Maksimalan broj adresabilnih petlji po jednoj 8008 centrali je 40. Kad se uzme u obzir da je maksimalan broj uređaja po adresabilnoj petlji 127 dobijamo da se čak 5080 uređaja može priključiti na adresabilne petlje jedne centrale. Mogućnost da se pored osnovnog mikroprocesora doda još jedan, redundantan procesor, podiže zaštitu od požara na jedan viši nivo. Centrala zadovoljava EN54 i VdS standard. 
-Na sledećoj slici prikazan je jedan složeni, adresabilni sistem za detekciju požara sa opremom proizvođača Esser. Na slici je prikazano povezivanje elemenata u adresabilnu petlju (esserbus - Plus) i povezivanje više centrala za detekciju požara u jedan sistem (essernet). 
-Essernet je jedinstvena mreža za Esser sistema. U skladu sa zahtevima EN54 to je redundantna mreža koja omogućava neprekidno funkcionisanje sistema u prisustvu grešaka. Upotrebom modularnog dizajna Esser centrala moguće je prilagoditi sistem za dojavu požara tako da se sistem maksimizuje i proizvede najfunkcionalniji dizajn sistema. Essernet omogućava povezivanje do 31 centrale. Eserbus i Esserbus Plus su adresabilne petlje pri čemu je Esserbus Plus petlja sa snažnijim napajanjem koja se koristi kada se u petlju žele povezati automatski detektori sa integrisanim alarmnim uređajem, adresabilne sirene, bljeskalice i sl. 
-WINMAG je modularan, PC baziran sistem, koji omogućava povezivanje više različitih sistema tehničke zaštite u jedinstvenu funkcionalnu celinu i to: sistema za detekciju požara, protivprovalnog sistema, sistema video nadzora, sistema kontrole pristupa i evidencije radnog vremena, sistema za evakuaciju i kontrolu vrata, sistema za detekciju gasa i drugih sistema preko OPC, BACnet i ESPA interfejsa. 
-WINMAG omogućava: 
-- 
-menadžment alarma - prijem i obrada alarma iz različitih sistema i njihova vizualizacija na računaru (lociranje uređaja u alarmu na arhitektonskoj osnovi objekta); 
-programiranje događaja - kada se određeni događaj desi u okviru jednog sistema izaziva unapred definisane akcije u istom ili drugom sistemu (primeri: pri aktivaciji detektora požara automatski se na ekranu prikazuje slika sa kamere iz prostorije u kojoj se nalazi aktivirani detektor, pri prinošenju kartice čitaču kartica, pokretna kamera zauzima poziciju za snimanje lica osobe koja prolazi kroz vrata); 
+Valona
+Valona (alb. Vlorë) je primorski grad u Albaniji i nalazi se u istoimenoj oblasti. Smešten je na obali Jonskog mora i druga je luka po veličini, posle Drača u Albaniji, najbliža luci Bari u Italiji. U blizini Valone nalazi se ostrvo Sazan koje se nalazi na ulazu u Valonski zaliv. Klima je tipična mediteranska sa kišovitim zimama i vrelim toplim letima sa temperaturom do 40 ºC.
+Hotel NEW YORK 4 preporucujemo
+Nalazi se na samoj obali, u najlepšem delu zaliva Valone, poznat kao Hladna Voda (Uji I Ftohtë), u podnožju planine Šušica. Hotel poseduje 85 moderno opremljenih soba sa širokim balkonima, satelitskom TV, klimom, internetom U sastavu hotela nalaze se bazen, dečji bazen i privatna plaža. www.hotelnewyork.al
+do 19.06.
+20.06. - 31.08.
+od 01.09.
+usluga
+BB
+BB
+BB
+1 / 2
+33
+36
+33
+1 / 1
+60
+66
+60
+1 / 2 superior
+38
+44
+38
+- cene su izražene u eurima po osobi, po danu
+apartman 2 1
+76
+82
+76
+apartman 2 2
+87
+98
+87
+Hotel REGINA 3 preporucujemo
+Hotel Regina se nalazi na padini brda i gleda na blistavo Jonsko more. Obuhvata sopstvenu plažu duž zaliva Vlora, udaljenu samo par metara. Gosti se mogu opustiti na terasama sa panoramskim pogledom ili na velikoj terasi za sunčanje sa ležaljkama i suncobranima.Sve sobe su klimatizovane I opremljene TV-om sa satelitskim kanalima. www.hotelregina-al.com
+16.04. - 15.06.
+16.06. - 30.09.
+usluga
+BB
+BB
+22
+28
+1 / 1
+29
+35
+1 / 3
+22
+23
+deca 0 - 4 g
+/
+/
+deca 4 - 14 g
+6
+6
+Hotel NIMFA 3 preporucujemo
+Hotel je smešten na obali Valone, 15 minuta vožnje od centra grada. Hotel poseduje 37 klimatizovanih soba, jedinstvenu privatnu plažu, restoran mediteranske kuhinje i dva bara. Većina soba gleda na more. www.hotelnimfa.com
+01.05. - 31.05.
+01.06. - 31.08.
+01.09. - 30.09.
+usluga
+BB
+23
+35
+23
+1 / 1
+46
+70
+46
+1 / 2 superior
+29
+46
+29
+jedno dete 0 - 4 g
+Hotel GRAND AITA 3 preporucujemo
+Nalazi se na samoj obali Jonskog mora, u zalivu Valone, nedaleko od Orikuma. Sobe poseduju satelitsku TV, klimu, terase.. u sastavu hotela nalaze se bar i restoran, menjačnica, taxi servis, privatna plaža, parking. www.grandhotelaita.com
+usluga
+do 30.06.
+01.07. - 05.09.
+od.06.09.
+1 / 2
+BB
+20
+29
+20
+HB
+28
+37
+28
+AL
+40
+48
+40
+1 / 1
+BB
+32
+44
+32
+HB
+40
+52
+40
+AL
+52
+63
+52
+1 / 3
+BB
+17
+23
+17
+HB
+25
+31
+25
+AL
+37
+43
+37
+deca 0 - 6 g
+/
+/
+/
+deca 6 - 14 g
+50 %
+50 %
+50 %
+Plaćanje: U dinarima po prodajnom kursu Societe General banke na dan uplate do polaska na put. Ostatak duga biće preračunat po prodajnom kursu Societe General banke na dan putovanja.
+Albanija
+Korisni Linkovi

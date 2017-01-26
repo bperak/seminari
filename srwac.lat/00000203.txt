@@ -1,0 +1,23 @@
+Blogroll
+Search
+Zadovoljni sam vlasnik HP hw6515 PDA uređaja sa telefonom. Dobio sam ga na poklon pre dve i po godine kada je odavno bio polovan. I još uvek radi. Mada, godine ga sustižu. QWERTY tastatura je na izdisaju, neke tastere treba jako stisnuti da bi se javili, džojstik je odavno na staklenim nogama, kamera je oduvek vrlo loša, glazura na kućištu se ofucala
+Sve to ne bi bio problem da ne moram da se bijem svakog dana sa Windows Mobile operativnim sistemom. Priznajem, u početku mi je bilo cool što na telefonu imam Start dugme, Word i Excel, ali sada muka mi je. U međuvremenu sam počeo da koristim Linux, pa mi je nekako zločin protiv zdravog razuma da u džepu i dalje imam. dll fajlove, registy, Outlook i sl
+Sve to na telefonu? Na prenosnom uređaju koji je uz to i telefon. O, da
+Naravno, nije to ništa novo. Entuzijasti su instalirali Linux na HP Windows CE uređaje pre desetak godina. Ali, kad si vlasnik vrednog parčeta hardvera ne osećaš se baš prijatno kada treba da flešuješ ROMove i sl osim ako vredno parče hardvera nije kupio tata, naravno ahem
+Sada može i na lakši način. Proizvođačima hardvera verovatno ide voda na usta kad znaju da će njihovom uređaju raditi webOS, Android ili nešto slično Nema više hardverskog softvera samo softvera koji radi na hadveru. Nije li to divno?
+Palm Pre eeeeelepa stvarčica
+Palm Pre se projavio u Americi početkom juna 2009, a u ostatku sveta će se pojaviti krajem godine. Kad će se pojaviti u Srbiji? E, to me najviše zanima. Nažalost, za sad nemam nikakvu informaciju, ali se nadam da će se uskoro nešto čuti. Naravno, ako neko ima nekog insajdera, nek ne ćuti:)
+Dok čekamo i gledamo fotke da prepišemo neke specifikacije, tek da znamo šta je to na čemu odmaramo oči
+Procesor: Texas Instruments, na 600 MHz.
+Texas mi budi lepe uspomene, jer sam kao klinac imao jedan matori kalkulator, sa ciframa od crvenih LED-ova Urezao mi se u sećanje logo ove kompanije. Happy days
+Ekran: osetljiv na dodir, rezolucija 320 480
+Ugrađena memorija: 256 MB RAM 8 GB za podatke
+Tu su još WiFi i Bluetooth za povezivanje sa svetom.
+Malo o webOS Raz vio ga je Palm za svoje uređaje, a upravo je Pre prvi uređaj na kojme je osvanuo ovaj OS baziran na Linuxu. Najviše je pažnje posvećeno implementaciji funckcija vezanih za ekran osetljiv na dodir (touchscreen), a sudeći po nekim od screenshotova, veoma lepo i izgleda.
+Podrške neće nedostajati jer je sigurno da će se developeri utrkivati da napišu što maštovitije programe u duhu ovog vrcavog uređaja. Da li će se programi naplaćivati videćemo. Nadam se da neće ubiti sve dobre stvari koje idu uz Linux
+Čitajući na internetu testove, stičem utisak da je softver bolji od hardvera. Ali, kad je softver Linux, to je skoro neminovno:)
+Jedva čekam da ga se dokopam, ali to se neće desiti dok trenutna cena od oko 350 dolara malo ne siđe međ raju
+Hvala mpp za info o ceni, isprevio sam u tekstu. Ipak je nešto prihvatljivija od prvobitnih 600 koliko je pisalo gore. Sad mi fali 350, a ne 600. Dakle, preko noći sam dobar 250 dolara. Malo li je:)
+Punky, ja još čekam netbook sa giga rama ispod 200 evra Javljam kad bude;)
+Ja ga drzim u ruci ali nece da radi u SRbiji uporno trazi konekciju wifi da bi se registrovao na palm sajtu i kaze da nemam takvu konekciju i nemoze. Bio sam cak u kaficu koji ima wifi ali nemoze ni tamo.
+ljudi ima li neko ideju kako skinuti mrezu za nase trziste, ili kako flesovati ovaj telefon. Inace web os je fantastican mogu reci da radi besprekorno. konekcija na wi-fi je fantasticna kao i otvaranje stranica. imam motorolu koja radi na 600 mhz ali ne moze ni da pridje ovom telefonu. Ako neko ima bilo kakvo resenje neka mi pise na radovanovic.nemanja@yahoo.com unapred zahvalan

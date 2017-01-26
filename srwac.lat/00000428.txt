@@ -1,0 +1,22 @@
+Rešenja za IT infrastrukturu
+Server sala
+Studije slučaja
+Projektovanje server sale je prvi korak i preduslov za izradu dobrog projekta za IT Infrastrukturu. Veoma je važno da se dobro isprojektuje sam prostor koji je predviđen za data centar, a koji mora ispuniti određene uslove koji su veoma strogi.
+Uslovi su sledeći:
+Obavezno obezbediti siguran i pouzdan ambijenta za smeštanje IT opreme koja mora biti raspoloživa 24 x7.
+Sama prostorija mora imati zadovoljavajuće gabarite za predviđenu opremu i dodatni prostor za dalji razvoj data centra u periodu od 10 godina.
+Poželjno je da postoji dupli pod kao deo rešenja koji obezbeđuje adekvatne uslove za napajanje, hlađenje i umrežavanje
+Napajanje se takođe mora projektovati tako da dugoročno zadovolji potrebe za električnom energijom uzimajući u obzir tekuće potrebe kao i potrebe daljeg razvoja data centra. Redudantni izvori mrežnog napajanja mogu biti deo rešenja. Napajanje preko UPS-ova je svakako deo rešenja koje treba da obezbedi potrebnu snagu, redudansu kao i potrebnu autonomiju. Rezervno napajanje putem nezavisnog agregata (generatora) je takođe, rešenje u mnogim projektima.
+Hlađenje i klimatizacija data centra treba da obezbedi adekvatnu temperaturu i vlažnost ambi-jenta kao i da obezbedi uklanjanje mikro čestica. Redudantnost je svakako važan deo rešenja. Dimenzionisanje opreme za hlađenja se vrši na osnovu opreme koja se instalira i predviđene dinamike razvoja data centra. Talas green data centra se sve više primenjuje uvođenjem svežeg vazduha za klimatizaciju, čime se postižu značajne energetske uštede i smanjenje emisije CO2.
+VMware VIEW zlatna medalja na 25. Univerzijadi u Beogradu
+Kompanija COMING, u saradnji sa kompanijom Telekom Srbija, predložila je rešenje koje svojom efikasnošću i primenom prevazilazi samo potrebe projekta Univerzijade.Rešenje predstavlja virtuelno desktop okruženje, gde su korisnici preko tankih klijenata dobijali svoje radne stanice.
+Tarkett Eastern Europe (EE) je vodeća kompanija u oblasti dizajna i proizvodnje podnih obloga u istočnoj Evropi. Poslovanje Tarkett EE je u visokom stepenu zavisno od efikasnog i blagovremenog protoka informacija i IT infrastrukture koja to obezbeđuje. Sledeći zahteve biznisa i sopstvenu tradiciju inovacija i uvođenja naprednih tehnologija, IT menadžment Tarkett-a EE, odlučio je da uđe u projekat kreiranja Disaster recovery rešenja.
+Wiener Städtische osiguranje a. d. o. Beograd, na srpskom tržištu posluje od februara 2003. godine. Ukupnim portfoliom proizvoda nalazi se među vodećim osiguravajućim kompanijama na domaćem tržištu. Da bi navedeno okruženje moglo da funkcioniše, potrebno je da IT sektor firme pruži visok nivo servisa. Shodno zahtevima korisnika stručni tim kompanije Coming - Computer Engineering je odgovorio sa dizajnom i rešenjem data centra.
+All-In-One Datacentar rešenje
+Virtuelizacija IT infrastrukture datacentra
+Oporavak sistema nakon katastrofe
+Isplativost primene virtuelizacije
+COMING je razvio rešenje koje zadovoljava potrebe savremenih IT servisa u segmentu malih i srednjih preduzeća: složenost, visoka raspoloživost, povećanje IT resursa, veliki broj novih servisa, ograničen budžet.
+Primenom rešenja virtuelizacije datacentra povećava se efikasnost IT resursa na 60 - 80 %, broj servera se smanjuje 8 - 30 puta, dok postavljanje novog servera traje nekoliko minuta u poređenju sa 3 - 4 nedelje nabavke fizičkog servera.
+Ako planirate svoj biznis neophodno je i da ga zaštitite. Samo 10 % preduzeća je pripremljeno da nastavi sa poslovanjem nakon dugoročnih udara. COMING ima rešenje za oporavak sistema nakon katastrofe.
+Povrat investicije u virtuelizaciju primenom VMware VI3 infrastrukture može se očekivati za 6 - 8, najduže 18 - 24 meseci, što ove projekte čini vrlo isplativim. Možete pogledati uštede koje donosi ovo rešenje.

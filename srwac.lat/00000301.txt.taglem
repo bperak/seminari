@@ -1,0 +1,260 @@
+korišćenje	korišćenje	Ncnsn
+servisa	servis	Ncmsg
+m-Banking	m-Banking	Npmsn
+bez	bez	Sg
+mesečne	mesečni	Agpfsgy
+naknade	naknada	Ncfsg
+za	za	Sa
+održavanje	održavanje	Ncnsa
+(	(	Z
+koja	koji	Pi-fsn
+iznosi	iznositi	Vmr3s
+99	99	Mdc
+RSD	RSD	Y
+)	)	Z
+do	do	Sg
+isteka	istek	Ncmsg
+roka	rok	Ncmsg
+oročenja	oročenje	Ncnsg
+od	od	Sg
+7	7	Mdc
+meseci	mesec	Ncmpg
+.	.	Z
+
+Servis	servis	Ncmsn
+m-Banking-a	m-Banking	Npmsg
+omogućava	omogućavati	Vmr3s
+da	da	Cs
+se	sebe	Px--sa
+sva	sav	Agpnpny
+plaćanja	plaćanje	Ncnpn
+i	i	Cc
+uvid	uvid	Ncmsan
+u	u	Sa
+stanje	stanje	Ncnsa
+računa	račun	Ncmsg
+vrši	vršiti	Vmr3s
+uz	uz	Sa
+pomoć	pomoć	Ncfsa
+mobilnog	mobilan	Agpmsgy
+telefona	telefon	Ncmsg
+.	.	Z
+
+izdavanje	izdavanje	Ncnsn
+Visa	vis	Ncmsg
+Gold	Gold	Sa
+kreditne	kreditan	Agpfpay
+kartice	kartica	Ncfpa
+po	po	Sl
+osnovu	osnov	Ncmsl
+oročenog	oročiti	Agpmsgy
+depozita	depozit	Ncmsg
+bez	bez	Sg
+mesečne	mesečni	Agpfsgy
+naknade	naknada	Ncfsg
+za	za	Sa
+održavanje	održavanje	Ncnsa
+(	(	Z
+koja	koji	Pi-fsn
+iznosi	iznositi	Vmr3s
+375	375	Mdc
+RSD	RSD	Y
+)	)	Z
+,	,	Z
+do	do	Sg
+isteka	istek	Ncmsg
+roka	rok	Ncmsg
+oročenja	oročenje	Ncnsg
+od	od	Sg
+7	7	Mdc
+meseci	mesec	Ncmpg
+.	.	Z
+
+Limit	limit	Ncmsn
+po	po	Sl
+ovoj	ovaj	Pd-fsl
+kartici	kartica	Ncfsl
+može	moći	Vmr3s
+biti	biti	Van
+do	do	Sg
+80	80	Mdc
+%	%	Z
+od	od	Sg
+vrednosti	vrednost	Ncfsg
+oročenog	oročiti	Agpmsgy
+depozita	depozit	Ncmsg
+,	,	Z
+a	a	Cc
+maksimalno	maksimalno	Rgp
+do	do	Sg
+2	2	Mdc
+miliona	milion	Ncmpg
+dinara	dinar	Ncmpg
+.	.	Z
+
+S	sa	Sg
+redstva	redstvo	Ncnsg
+na	na	Sl
+ovim	ovaj	Pd-mpl
+računima	račun	Ncmpl
+uvek	uvek	Rgp
+su	biti	Var3p
+dostupna	dostupan	Agpnpny
+bez	bez	Sg
+umanjenja	umanjenje	Ncnsg
+kamatne	kamatan	Agpfsgy
+stope	stopa	Ncfsg
+,	,	Z
+a	a	Cc
+uplate	uplata	Ncfpn
+se	sebe	Px--sa
+mogu	moći	Vmr3p
+vršiti	vršiti	Vmn
+u	u	Sl
+prvom	prvi	Mlomsl
+mesecu	mesec	Ncmsl
+kada	kada	Cs
+je	biti	Var3s
+račun	račun	Ncmsn
+otvoren	otvoriti	Appmsnn
+ili	ili	Cc
+prvom	prvi	Mlomsl
+mesecu	mesec	Ncmsl
+novog	nov	Agpmsgy
+ciklusa	ciklus	Ncmsg
+(	(	Z
+za	za	Sa
+već	već	Rgp
+postojeće	postojeći	Agpmpay
+račune	račun	Ncmpa
+)	)	Z
+.	.	Z
+
+Kamatna	kamatan	Agpfsny
+stopa	stopa	Ncfsn
+raste	rasti	Vmr3s
+iz	iz	Sg
+meseca	mesec	Ncmsg
+u	u	Sa
+mesec	mesec	Ncmsan
+u	u	Sl
+okviru	okvir	Ncmsl
+jednog	jedan	Mlcmsg
+ciklusa	ciklus	Ncmsg
+i	i	Cc
+na	na	Sl
+godišnjem	godišnji	Agpmsly
+nivou	nivo	Ncmsl
+njihova	njihov	Ps3fsn
+visina	visina	Ncfsn
+je	biti	Var3s
+sledeća	sledeći	Agpfsny
+:	:	Z
+
+OTP	OTP	Npmsn
+Tempo	Tempo	Npmsn
+u	u	Sl
+dinarima	dinar	Ncmpl
+,	,	Z
+6	6	Mdc
+meseci	mesec	Ncmpg
+
+I	i	Cc
+mesec	mesec	Ncmsan
+
+II	ii	Mrc
+mesec	mesec	Ncmsan
+
+III	III	Mrc
+mesec	mesec	Ncmsan
+
+IV	IV	Mrc
+mesec	mesec	Ncmsan
+
+V	V	Mrc
+mesec	mesec	Ncmsan
+
+VI	VI	Mrc
+mesec	mesec	Ncmsan
+
+4.00	4.00	Mds
+%	%	Z
+
+5.00	5.00	Mds
+%	%	Z
+
+6.00	6.00	Mds
+%	%	Z
+
+7.00	7.00	Mds
+%	%	Z
+
+10.00	10.00	Mds
+%	%	Z
+
+22.00	22.00	Mds
+%	%	Z
+
+Period	period	Ncmsn
+važenja	važenje	Ncnsg
+:	:	Z
+od	od	Sg
+01.11.2010	01.11.2010	Mdo
+
+OTP	OTP	Npmsn
+Tempo	Tempo	Npmsn
+u	u	Sl
+dinarima	dinar	Ncmpl
+,	,	Z
+12	12	Mdc
+meseci	mesec	Ncmpg
+(%)	(%)	Z
+
+I	i	Cc
+mesec	mesec	Ncmsan
+
+II	ii	Mrc
+mesec	mesec	Ncmsan
+
+VII	vii	Mrc
+mesec	mesec	Ncmsan
+
+VII	vii	Mrc
+mesec	mesec	Ncmsan
+
+IX	IX	Mrc
+mesec	mesec	Ncmsan
+
+X	x	Mrc
+mesec	mesec	Ncmsan
+
+XI	xi	Mrc
+mesec	mesec	Ncmsan
+
+XII	xii	Mrc
+mesec	mesec	Ncmsan
+
+4.00	4.00	Mds
+
+5.00	5.00	Mds
+
+6.00	6.00	Mds
+
+7.00	7.00	Mds
+
+8.00	8.00	Mds
+
+9.00	9.00	Mds
+
+10.00	10.00	Mds
+
+12.00	12.00	Mds
+
+13.00	13.00	Mds
+
+15.00	15.00	Mds
+
+18.00	18.00	Mds
+
+25.00	25.00	Mds
+

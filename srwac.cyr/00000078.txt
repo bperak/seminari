@@ -1,22 +1,34 @@
-1. jul 2012. 
-Od 01.07.2012. godine, pri podnošenju zahteva za odobrenje elektronskog podnošenja dokumenata neophodno je priložiti dokaz o uplati administrativne takse iz tarifnog broja 1, tačka 1 Zakona o republičkim administrativnim taksama, u iznosu od 250,00 dinara. 
-21. maj 2012. 
-Od 21. maja 2012. godine Telekom je promenio pristupni kod za Dial VPN za servis elektronskog podnošenja dokumenata, u skladu sa novim planom rasporeda numeracije koji je donela Republička agencija za elektronske komunikacije. 
-Novi pristupni kod je 072, umesto starog pristupnog koda 042., odnosno novi telefonski broj za ostvarivanje veze sa informacionim sistemom Uprave carina je: 072 150 151. 
-3. oktobar 2011. 
-Takse se uplaćuju na račun 840 - 742221843 - 57. 
-21. maj 2007. 
-Obaveštavamo sve korisnike elektronskog podnošenja dokumenata koji imaju odobrenje za korišćenje programa koji je izradila Uprava carina (ElSub) da je neophodno da sa sajta Uprave carina preuzmu i instaliraju najnoviju verziju (ElSub ver.16052007) klijentske aplikacije i to zaključno sa 29.05.2007. godine. Napominjemo da će rad sa starom verzijom od 30.05.2007. godine biti onemogućen. 
-10. april 2007. 
-16. avgust 2006. 
-Obaveštavamo vas da će od 01.09.2006. godine doći do promene u elektronskom podnošenju deklaracija koja obezbeđuje identifikaciju programa koji se koristi. Ova promena ni na koji način ne utiče na dosadašnje funkcionalnosti programa, odnosno po završetku postupka unošenja licencnog broja, može se nastaviti sa radom na dosadašnji način. 
-Danas su svim proizvođačima verfikovanog programa dostavljeni potrebni podaci (elektronskom poštom i dopisom) za preduzeća kojima je direktor Uprave carina rešenjem odobrio elektronsko podnošenje deklaracija, a ona su u prijavi navela da će koristiti program tog proizvođača. Pored toga, svakom korisniku programa Uprave carina su dostavljeni potrebni podaci za njihovo preduzeće. Pored podataka, dostavljeno je i uputstvo za realizaciju potrebnih izmena. 
-Ukoliko se potrebne izmene ne izvrše, pri svakom elektronskom podnošenju od 01.09. 2006. godine će se dobijati kao povratna informacija tekst " Treba da upišete licencni broj ". 
-U periodu od 01.09. do 30.09.2006. godine navedena informacija će imati karakter opomene i biće dozvoljeno elektronsko podnošenje deklaracije korišćenjem programa bez upisanog licencnog broja. 
-Od 01.10.2006. godine elektronsko podnošenje deklaracija korišćenjem programa bez upisanog licencnog broja neće biti dozvoljeno. 
-20. mart 2006. 
-Aktima Uprave carina 01 / 1.1. broj D-3705 / 1 i 01 / 1.1. broj D-3734 / 1 od 06.03.2006. godine obavešteni ste da će od 20.03.2006. godine biti izvršene promene u ISCS-u, odnosno da će biti pušteni u rad novi, odnosno izmenjeni program za obradu zahteva i odobrenja za posebne carinske postupke iz člana 110. Carinskog zakona. 
-Skrećemo pažnju da je navedenim aktima Uprave carina promenjen način popunjavanja rubrike 44, kao i da su tim promena prilagođene kontrole JCI. 
-23. februar 2006. 
-Na osnovu sugestija korisnika EPD-a, koji koriste dial-up pristup, a u vezi sa nemogućnošću konektovanja, povećan je broj raspoloživih dial-up konekcija sa 25 na 45. 
-Zahvaljujemo se na datim sugestijama i očekujemo da i dalje ukazujete na sve uočene probleme u radu, da bismo na obostrano zadovoljstvo mogli adekvatno i pravovremeno da reagujemo. 
+Imajte u vidu da nazivi internet domena (bar za sada) ne mogu da sadrže baš sve slovne znake, kao ni skoro sve znake interpunkcije (osim crtice -). Mala i velika slova su potpuno ravnopravna, što znači da je nebitno da li internet adresu kucate malim ili velikim slovima adresa sajta će se u čitaču uvek pojaviti ispisana malim slovima.
+Nazivi. RS domena mogu da sadrže slova engleskog alfabeta (a-z), brojeve (0 - 9), kao i znak -. Naziv domena ne sme da počinje ili da se završava sa -, niti da ima dve uzastopne crtice na trećoj i četvrtoj poziciji. Naziv internet domena može da ima najmanje dva znaka, a maksimalno 63 znaka.
+Nazivi. SRB domena, pored 30 slova srpske ćirilice (a-š), mogu da sadrže i cifre (0 - 9) i crticu (-). Ne smeju da sadrže crticu na početku ili kraju, kao ni dve uzastopne crtice na trećoj i četvrtoj poziciji. Naziv. SRB domena može da ima najmanje dva znaka i da sadrži najviše 63 ASCII znaka posle ACE kompatibilne konverzije (POGLEDAJTE: IDN enkoder).
+Iako naziv internet domena može da ima maksimalno 63 znaka, suviše dugačak naziv nije praktičan, jer se teško pamti i velika je verovatnoća da će doći do greške prilikom njegovog kucanja. U praksi se smatra da naziv internet domena ne treba da ima više od 20 karaktera.
+2. Da je naziv domena slobodan za registraciju
+Znači, da ga neko drugi nije registrovao za sebe ili da nije rezervisan za potrebe države i druge javne potrebe. Da li je domen slobodan ili ne, možete da saznate preko WHOIS upita.
+Ko je, to jest Who is, je web servis koji vam omogućava da saznate ko je vlasnik nekog internet domena, to jest da li je neki naziv internet domena slobodan, ukoliko želite da ga registrujete za sebe ili svoju firmu.
+3. Da odaberete odgovarajući domenski prostor (poddomen)
+Za nazive. RS i. SRB domena, registracija je moguća u okviru sledećih pet domenskih prostora, zavisno od pravnog statusa korisnika:
+. RS
+. SRB
+za sve zainteresovane korisnike, bez obzira da li su pravna ili fizička lica, domaća ili strana
+. CO.RS
+. PR. SRB
+za poslovne korisnike, bez obzira da li su domaća ili strana pravna lica i preduzetnici
+. ORG.RS
+. ORG.SRB
+Postoje još dva domenska prostora za. RS i. SRB domene, ali oni nisu dostupni običnim korisnicima. Naime,. AC.RS i. AK.SRB su namenjeni akademskoj i naučno-istraživačkoj mreži Srbije, a. GOV.RS i. UPR.SRB državnim organima Republike Srbije.
+MARKETINŠKI I KREATIVNI SAVETI
+Pored tehničkih, preporučujemo da obratite pažnju i na sledeće savete pri izboru naziva svojih budućih. RS i / ili. SRB internet domena:
+1. Da naziv domena ima direktne veze sa vašim poslom
+Idealno je da je domen istovetan nazivu vaše firme ili da asocira na neki vaš bitan proizvod ili uslugu. Međutim, ako je takav naziv predugačak ili se sastoji od više reči, treba razmisliti o skraćenoj varijanti ili skraćenici od početnih slova.
+2. Da naziv domena bude lako pamtljiv
+Efektni i originalni nazivi domena su vrlo zahvalni, a ako uz to još i potpuno asociraju na vaš posao onda su idealni. Imajte u vidu da naziv domena treba da bude i onaj deo vaše e-mail adrese iza @, to jest vaše internet prezime.
+3. Da naziv domena bude razumljiv za izgovaranje
+Ovo je jedan od razloga zašto treba izbegavati nazive domena sa crticom. Zamislite kako zvuči saopštavanje naziva domena sa crticom preko radija ili u telefonskom razgovoru
+Postoji i problem korišćenja pojedinih stranih reči u nazivima. RS domena (jer se razlikuje pisanje od čitanja), kao i problem sa ošišanom latinicom (bez š, č, ć, đ i ž). Ti problemi su prevaziđeni uvođenjem ćiriličkog domena. SRB, u kome se sve internet adrese čitaju onako kako se i pišu.
+PRAKTIČNI SAVETI
+Bitno je da znate i sledeće:
+1. Možete da imate neograničen broj naziva domena
+Pored osnovnog domena koji je vezan za naziv vašeg brenda (firme, proizvoda ili usluga), možete da registrujete i neograničen broj naziva domena koji asociraju na delatnost kojom se bavite, i to u okviru. RS i / ili. SRB domenskog prostora, kao i u svim ostalim međunarodnim ili nacionalnim domenskim prostorima. I svi oni mogu da se povežu da pokazuju na jedan isti sajt
+Vaš. RS i. SRB domen ne moraju da glase istovetno. Na primer, pored naziva domena happyface.rs, možete da registrujete i hepifejs.rs, kao i hepifejs.srb. Time ste zaštitili sve pojavne oblike tog pojma na srpskom internet prostoru.
+2. Nazivima domena se trguje
+Ako vam se naziv nekog tuđeg. RS i. SRB domena baš dopada, možete i da ga otkupite od njegovog trenutnog vlasnika. Cena otkupa domena je stvar međusobnog dogovora.

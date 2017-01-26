@@ -1,7 +1,144 @@
-Održavanje podruma za čuvanje vina 
-Dezinfekcija podruma 
-Nažalost malo naših vinogradara može se pohvaliti da posjeduju podrum koji bi barem donekle odgovarao zahtjevima suvremene vinifikacije. U pravilu to je jedna prostorija gdje se grožđe prerađuje, mošt vrije i vino dozrijeva. Podrum, odnosno najčešće klijet, tako su građeni da se u njima ne može održati odgovarajuća temperatura, koja je neophodna za pravilno vrenje mošta i njegu vina. A o čistoći nekih podruma posebno da i ne govorimo. Podrum u kojem se grožđe prerađuje, mošt vrije (vrionica) i prostorija za njegu vina, mora se držati u besprijekornoj čistoći. Potrebno ga je neposredno prije berbe temeljito očistiti, zidove okrečiti vapnenim mlijekom. Recept za to vrlo je jednostavan. U 10 litara vode stavimo kilogram živog vapna i 20 dekagrama sumpora u prahu. Kad se zidovi osuše preporučuje se prskanje otopinom modre galice, I ovdje je recept jednostavan. Pripremi se petpostotna otopina galice, a time se sprečava razvoj plijesni. Dan prije prerade grožđa potrebno je podrum dezinficirati. To se obavlja sumpornim dioksidom. Na metar kubni prostora zapalimo 1 do 2 sumporne trake. Možemo zapaliti i elementarni sumpor u prahu. Na svaki kubni metar prostora potrebno je 30 grama sumpora. Palimo ga u zemljanim posudama, postavljenim na više mjesta, jer plinoviti sumpor, kao teži, pada prema podu. Nakon 5 - 6 sati prostorije dobro prozračimo. 
-Premazivanje zidova 
-Potrebno je zaštititi i željezne dijelove preše od korozije. Isto to važi i za željezne obruče na bačvama, a sve to treba pokriti novinskim papirom ili plastičnom folijom, ili ih premazati vazelinom. Značajnu pažnju treba dati stanju u kojem se nalaze zidovi. Tako je primjerice (za one imućnije) preporučljivo popločavanje keramičkim pločicama. No bit će dovoljni i premazi sa specijalnim bojama, kao što su fasadeks, zatim fungicid specijal, carocid i drugo. U podrumskim prostorijama ne smijemo držati krumpir, repu, zelje, ocat, naftu, sredstva za zaštitu bilja, jer vino vrlo lako upija strane mirise. Radi lakšeg održavanja čistoće u podrumu pod bi trebao biti od betona ili pločica koje su otporne na kiselinu. 
-Važnost temperature 
-U podrumu je vrlo važna toplinska izolacija kako bi se održavala što jednoličnija temperatura i zimi i ljeti. Za bijela vina, primjerice, potrebna je temperatura od 8 - 10 stupnjeva C, a za crna od 10 - 12 stupnjeva. Potrebno je osigurati takve uvjete da kolebanja u dnevnim temperaturama ne odstupaju više od dva posto i silazno i uzlazno. Vlaga zraka treba biti između 70 i 80 %. Prevelika vlaga u podrumu smanjuje vijek trajanja bačava zbog povećanog razmnožavanja raznih vrsta gljivica i plijesni. Zbog toga treba imati dobru ventilaciju, kao i dobru kanalizaciju za odvod vodu iz podruma. O besprijekornoj čistoći podruma i posuda ne možemo govoriti ako nemamo dovoljno tekuće vode. Ukoliko podrum nije priključen na vodovod, treba imati ugrađen hidrofor. I na kraju kažimo da je potrebno imati i mogućnost zagrijavanja podrumskih prostorija, odnosno vrionice. 
+Ministarstvo Branitelja
+Republika Hrvatska
+Opće informacije o nestalima
+Agresija na Republiku Hrvatsku 1991. godine prouzročila je i neizvjesnost o sudbini 18.000 zatočenih, nestalih i nasilno odvedenih hrvatskih branitelja i civila. Suočena s problemom zatočenih i nestalih osoba, Republika Hrvatska je još 1991. godine, sukladno odredbama međunarodnog humanitarnog prava, poglavito Ženevskih konvencija za zaštitu žrtava rata iz 1949. godine i Dopunskih protokola iz 1977. godine, osnovala institucionalne mehanizme za rješavanje ovog pitanja, čiji se rad financira sredstvima iz Državnog proračuna. Organizacijski oblici tijela nadležnih za rješavanje ovoga pitanja pratili su razvoj državne uprave, zadržavajući načela i kontinuitet svoga rada. Od srpnja 2005. godine, pitanje nestalih i nasilno odvedenih osoba u nadležnosti je Povjerenstva Vlade Republike Hrvatske za zatočene i nestale kao savjetodavnog i stručnog međuresornog tijela Vlade Republike Hrvatske, te Uprave za zatočene i nestale Ministarstva branitelja koja obavlja stručne poslove u svezi traženja nestalih i nasilno odvedenih osoba.
+Temeljno polazište u rješavanju pitanja zatočenih i nestalih osoba jest pravo svakog pojedinca na život, nepovredivost njegove slobode i zabrane zlostavljanja, te pravo obitelji da saznaju istinu o sudbini svojih najbližih. K tome, pitanje nestalih osoba tijesno je povezano s nizom drugih prioritetnih pitanja u Republici Hrvatskoj, od povratka prognanika i izbjeglica, uspostave suživota kao preduvjeta normalizacije života na ranije okupiranim područjima i u cjelini, pravima stradalnika iz Domovinskoga rata, obnovom, ali i dokazivanjem počinjenih ratnih zločina i kaznenim progonom počinitelja. Ovo je pitanje, također, preduvjet daljnjoj normalizaciji i unaprjeđenju odnosa sa susjednim državama.
+Iako je poduzetim mjerama i aktivnostima nadležnih tijela Republike Hrvatske riješena većina slučajeva nestalih i nasilno odvedenih osoba (najvećim dijelom kroz razmjene ratnih zarobljenika i identifikacije posmrtnih ostataka), pitanje nestalih i nasilno odvedenih osoba i danas je najteže aktualno humanitarno pitanje ratnih posljedica u Republici Hrvatskoj.
+Nestali - možete li pomoći u njihovu pronalaženju?
+Nestale osobe jedna su od najbolnijih i najdugotrajnijih posljedica rata na području Republike Hrvatske. Ratna zbivanja su rezultirala tisućama nestalih. Naporima nadležnih tijela RH do danas je riješena sudbina preko 80 % evidentiranih nestalih osoba, no još je uvijek nepoznata sudbina 1.703 osobe. Uprava za zatočene i nestale Ministarstva branitelja sustavno se bavi rasvjetljavanjem sudbine osoba nestalih tijekom Domovinskog rata. U dosadašnjem rješavanju sudbine nestalih, ključnu su ulogu imale informacije prikupljene iz svih raspoloživih izvora - od samih građana i udruga, nadležnih tijela RH pa na dalje. Nažalost, protekom vremena broj i pouzdanost informacija se smanjuje.
+U ovom svjetlu, Ministarstvo branitelja je iniciralo i pokrenulo projekt / kampanju javnih tribina o nestalim osobama, kao daljnji iskorak u procesu traženja. Temeljni cilj tribina jest poziv građanima da pomognu u rasvjetljavanju sudbine nestalih osoba, te ujedno pridonesu uspostavi kvalitetnijeg suživota između hrvatskog i srpskog stanovništva na ratom pogođenim područjima. Tribine su planirane u mjestima koja mogu biti značajna za pronalazak nestalih osoba, kako onima s većinskim srpskim tako i s većinskim hrvatskim stanovništvom. Dosadašnje četiri održane tribine protekle su u ozračju potpore procesu traženja i razumijevanja položaja obitelji nestalih osoba.
+Sektor za traženje osoba zatočenih i nestalih u Domovinskom ratu
+Koja je uloga Uprave za zatočene i nestale u traženju nestalih i gdje se mogu dobiti informacije o aktivnostima u procesu traženja?
+Uprava za zatočene i nestale nadležna je za provođenje radnji usmjerenih na traženje osoba nestalih i nasilno odvedenih tijekom Domovinskoga rata. Uprava obavlja stručne i administrativne poslove koji se odnose na traženje zatočenih i nestalih te ekshumaciju i identifikaciju posmrtnih ostataka, a osobito sljedeće:
+Prikuplja i obrađuje podatke te vodi cjelovitu evidenciju o osobama koje su bile zatočene u neprijateljskim logorima tijekom Domovinskoga rata te o svim nestalim osobama u Domovinskom ratu
+Prikuplja i obrađuje podatke te vodi cjelovitu evidenciju o ekshumiranim, identificiranim i neidentificiranim posmrtnim ostacima iz masovnih, pojedinačnih i zajedničkih grobnica
+Izdaje uvjerenja o činjenicama o kojima vodi službene evidencije
+Organizira i priprema razgovore o nestalim osobama s nadležnim tijelima drugih država te s istima surađuje u procesu traženja nestalih osoba; Preuzima posmrtne ostatke nestalih i smrtno stradalih osoba (u svezi s ratnim zbivanjima) s područja drugih država
+Prikuplja i obrađuje podatke o mjestima masovnih i pojedinačnih grobnica
+Organizira i koordinira ekshumacijama posmrtnih ostataka iz masovnih, pojedinačnih i zajedničkih grobnica na teritoriju Republike Hrvatske
+Osobno u prostorijama Uprave za zatočene i nestale Savska c. 66, Zagreb
+Što je potrebno da osoba bude uvrštena u evidenciju nestalih osoba iz razdoblja Domovinskog rata?
+Da bi osoba bila uvrštena u evidenciju nestalih osoba potrebno je:
+da se radi o osobi čija je sudbina, odnosno mjesto gdje se nalazi nepoznato, a nema ili još uvijek nema dokaza o njenoj smrti,
+da je njen nestanak vezan uz Domovinski rat
+da je tražitelj pokrenuo postupak traženja, odnosno ispunio upitnik o traženju
+Kako prijaviti nestalu osobu?
+Kako bi se pokrenuo postupak traženja za nestalom osobom, potrebno je ispuniti upitnik o traženju u Upravi za zatočene i nestale Ministarstva branitelja ili u Hrvatskom Crvenom križu u sjedištu, odnosno općinskim i / ili gradskim društvima Crvenoga križa
+Objedinjeni popis osoba nestalih na području Republike Hrvatske za vrijeme Domovinskog rata dostupan je u Knjizi osoba nestalih na području Republike Hrvatske na web stranicama Ministarstva branitelja (www.branitelji.hr)
+Istovjetan popis dostupan je i na web stranicama Hrvatskog Crvenog križa (www.hck.hr) te na web stranicama Međunarodnog odbora Crvenog križa (www.icrc.org)
+Konačno, provjera je li osoba evidentirana kao nestala, može se obaviti pozivom u Upravu za zatočene i nestale
+Može li se nestalu osobu proglasiti umrlom ako nije pronađena i što se događa s procesom traženja ako je osoba proglašena umrlom?
+Nestala osoba se, na zahtjev obitelji (najčešće zbog rješavanja određenih statusnih pitanja) sudskim putem može proglasiti umrlom i ako nije pronađena. Proglašenje nestale osobe umrlom ne utječe na proces traženja koji se nastavlja na istovjetan način kao da osoba nije proglašena umrlom
+Kako se dolazi do informacija o lokacijama prikrivenih grobnica?
+Saznanja o nestalim osobama i mjestima prikrivenih grobnica prikupljaju se iz svih raspoloživih izvora:
+Nadležnih tijela Republike Hrvatske
+Pregovora s drugim državama (Republika Srbija i BiH)
+Međunarodnih i nevladinih organizacija te
+Građana
+Kako bi se olakšala dojava saznanja o nestalim osobama i prikrivenim grobnicama, uveden je dodatni mehanizam telefonska linija za anonimne dojave pozivnog broja 062 / 111 - 111
+Kao daljnji poticaj građanima da dojave saznanja o nestalim osobama, pokrenut je projekt / kampanja javnih tribina koje se organiziraju u mjestima koja mogu biti korisna za njihov pronalazak
+Koje su informacije korisne za pronalazak nestalih?
+Detaljne informacije o mogućim neregistriranim mjestima masovnih i pojedinačnih grobnica
+Detaljne informacije o osobama koje bi mogle znati za mjesta masovnih i pojedinačnih grobnica
+Detaljne informacije o tome što se dogodilo nestaloj osobi
+Detaljne informacije o tome tko bi mogao znati što se dogodilo nestaloj osobi
+Uprava jamči zaštitu osobnih podataka osobama koje dojave saznanja
+Što slijedi nakon dojave informacija o nestalim osobama / grobnim mjestima?
+Provjera (u službenim evidencijama Uprave) radi li se o novim ili već poznatim informacijama
+Ako se radi o novim informacijama o mjestima masovnih i pojedinačnih grobnica, čim bude moguće započeti će se s terenskim istraživanjima (probna iskapanja, geološka ispitivanja itd.)
+U slučaju vjerodostojne dojave, Uprava za zatočene i nestale provodi ekshumaciju posmrtnih ostataka, slijedi njihova identifikacija te dostojan pokop u skladu sa željama obitelji pronađene osobe
+Što podrazumijeva ekshumacija posmrtnih ostataka?
+Ekshumacija podrazumijeva pronalaženje posmrtnih ostataka i drugih dokaza iz masovnih, pojedinačnih i zajedničkih grobnica. Ostaci se prikupljaju na način koji olakšava identifikaciju a informacije o lokaciji se dokumentiraju.
+Kakav je tijek procesa ekshumacije?
+U procesu ekshumacija sudjeluje veći broj čimbenika koji obavljaju zadaće iz svoga djelokruga:
+Nadležno državno odvjetništvo
+Nadležni županijski sud
+Ministarstvo unutarnjih poslova - nadležna policijska uprava
+Ministarstvo obrane Odjel za ekshumacije
+Ministarstvo zdravlja, odnosno nadležna sudsko-medicinska ustanova
+O procesu ekshumacije Uprava za zatočene i nestale obavještava međunarodne organizacije koje se u svom djelokrugu bave ovim pitanjem, a koje mogu uputiti svoje stručne promatrače da prate cijeli tijek procesa ekshumacija
+Temeljem bilateralnih dogovora, u određenim slučajevima, Uprava za zatočene i nestale, na proces ekshumacije poziva i predstavnike nadležnih tijela za traženje nestalih osoba iz Republike Srbije i Bosne i Hercegovine
+Prema kojim se kriterijima određuje redoslijed ekshumacija?
+U procesu ekshumacija, prioritet imaju sljedeće lokacije:
+Lokacije na kojima su ugroženi posmrtni ostaci (posmrtni ostaci na površini i slično)
+Budući u postupku ekshumacije sudjeluju nadležna tijela (MUP i pravosudna tijela) prema mjesnoj nadležnosti na razini županije, prioritet imaju one ekshumacije za koje postoji kritična količina informacija za jednu županiju
+Kakav je tijek procesa identifikacije posmrtnih ostataka?
+Nakon ekshumacije posmrtnih ostataka, isti se s ciljem obrade i identifikacije prevoze u znanstveno-medicinske ustanove, gdje se provodi njihova obrada klasičnim sudsko-medicinskim metodama i metodom analize DNA (iz ostataka kostiju izolira se DNA)
+Nalazi obrade posmrtnih ostataka klasičnim sudsko-medicinskim metodama dostavljaju se Upravi za zatočene i nestale koja temeljem usporedbe ante-mortalnih (zaživotnih) s post-mortalnim podacima (podaci o posmrtnim ostacima nakon ekshumacije) te usporedbe podataka o okolnostima nestanka s onima o okolnostima pronalaska utvrđuje preliminarni identitet
+Usporedo, nalazi obrade posmrtnih ostataka metodom analize DNA uspoređuju se s nalazima obrade uzoraka krvi koje su dali krvni srodnici nestalih osoba
+Kada i jedni i drugi nalazi ukazuju na istu osobu, Uprava za zatočene i nestale organizira konačnu identifikaciju posmrtnih ostataka na koju se pozivaju članovi obitelji. Osoba je konačno identificirana kada obitelj prihvati identifikaciju i potpiše prijavu činjenice smrti
+Koliko traje postupak identifikacije?
+Proces identifikacije je složen i aktivan proces a njegovo trajanje ovisi o:
+stanju posmrtnih ostataka
+raspoloživim uzorcima krvi i srodstvu donatora te
+tehnološkom napretku (kao općem okviru)
+Što se događa ako je učinjena pogreška kod identifikacije?
+U pojedinačnim slučajevima, moguće je da je prilikom identifikacije došlo do pogrešnog prepoznavanja
+Pogrešno prepoznavanje moguće je u slučajevima kad je riječ o masovnim grobnicama s homogenim žrtvama (slične okolnosti stradavanja, slične fizičke karakteristike žrtava i dr.) i o masovnim grobnicama s izmiješanim posmrtnim ostacima
+Kako bi se otklonile pogreške u identifikaciji, provode se dodatne obrade posmrtnih ostataka i svakom slučaju pristupa se individualno
+Što je DNA?
+DNA je molekula u obliku lanca koja predstavlja nasljedni materijal i nalazi se u gotovo svim stanicama ljudskog tijela
+Osim jednojajčanih blizanaca, ne postoje osobe koje imaju identičnu DNA
+Kako DNA može dovesti do identiteta nestale osobe i tko treba dati krv za identifikaciju?
+Zbog načina na koji se DNA nasljeđuje, informacije koje nosi DNA živućih srodnika, može se podudarati s DNA izoliranom iz posmrtnih ostataka
+Da bi se pronašlo podudaranje DNA, najmanje jedan član obitelji mora dati referentni uzorak krvi iz kojeg se izolira DNA, ali više dostupnih referentnih uzoraka, znači veće izglede za podudaranje
+Idealna krvna referenca (uzorak krvi s izoliranom DNA) dobiva se od oca i / ili majke nestale osobe. Ako to nije moguće, poželjni su uzorci od ostalih nasljednika krvnog srodstva - braće i sestara, te djece (pri čemu se uzimaju uzorci krvi i od njihove majke budući se u takvim slučajevima utvrđuje klasično očinstvo).
+Kada profil DNA nestale osobe i profil DNA članova obitelji pokažu postojanje krvnog srodstva, to se naziva podudaranje DNA ili drugim riječima, identifikacija zasnovana na DNA.
+Što u slučajevima ako nestala osoba nema živućih krvnih srodnika?
+Ako nestala osoba nema krvnih srodnika, moguće je izvršiti ekshumaciju umrlog krvnog srodnika, izolirati DNA iz njegovih posmrtnih ostataka te utvrditi ima li podudaranja s posmrtnim ostacima nestale osobe
+Primjena ove metodologije, zbog složenosti, ograničena je na ciljane slučajeve
+Gdje i kako se može dati uzorak krvi ukoliko to do sada nije učinjeno?
+Za sve informacije i dogovor za davanje uzoraka krvi potrebno je kontaktirati Upravu za zatočene i nestale Ministarstva branitelja koja će uzimanje uzoraka krvi dogovoriti s najbližim DNA laboratorijem
+Ako zbog lošeg zdravstvenog stanja i pokretljivosti osoba nije u mogućnosti otići do najbližeg DNA laboratorija, Uprava će organizirati uzimanje uzoraka krvi putem mobilnog tima
+Za potrebe identifikacije metodom analize DNA, pri davanju uzoraka krvi nije potrebno suzdržati se od jela i uzimanja redovne terapije
+Kada metoda analize DNA ne daje rezultate?
+Dvije su osnovne skupine razloga uslijed kojih izostaju pozitivne identifikacije metodom analize DNA:
+Prvu skupinu čine razlozi koji se odnose na posmrtne ostatke (posmrtni ostaci nepodobni za obradu metodom analize DNA jer su različiti utjecaji iz okoline razgradili i potpuno uništili DNA u posmrtnim ostacima paljevine, sitni fragmenti kostiju)
+Drugu skupinu čine razlozi koji se odnose na nedostatak odnosno manjak uzoraka krvi relevantnih krvnih srodnika
+Može li se osoba identificirati bez DNA?
+U svim slučajevima kada je to moguće, identifikacija se provodi temeljem nalaza obrade posmrtnih ostataka klasičnim sudsko-medicinskim metodama i metodom analize DNA
+Međutim, ako se DNA uzorak ne može izolirati iz posmrtnih ostataka ili nema referentnih uzoraka članova obitelji, u nekim je slučajevima moguće izvršiti identifikaciju na temelju dokaza o specifičnim antropološkim i medicinskim karakteristikama, osobnim predmetima te okolnostima
+Budući da mnogi dokazi ovog tipa nisu pouzdani, mora ih se koristiti vrlo oprezno i samo u slučaju kad je krajnji, kombinirani dokaz izvjestan
+Što s posmrtnim ostacima koji nisu identificirani?
+Posmrtni ostaci koji nisu identificirani, obrađeni su klasičnim sudsko-medicinskim metodama i metodom analize DNA; Nalazi obrade posmrtnih ostataka dostavljeni su Upravi za zatočene i nestale
+Neidentificirani posmrtni ostaci dostojno su pohranjeni u zajedničkim, u tu svrhu izgrađenim grobnicama na Gradskom groblju Mirogoj u Zagrebu te na Centralnom groblju u Osijeku
+Posmrtni ostaci čija se identifikacija očekuje u skorije vrijeme, privremeno su prikladno pohranjeni u znanstveno-medicinskim ustanovama
+Kakav je postupak sahrane identificiranih osoba?
+Nakon što je obavljena konačna identifikacija, obitelj u kontaktu s Upravom za zatočene i nestale dogovara mjesto i vrijeme sahrane
+Uprava za zatočene i nestale organizira pogrebnu opremu te prijevoz posmrtnih ostataka do mjesta sahrane u Republici Hrvatskoj, odnosno do odgovarajućeg graničnoga prijelaza, ako je pokop izvan Republike Hrvatske
+Sektor za žrtve Drugog svjetskog rata i poslijeratnog razdoblja
+Opće informacije o žrtvama Drugog svjetskog rata i žrtvama poslijeratnog razdoblja
+Sukladno međunarodnom humanitarnom pravu i sukladno načelima i pravilima o postupanju s mrtvima, predviđenima u odredbama Ženevskih konvencija, od 12. kolovoza 1949. i u Dopunskim protokolima, od 8. lipnja 1977., o zaštiti žrtava međunarodnih oružanih sukoba, sukladno Rezoluciji 1481 o međunarodnoj osudi zločina totalitarnih komunističkih poredaka (režima), koju je Parlamentarna skupština Vijeća Europe usvojila 25. siječnja 2006., sukladno Rezoluciji Europskog parlamenta, od 2. travnja 2009., o europskoj savjesti i totalitarizmu, i sukladno stajalištu Republike Hrvatske da vojne i civilne osobe koje su zbog ratnog djelovanja u Drugom svjetskom ratu i zbog djelovanja u poslijeratnom razdoblju izgubile život, imaju pravo na dostojno vječno počivalište. Ljudski gubici u Hrvatskoj u Drugom svjetskom ratu i poslijeratnom razdoblju i danas je nezahvalan zadatak. Naime, ljudski gubici Hrvatske u Drugom svjetskom ratu, unatoč mnogobrojnim procjenama, izračunima i popisima, jedna je od najkontroverznijih istraživačkih i štoviše najosjetljivijih (dnevno) političkih tema. Donošenjem Zakona o istraživanju, uređenju i održavanju vojnih groblja, groblja žrtava Drugog svjetskog rata Republika Hrvatska preuzela je, u humanom odnosu prema žrtvama i u skladu s Rezolucijom 1481 o međunarodnoj osudi zločina totalitarnih komunističkih poredaka te Rezolucijom Europskog parlamenta o europskoj savjesti i totalitarizmu (2009), brigu o pronalaženju, obilježavanju i dostojnom trajnom održavanju grobova žrtava Drugog svjetskog rata i poslijeratnog razdoblja. Za provođenje i izvršavanje obveza prema navedenom Zakonu zadužena je Uprava za zatočene i nestale.
+Koja je zadaća Uprave u očuvanju spomena na žrtve Drugog svjetskog rata i poslijeratnog razdoblja?
+Temeljni cilj u ovom području jest očuvanje spomena na sve stradale u Drugom svjetskom ratu i poslijeratnom razdoblju.
+Temeljne zadaće Uprave za zatočene i nestale u tom smislu su:
+Istraživanje, uređenje i dostojno trajno održavanje grobova žrtava poslijeratnog razdoblja te vođenje evidencije pojedinačnih i masovnih grobova žrtava poslijeratnog razdoblja i utvrđenog broja posmrtnih ostataka u njima
+Premještaj i dostojno zbrinjavanje posmrtnih ostataka žrtava Drugog svjetskog rata i poslijeratnog razdoblja, kad je to u javnom interesu ili ako su posmrtni ostaci pronađeni prilikom infrastrukturnih, urbanističkih ili drugih radova, te njihovo evidentiranje
+Trajno održavanje vojnih groblja te groblja civilnih žrtava rata i poslijeratnog razdoblja, što će se postići u suradnji s jedinicama lokalne samouprave i Gradom Zagrebom
+Kako se mogu dojaviti informacije o žrtvama Drugog svjetskog rata i poslijeratnog razdoblja i kakav je daljnji postupak?
+Sve dojave bit će evidentirane, obrađene i korištene u svrhu pronalaženja žrtava i mjesta njihova stradanja.
+Što u slučajevima žrtava stradalih od strane komunističkog režima na području Republike Hrvatske i u inozemstvu, uključujući ubijene osobe u izvan sudskim egzekucijama, zlostavljanjem u zatvorima ili zarobljeništvu, terorističkim i gerilskim napadima, kao i atentatima, uslijed neslaganja s politikom i političkim uređenjem tadašnje države?
+U ovim slučajevima Uprava za zatočene i nestale će:
+Prikupiti i obraditi podatke i arhivske građe o žrtvama
+Istražiti groblja u suradnji s relevantnim subjektima
+Utvrditi broj posmrtnih ostataka u pronađenim grobnicama
+Urediti pronađena groblja i njihove pristupne putove, postaviti natpise na uređena groblja i provoditi nadzor nad njihovim održavanjem
+Evidentirati sva utvrđena groblja
+U kojim se slučajevima poduzima ekshumacija i premještaj posmrtnih ostataka na drugo odgovarajuće mjesto?
+Ministarstvo poduzima radnje i mjere radi premještanja i dostojnog zbrinjavanja posmrtnih ostataka žrtava Drugog svjetskog rata i poslijeratnog razdoblja
+Obzirom na protok vremena, ali i broj žrtava te druge okolnosti, u većini slučajeva će se provoditi identifikacija prema okolnostima događaja koji su prethodili stradavanju. To znači da će se temeljem dostupnih pisanih i usmenih izvora te materijalnih dokaza pronađenih prilikom iskopavanja, nastojati što vjerodostojnije utvrditi okolnosti događaja i pripadnost žrtava
+Potvrda identiteta metodom analize DNA provodit će se u slučajevima kada to zatraže pravosudna tijela (nadležna županijska državna odvjetništva) za potrebe istraga
+U kojim se okolnostima i na koji način može provesti ekshumacija posmrtnih ostataka na zahtjev obitelji žrtava?
+Obitelj treba podnijeti zahtjev za ekshumacijom i prijenosom posmrtnih ostataka Ministarstvu branitelja, a Ministarstvo može dopustiti ekshumaciju i prijenos posmrtnih ostataka samo kada su oni pokopani u pojedinačnoj grobnici i / ili kada je moguća njihova nesporna identifikacija
+Što je s posmrtnim ostacima vojnika i osoba s područja Republike Hrvatske, poginulih u Drugom svjetskom ratu ili umrlih u Drugom svjetskom ratu u inozemstvu?
+Jedna od značajnijih zadaća Uprave za zatočene i nestale, u ovom segmentu, je zaštita vojnih groblja osoba s područja Republike Hrvatske u inozemstvu; U ovom području:
+Ustanoviti će se evidencija hrvatskih vojnih groblja u inozemstvu (do sada nije postojala)
+Temeljem zaključenih međudržavnih ugovora, skrbiti će se o hrvatskim vojnim grobljima u inozemstvu
+Kakav je postupak prema posmrtnim ostacima pripadnika stranih oružanih sila koji se pronađu na području Republike Hrvatske?
+Ako se utvrdi da su u novootkrivenom groblju pokopani posmrtni ostaci pripadnika stranih oružanih sila ili strani državljani, postupak je sljedeći:
+Ministarstvo obavještava njihovu matičnu državu putem ministarstva nadležnog za vanjske poslove
+Na zahtjev matične države Ministarstvo će dopustiti ekshumaciju i prijenos posmrtnih ostataka u matičnu državu, ili uređenje vojnog groblja na području novootkrivenog groblja, ili ekshumaciju i premještaj posmrtnih ostataka na drugo odgovarajuće mjesto. Troškove snosi matična država ako međudržavnim ugovorom / sporazumom nije drukčije određeno.
+S kojim državama RH ima zaključene međudržavne ugovore / sporazume?
+Saveznom Republikom Njemačkom
+Talijanskom Republikom
+Republikom Slovenijom

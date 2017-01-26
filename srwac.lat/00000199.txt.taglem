@@ -1,0 +1,483 @@
+Katedra	katedra	Ncfsn
+za	za	Sa
+eksperimentalnu	eksperimentalan	Agpfsay
+fiziku	fizika	Ncfsa
+kondenzovane	kondenzovati	Agpfsgy
+materije	materija	Ncfsg
+
+Katedra	katedra	Ncfsn
+za	za	Sa
+eksperimentalnu	eksperimentalan	Agpfsay
+fiziku	fizika	Ncfsa
+kondenzovane	kondenzovati	Agpfsgy
+materije	materija	Ncfsg
+u	u	Sl
+okviru	okvir	Ncmsl
+nastavne	nastavni	Agpfsgy
+delatnosti	delatnost	Ncfsg
+orijentisana	orijentisati	Appfsny
+je	biti	Var3s
+pre	pre	Sg
+svega	sav	Pi-nsg
+na	na	Sa
+studijske	studijski	Agpfpay
+grupe	grupa	Ncfpa
+za	za	Sa
+obrazovanje	obrazovanje	Ncnsa
+fizičara	fizičar	Ncmpg
+različitih	različit	Agpmpgy
+profila	profil	Ncmpg
+,	,	Z
+ali	ali	Cc
+intenzivno	intenzivno	Rgp
+učestvuje	učestvovati	Vmr3s
+u	u	Sl
+organizaciji	organizacija	Ncfsl
+i	i	Cc
+realizaciji	realizacija	Ncfsl
+nastave	nastava	Ncfsg
+i	i	Cc
+za	za	Sa
+druge	drugi	Agpfpay
+struke	struka	Ncfpa
+.	.	Z
+
+U	u	Sl
+procesu	proces	Ncmsl
+obrazovanja	obrazovanje	Ncnsg
+fizičara	fizičar	Ncmpg
+,	,	Z
+u	u	Sl
+okviru	okvir	Ncmsl
+sledećih	sledeći	Agpmpgy
+kurseva	kurs	Ncmpg
+:	:	Z
+
+Fizika	fizika	Ncfsn
+kondenzovane	kondenzovati	Agpfsgy
+materije	materija	Ncfsg
+
+Fizika	fizika	Ncfsn
+čvrstog	čvrst	Agpnsgy
+stanja	stanje	Ncnsg
+
+Fizika	fizika	Ncfsn
+materijala	materijal	Ncmpg
+
+Metode	metoda	Ncfpn
+merenja	merenje	Ncnsg
+i	i	Cc
+obrade	obrada	Ncfsg
+podataka	podatak	Ncmpg
+
+Novi	nov	Agpmpny
+materijali	materijal	Ncmpn
+u	u	Sl
+medicini	medicina	Ncfsl
+i	i	Cc
+stomatologiji	stomatologija	Ncfsl
+
+Amorfni	amorfan	Agpmpny
+poluprovodnici	poluprovodnik	Ncmpn
+
+Fizičke	fizički	Agpfpny
+metode	metoda	Ncfpn
+karakterizacije	karakterizacija	Ncfsg
+mineralnih	mineralan	Agpfpgy
+sirovina	sirovina	Ncfpg
+
+Transportni	transportni	Agpmpny
+procesi	proces	Ncmpn
+
+Sunčev	sunčev	Agpmsny
+sistem	sistem	Ncmsn
+
+Fizika	fizika	Ncfsn
+litosfere	litosfera	Ncfsg
+
+Osnovi	osnov	Ncmpn
+geofizike	geofizika	Ncfsg
+
+Spektroskopija	spektroskopija	Ncfsn
+vasione	vasiona	Ncfsg
+
+Modeliranje	modeliranje	Ncnsn
+fizičkih	fizički	Agpmpgy
+procesa	proces	Ncmpg
+u	u	Sl
+atmosferi	atmosfera	Ncfsl
+
+Osnovi	osnov	Ncmpn
+fizike	fizika	Ncfsg
+lasera	laser	Ncmpg
+
+Merno	merno	Rgp
+instrumentalna	instrumentalan	Agpfsny
+tehnika	tehnika	Ncfsn
+u	u	Sl
+medicini	medicina	Ncfsl
+
+Za	za	Sa
+ostale	ostali	Agpfpay
+studijske	studijski	Agpfpay
+grupe	grupa	Ncfpa
+:	:	Z
+
+Fizika	fizika	Ncfsn
+-	-	Z
+za	za	Sa
+studente	student	Ncmpa
+tehnološkog	tehnološki	Agpmsgy
+fakulteta	fakultet	Ncmsg
+
+Fizika	fizika	Ncfsn
+-	-	Z
+za	za	Sa
+studente	student	Ncmpa
+matematike	matematika	Ncfsg
+
+Fizika	fizika	Ncfsn
+okoline	okolina	Ncfsg
+
+Metodika	metodika	Ncfsn
+nastave	nastava	Ncfsg
+fizike	fizika	Ncfsg
+
+U	u	Sl
+okviru	okvir	Ncmsl
+poslediplomskih	poslediplomski	Agpmpgy
+studija	studij	Ncmpg
+:	:	Z
+
+Fizika	fizika	Ncfsn
+materijala	materijal	Ncmpg
+
+Identifikacija	identifikacija	Ncfsn
+mineralnih	mineralan	Agpfpgy
+sirovina	sirovina	Ncfpg
+
+Fizičko-hemijski	fizičko-hemijski	Agpmpny
+parametri	parametar	Ncmpn
+materijala	materijal	Ncmpg
+
+Magnetna	magnetni	Agpnpny
+merenja	merenje	Ncnpn
+
+Termičke	termički	Agpfpny
+i	i	Cc
+mehaničke	mehanički	Agpfpay
+metode	metoda	Ncfpa
+
+U	u	Sl
+okviru	okvir	Ncmsl
+delatnosti	delatnost	Ncfsg
+katedre	katedra	Ncfsg
+do	do	Sg
+sada	sada	Rgp
+je	biti	Var3s
+odbranjeno	odbraniti	Appnsny
+9	9	Mdc
+magistarskih	magistarski	Agpfpgy
+teza	teza	Ncfpg
+i	i	Cc
+8	8	Mdc
+doktorskih	doktorski	Agpfpgy
+disertacija	disertacija	Ncfpg
+.	.	Z
+
+U	u	Sl
+okviru	okvir	Ncmsl
+naučno-istraživačke	naučno-istraživački	Agpfsgy
+delatnosti	delatnost	Ncfsg
+predmet	predmet	Ncmsn
+istraživanja	istraživanje	Ncnsg
+su	biti	Var3p
+prioritetno	prioritetni	Agpnsny
+:	:	Z
+
+Novi	nov	Agpmpny
+materijali	materijal	Ncmpn
+iz	iz	Sg
+grupe	grupa	Ncfsg
+amorfnih	amorfan	Agpmpgy
+poluprovodničkih	poluprovodnički	Agpmpgy
+sistema	sistem	Ncmpg
+;	;	Z
+
+Novi	nov	Agpmpny
+materijali	materijal	Ncmpn
+u	u	Sl
+formi	forma	Ncfsl
+tankih	tanki	Agpmpgy
+filmova	film	Ncmpg
+i	i	Cc
+nanostrukturnog	nanostrukturan	Agpmsgy
+karaktera	karakter	Ncmsg
+;	;	Z
+
+Proizvodnja	proizvodnja	Ncfsn
+novih	nov	Agpmpgy
+materijala	materijal	Ncmpg
+i	i	Cc
+optimalizacija	optimalizacija	Ncfsn
+tehnološkog	tehnološki	Agpmsgy
+postupka	postupak	Ncmsg
+njihovog	njihov	Ps3nsg
+dobijanja	dobijanje	Ncnsg
+;	;	Z
+
+U	u	Sl
+realizaciji	realizacija	Ncfsl
+istraživačke	istraživački	Agpfsgy
+delatnosti	delatnost	Ncfsg
+razvijena	razviti	Appfsny
+je	biti	Var3s
+saradnja	saradnja	Ncfsn
+sa	sa	Si
+sledećim	sledeći	Agpfpiy
+institucijama	institucija	Ncfpi
+u	u	Sl
+zemlji	zemlja	Ncfsl
+:	:	Z
+
+Institutom	institut	Ncmsi
+za	za	Sa
+fiziku	fizika	Ncfsa
+u	u	Sl
+Zemunu	Zemun	Npmsl
+
+Institutom	institut	Ncmsi
+za	za	Sa
+nuklearne	nuklearan	Agpfpay
+nauke	nauka	Ncfpa
+"	"	Z
+Vinča	Vinča	Npfsn
+"	"	Z
+
+Fizičkim	fizički	Agpmsiy
+fakultetom	fakultet	Ncmsi
+u	u	Sl
+Beogradu	Beograd	Npmsl
+;	;	Z
+
+Tehnološkim	tehnološki	Agpmsiy
+fakultetom	fakultet	Ncmsi
+u	u	Sl
+Novom	nov	Agpmsly
+Sadu	Sad	Npmsl
+;	;	Z
+
+Tehnološko-metalurškim	tehnološko-metalurški	Agpmsiy
+fakultetom	fakultet	Ncmsi
+u	u	Sl
+Beogradu	Beograd	Npmsl
+
+"	"	Z
+Elektroporcelanom	Elektroporcelan	Npmsi
+"	"	Z
+iz	iz	Sg
+Novog	nov	Agpmsgy
+Sada	Sad	Npmsg
+
+Azotara	azotara	Ncfsn
+-	-	Z
+Pančevo	Pančevo	Npnsa
+
+NIP	NIP	Npfsn
+Petrohemija	Petrohemija	Npfsn
+-	-	Z
+Pančevo	pančevo	Ncnsn
+
+U	u	Sl
+realizaciji	realizacija	Ncfsl
+naučno-istraživačke	naučno-istraživački	Agpfsgy
+delatnosti	delatnost	Ncfsg
+prisutna	prisutan	Agpfsny
+je	biti	Var3s
+saradnja	saradnja	Ncfsn
+sa	sa	Si
+sledećim	sledeći	Agpfpiy
+institucijama	institucija	Ncfpi
+iz	iz	Sg
+inostranstva	inostranstvo	Ncnsg
+:	:	Z
+
+Departmanom	departman	Ncmsi
+za	za	Sa
+fiziku	fizika	Ncfsa
+kondenzovane	kondenzovati	Agpfsgy
+materije	materija	Ncfsg
+u	u	Sl
+Kadizu	Kadiz	Npmsl
+,	,	Z
+Španija	Španija	Npfsn
+
+Nacionalni	nacionalan	Agpmsny
+institut	institut	Ncmsn
+za	za	Sa
+fiziku	fizika	Ncfsa
+materijala	materijal	Ncmsg
+-	-	Z
+Bukurešt	Bukurešt	Npmsn
+,	,	Z
+Rumunija	Rumunija	Npfsn
+
+Institut	institut	Ncmsn
+za	za	Sa
+lasersku	laserski	Agpfsay
+spektroskopiju	spektroskopija	Ncfsa
+-	-	Z
+Sankt	Sankt	Npmsn
+Petersburg	Petersburg	Npmsn
+,	,	Z
+Rusija	Rusija	Npfsn
+
+Indijski	indijski	Agpmsny
+institut	institut	Ncmsn
+za	za	Sa
+tehnologiju	tehnologija	Ncfsa
+-	-	Z
+Guwahati	Guwahati	Npmsn
+,	,	Z
+Indija	Indija	Npfsn
+
+Institut	institut	Ncmsn
+za	za	Sa
+hemiju	hemija	Ncfsa
+-	-	Z
+Rene	Rena	Npfsg
+,	,	Z
+Francuska	Francuska	Npfsn
+
+Tehnički	tehnički	Agpmsayn
+fakultet	fakultet	Ncmsan
+-	-	Z
+Chemnitz	Chemnitz	Npmsn
+,	,	Z
+Nemačka	Nemačka	Npfsn
+
+Institutom	institut	Ncmsi
+za	za	Sa
+mikroelektroniku	mikroelektronika	Ncfsa
+iz	iz	Sg
+Užgoroda	Užgorod	Npmsg
+,	,	Z
+Ukrajina	Ukrajina	Npfsn
+
+Istraživanja	istraživanje	Ncnpn
+su	biti	Var3p
+u	u	Sl
+osnovi	osnova	Ncfsl
+eksperimantalnog	eksperimantalan	Agpmsgy
+karaktera	karakter	Ncmsg
+sa	sa	Si
+naglaskom	naglasak	Ncmsi
+na	na	Sl
+tehnologiji	tehnologija	Ncfsl
+dobijanja	dobijanje	Ncnsg
+i	i	Cc
+fizičkoj	fizički	Agpfsly
+karakterizaciji	karakterizacija	Ncfsl
+novih	nov	Agpmpgy
+materijala	materijal	Ncmpg
+.	.	Z
+
+Materijali	materijal	Ncmpn
+se	sebe	Px--sa
+pripremaju	pripremati	Vmr3p
+u	u	Sl
+obliku	oblik	Ncmsl
+balka	balk	Ncmpg
+i	i	Cc
+filmova	film	Ncmpg
+,	,	Z
+a	a	Cc
+eksperimentalni	eksperimentalan	Agpmsny
+tretman	tretman	Ncmsn
+obuhvata	obuhvat	Ncmsg
+metode	metoda	Ncfsg
+:	:	Z
+
+Eksperimentalna	eksperimentalan	Agpfsny
+i	i	Cc
+teorijska	teorijski	Agpnpay
+istraživanja	istraživanje	Ncnpa
+fizičkih	fizički	Agpfpgy
+osobina	osobina	Ncfpg
+i	i	Cc
+strukture	struktura	Ncfsg
+metala	metal	Ncmsg
+,	,	Z
+poluprovodnika	poluprovodnik	Ncmsg
+i	i	Cc
+izolatora	izolator	Ncmpg
+
+Iznalaženje	iznalaženje	Ncnsn
+nekonvencijalnih	nekonvencijalan	Agpmpgy
+alternativnih	alternativan	Agpmpgy
+izvora	izvor	Ncmpg
+energije	energija	Ncfsg
+
+U	u	Sl
+toku	tok	Ncmsl
+je	biti	Var3s
+realizacija	realizacija	Ncfsn
+projekta	projekt	Ncmsg
+"	"	Z
+Amorfni	amorfan	Agpmpny
+i	i	Cc
+nanostrukturni	nanostrukturna	Ncfsl
+halkogenidi	halkogenid	Ncfpg
+i	i	Cc
+keramike	keramika	Ncfsg
+"	"	Z
+koji	koji	Pi-msn
+finansira	finansirati	Vmr3s
+Ministarstvo	ministarstvo	Ncnsa
+za	za	Sa
+nauku	nauka	Ncfsa
+i	i	Cc
+ekologiju	ekologija	Ncfsa
+Srbije	Srbija	Npfsg
+,	,	Z
+a	a	Cc
+u	u	Sl
+završnoj	završan	Agpfsly
+je	biti	Var3s
+fazi	faza	Ncfsl
+ugovaranja	ugovaranje	Ncnsg
+velikog	velik	Agpmsgy
+projekta	projekt	Ncmsg
+u	u	Sl
+okviru	okvir	Ncmsl
+FP6	fp	Ncmsg
+u	u	Sl
+kojem	koji	Pi-msl
+učestvuju	učestvovati	Vmr3p
+25	25	Mdc
+institucija	institucija	Ncfpg
+iz	iz	Sg
+15	15	Mdc
+evropskih	evropski	Agpfpgy
+zemalja	zemlja	Ncfpg
+i	i	Cc
+u	u	Sl
+kojem	koji	Pi-msl
+je	biti	Var3s
+predviđeno	predvideti	Agpnsny
+učešće	učešće	Ncnsn
+7	7	Mdc
+članova	član	Ncmpg
+katedre	katedra	Ncfsg
+.	.	Z
+
+Naziv	naziv	Ncmsn
+projekta	projekt	Ncmsg
+je	biti	Var3s
+"	"	Z
+Amorphous	Amorphous	Xf
+Nano-structured	Nano-structured	Xf
+Chalcogenides	Chalcogenides	Xf
+"	"	Z
+.	.	Z
+

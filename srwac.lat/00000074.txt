@@ -1,16 +1,4 @@
-Newsletter 
-Sudska ekonomska veštačenja 
-Šta su sudska veštačenja? 
-Sudska veštačenja predstavljaju pravni proces koji za rezultat ima mišljenje ovlašćenog stručnog lica za analizu sudskog postupka - sudskog veštaka. 
-Šta je sudski veštak? 
-Sudski veštak je stručno lice koje ispunjava uslove da se bavi poslovima veštačenja. To je pre svega osoba koja sarađuje sa sudom. Ona svojim stručnim mišljenjem u može da pomogne sudu da se utvrdi istina u sudskom postupku. Od kvaliteta i sveobuhvatnosti mišljenja sudskog veštaka može u priličnoj meri da zavisi ishod sudskog postupka. 
-Neke od glavnih osobina sudskog veštaka moraju biti pre svega kompetentnost, onda analitičnost, poželjno je iskustvo ali i stalno usavršavanje. U našem timu radi stručnjak koji zadovoljava sve ove osobine. 
-Kad je firmi potrebno sudsko veštačenje? 
-U različitim situacijama kad postoji nesaglasnost sa drugim privrednim subjektom, pa je došlo do pokretanja sudskog spora. Osnov spora može biti: 
-Neadekvatan ili nepotpun obračun zakonske zatezne kamate 
-Nenaplaćena potraživanja 
-Neodgovarajuć obračun poreza i pripadajuće kamate 
-Neobračunata revalorizacija 
-Povreda zakona o radu i finansijske posledice istog 
-Spor u vezi sa bankama ili osiguravajućim društvima itd. 
-SVM - ujedinjena poslovna rešenja, u saradnji sa našim partnerima, može da vrši odgovorna i stručna ekonomsko-finansijska veštačenja. Evo nekih primera veštačenja koje možemo raditi: 
+Category Archives: Fizika i ekonomija
+U ovom radu je ispitivano da li postoji specifično ponašanje finansijskog tržišta akcija, za vreme kriza, na osnovu kojeg bi se one mogle predvideti. Korišćen je rezultat ranijih radova koji pokazuju da, u periodima kriza, kretanje cena akcija postaje korelisanije, budući da cene svih akcija počinju da opadaju. Uočena je veličina koja odražava ovu korelaciju i posmatrano je njeno ponašanje u periodima visoke korelacije, koji su smatrani krizama. Pokazano je da samo u periodima kriza ova veličina stepeno zavisi od vremena, što predstavlja zakon skaliranja. Ovaj zakon je karakterističan za brojne fizičke sisteme, što je omogućilo stvaranje analogije između finansijskih tržišta i fizičkih sistema. Kao primer fizičkog sistema, korišćen je fizički sistem feromagneta. Feromagneti su supstance koje pokazuju magnetna svojstva samo ispod određene,, kritične " temperature, kada veličine koje opisuju njegovo stanje počinju da odražavaju zakon skaliranja. Time je postignuta analogija između ulaska feromagneta u magnetni režim i ulaska finansijskih tržišta u krizni režim. Dobijena analogija je iskorišćena za predviđanje finansijskih kriza.
+Cilj rada je ispitivanje fraktalne prirode funkcije kretanja indeksa berze tokom vremena. Napisana je simulacija u programskom jeziku C koja generiše fraktalne funkcije koje kopiraju kretanje indeksa berze. Računarski generisane fraktalne funkcije su optimizovane genetičkim algoritmom, tako da vrednosti konačnih funkcija minimalno odstupaju od vrednosti indeksa berze. Zaključeno je da se optimizacijom fraktalnih funkcija može kopirati kretanje indeksa berze u određenim vremenskim intervalima. Fraktalne funkcije su česte u prirodi i važne u mnogim fizičkim procesima, tako da se uopšteno ovaj metod može primeniti i za ispitivanje drugih funkcija fraktalne prirode.
+Proučavanje distribucije bogatstva prouzrokuje znatnu količinu interesovanja zbog trenutne ekonomske krize. Rađeno je proučavanje distribucije bogatstva pomoću analogije između tržišta i idealnog gasa. U ovom radu opisana su dva modela interakcija između agenata. Uvedena je entropija radi pokazivanja stabilnosti sistema. Dobijeni rezultati prikazuju raspodelu bogatstva u društvu u zavisnosti od faktora štednje i poreza.

@@ -1,14 +1,7 @@
-Posts Tagged plugin 
-Lično od svih browsera najviše koristim Firefox, upravo zbog dodataka kojih ima na hiljade i koji umnogome olakšavaju surfovanje internetom, SEO analizu sajtova, korišćenje multimedijalnog sadržaja i ostalog. Spisak dodataka (add-on) pogledajte ovde. 
-Izdvojiću samo neke koji mi olakšavaju rad na kompjuteru. 
-Google Shortcuts Koristim veliki broj google-ovih servisa a ovaj dodatak je koristan jer ih imam sve na jednom mestu, a ovde je moguće da iz padajućeg menija odaberem analytics, blogger, trends ili google webmaster. 
-Capture Fox firefox dodatak uz pomoć koga je lakse da uradite screencast (snimite video klip onoga što radite na Vašem desktopu) 
-SEO doctor moj omiljeni SEO alat za fiefox. analizira koliko je dobro uradjena on-page optimizacija stranice koju gledate, broj beklinkova, starost domena, informacije o domenu i ostalo. 
-Fox Tab firefox add on koji lakse i lepše organizuje posećene strane, omiljene strane kao i one koje ste nedavno posetili. Promenite boju ili raspored taboba i način na koji se prikazuju. 
-Firebug - definitivno dodatak za onog ko planira da ima svoj sajt ili je programer. Pogledajte kod ili locirajte greške na stranici. 
-Color Zila - Najčešće ga koristim kada želim da vidim Hex kod ili nijansu neke stranice za novi adsense oglas. 
-Zemanta firefox preporuka za blogere i one kojima je uvek potrebna slika više ili članak za preporuku. Može da bude i odličan način da dobijete linkove na ostalim blogovima ako prijavite RSS vašeg sajta. 
-Posle instalacije WordPress blog platforme, u vašem admin panelu nemate instalirane dodatke koji zapravo wordpress i čine tako fleksibilnim. 
-Ovo su neki od najkorisnijih dodataka koji Vam mogu pomoći da unapredite izgled i funkcionalnost Vašeg bloga kao i da se plasirate bolje na pretraživačima. 
-1. Akismet plugin nakon instalacije ovaj dodatak ćete videti u delu plugins koji se vrlo lako instalira a za potpuno upotrebu biće vam potreban API key. Dodatak služi za zaustavljanje neželjenih komentara na vašim blog postovima. 
-2. All in one SEO pack možda i jedan od najboljih dodataka za bolju optimizaciju bloga na pretraživačima. U podešavanjima imate mogućnost da odaberete koje ćete opcije da koristite. Na primer, izbor keyworda, način na koji će se prikazivati title, etc. 
+Redovne posete zubaru su ključni deo dobre oralne higijene. Uvek recite zubaru ukoliko patite ili ste patili od bilo kakvih neuobičajenih oralnih simptoma ili problema između poseta.
+Hlorheksidin je aktivni sastojak u nekim rastvorima za oralnu higijenu koji je namenjen za lečenje bolesti desni. Ovi rastvori deluju tako što ubijaju bakteriju koja izaziva plak, i pomažu u zaštiti od bakterije tako što se prilepe za zube i desni.
+Zubari već više od 30 godina za lečenje bolesti desni preporučuju rastvore koji sadrže hlorheksidin.
+Čišćenje je postupak uklanjanja zubnog plaka radi smanjenja i sprečavanja upala desni, a samim tim i lečenje bolesti desni. Taj postupak mogu izvoditi samo zubari ili kvalifikovani zubni tehničari.
+Ukoliko je bolest desni prerasla u parodontitis, možda će Vam biti potrebno dodatno čišćenje kako biste otklonili plak i kamenac iz džepova koji su se oformili. Ovo može potrajati još nekoliko termina kod zubara ili zubnog tehničara. Možda ćete dobiti lokalnu anesteziju desni pre čišćenja i možda ćete osećati malu nelagodnost posle postupka. Vaš zubar ili zubni tehničar će pratiti veličinu džepova u narednim mesecima kako bi bili sigurni da je lečenje bilo uspešno i da se parodontitis nije pogoršao.
+Ukoliko Vam se parodontitis pogoršao, džepovi su preveliki za zubara ili zubnog tehničara da ih očiste. Možda će Vam biti potreban hirurški zahvat koji može izvesti Vaš zubar. Vaš zubar Vas može uputiti parodontologu, zubaru koji je specijalista za lečenje parodontitisa. On ili ona će izvesti opsežnije i dublje čišćenje u kombinaciji sa drugim lečenjima.
+Sve informacije koje se pojavljuju na ovoj stranici su rezervisane samo za stanovnike Republike Srbije. Autorsko pravo GlaxoSmithKline grupe kompanija 2009. parodontax je registrovani zaštitni znak GlaxoSmithKline grupe kompanija. Sva prava zadržana. Molimo Vas pročitajte uslove korišćenja i politiku internet privatnosti. GlaxoSmithKline Consumer Healthcare, Omladinskih brigada 88, 11070 Novi Beograd, Srbija.

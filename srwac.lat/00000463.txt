@@ -1,0 +1,63 @@
+U današnje vreme, kada su računari i računarska komunikacija neodvojivi deo ljudske (bilo poslovne, bilo privatne) svakodnevnice, opšte prihvaćeno mišljenje da na Internetu ništa nije tajno predstavlja veliki problem. Poverljiva dokumenata firmi, bankovne transakcije, poruke lične prirode sve to čini veliki deo svakodnevnog saobraćaja na Internetu. Velika sredstva i napori se ulažu u svakodnevno podizanje nivoa tajnosti u server klijent baziranim komunikacijama.
+Ovaj diplomski rad za cilj ima da pokže kako se korišćenjem javno dostupnih tehnologija, uz pravilno razmišljanje i organizacju, mogu postići odlični rezultati kada je u pitanju tajnost i privatnost komunikacije preko tako nehomogene i rasprostranjene mreže kao što je internet.
+Jedan od glavnih problema ogleda se u korišćenju slabih kriptografskih algoritama za potrebe šifrovanja poruka. Recimo DES algoritam koji je poznat po javno objavljenim slabostima kao što su slabi ključevi i dobro poznati tipovi napada na DES algoritam. Takođe, poznato je da je NSA (Državna bezbednost SAD) ubacila trapdoor sistem koji omogućava dešifrovanje šifrata bez poznavanja ključa.
+Još jedan veliki problem predstavlja skladištenje elekronske pošte na serverima. Iako se komunikacija između mail klijenta i mail servera obavlja posredstvom sigurnih sesija (SSL), elektronska pošta se na serveru čuva u otvorenom obliku. Iz tog razloga korisnik sistema elektronske pošte ne može da bude siguran da poštu koju je poslao drugom korisniku neko u međuvremenu nije pročitao.
+Siguran e mail
+Vrste enkripcija
+Sigurnost prvih sistema se zasnivala na tajnosti primenjenog algoritma šifrovanja / dešifrovanja (security through obscurity). Velika mana ovih sistema je u činjenici da nepostoji ključ koji učestvuje u šifrovanju. Ako se probije šifrat (kriptoanalizom) mora se promeniti ceo sistem.
+Savremeni algoritmi su otvoreni i podložni javnom ispitivanju slabosti. Tajnost se postiže korišćenjem javnog (ispitanog) algoritma za šifrovanje i ključa koji se krije u tajnosti. Savremeni šifarski sistemi se dele na simetrične i asimetrične šifarske sisteme.
+Kod simetričnih se koristi isti tajni (deljeni) ključ za šifrovanje i dešifrovanje. Na slici vidimo postupak šifrovanja i dešifrovanja poruke. Kriptoanalitičar ima na raspolaganju samo šifrat i može jedino da pokuša napad silom (brute force). Kako bi se osigurala bezbednost sam ključ je potrebno preneti bezbednim kanalom.
+Asimetrični šifarski sistemi koriste par ključeva koji se nazivaju javni (KUb, ključ koji je svima dostupan) i privatni (KRb, ključ koji korisnik čuva u tajnosti). Ukoliko se šifra napravi sa javnim ključem on se samo može dešifrovati privatnim ključem i obrnuto, ukoliko je šifrat napravljen privatnim ključem on se samo može dešifrovati javnim ključem.
+Digital encrtyption standard (DES)
+DES je razvio IBM, ali uz modifikacije koje je izvršio National Bureau of Standards (NBS). DES je 1977. usvojen kao nacionalni standardni šifarski postupak. IBM je napravio simetričan algoritam za šifrovanje sa nazivom Lucifer, koji je koristio ključeve dužine 128 bita. NBS je smanjio dužinu ključa na 56 bita i izvršio modifikaciju nekih od DES S boksova i na taj način je instalirao trap door koji im omogućava dešifrovanje šifrata bez poznavanja ključa. Osnovne osobine DES a:
+Dužina bloka za šifrovanje je 64 bita.
+Međusobna zavisnost simbola koji se šifruju. Svaki bit šifrata se dobija kao izlaz složene funkcije u kojoj učestvuju svi biti otvorenog (nešifrovanog) teksta i svi biti šifrovanog teksta. To za posledicu ima da:
+Za današnje uslove ključ od 56 bita ne predstavlja dobru zaštitu, takođe su objavljeni načini napada na blok šifre (DES).
+Otvoreni tekst
+Opis rada DES a:
+IP
+L0 R0
+K1
+f
+1) Od ključa od 56 bita se formiraju novih 16 ključeva dužine 48 bita za 16 rundi DES algoritma.
+2) Vrši se inicijalna permutacija bloka šifrata.
+3) Blok šifrata se deli na dva jednaka dela.
+4) Realizuje se jedna od 16 modularnih operacija. U svakoj od
+L1 = R0
+L2 = R1
+R1 = L0 xor f (R0, K1)
+K2
+f
+rundi se vrši sabiranje po modulu 2 levog dela sa desnim delom bloka šifrata nad kojoj je pre toga izvršena funkcija f. Funkcija f kao ulazne parametre ima desni deo bloka šifrata i ključ koji je jedinstven za tu rundu.
+Postupak dešifrovanja se izvršava na isti način kao i šifrovanje. Nije potrebnu invertovati funkciju f, jer DES koristi involutivnu transformaciju. Jedina razlika u procesu dešifrovanja je da se
+Sifrat
+koristi obrnuti redosled ključeva nego što se koristio prilikom šifrovanja.
+Šifrovanje
+DES
+DES-1
+DES
+Otvoreni tekst K1
+K2 K3
+Šifrat
+DES-1
+DES
+DES-1
+Dešifrovanje
+Tripple DES (3 DES)
+Tripple DES predstavlja unapređenje prvobitnog algoritma. Sam algoritam je ostao nepromenjen, ali se sada izvršava tri puta prilikom šifrovanja i dešifrovanja.
+Kod šifrovanja otvoreni tekst se prvo šifruje DES algoritmom sa ključem K1, zatim se vrši dešifrovanje šifrata sa ključem K2 (dešifrovanje ključem kojim nije izvršeno šifrovanje se ustvari postiže dalje šifrovanje otvorenog teksta), na kraju se vrši šifrovanje ključem K3 ili ključem K1 u zavisnosti od režima rada 3 DES algoritma. Ukoliko se koriste tri ključa 3 DES ima efektivnu dužinu ključa od 112 bita (smanjenje sa 168 na 112 je zbog mogućnosti meet in the middle napada), a ukoliko se koriste 2 ključa smatra se da je efektivna dužina kombinovanog ključa 80 bita (efektivne dužine ključa određuje NIST).
+Prilikom dešifrovanja se koristi prvo dešifrovanje ključem K3, odnosno K1, pa onda šifrovanje ključem K2 i na kraju dešifrovanje ključem K1.
+Advanced encryption standard (AES)
+NIST (National Institute of Standards and Technology) organizacija u SAD je 2001. godine objavila standard za simetrične kriptografske algoritme AES (Advanced Encryption Standard) koji treba da zameni prethodni standard DES (Data Encryption Standard). Nakon duge selekcione procedure, za AES algoritam izabran je Rijndael algoritam koga su realizovali Belgijski istraživači: Joan Daemen i Vincent Rijmen.
+Rijndael predstavlja blok šifarski algoritam koji podržava promenljivu dužinu bloka informacije (128, 192 i 256 bita) kao i promenljivu dužinu ključa (128, 192 i 256 bita). Naime, poruke šifrovane DES algoritmom su se, zbog nedostataka u samom algoritmu (bezbedonosni nedostaci u supstitucionim s tabelama), male dužine ključa (56 bita) i povećane procesne moći računara, mogle dešifrovati za samo par časova. Nakon selekcione procedure, za realizaciju AES standarda izabran je Rijndael algoritam koga su realizovali belgijski matematičari: Joan Daemen i Vincent Rijmen. Rijndael algoritam je u odnosu na konkurentske algoritme (MARS, RC6, Serpent, Twofish) bio brži i zahtevao je manje operativne memorije u procesu šifrovanja i dešifrovanja poruka. Rijndael algoritam sa 128 bitnom dužinom ključa je brži za oko 2.5 puta u odnosu na 3 DES algoritam. AES algoritam realizuje operacije šifrovanja i dešifrovanja bloka podataka u promenljivom broju ciklusa. Broj ciklusa zavisi od veličine ključa i iznosi
+10 / 12 / 14 za veličinu ključa 128 / 192 / 256 bita, respektivno. Osnovni element AES šifrovanja, koji se naziva stanje (State), je matrica sa četiri vrste i Nb kolona, gde je Nb jednak dužini bloka podeljeno sa 32. Ključ je takođe u obiku matrice.
+4) Sabiranje po modulu dva sa odgovarajućem delom ključa (AddRoundKey). AddRound Key sabira ključ runde po modulu dva bit za bit.
+5) U poslednjem ciklusu šifrovanja se ne obavlja transformacija bajtova unutar iste kolone (MixColumns).
+Proces dešifrovanja je veoma sličan procesu šifrovanja, što se i vidi sa slike, glavna razlika je u upotrebni inverznih funkcija (invShiftRows, invMixColumns) nad matricom bloka šifrata.
+Rivest, Shamir, Adleman algoritm (RSA)
+Rivest, Shamir i Adleman su krajem 70 tih (1978) razvili algoritam za asimetrično šifrovanje. Sigurnost RSA i svih ostalim algoritama za asimetrično šifrovanje se zasniva na problemu faktorisanja velikih brojeva na proste činioce. Teorijska osnova algoritma za realizaciju šifrovanja i dešifrovanja poruka prikazana je u Fermaovoj i Ojlerovoj teoremi:
+1) Fermaova teorema (P. Fermat): Ako je p prost broj i NZD (a, p) = 1, onda je a p 1 1 (mod p).
+2) Ojlerova teorema (L. Euler): Ako su a i n uzajamno prosti brojevi, onda je: a ϕ (n) 1 (mod n), gde je sa ϕ (n)
+označen broj prirodnih brojeva, ne većih od n, a uzajamno prostih sa n.
+4) Javni ključ korisnika predstavlja par (n, e), dok je privatni ključ par (d, n).
+Javni ključ korisnika je javno dostupan svima, dok privatni ključ korisnik čuva u tajnosti. Brojevi p i q takođe trebaju da se čuvaju u tajnosti, jer pomoću njih se može ponovo generisati privatni ključ.

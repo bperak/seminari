@@ -1,27 +1,11 @@
-Bešavna integracija štiti vaše sustave i podatke od sofisticiranih zloćudnih programa, te djeluje kao željezni oklop protiv botova i zero-day napada. Štiti čak i kada je uređaj izgubljen ili ukraden, blokira neusklađene sustave ili neautorizirane uređaje koji mogu pokušati pristupiti kritičnim poslovnim sustavima i osjetljivim podacima. 
-Ova kombinacija kontrola je idealna za sofisticirana poslovna okruženja sa zaposlenicima koji očekuju slobodno kretanje ali i kompletnu zaštitu od rizika. 
-Obilježja 
-Jedna upravljačka konzola 
-Enkripcija 
-Kontrola uređaja 
-Host IPS i desktop firewall 
-Anti-malware 
-Anti-spam 
-Sigurno surfanje i pretraživanje 
-Host web filtriranje 
-Zaštita email servera 
-Kontrola pristupa mreži 
-Revizija pravila 
-Multiplatform 
-Ključne prednosti 
-Željezni oklop koji štiti sve krajnje točke 
-Manji operativni troškovi uz centralizirano upravljanje 
-Jednostavnija usklađenost sa ugrađenim standardnim obrascima 
-McAfee postavlja industrijske standarde 
-Četiri godine zaredom vodeći je u Gartnerovu kvadrantu zaštite krajnjih točaka i mobilnih podataka. 
-Prvi je ponudio jednog agenta i jednu konzolu za zaštitu krajnjih točaka. 
-Prvi koji upravlja širokim rasponom sigurnosnih proizvoda - za krajnje točke, mrežu, podatke, web i e-mail - uz pomoć jedne konozole. 
-Prvi je imao jedinstvenu upravljačku platformu za zaštitu krajnjih točaka i usklađenost. 
-Prvi je imao proizvod koji upravlja McAfee i trećim sigurnosnim proizvodima. 
-Prvi je ponudio kombinaciju revizije pravila i provođenja pravila s jednim mehanizmom. 
-Prvi je ponudio kombinaciju zaštite krajnjih točaka i podataka u jednom doista integriranom paketu. 
+Financijske institucije
+Dugogodišnje iskustvo u radu sa financijskim institucijama, a posebice bankarskim sektorom omogućilo je Infositemu da bude prepoznat na hrvatskom tržištu kao konkurentan implementator Core bankarskih rješenja. Naš izvor kompetitivne prednosti leži u znanju i iskustvu djelatnika koji su uložili godine u implementacije i razvoj bankarskih rješenja te podršku djelatnicima banaka prilikom nadogradnji i održavanju bankarskih sustava. Sa ponosom ističemo da smo implementirali prvi integralni bankarski sustav URBIS u Hrvatskoj (još 1993. g.) u Dalmatinskog banci (danas OTP banka). Prepoznajući kvalitetu, ista su rješenja odabrale PK banka u Budimpešti i slovenska Nova kreditna banka Maribor. Infosistem je također sudjelovao s UNISYS-om u implementaciji poslovnih sustava banaka u Grčkoj, Ciparu, Islandu i Ujedinjenim Arapskim Emiratima.
+Strateški pravci IT-a vode k transformaciji data centara u smislu pojednostavljenja postojećih procesa i sve veće podrške mobilnoj radnoj snazi. U takvim uvjetima treba osigurati integritet i tajnost mrežnih podataka unutar zajedničke infrastrukture. Unisys Stealth omogućuje korisnicima, podacima i infrastrukturi nevidljivost (nedostupnost)... Saznajte Više
+Infrastrukturnu i servisnu podršku tvrtka Infosistem d. d. pruža kroz Službu tehničke podrške koja obavlja instalaciju i održavanje širokog spektra računalne i komunikacijske opreme. Centralna servisna točka opremljena je svom potrebnom opremom za instalaciju, dijagnostiku i servisiranje opreme u skladu sa specifikacijama proizvođača. Usluge... Saznajte Više
+Infosistem je tijekom više od deset proteklih godina, suradnjom sa svojim inozemnim i domaćim partnerima na području uspostave sveobuhvatnih poslovnih rješenja, nacionalizirao, prilagodio, dogradio i uveo cjelovito integrirano rješenje za cjelokupno poslovanja banke Urbis core bankarski sustav. Više od 2000 financijskih... Saznajte Više
+NovoDoba je niz integriranih, funkcionalnih modula koji omogućavaju financijskim institucijama da svoje klijente smjeste u središte svoje poslovne strategije, dok istovremeno pružaju instituciji sposobnost širenja i razvoja vlastite strategije u cilju poboljšanja usluga i veće učinkovitosti. Rješenje je potpuno modularno i može se osmisliti... Saznajte Više
+ABBA LEASING nastao je na standardima i procedurama složenog, višestruko provjerenog i u praksi potvrđenog core banking rješenja ABBA Novo Doba. ABBA LEASING će sasvim sigurno i u potpunosti ispuniti očekivanja svojih korisnika, prvenstveno zahvaljujući originalnim i praktičnim rješenjima, velikoj fleksibilnosti, jednostavnosti i brzini rada. ABBA... Saznajte Više
+Podatak, informacija, znanje. Upravo ovaj redosljed naveli bi kada bi povečavali stupanj kompleksnosti procesa odlučivanja unutar svih poslovnih sustava današnjice. Iako je naveliko poznata činjenica koliko su u poslovanju informacije nezamjenjivi resurs i koliki je njihov utjecaj na svakodnevno poslovanje i dalje se pitamo da li te iste te iste... Saznajte Više
+Outpost24 je švedska tvrtka osnovana 2001 godine, koja se specijalizirala za rješenja i usluge vezane uz pronalaženje, praćenje i upravljanje sa ranjivostima informatičkih sustava (Vulnerability Assessment and Management) informatičkih sustava, što joj je ujedno i jedni proizvod. Rješenja koja pruža putem specijaliziranog hardverskog uređaja... Saznajte Više
+Imprivata koja je osnovana 2004 godine, specijalizirana je tvrtka za pružanje rješenja vezanih uz autentifikaciju korisnika informatičkih sustava bilo putem klasičnih načina (korisničko ime lozinka) ili kroz napredne sustave za identifikaciju (biometrija, token, te smart ili bezkontaktne kartice). Korištenje univerzalnog rješenja za sigurnost... Saznajte Više
+Siebel HelpDesk je web rješenje za upravljanje servisnim zahtjevima. Pomoću Siebel HelpDesk rješenja je moguće pratiti sve promjene od podnošenja servisnog zahtjeva do njegovog rješavanja. Servisni zahtjev može biti sastavljen od jednog ili više incidenata, koji tvore problem. Svaki incident se može neovisno rješavati. Uz servisni zahtjev... Saznajte Više

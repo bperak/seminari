@@ -1,18 +1,12 @@
-Beograd BBA 
-Kancelarija AIESEC-a na Beogradskoj bankarskoj akademiji poziva sve zainteresovane studente da postanu članovi najveće studentske organizacije na svetu AIESEC pruža mogućnost rada u timu koji predstavlja jedinstveni spoj teorije i praktičnog iskustva, doprinosi razvoju ličnih i poslovnih veština i olakšava izbor budućeg zanimanja.. Pročitaj više o timskom iskustvu. 
-Prilika koju svake godine iskoristi preko 5.000 studenata širom sveta, je odlazak na stručno usavršavanje u neku od mnogobrojnih zemalja u kojima AIESEC postoji. Ono predstavlja rad u kompanijama u kojima će studenti završnih godina fakulteta imati šansu da obavljaju posao u struci. Pročitaj vise o stručnoj praksi. 
-O kancelariji 
-Lokalna kancelarija BBA se nalazi u samom srcu Beograda u Zmaj Jovinoj ulici br. 12. Naši članovi imaju privilegiju da stečena teorijska znanja primene u praksi kroz realizaciju mnogobrojnih projekata različitog karaktera. To ima za cilj da oplemeni nastavni program dodatnim temama i tako studentima pruži mogućnost da steknu znanja iz različitih sfera poslovanja. Nove članove primamo dva puta godišnje u maju i oktobru. 
-Trenutna dešavanja 
-AAA AAAAA 
-Ovog leta studentska organizacija AIESEC vam nudi priliku da otputujete i radom ili volontiranjem u IT oblasti otkrijete neku novu kulturu i steknete praktično znanje iz oblasi za koju ste se školovali. Saznaj više. 
-Život bez granica je nacionalni projekat studentske organizacije AIESEC Srbija koji se ove godine organizuje po drugi put. Projekat, koji se bavi tolerancijom i aktivizmom mladih, biće realizovan od strane osam lokalnih kancelarija AIESEC-a i to u sedam gradova Saznaj više. 
-Iskustva naših članova 
-Ivan Vukašinović 
-Imao sam priliku da razmenjujem ideje sa preko hiljadu mladih lidera iz celog sveta. Naučim kako se stvara nova organizacija i kako da pokrenem ljude na akciju. Shvatim da mogu da utičem i promenim sve što želim. Detaljnije 
-Mladen Dikić 
-Često me pitaju šta sam to radio na praksi, kako sam to naučio i kako sam to takav. Radeći kao predavač u srednjim školam a imao sam zadovoljstvo da vidim kako je to biti tinejdžer u Istanbulu i priliku da steknem veštine prezentovanja. Detaljnije 
-Ivana Veselinov 
-Odlazak u Bursu u Turskoj je moj drugi odlazak na praksu, a već jedva čekam da idem opet. Pošto studiram na Filološkom fakultetu, razvojna praksa koju sam ovde našla mi je upala kao sekira u med Detaljnije 
-Projekti 
-Lokalna kancelarija BBA je najmlađa lokalna kancelarija u Beogradu. Osnovani smo 2008. godine kao inicijalna grupa pri fakultetu Beogradska bankarska akademija, Univerziteta Union, da bismo 2011. postali lokalna kancelarija. U lokalnoj kancelariji BBA radimo na projektima " PResent ", " Dare 2 Share ", " Design IT " i " Make t Possible ", a među svojim prethodnim projektima imamo i projekat " Ja mogu u Beogradu ". 
+Java and. NET
+interaktivne radionice web programiranje primeri iz prakse
+Levi9
+Internacionalna softverska kompanija koja ove godine obeležava 8 godina uspešnog poslovanja u svojim razvojnim centrima u Novom Sadu, Iasi-ju i Kiev-u, sa sedištem u Amsterdamu. Levi9 pruža usluge koje pokrivaju kompletan ciklus razvoja softvera od specifikacije zahteva, implementacije, testiranja, do isporuke i održavanja i unapređivanja proizvoda.
+Levi9 kompanija je posvećena svojim zaposlenima, jer verujemo da ćemo na taj način, našim klijentima omogućiti pristup najtalentovanijim i motivisanim profesionalcima, i time ostvariti visoke rezultate.
+Svaki zaposleni ima svoj jedinstven plan razvoja karijere koji uključuje optimalizovanje skupa specifičnih veština, učenje novih tehnologija i metodologija, a zaposlenima je data mogućnost da svoju energiju i vreme utroše i na razvoj od ličnog interesa.
+Uspešno sarađujemo sa Fakultetom tehničkih nauka, održavajući na taj način sponu između sadržaja koji se prezentuje na fakultetu i zahteva koji se postavljaju u praksi.
+Levi9 trenutno pokriva tržišta Belgije, Nemačke, Francuske, Velike Britanije i Holandije. Kancelarija u Novom Sadu trenutno zapošljava 170 softverskih inženjera. Kancelarija se nalazi na adresi Trifkovićev trg 6.
+EESTEC
+Udruženje studenata elektrotehnike Evrope (Electrical Engineering Students European assoCiation) ISTEK je neprofitno, nepolitičko udruženje studenata koje ima za cilj da poveže studente elektrotehnike i računarstva širom Evrope kroz organizovanje međunarodnih seminara, razmena i stručnih praksi. Cilj udruženja je i povezivanje i upoznavanje studenata sa razvojem industrije i modernim trendovima u struci. Udruženje je osnovano 1986. godine u Holandiji i trenutno se sastoji od 52 lokalna komiteta (Local Committee LC) iz skoro svih država Evrope.
+ISTEK LK Novi Sad je lokalni komitet osnovan 2001. godine na kongresu u Londonu. Naše udruženje okuplja studente Fakulteta tehničkih nauka u Novom Sadu sa odseka za elektrotehniku i računarstvo, elektroniku, energetiku i telekomunikacije i mehatroniku. Budući da članstvo u ISTEK-u nosi odgovornost i obaveze, a ne samo članstvo na papiru, ISTEK LK Novi Sad, sa preko 300 članova, jedan je od najbrojnijih i najaktivnijih lokalnih komiteta. Na organizovanih 12 razmena i 7 stručnih seminara i drugog po veličini od događaja u ISTEK-u, Konferencije predsednika ISTEKa, do sada je ugošćeno preko 300 kolega sa evropskih tehničkih univerziteta, dok je preko 300 naših studenata poslato u Evropu.
+Šireći domen svojih delatnosti, ISTEK LK Novi Sad u poslednjh pet godine postao je veoma aktivan na lokalnom nivou. Uz odličnu saradnju sa kompanijama i Fakultetom, organizovana su tri velika takmičenja u programiranju, nekoliko prezentacija i seminara za lokalne studente i veliki sajam zapošljavanja KONTEH koji je po peti put održan u martu 2011. godine.

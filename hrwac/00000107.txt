@@ -1,19 +1,14 @@
-Krajobrazni arhitekti / krajobrazne arhitektice istražuju kako prirodni tako i izgrađeni okoliš i prostor te savjetuju prilikom njegovog planiranja, dizajna i upravljanja, ali i kod njegovog očuvanja te planiranja održivog razvoja. Krajobrazni arhitekt / krajobrazna arhitektica može biti samo osoba obrazovana na polju krajobrazne arhitekture. 
-Zadaci krajobraznog arhitekta / krajobrazne arhitektice uključuju: 
-a) razvoj novih ili poboljšanih teorija, metoda i politike krajobraznog planiranja, projektiranja i upravljanja na lokalnoj, regionalnoj, nacionalnoj i multinacionalnoj razini; 
-b) razvoj planova i politike upravljana, te njihovu provedbu i nadzor, kao i razvoj novih ili poboljšanih teorija i metoda za nacionalne parkove i drugih površina namijenjenih očuvanju i rekreaciji; 
-c) razvoj novih ili poboljšanih teorija i metoda za promicanje ekološke svijesti te planiranje, projektiranje, restauraciju, upravljanje i održavanje kulturnih i / ili povijesnih krajobraza, parkova, lokacija i vrtova; 
-e) doprinos planiranju, estetskom i funkcionalnom dizajnu, te smještaju, upravljanju i održavanju infrastrukture, poput cesta, brana, energetskih i drugih većih razvojnih projekata; f) izradu krajobraznih analiza i procjena uključujući ekološke i vizualne procjene utjecaja obzirom na razvojnu politiku ili tekuće projekte; 
-g) pregled lokacija i analizu čimbenika poput klime, tla, flore, faune, površinskih i podzemnih voda i odvodnje; savjetovanje s klijentima i davanje preporuka o načinu i tijeku rada za projekte vezane uz krajobraz i izgrađeni okoliš; 
-h) utvrđivanje i razvoj odgovarajućih rješenja vezanih uz kvalitetu i korištenje izgrađenog okoliša u gradskim, prigradskim i ruralnim područjima, te izradu dizajna, planova i radnih crteža, specifikacija rada, procjenu troškova i rokova; 
-i) praćenje realizacije i nadzor izgradnje planiranih zahvata kako bi se osigurala usklađenost s planovima, specifikacijama rada, procjenom troškova i rokovima; 
-Na temelju prvog nacrta koji je izradio Kongres lokalnih i regionalnih vlasti Europe, Ministarski odbor Vijeća Europe odlučio je osnovati skupinu stručnjaka kojima će, pod okriljem Odbora za kulturnu baštinu te Odbora za aktivnosti Vijeća Europe na području biološke i krajobrazne raznolikosti, biti povjerena zadaća sastaviti Konvenciju o europskim krajobrazima. Kao rezultat ove skupine stručnjaka u kojoj su sudjelovale glavne međunarodne vladine i nevladine organizacije iz područja obuhvaćenog Konvencijom, Odbor ministara Vijeća Europe usvojio je 19. srpnja 2000. godine konačni tekst Konvencije. Konvencija o europskim krajobrazima otvorena je za potpisivanje u Firenci u Italiji 20. listopada 2000. godine u sklopu kampanje Vijeća Europe Europa, zajednička baština. 
-Ciljevi Konvencije 
-Cilj Konvencije je da promiče krajobraznu zaštitu, upravljanje i planiranje europskih krajobraza te organizira europsku suradnju po pitanjima krajobraza. 
-Ovo je prvi međunarodni ugovor čiji je isključivi predmet zaštita, upravljanje i jačanje europskih krajobraza. 
-Konvencija se odnosi na cjelokupni teritorij stranaka i obuhvaća prirodna, ruralna, gradska i prigradska područja uključujući kopno, područja kopnenih voda i morska područja. 
-Konvencija se osim iznimnima bavi i svakodnevnim krajobrazima, obzirom da imaju odlučujući utjecaj na kvalitetu života te na činjenicu da zaslužuju pažnju u sklopu krajobrazne politike. Mnoga ruralna područja i posebice prigradska područja doživljavaju drastične promjene te zaslužuju veću skrb vlasti i javnosti. 
-Ključni aspekt Konvencije je aktivna uloga koju pridaje javnosti u pogledu percepcije i vrednovanja krajobraza. Jačanje svijesti je ključno zbog uključivanja javnosti u odluke koje se odražavaju na njen životni krajobraz. 
-Nacionalne mjere 
-Prihvaćajući načela i ciljeve Konvencije ugovorne stranke se, poštujući načelo supsidijarnosti, obvezuju da će štititi, upravljati i / ili planirati njihove krajobraze donošenjem niza općih i posebnih mjera. 
-To uključuje promicanje sudjelovanja zajednica i javnih vlasti u odlukama koje utječu na krajobraz odnosno regije ili mjesta. 
+Usluge
+Implementacija
+Implementacija poslovnih aplikacija obavlja se u kratkom periodu, pouzdano, uz niske troškove i bez potrebe za ikakvim daljnjim krupnijim intervencijama. Prije instaliranja programa, sistem analizom koju provode naši konzultanti osigurava se dobra pripremljenost tvrtke za projekt uz minimalno narušavanje Vaših tekućih operacija. Implementacija korisniku donosi rješenje po principu« ključ u ruke », brzo uvođenje i gotove alate za podršku poslovnim procesima.
+Sistem integracija
+Brzim razvojem informacijskih sustava i tehnologija povećava se njihova kompleksnost, a implementacija, održavanje i nadzor uključuje sve više zadaća. Naši konzultanti pomoći će Vam u odabiru rješenja koje odgovara upravo Vašim potrebama Cilj nam je primjenom znanja i iskustva iz područja ekonomije i integracije sistema optimizirati poslovne procese klijenta s ciljem što bolje pozicije na tržištu.
+Edukacija
+Tijekom obuke pružamo znanja o programskom rješenju i njegovim funkcijama na uporabnoj razini. Također, dopunska znanja o organizaciji, planiranju, odlučivanju i predviđanju daju poticaj da se iskoriste potencijali uvedene tehnologije.
+FERO d. o. o. u suradnji sa KING-ICT Zagreb organizira i provodi tečajeve i ispite za stjecanje Europske računalske diplome po ECDL programu Syllabus. Tečaj realiziraju naši eksperti s velikim predavačkim iskustvom. Za potpune početnike (osobe koje nemaju nikakvih znanja u primjeni računala) moguće je organizirati i provesti uvodni tečaj koji će omogućiti uspješan rad na ECDL-tečajevima.
+Podrška
+Stručnjaci tvrtke Fero d. o. o. iz odjela za podršku korisnicima i održavanje dostupni su 24 / 7, a sa ciljem osiguravanja kontinuiteta rada sustava bez narušavanja poslovnih procesa korisnika.
+Poslovne konzultacije
+Razumijevanje problema poslovanja, ulaženje u specifične potrebe klijenta i predlaganje optimalnih rješenja polazište je s kojeg se stvari usmjeravaju prema zadanom cilju. Jedino poslovnim i tehnološkim znanjem temeljenim na iskustvu moguće je to ostvariti.
+Održavanje opreme
+Svojim korisnicima i njihovim IT sustavima, Fero d. o. o. u suradnji s partnerima pruža širok spektar usluga održavanja, a one mogu uključivati: preventivno održavanje (nadgledanje i preventivne akcije za sprječavanje problema u radu sustava), prioritetno održavanje (rješavanje problema, rekonfiguriranje sustava...), interventno održavanje... Probleme u radu sustava korisnici mogu prijaviti putem dežurnog telefona, e-maila ili helpdeska tvrtke Fero d. o. o..

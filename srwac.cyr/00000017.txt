@@ -1,12 +1,41 @@
-6. Etapa: S. Mitrovica - Beograd (127,7 km) 
-nedelja, 16. jun 2012. 
-Stević drugi put pobedio na trci Kroz Srbiju 
-Ivan Stević (33) srpski biciklista i olimpijac, član rumunske profi ekipe Tušnad pobednik je 53. trke Kroz Srbiju završene posle šest etapa i 840 kilometra u Beogradu pred Domom Narodne skupštine. 
-Stević je do drugog trijumfa, posle 2011. došao sa sekundom prednosti pred Poljakom Pjotrom Kirpsom (Mark pol) i devet sekundi pred Slovakom Patrikom Tiborom (Dukla). Na deveto mesto u generalnom plasmanu trku je završio srpski olimpjac Subotičanin Gabor Kasa, dok je 19. Jovan Zekavica reprezentativac čačanskog Borca. 
-Norveški Oneko je najbolja ekipa (crvena majica), ispred Tušnada (Rumunija) i reprezentacije Bugarske. Selekcija Srbije je peta. Pjotr Kirpsa (Poljska, Mark pol) je osvojio zelenu majicu Farmakoma MB za prolazne ciljeve a Stević je četvrti. Plavu majicu Sosijete ženeral banke za brdske ciljeve osvojio je Mirak Kal iz Turske, dok je belu majicu Ministarstva omladine i sporta Srbije za najboljeg mladog biciklistu obukao Artjom Zaharov (Rusija). 
-Trofej Bora Ivković za najkompletnijeg vozača (na osnovu plasmana u etapama, na brdskim i prolaznim ciljevima) osvojio je Turčin Mirak Kal. 
-U poslednjoj etapi od Sremske Mitrovice do Beograda (127 km), pobedio je u fantstičnom sprintu Ahmet Orken (Turska nacionalna) u vremenu 2:51,24 (proseke 44,7 km na čas), ispred Aleksandra Aleksijeva (Bugarska, nacionalna) i Maura Rićezea (Argentina, Nipo Japan). Stević je stigao peti, a najopasniji konkurenti Kirpsa i Tibor devet i deseti. Zekavica je bio15, a Gabor Kasa 23. 
-Stević je na ovoj trci bio drugi u u trećoj etapi u Kladovu, i dva puta treći u četvrtoj etapi u Požarevcu (kada je obukao žutu majicu) i u petoj etapi u Sremskoj Mitrovici. 
-Trka je vožena pod visokim pokroviteljstvom predsednika Srbije Tomislava Nikolića pod sloganom Turizam, kultura i biciklizam povodom obeležavanja 1.700 godina Milanskog edikta. 
-Na počasnoj bini trofeje su uručili Alisa Marić ministar omladine i sporta Srbije, Dane Korica generalni sekretar Sportskog saveza Srbije, predstavnici Sekretrijata za sport i omladinu Beograda, Ljubomir Živanović direktora organizacije trke sa saradnicma i druge ugledne zvanice. 
-Živanović se zahvalio Ministarstvu omladine i sporta Srbije, Ministarstvu finansija i privrede, Ministarstvu unutrašnjih poslova, Putevima Srbije i Turističkoj organizaciji Srbije, gradovima domaćinima etapa i svojim saradnicma na pomoći i izuzetno uspešnoj organizaciji ovogodišnje trke... Voda Rosa je bila zvanično piće u karavanu. Novi prijatelj trke bio je Eurogas iz Subotice. Medijski sponzor bio je RTS. 
+Ministar za ekonomske odnose sa inostranstvom, koji je na osnovu Odluke predsednika Vlade broj 02 - 01 - 00001 / 2006 - 01 od 14. novembra 2006. godine, objavljene u« Službenom glasniku RS », broj 102 / 06, preuzeo ovlašćenja ministra finansija, donosi
+Poreska osnovica iz člana 15 a stav 2. Zakona utvrđuje se na način i po postupku propisanim ovim pravilnikom za utvrđivanje poreske osnovice kod isplate zarade, naknade zarade i drugih primanja zaposlenog, na teret sredstava poslodavca, koja se u smislu Zakona smatraju zaradom (u daljem tekstu: zarada kod poslodavca).
+Na način iz stava 1. ovog člana utvrđuje se i poreska osnovica za obračun poreza na zarade kod isplate naknade zarade zaposlenom koja se vrši na teret sredstava drugog isplatioca (u daljem tekstu: naknada zarade kod drugog isplatioca).
+Poreska osnovica iz st. 1. i 2. ovog člana utvrđuje se tako što se iznos zarade kod poslodavca, odnosno naknade zarade kod drugog isplatioca umanjuje za neoporezivi iznos koji važi u momentu isplate zarade, odnosno naknade zarade (u daljem tekstu: neoporezivi iznos).
+Član 3.
+Neoporezivi iznos, odnosno srazmeran deo neoporezivog iznosa ukoliko zaposleni radi sa nepunim radnim vremenom (u daljem tekstu: pripadajući srazmerni iznos), obračunava se u punom, odnosno pripadajućem srazmernom iznosu prilikom isplate prvog dela zarade kod poslodavca, odnosno prilikom isplate naknade zarade za odgovarajući mesec.
+U slučaju kad je iznos prvog dela zarade iz stava 1. ovog člana manji od neoporezivog iznosa, odnosno pripadajućeg srazmernog iznosa, kod isplate narednog dela,
+odnosno narednih delova zarade kod poslodavca za taj mesec, izvršiće se umanjenje zarade za iznos razlike između punog neoporezivog iznosa, odnosno pripadajućeg srazmernog
+iznosa i iznosa umanjenja zarade iskorišćenog kod isplate prvog dela, odnosno ukupnog umanjenja iskorišćenog kod isplata prethodnih delova zarade.
+Odredba stav 2. ovog člana shodno se primenjuje i kod isplate naknade zarade kod drugog isplatioca, ukoliko se ta naknada isplaćuje u delovima.
+Član 3 a
+Izuzetno od člana 3. stav 1. ovog pravilnika, visina neoporezivog iznosa utvrđuje se i obračunava prilikom konačne isplate zarade kod poslodavca za odgovarajući mesec, u slučaju kad poslodavac isplatu zarade, odnosno dela zarade za taj mesec vrši u tom mesecu.
+Član 4.
+Za zaposlenog koji radi sa punim radnim vremenom kod jednog poslodavca, osnovica poreza na zaradu utvrđuje se tako što se zarada umanjuje za neoporezivi iznos u celosti.
+Za zaposlenog koji radi sa nepunim radnim vremenom kod jednog ili više poslodavaca i ukupno ne ostvaruje puno radno vreme, umanjenje zarade za pripadajući srazmerni iznos vrši se srazmerno radnom vremenu tog zaposlenog kod svakog poslodavca u odnosu na puno radno vreme, s tim da ukupno umanjenje mora biti manje od neoporezivog iznosa.
+Kad zaposleni u toku meseca, zbog zasnivanja, prestanka ili mirovanja radnog odnosa, odnosno iz drugog razloga ne ostvari zaradu za pun fond radnih časova, osnovica poreza na zaradu utvrđuje se tako što se ostvarena zarada umanjuje za srazmerni neoporezivi iznos, koji se utvrđuje srazmerno odnosu broja radnih časova za koje je zaposleni ostvario zaradu kod poslodavca za taj mesec i broja radnih časova punog fonda radnih časova za taj mesec.
+Član 5.
+Kad zaposleni za odgovarajući mesec pored zarade kod poslodavca ostvaruje i naknadu zarade kod drugog isplatioca (po osnovu privremene sprečenosti za rad preko 30 dana, porodiljskog odsustva i dr.), umanjenje zarade kod poslodavca, odnosno naknade zarade kod drugog isplatioca, vrši se srazmerno odnosu broja radnih časova za koje ostvaruje zaradu kod poslodavca, odnosno naknadu zarade kod drugog isplatioca, u odnosu na pun fond radnih časova za taj mesec.
+Član 6.
+U skladu sa odredbama ovog pravilnika utvrđuje se i osnovica za obračun poreza na zaradu zaposlenog po osnovu radnog odnosa u Republici Srbiji, zasnovanog saglasno propisima Republike Srbije, kod diplomatskog ili konzularnog predstavništva strane države, odnosno međunarodne organizacije ili kod predstavnika i službenika takvog predstavništva, odnosno organizacije.
+Zaposleni iz stava 1. ovog člana, saglasno članu 107. Zakona, sam obračunava i uplaćuje porez na zarade, ako porez ne obračuna i ne uplati isplatilac zarade, odnosno naknade zarade.
+Član 7.
+Osnovica poreza na zarade za zaposlenog koji je korisnik prava na naknadu zbog rada sa skraćenim radnim vremenom (II kategorije invalidnosti), odnosno prava na naknadu zbog manje zarade na drugom odgovarajućem poslu (III kategorije invalidnosti), utvrđuje se tako što se zarada zaposlenog umanji za neoporezivi iznos, odnosno srazmerni neoporezivi iznos.
+Kod umanjenja zarade zaposlenog u smislu stava 1. ovog člana shodno se primenjuju odredbe ovog pravilnika koje se odnose na ostale zaposlene.
+Član 8.
+U slučaju kad, zbog usklađivanja dinarskih iznosa prema članu 12 a Zakona, dođe do povećanja neoporezivog iznosa, a kod prethodnih isplata zarade za odgovarajući mesec nije iskorišćeno umanjenje zarade u punom iznosu, umanjenje zarade vrši se tako što se preostali deo zarade koji se isplaćuje umanji za iznos razlike između usklađenog neoporezivog iznosa koji važi u momentu isplate tog dela zarade kod poslodavca i iskorišćenog umanjenja zarade kod prethodne isplate, odnosno isplata.
+3. Dostavljanje podataka
+Član 9.
+Poslodavac koji zasnuje radni odnos sa licem koje radi sa nepunim radnim vremenom kod dva ili više poslodavaca, najkasnije u roku od tri dana od dana zaključenja ugovora o radu, pribavlja od zaposlenog izjavu sa podacima o drugom poslodavcu, odnosno poslodavcima kod kojih je zasnovao radni odnos sa nepunim radnim vremenom i o dužini nepunog radnog vremena kod svakog poslodavca, procentualno izraženog u odnosu na puno radno vreme.
+Izjavu iz stava 1. ovog člana zaposleni podnosi poslodavcu neposredno u pisanom obliku.
+Član 10.
+Izjavu iz člana 9. ovog pravilnika zaposleni dostavlja na Obrascu I - Izjava o radnom odnosu sa nepunim radnim vremenom, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.
+Član 11.
+Poslodavac prilikom svake isplate zarade, odnosno naknade zarade za odgovarajući mesec, uz Obrazac PP OPJ Poreska prijava o obračunatom i plaćenom porezu na zarade, koji podnosi za tu isplatu zarade, odnosno naknade zarade nadležnoj organizacionoj jedinici Poreske uprave prema mestu svog sedišta, odnosno prebivališta, dostavlja i obaveštenje o zaposlenima koji rade sa nepunim radnim vremenom.
+Zaposleni iz člana 6. ovog pravilnika koji radi sa nepunim radnim vremenom, uz Obrazac PP OPO Poreska prijava o obračunatom i plaćenom porezu po odbitku i pripadajućim doprinosima na zaradu / drugu vrstu prihoda od strane fizičkog lica kao poreskog obveznika, koji podnosi u zakonom propisanom roku nadležnoj organizacionoj jedinici Poreske uprave prema mestu svog prebivališta, odnosno boravišta, dostavlja i obaveštenje o nepunom radnom vremenu, iskazanom u procentualnom iznosu u odnosu na puno radno vreme.
+4. Završne odredbe
+Član 12.
+U slučaju kad se zarada kod poslodavca za mesec decembar 2006. godine, u skladu sa članom 35. stav 2. Zakona o izmenama i dopunama Zakona o porezu na dohodak građana (« Službeni glasnik RS », br. 62 / 06 i 65 / 06), isplaćuje u više delova, umanjenje dela koji se isplaćuje u januaru 2007. godine, odnosno u narednim mesecima, za srazmerni neoporezivi iznos koji važi u momentu isplate, vrši se srazmerno odnosu iznosa dela zarade koji se isplaćuje i iznosa ukupne zarade za taj mesec za pun fond radnih časova.
+Član 13.
+Član 14.
+Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u« Službenom glasniku Republike Srbije », a primenjivaće se od 1. januara 2007. godine.

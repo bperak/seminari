@@ -1,12 +1,196 @@
-Gosti 
-Delegacija Odbora za ljudska i manjinska prava i ravnopravnost polova Narodne skupštine Republike Srbije se pre dve nedelje sastala sa delegacijom Savetodavnog komiteta Okvirne konvencije za zaštitu nacionalnih manjina Saveta Evrope. Ovom sastanku, održanom u Skupštini Srbije sam prisustvovala i ja. Zanimljivo je da su na razgovoru bili prisutni isključivo oni članovi odbora, koji su pripadnici nacionalnih manjina. 
-Predsednik odbora je istaknuo čvrsto opredeljenje naše zemlje u pogledu poštovanja ljudskih i manjinskih prava, i rekao da je u zakonodavnom pogledu urađeno dosta, kao i da je Srbija ratifikovala gotovo sve konvencije koje se odnose na poštovanje prava nacionalnih manjina. 
-Ja sam informisala članove komiteta Saveta Evrope da bez obzira što je pravni okvir za zaštitu manjina razvijen i odgovara očekivanjima, postoje problemi sa njegovim sprovođenjem i da su na tom polju potrebna poboljšanja. Naglasila sam da se u praksi ne ostvaruje zapošljavanje pripadnika nacionalnih manjina u skladu sa njihovim učešćem u broju stanovništva, i da su u cilju postizanja istog neophodni dalji koraci. 
-Nametnuo se problem da u trenutnoj Vladi Republike Srbije ne postoji posebno Ministarstvo za ljudska i manjinska prava. Smatram da treba da se izgradi sistem u kojem ne bi od svake promene Vlade zavisilo da li ovaj resor postoji ili ne. 
-Tokom razgovora je najviše nas rad nacionalnih saveta nacionalnih manjina ocenio pozitivno, ali je najavljeno i da uskoro predstoje izmene Zakona o nacionalnim savetima nacionalnih manjina. Što se tiče privatizacije medija, naglasila sam da većinsko stanovništvo i dalje ne pokazuje razumevanje za strahove manjina i ne bavi se dovoljno ovim pitanjem. Zatim sam upoznala delegaciju Saveta Evrope sa nadležnostima nacionalnih saveta na polju službene upotrebe jezika. Višestruko sam podvukla da jako mali broj pripadnika nacionalnih manjina i izuzetno retko koristi svoje pravo na upotrebu svog maternjeg jezika u organima javne uprave. Slična je situacija i na sudovima. 
-Pripadnicima nacionalnih manjina u Republici Srbiji, pored prava koja su Ustavom zagarantovana svim građanima, garantuju se dodatna individualna ili kolektivna prava. Ustav Republike Srbije sadrži široku paletu manjinskih prava kao što su garantovanje prava na udruživanje pripadnika manjina, pravo na saradnju sa sunarodnicima u inostranstvu, pravo na upotrebu simbola, zabrana nasilne asimilacije, službena upotreba jezika i pisma, kao i zabrana veštačkog menjanja nacionalnog sastava stanovništva na područjima gde pripadnici nacionalnih manjina žive tradicionalno i u značajnom broju, omogućavanje srazmerne zastupljenosti nacionalnih manjina u skupštinama autonomnih pokrajina i jedinica lokalne samouprave u kojima živi stanovništvo mešovitog nacionalnog sastava, itd. 
-Prema propisima Republike Srbije jedinice lokalne samouprave će obavezno uvesti u službenu upotrebu jezik i pismo nacionalne manjine ukoliko procenat pripadnika te nacionalne manjine u ukupnom broju stanovnika na njenoj teritoriji dostiže 15 % prema rezultatima poslednjeg popisa stanovništva. 
-Nadležnosti nacionalnih saveta, način njihovog izbora i finansiranja, dakle potpuni zakonodavni okvir za unapređenje i zaštitu prava nacionalnih manjina u Repubici Srbiji obezbeđen je donošenjem Zakona o nacionalnim savetima nacionalnih manjina 2009. godine. 
-Iako veoma razvijena, legislativa kojom je zagarantovano obrazovanje na maternjem jeziku nije uvek primenjiva u praksi, najčešće zbog manjka nastavnika i udžbenika. U svakom slučaju, neophodno je da prilikom racionalizacije mreže škola nastavimo dosledno da štitimo prava pripadnika manjina, prvenstveno pravo na obrazovanje na maternjem jeziku. 
-Potrebno je uticati na podizanje svesti građana o prisustvu pripadnika nacionalnih manjina u zemlji, o njihovim pravima, kao i preduzeti neophodne mere za obezbeđivanje delotvornijeg učešća pripadnika nacionalnih manjina u procesu odlučivanja i povećanje njihove zastupljenosti u strukturama izvršne i sudske vlasti. Postoji i potreba većeg uključivanja predstavnika manjina u procese donošenja odluka koje se odnose na njih. 
-Na kraju, zaključila sam konstatacijom da nacionalne manjine nisu samo folklorni element, već i sastavni deo društva, pa bi ih na taj način trebalo i posmatrati. 
+Pokretanje programa Ekspert CD vrši se nakon izvršene instalacije, dvoklikom na ikonu " Ekspert " koja se pojavljuje na desktop-u nakon instalacije programa na Vaš računar (pogledajte: Uputstvo za instalaciju Ekspert CD-a)
+Napominjemo: U slučajevima gde se program koristi u vidu mrežne verzije (preko lokalnog web servera) može se dogoditi da se postupak pokretanja programa razlikuje od prethodno opisanog, i u tom slučaju administrator računarske mreže preduzeća / ustanove obaveštava korisnike o načinu i postupku pokretanja programa.
+UVODNA STRANA PROGRAMA EKSPERT
+Nakon pokretanja programa Ekspert otvara se naslovna strana programa koja je informativnog karaktera, i u skladu sa informacijama koje pruža, podeljena je na sledeće rubrike: Glasila sa kojima je Ekspert ažuriran, Skrećemo pažnju na propise i Pregledi vezani za aktuelnu verziju Eksperta. (Videti sliku)
+Ispod rečenice Ekspert je ažuriran (datum), zaključno sa sledećim glasilima: nabrojana su sva aktuelna glasila, njihov broj i datum objave, zaključno sa kojima je ažurirana aktuelna verzija programa.
+Klikom na bilo koji naziv glasila, u Rezultatima pretrage dobija se spisak propisa objavljenih u konkretnom glasilu. Klikom na naziv bilo kog od tih propisa, otvara se tekst traženog propisa.
+Skrećemo pažnju na propise
+Redakcija Eksperta preko ove rubrike želi korisnicima da skrene pažnju na neke propise iz najnovijih glasila, za koje smatra da su interesantni, kao i na propise čija primena počinje u narednom periodu. Tekst izabranih propisa možete pogledati direktnim klikom na njihov naziv.
+Rečenica Pogledajte propise čija primena počinje u narednom periodu predstavlja link na stranicu na kojoj su date informacije o skorijoj primeni bitnih propisa, odnosno njihovih pojedinih odredbi.
+Ova rubrika prevashodno ima za cilj da korisnik, u vidu 6 različitih pregleda, može da vidi koji su propisi, službena mišljenja, sudska praksa i modeli akata dodati u odnosu na prethodno ažuriranje Ekspert-a.
+Klikom na rečenicu PROPISI koji su dodati u odnosu na prethodno ažuriranje Ekspert-a - Republika Srbija, dobija se spisak obrađenih propisa iz svih glasila (dodatih u odnosu na prethodno ažuriranu verziju Eksperta) sortiran po glasilima, a u okviru glasila - po vrsti propisa. Glasila su odvojena bojama - crnom i plavom, na taj način što se kod svake promene broja glasila promeni i boja kojom je obeleženo glasilo.
+Klikom na rečenicu SLUŽBENA MIŠLJENJA koja su dodata u odnosu na prethodno ažuriranje Ekspert-a - Republika Srbija, dobija se spisak obrađenih službenih mišljenja (dodatih u odnosu na prethodno ažuriranu verziju Eksperta), sortiran po donosiocu, a u okviru donosioca - po datumu (od najnovijeg ka najstarijem). Promena donosioca označena je naizmenično crnom i plavom bojom.
+ZAGLAVLJE SA OSNOVNIM MENIJEM
+Naslovna
+Izborom opcije Naslovna iz glavnog menija otvara se Uvodna strana sa već objašnjenim elementima. Uvodna strana se prikazuje i kada se klikne na taster Poništi u okviru Pretraživača.
+Sadržaj oblasti
+Preko ove funkcije moguće je dobiti šest različita prikaza, u zavisnosti od toga da li je u pretraživaču selektovano Republika Srbija - propisi, Republika Srbija - službena mišljenja, Republika Srbija - sudska praksa, Republika Srbija - modeli akata, Crna Gora - propisi ili Republika Srpska - propisi.
+Selektovanjem Sadržaja oblasti propisa (Republika Srbija, Crna Gora ili Republika Srpska) prikazuje se sadržaj oblasti propisa, koji je podeljen na oblasti i podoblasti, u okviru kojih je dat, iz praktičnih razloga, pregled samo zakona (važećih i nevažećih), a ne i podzakonskih akata. Selektovanjem podoblasti dobijate spisak zakona koji joj pripadaju, odakle izborom (klikom) bilo kog zakona otvarate poslednji prečišćen tekst.
+Ukoliko je selektovan Sadržaj oblasti službenih mišljenja - Republika Srbija prikazuje se sadržaj oblasti službenih mišljenja, koji je podeljen na oblasti koje sadrže zakone i podzakonska akta za koja su nadležna ministarstva donosila službena mišljenja, instrukcije i uputstva.
+Ukoliko je selektovan Sadržaj oblasti sudske prakse - Republika Srbija prikazuje se sadržaj oblasti sudske prakse, u okviru kojeg su navedeni zakoni i drugi propisi o čijim odredbama postoji stav izražen u praksi sudova (kroz presude, rešenja, itd.) ili pravna shvatanja, tumačenja, zaključci i instrukcije sudovima.
+Sadržaj oblasti je samo jedan od načina kako da pristupite određenom propisu, mišljenju, sudskoj praksi ili modelu akta. Osnovni način pristupa propisima, mišljenjima, sudskoj praksi i modelima akata je putem Pretraživača koji je i sačinjen sa ciljem da što brže i tačnije pronađete i koristite određeni dokument.
+O programu
+Klikom na ovu funkciju, dobijaju se informacije o aktuelnoj verziji programa, potrebnoj minimalnoj odnosno optimalnoj računarskoj konfiguraciji, izdavaču i autorima programa.
+Pomoć
+Klikom na taster Pomoć, otvara se ovo Uputstvo o korišćenju programa Ekspert. Pomoć je data u sažetoj formi koja omogućava brzo rešavanje nedoumica vezanih za korišćenje programa.
+Promena lozinke
+Promena boje
+Ova funkcija omogućava prikaz programa u tri ponuđene boje. Klikom na kvadratić u određenoj boji, dobija se željeni prikaz.
+Veličina slova
+Ova funkcija omogućava prikaz programa u četiri ponuđene veličine slova. Klikom na kvadratić / - postiže se povećanje / smanjenje trenutnog prikaza. Klikom na kvadratić " C " poništavaju se zadati parametri i dobija se optimalna (default) veličina slova.
+PRETRAŽIVAČ - Forma za pretraživanje
+Pozivanje određene forme pretraživanja vrši se preko funkcija koje se nalaze na samom vrhu pretraživača. Tačnost i način unošenja podataka u polja Pretraživača direktno uslovljavaju kakve ćete rezultate pretrage dobiti. (Videti sliku)
+PRETRAŽIVAČ PROPISA
+Odabirom određene forme pretraživača (Republika Srbija - propisi, Crna Gora - propisi ili Republika Srpska - propisi) omogućeno je pretraživanje propisa po osnovu pojedinačnih kriterijuma, kao i po osnovu međusobnih ukrštanja zadatih kriterijuma.
+Polje Nađi: (reč, naziv...)
+U ovo polje se unosi tekst (koji može biti pun naziv nekog propisa, deo naziva, reč, skraćenica, naziv obrasca i dr.) koji se pretražuje u dokumentima.
+Prilikom unosa teksta u ovo polje potrebno je obratiti posebnu pažnju, jer od preciznosti unetog teksta zavise i rezultati pretrage.
+- Ako u polju " Pretraži u: " izaberete da se pretraživanje vrši samo u naslovima, dobićete propise koji sadrže ove reči u svom nazivu;
+- Ako naziv stavite pod znake navoda, npr. " Zakon o radu " dobićete precizne rezultate, tj. propise sa identičnim naslovom.
+praznicima
+Propisi u kojima je reč " praznicima " indeks ili se sadrži u njima.
+praznicima državnim
+Propisi u kojima su reči " praznicima " i " državnim " indeksi ili se sadrži u njima. U rezultatima pretraživanja dobićete spisak propisa koji sadrže obe reči, ili svaku pojedinačno, u bilo kom redosledu i na bilo kom mestu.
+bank
+Korišćenje zvezdice u slučaju da ne znate tačan padež, ili da li se radi o jednini ili množini... Kao rezultate pretrage dobićete propise koji sadrže indeks koji počinje sa " bank " ili sadrže reči sa tom osnovom, na primer: " banka ", " bankarski ", " bankarstvo ", " bankama "..
+" poreskom postupku "
+Propisi koji sadrže tačan izraz pod navodnicima.
+PDV
+Kada unesete skraćenicu, kao rezultat pretrage dobićete propise (zakone i podzakonska akta) koji u svom naslovu i / ili tekstu sadrže porez na dodatu vrednost.
+PP OPJ
+Ako unesete naziv obrasca, dobićete listu propisa u kojima se taj obrazac spominje. Pozivanjem odgovarajućeg propisa u meniju propisa nalazi se opcija Obrasci / prilozi. Klikom na nju otvara se tabelarni pregled svih važećih obrazaca koji su propisani tim dokumentom. Obrazac otvarate klikom na naslov traženog obrasca.
+Drugi način na koji možete doći do traženog obrasca je klikom na link PP OPJ u samom tekstu pravilnika.
+Polje Pretraži u
+Program će pretraživati propise koji sadrže pojam unet u polje Nađi u naslovu i tekstu propisa, ukoliko u polju Pretraži u ne izaberete opciju da se pretraga vrši samo u naslovu ili samo u tekstu.
+Opcija Markiranje
+Ukoliko hoćete da pronađeni tekst u propisima bude i posebno obeležen, uključite opciju Markiranje, klikom na kvadratić koji se nalazi ispred reči Markiranje.
+Na primer, ako u polje Nađi: (reč, naziv...) unesete tekst (pod navodnicima): " godišnji odmor ", uključite opciju Markiranje i pritisnete Traži, u Rezultatima pretrage ćete dobiti spisak propisa u kojima se pojavljuje zadati tekst. Izborom npr. Zakona o radu, otvara se tekst ovog propisa gde je u čl. 68 - 76. izraz " godišnji odmor " obeležen (markiran) crveno.
+Polje Oblast
+U ovom polju možete da izaberete jednu od ponuđenih opcija i time odredite da se pretražuje samo određena oblast. Ukoliko ne izaberete nijednu od ponuđenih, pretraga će se vršiti u svim oblastima. Izborom određene oblasti kao rezultati pretrage dobijaju se svi propisi - zakoni i podzakonska akta, koji su svrstani u tu oblast.
+Polje Naziv glasila
+Ukoliko znate u kom glasilu je objavljen propis koji tražite, u ovom polju izaberite odgovarajući naziv glasila. Ako ne odredite da se pretražuje samo izabrano glasilo - pretraga će se vršiti u svim službenim glasilima.
+Polje Broj (glasila)
+Ukoliko Vam je poznat podatak u kom broju službenog glasila je objavljen propis koji tražite, unesite podatak u ovo polje.
+Polje Godina (glasila)
+Ukoliko Vam je poznat podatak koje godine je objavljen propis koji tražite, unesite podatak u ovo polje. Godinu unosite kao dve cifre, npr. 06 (dobićete rezultate iz 2006. godine) ili kao četiri cifre, npr. 2006.
+Ako polja Broj i Godina ostavite prazna, a izabrali ste Naziv glasila pretraga će se vršiti u svim brojevima odabranog glasila.
+Polje Vrsta propisa (zakon, odluka...)
+U ovom polju određujete da li će se propis tražiti među zakonima, uredbama, odlukama, pravilnicima i dr. Program će pretraživati sve vrste propisa ukoliko u ovom polju ne izaberete vrstu propisa koju tražite.
+Polje Dejstvo (na snazi ili ne)
+Program pretražuje propise bez obzira da li su na snazi ili ne, ukoliko izborom jedne od ponuđenih opcija u ovom polju ne definišete da li tražite važeće ili nevažeće propise.
+Polja Propisi objavljeni Od datuma - Do datuma
+Unosom kriterijuma za pretraživanje u ova polja omogućena je pretraga propisa objavljenih u određenom vremenskom periodu " od traženog datuma - do traženog datuma ".
+Pri korišćenju ove opcije potrebno je precizno uneti datum, u formi dd / mm / gggg (npr. 01 / 12 / 2006), u suprotnom će se pojaviti poruka upozorenja da ste uneli neispravan datum.
+Ako ne unesete podatak u polje Do datuma, a uneli ste datum u polje Od datuma, program će pretraživati propise zaključno sa datumom poslednjeg ažuriranja.
+Opcija Pretraži samo Moje propise
+Uključivanjem ove opcije pretraživač će pretragu vršiti samo nad " Mojim propisima ", koji predstavljaju Vašu bazu propisa koju ste kreirali dodavanjem određenih propisa u " Moje propise ".
+Aktiviranje pretraživača - taster Traži
+Kada odredite kriterijume za pretragu propisa, kliknite na bilo koji od tastera Traži, kako bi dobili rezultate koji odgovaraju zadatim kriterijumima.
+Vraćanje pretraživača u početno stanje - taster Poništi
+Pre nego što počnete unos uslova za narednu pretragu, kliknite na taster Poništi kako bi se pretraživač vratio u početno stanje. Ovaj taster služi da ne biste ručno brisali unete podatke ili poništavali odabrane opcije u poljima.
+PRETRAŽIVAČ SLUŽBENIH MIŠLJENJA
+Tekst koji je unet
+Dobijeni rezultati
+prekovremeni rad
+U Rezultatima pretrage se dobijaju službena mišljenja koja u svom naslovu i / ili tekstu sadrže zadati tekst, pojedinačno ili obe reči.
+Ako se tekst stavi pod znake navoda - rezultati su službena mišljenja koja sadrže zadati tekst.
+011 - 00 - 316 / 2007 - 02
+Ako znate tačan broj službenog mišljenja, kao rezultat pretrage pojaviće se službeno mišljenje pod tim brojem.
+Opcija Markiranje
+Polje Donosilac
+Odabirom jednog od donosioca (nadležnih ministarstava) u ovom polju omogućeno je pretraživanje službenih mišljenja samo tog donosioca. Ako se ne odabere nijedna opcija, pretraživač će obraditi službena mišljenja svih donosilaca.
+Polje Oblast
+Polje Zakon
+Selekcijom jednog od ponuđenih zakona omogućeno je pretraživanje službenih mišljenja vezanih samo za taj zakon. Ukoliko ne izaberete nijedan od ponuđenih zakona, pretraga će se vršiti po svim zakonima.
+Polja Dan, Mesec, Godina
+Ova polja služe za određivanje vremenske dimenzije službenih mišljenja. Prilikom unosa možete popuniti i samo jedno od ponuđenih polja.
+Na primer, unošenjem 06 u polje Mesec i 2006 u polje Godina, kao i izborom oblasti Javne nabavke, dobićete sva službena mišljenja vezana za javne nabavke koja je donelo Ministarstvo finansija u junu 2006. godine.
+Skraćenice koje se koriste za donosioce u ovom polju su: USS - Ustavni sud Republike Srbije, ASB - Apelacioni sud u Beogradu, VTS - Viši trgovinski sud, VSS - Vrhovni sud Srbije, ZSS - Zajednička sednica sudova, OKSBG - Okružni sud u Beogradu, OKSJA - Okružni sud u Jagodini, OKSKR - Okružni sud u Kraljevu, OKSNI - Okružni sud u Nišu, OKSNP - Okružni sud u Novom Pazaru, OKSNS - Okružni sud u Novom Sadu, OKSPO - Okružni sud u Požarevcu, OKSSU - Okružni sud u Subotici, OKSUZ - Okružni sud u Užicu, OKSVA - Okružni sud u Valjevu, OKSZA - Okružni sud u Zaječaru, OKSCA - Okružni sud u Čačku, OPS - Opštinski sudovi, SVS - Savezni sud.
+Polje Oblast
+Polje Vrsta dokumenta
+U ovom polju određujete šta ćete od sudske prakse pretraživati: odluke, presude, rešenja,... Program će pretraživati sve vrste dokumenata ukoliko u ovom polju ne odredite konkretnu vrstu dokumenta koju tražite.
+REZULTATI PRETRAGE
+Sadržaj Rezultata pretrage
+Na vhu strane nalaze se funkcije koje je moguće izvršiti nad Rezultatima pretrage: Sortiranje i Štampa.
+Sadržaj Rezultata pretrage počinje informacijom o broju dokumenata (koji, u zavisnosti od izabranog pretraživača, mogu biti: propisi, službena mišljenja, sudska praksa ili modeli akata) koji odgovaraju zadatim uslovima, a zatim sledi spisak dokumenata dobijen na osnovu izabranih kriterijuma za pretragu. (Videti sliku)
+Dokumenti u Rezultatima pretrage mogu biti raspoređeni na više strana. Pokazatelj koji se nalazi na dnu strane daje informaciju o broju postojećih strana, kao i o tome na kojoj strani se trenutno nalazite. Kretanje po stranama omogućeno je klikom na link na broj strane odnosno klikom na linkove " Sledeća strana " i " Prethodna strana ".
+Svaki propis prikazan u Rezultatima pretrage sadrži: naslov, glasilo u kome je objavljen, glasila u kome su objavljeni propisi koji su ga menjali, kao i informaciju o tome da li je važeći ili ne. Prikaz teksta propisa koji vas interesuje dobijate na jedan od sledećih načina:
+klikom na naslov propisa u Rezultatima pretrage otvarate uvek poslednji prečišćen tekst propisa, odnosno izvorni tekst ukoliko propis nije menjan;
+brojevi glasila ispod naslova propisa koji su imali izmenu / e predstavljaju direktan link na propis koji je objavljen u tom glasilu. Klikom na broj glasila, otvara se tekst tog propisa;
+pozicioniranjem kursora na broj glasila u kom je objavljen propis, odnosno njegova izmena / e pojavljuje se " oblačić " sa punim nazivom tog propisa i datumom objave tog glasila. Ukoliko propis nije imao izmene, u " oblačiću " se pojavljuje datum objave glasila;
+kod propisa koji su nevažeći, dodate su reči: " prestao da važi: " iza kojih je izlistan broj glasila u kome je objavljen propis kojim je propisano da prikazani propis prestaje da važi. Klikom na broj glasila, otvara se tekst tog propisa.
+ukoliko su izabrana oba kriterijuma moguće im je zameniti mesta-prioritet aktiviranjem kvadrata sa strelicama levo-desno,
+nakon postavljenih kriterijuma pritisnuti funkciju Sortiraj.
+Nakon ovoga Rezultati pretrage će biti sortirani u skladu sa zadatim kriterijumima, a poništavanje zadatih kriterijuma se vrši preko funkcije Poništi.
+Štampa
+Funkcija Štampa omogućava štampu Rezultata pretrage. Dokumenti u Rezultatima pretrage mogu biti raspoređeni na više strana a funkcija Štampa se odnosi na tekuću stranu. Ukoliko je potrebno odštampati više strana klikom na linkove na dnu strane: " Sledeća strana " i " Prethodna strana ", dolazite do željene strane i pozivom funkcije Štampa štampate tu stranu.
+TEKST PROPISA
+Obeležja propisa
+U gornjem levom uglu prikazanog teksta propisa na ekranu, nalazi se informacija o tome da li je propis VAŽEĆI ili NEVAŽEĆI, a ukoliko je propis imao izmene, kada se nalazite u aktuelnoj verziji, pored te informacije nalazi se i naznaka - POSLEDNJI PREČIŠĆEN TEKST koja označava da su u prikazani tekst integrisane sve propisane izmene propisa od objavljivanja (osnovni tekst) do poslednje izmene (poslednji prečišćen tekst).
+U gornjem desnom uglu istog prikaza nalaze se funkcije Ćirilica i Štampa.
+U donjem desnom uglu prikazanog teksta vidljivo je označeno da li je u pitanju propis Republike Srbije, Crne Gore ili Republike Srpske.
+Hronologija propisa
+Kada je na ekranu prikazan propis koji je imao izmene, u meniju prikazanog dokumenta pojavljuje se funkcija Hronologija propisa. Klikom na ovu funkciju dobija se pregled svih prečišćenih tekstova trenutno prikazanog propisa, kako su nastajali tokom vremena (od osnovnog teksta do aktuelne verzije). Klikom na glasilo dobijate izvorni tekst propisa koji je uticao na izmenu, a klikom na odgovarajući Prečišćen tekst dobijate prečišćen tekst propisa zaključno sa tim izmenama. Pozicioniranjem kursora na reči: " Osnovni tekst " i " Prečišćen tekst " pojavljuje se oblačić sa informacijom o datumu od kada je tekst u primeni. Pozicioniranjem kursora na broj glasila, pojavljuje se " oblačić " sa naslovom propisa, a klikom na broj glasila, otvara se tekst tog propisa.
+Uporedo sa ovim spiskom, u levoj koloni se nalaze linkovi na osnovni tekst i na prečišćene tekstove nastale zaključno sa glasilom izlistanim u desnoj koloni.
+Podzakonska akta
+Ova funkcija će biti dostupna samo ako je na ekranu prikazan propis na osnovu koga su doneta podzakonska akta. Klikom na ovu funkciju, otvara se spisak podzakonskih akata trenutno prikazanog propisa. Klikom na naslov bilo kog od ovih propisa, otvara se poslednji prečišćen tekst tog podzakonskog akta. Spisak podzakonskih akata sadrži kako važeće tako i nevažeće propise.
+U svakom podzakonskom aktu postoji preambula u kojoj je naveden zakonski osnov donošenja tog propisa. Klikom na link (ove) iz preambule otvarate konkretan član ili propis na osnovu koga je određeni podzakonski akt donet.
+Kod propisa na osnovu koga je doneto više od 50 podzakonskih akta (npr. Zakon o radu, Zakon o vladi), radi bolje preglednosti i brže pretrage spiskova tih akata, omogućeno je grupisanje po vrsti propisa:
+- klikom na funkciju Podzakonska akta otvara se strana gde su podzakonska akta grupisana po vrsti propisa: uredba, pravilnik, kolektivni ugovor, odluka... Klikom na znak " " koji se nalazi ispred svake pojedinačne grupe, dobija se prikaz tražene / ih grupa / e. Klikom na znak " - " taj spisak se zatvara;
+- ispod naslova svakog od prikazanih podzakonskih akata pojavljuju se strelice, koje imaju funkciju da vas pomoću jednog " klika " vrate na početak prikazane grupe kojoj taj propis pripada, odnosno da zatvorite prikazanu grupu.
+Obrasci / prilozi
+Ova funkcija je dostupna ako je na ekranu prikazan dokument (uredba, pravilnik, odluka...) kojim je propisan obrazac koji je sastavni deo tog propisa, odnosno prilog u obliku spiska, tabele, slike,... koji su obrađeni u pdf / gif formatu. Klikom na ovu funkciju dobija se tabelarni prikaz koji sadrži informacije o: nazivu obrasca / priloga (skraćenom i punom nazivu), koji ujedno predstavlja link na izabrani obrazac / prilog, tj. možete ga odatle otvoriti, o članu / tački kojima je propisan obrazac / prilog, koji predstavlja link na taj član / tačku, tj. direktno vas pozicionira na taj član / tačku u propisu, i o datumu primene obrasca / priloga.
+Na primer, kada u Pretraživaču propisa u polju Nađi otkucate PP OPJ i kliknete na Traži, u Rezultatima pretrage će se pojaviti kao prvi na spisku Pravilnik o načinu utvrđivanja, plaćanja i evidentiranja poreza po odbitku i o sadržini zbirne poreske prijave o obračunatom i plaćenom porezu po odbitku (" Sl. glasnik RS ", br. 137 / 04, 82 / 06). Kada otvorite ovaj Pravilnik, u meniju postoji opcija Obrasci / prilozi i klikom na ovu opciju otvarate tabelarni pregled svih obrazaca koji su propisani ovim Pravilnikom. U dobijenoj tabeli se nalazi i traženi obrazac PP OPJ, sa punim nazivom, odakle se vidi da je propisan u članu 9. Pravilnika i da se primenjuje od 30.09.2006. godine.
+Na napred opisani način smo obradili one važeće obrasce / priloge koji su najčešće u upotrebi. Sve ostale obrasce / priloge, koji su prestali da se primenjuju ili pripadaju nevažećem propisu, ili koji nisu obrađeni na napred navedeni način, možete pronaći u samom tekstu određenog propisa.
+Sadržaj propisa
+Pozivanjem funkcije Sadržaj propisa koji se nalazi u meniju prikazanog dokumenta, otvara se stranica sa detaljno prikazanim sadržajem konkretnog propisa, koji obuhvata sve nivoe naslova, uključujući i brojeve članova. Klikom na neki od naslova ili broj člana, otvara se tekst istog.
+Modeli akata
+/ - moji propisi
+Ova funkcija omogućava korisniku da kreira sopstvenu bazu propisa. Kada je otvoren tekst propisa koji hoćete da izdvojite, odnosno priključite grupi " Moji propisi ", kliknite na moji propisi. Ukoliko se određeni propis već nalazi u kreiranoj bazi korisnika, pojavljuje se - moji propisi. Klikom na ovu funkciju, propis više neće biti u grupi " Moji propisi ". Ovo je veoma korisna opcija prilikom pretraživanja, gde uključivanjem opcije u Pretraživaču - Pretraži samo moje propise sužavate obuhvatnost pretrage samo na Moje propise.
+Kretanje kroz verzije propisa
+Ukoliko je propis imao izmene, ispod menija prikazanog dokumenta pojavljuje se informacija o broju verzija propisa sa mogućnošću " kretanja " kroz iste. Crvenom bojom označen je broj verzije propisa u kojoj se trenutno nalazite. Klikom na bilo koji od prikazanih brojeva, otvara se tekst tražene verzije propisa. Poslednji prečišćen tekst obuhvata sve izmene propisa od objavljivanja (osnovni tekst) do poslednje izmene (poslednji prečišćen tekst).
+Opcija Ćirilica / Latinica
+Konverzija u ćirilicu omogućena je za propise, službena mišljenja, sudsku praksu i modele akata. Prilikom prikaza bilo kog dokumenta, u gornjem desnom uglu nalazi se funkcija za konverziju u ćirilicu. Klikom na taster Ćirilica dobija se prikaz datog dokumenta u ćiriličnom pismu.
+Štampa
+Klikom na funkciju Štampa, koja se nalazi u gornjem desnom uglu trenutnog prikaza na ekranu, otvara se prozor tražene sadržine. Sam način štampe: broj strana, štampanje selektovanog teksta i dr. određujete u meniju Vašeg Internet browser-a.
+LINKOVI, OBELEŽAVANJE, IZGLED I KRETANJE U PROPISIMA
+Korišćenje linkova ispod naslova propisa
+Ispod naslova propisa nalaze se podaci o brojevima / godinama glasila u kojima su objavljeni osnovni tekst propisa i svi propisi koji su uticali na njegove izmene. Pozicioniranjem kursora na broj / godinu glasila, u " oblačiću " se pojavljuje naslov propisa i datum objave tog glasila. Klikom na broj / godinu glasila otvara se tekst propisa onako kako je objavljen u tom glasilu.
+Kada je propis nevažeći, vidljivo je naznačeno rečima: " PRESTAO DA VAŽI: ", nakon kojih je naveden broj / godina glasila, koji istovremeno predstavlja direktan link na tekst propisa čijim odredbama je regulisan prestanak važenja prikazanog propisa.
+U slučaju kada je propis nevažeći jer mu je istekao period primene, vidljivo je naznačeno rečima: " PRESTAO PERIOD PRIMENE ", koje su navedene u nastavku pobrojanog (ih) broja / godine glasila o objavi i eventualnim izmenama tog propisa.
+Ispod toga, nalaze se podaci o glasilu u kome je objavljena izmena zaključno sa kojom je nastao trenutno prikazan prečišćen tekst i datum početka primene te izmene, kao i lista članova koji su promenjeni tom izmenom. Pozicioniranjem kursora na broj člana pojavljuje se " oblačić " sa informacijom o tome da li je član izmenjen, dodat ili brisan. Klikom na broj člana, odlazite na tekst člana u prečišćenom obliku.
+Korišćenje linkova u okviru propisa sa interaktivnim kretanjem kroz propise
+Interaktivno kretanje kroz propise omogućeno je korišćenjem linkova (veza) u tekstovima dokumenata. Delovi teksta koji predstavljaju linkove su podvučeni i istaknuti drugom bojom. Linkovi se mogu odnositi na veze u samom propisu (pozivanje na neki član istog propisa, što veoma pojednostavljuje rad kod propisa sa velikim brojem članova), kao i na veze ka drugim propisima. (npr. u preambuli podzakonskog akta postoje reference na propise na osnovu kojih je donet podzakonski akt, a koje su istovremeno i linkovi na te propise).
+Pored toga, ukoliko su uz propis ili kao njegov sastavni deo, objavljeni određeni obrasci, prilozi i sl., njihovi nazivi predstavljaju link na iste. Klikom na naziv konkretnog obrasca, priloga i sl., dobija se njegov prikaz.
+Obeležavanje stavova i izgled dokumenta propisa
+Svi stavovi u okviru određenog propisa su numerisani tako da je olakšano praćenje samog propisa. U propisima su jasno obeleženi svi nivoi naslova, postavljeni su tabulatori (uvlačenja) kod nabrajanja (podtačke, alineje i dr.), tako da su tekstovi pregledni i laki za korišćenje.
+Obeležavanje izmenjenih delova teksta u prečišćenom tekstu
+U prečišćene tekstove propisa implementirano je sve što je uticalo na promenu propisa do određenog trenutka. Izmene koje direktno utiču na tekst (izmene, dopune, brisanje određenih odredbi i sl.), integrisane su u sam tekst. Izmene koje utiču na primenu određenih odredbi (vremenski ili sadržinski), označene su i objašnjene Napomenama Ekspert-a koje upućuju (linkom) na propis kojim je izmena propisana.
+Izmene u prečišćenom tekstu u odnosu na prethodni (osnovni ili prethodni prečišćen tekst), obrađene su tako da je tekst koji je promenjen ili dodat označen masnim (bold) slovima.
+Tekst za koji je propisano da se briše - izbrisan je, odnosno ne postoji u prečišćenom tekstu. Ispod članova koji su prestali da važe, naveden je broj glasila u kome je objavljen propis kojim je propisano brisanje, odnosno prestanak važenja člana. Klikom na broj glasila, otvara se propis kojim je taj član prestao da važi. Informaciju o tome kako je član glasio pre brisanja dobijate klikom na ikonu " H " uz član.
+Ikona " H " - hronologija člana
+Uz član koji je pretrpeo izmene i / ili dopune nalazi se ikona (kvadrat sa slovom " H " - hronologija člana). Klikom na istu otvara se hronološki pregled izmena konkretnog člana.
+Hronološki pregled izmena člana propisa sadrži podatke o propisima kojima je promenjen taj član, kao i o tome od kada je u primeni izmenjen (prečišćen) tekst člana. Istovremeno, omogućen je i pregled tekstova člana (osnovnog i prečišćenih) od trenutka kada je prvi put objavljen do njegove poslednje izmene.
+Podaci o hronološkom pregledu izmena člana su u formi tabele. U levoj koloni su naslov propisa i broj glasila u kome je član prvi put objavljen, kao i podaci o propisima koji su uticali na izmenu člana, a uporedo sa tim, u desnoj koloni, su datumi početka primene određenog teksta člana. Klikom na datume u desnoj koloni otvara se tekst člana koji je u primeni od navedenog datuma. Ispod tabele, hronološki slede osnovni tekst člana i prečišćeni tekstovi nastali nakon svake od izmena, sa podatkom o datumu početka primene, tako da se može jasno odrediti kako je član glasio u određenom periodu.
+Omogućena je i štampa tog prikaza, pomoću opcije Štampa u zaglavlju te strane.
+Ikona " M " - službena mišljenja
+Uz član na osnovu koga su doneta određena službena mišljenja nalazi se ikona (kvadrat sa slovom " M " - službeno mišljenje). Klikom na istu otvara se spisak tih službenih mišljenja (sa naslovom mišljenja, oznakom za donosioca, datumom i brojem pod kojim je doneto). Naslovi tih mišljenja predstavljaju direktne linkove na njihove tekstove.
+Odredbe koje nisu ušle u prečišćen tekst
+Odredbe propisa o izmenama i dopunama trenutno prikazanog propisa, koje nisu integrisane u prečišćeni tekst jer ne utiču direktno na sam tekst propisa, izdvojene su i priključene prečišćenom tekstu. Nalaze se na kraju prečišćenog teksta, gde je naveden naziv propisa i broj glasila u kome su objavljene te odredbe. Redosled navedenih odredbi je hronološki, i to od starijih ka novijim.
+Napomene EKSPERT-a
+U određenim slučajevima, postoji potreba za napomenom u vezi sa određenim propisom ili njegovim odredbama.
+Napomene izdavača koje se odnose na tekst u celini ili ih je zbog važnosti bitno istaći, nalaze se iznad početka teksta propisa.
+Napomene izdavača koje se odnose na pojedine delove teksta propisa, obeležene su brojem u uglastim zagradama [ 1 ], gde taj broj predstavlja istovremeno i link na napomene koje se nalaze na kraju teksta propisa.
+Ako određene odredbe ili članovi propisa nisu u primeni od istog datuma kao i propis u celini, pored datuma početka primene propisa, odnosno člana, nalazi se oznaka [ ] koja upućuje na napomenu izdavača.
+Obeležavanje odredbi koje su proglašene neustavnim
+Odredbe određenog propisa koje su odlukom Ustavnog suda proglašene neustavnim, obeležene su u tekstu crvenom bojom. Ove odredbe prati i napomena izdavača koja navodi broj odluke i glasilo u kome je objavljena i upućuje (linkom) na sam tekst odluke.
+DOKUMENTI SLUŽBENIH MIŠLJENJA
+Obeležja dokumenta
+Dokument službenog mišljenja sadrži naslov (temu), naziv donosioca koje ga je dalo, broj, datum i tekst mišljenja. U tekstu mišljenja nalaze se linkovi na propise, odnosno na članove propisa na koje se mišljenje poziva.
+Delovi teksta koji su podvučeni i dati drugom bojom predstavljaju linkove na propise, konkretne članove propisa, druga mišljenja, priloge... koji su navedeni u tekstu službenog mišljenja. Klikom na link otvarate taj dokument.
+/ - moja mišljenja
+DOKUMENTI SUDSKE PRAKSE
+Obeležja dokumenta
+Dokument sudske prakse (odluka, presuda, rešenje, stavovi, shvatanja, zaključci, instrukcije) sadrži naslov (temu), naziv suda (donosilac), ime i broj dokumenta, datum, sentencu i deo iz obrazloženja. U tekstu dokumenta sudske prakse nalaze se linkovi na odredbe zakona i drugih propisa na koje se određeni dokument poziva.
+Izgled dokumenta
+Karakteristike izgleda dokumenata modela akata su: vidljivi borderi (margine), kojim je dokument uokviren, a koji se ne vide prilikom štampe, odnosno kopiranja; obeleženi su svi nivoi naslova; ukoliko je bilo potrebe - numerisani su članovi, označeni stavovi; postavljeni su tabulatori (uvlačenja) kod nabrajanja (podtačke, alineje i dr.), tako da su tekstovi pregledni i laki za korišćenje.
+Svi modeli akata su dati u formi pogodnoj za popunjavanje. Nakon odabira traženog modela akta, klikom na funkciju Štampa možete ga selektovati i kopirati u željeni editor (npr. " Microsoft Office Word "). Polja koja su obeležena sivom bojom i u kojima je tekst prikazan italik (kosim) slovima, označavaju tekst koji je potrebno obrisati i popuniti konkretnim podacima u zavisnosti od potreba korisnika. U pojedinim modelima akata, određena polja, za koja smo smatrali da je potrebno šire obrazloženje, označili smo fusnotama, koje je prilikom popunjavanja tih modela potrebno obrisati.
+NAPOMENE VEZANE ZA OKRUŽENJE PROGRAMA
+Program Ekspert se izvršava u okruženju internet explorer-a, što omogućava i korišćenje nekih dodatnih funkcija u radu sa programom Ekspert.
+Tasteri " Back " i " Forward "
+Za kretanje kroz dokumente mogu se koristiti tasteri " Back " (nazad) i " Forward " (napred).
+Funkcija " Text Size "
+Pored korišćenja funkcije Veličina slova u samom programu, promenu veličine slova možete izvršiti i preko opcije " Text size " iz " View " menija.
+Funkcija " Open link in New Window "
+Prilikom korišćenja programa Ekspert dokumente možete otvoriti u više " prozora " pomoću opcije " Open link in New Window ". Ova opcija Vam omogućava da istovremeno imate otvoreno 2, 3 ili više dokumenata.
+Na primer, trenutno Vas interesuje član zakona uz koji postoje određena službena mišljenja koja takođe želite da pogledate. Jedan način je da klikom na ikonu M " napustite " taj zakon i " pređete " u tražena mišljenja, a drugi je da mišljenja otvorite u novom " prozoru " i tako istovremeno imate pred sobom i tekst zakona i tekst mišljenja. To možete postići pritiskanjem desnog tastera miša na ikonu mišljenja (ili bilo koju drugu ikonu ili link) i selektovanjem opcije " Open link in New Window ".

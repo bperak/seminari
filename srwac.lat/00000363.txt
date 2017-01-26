@@ -1,0 +1,16 @@
+Tražimo PHP programere
+Drage kolege, potrebna nam je vaša pomoć. Zbog povećanja obima posla, potreban nam je PHP programer sa iskustvom. Ako vas zanima na kakvim projektima bi ste radili pogledajte naš portfolio. Rad se odvija u prostorijama firme, međutim rad od kuće je dozvoljen. Ukoliko imate želju da se bavite i programiranjem mobilnih aplikacija, ovaj posao je idealan za vas (native iphone i android, kao i pomoću generatora tipa appcelerator)
+Apsolutno neophodna znanja:
+PHP 5. x
+MySql 5. x
+HTML5
+CSS3.0
+OOP koncept
+MVC kocept
+Poželjno je poznavanje nekog od sledećih framework - a (bar jedan od prva 4 dole navedena wordpress):
+Symfony
+Code Igniter
+CakePHP
+Zend
+WordPress
+Prednost imaju kandidati iz Novog Sada (sa okolinom) i Zrenjanina. Zainteresovani neka pošalju svoj CV na office [ monkey ] e-75.rs. Kontaktiraćemo samo kolege koji uđu u uži izbor. Očekujemo vas

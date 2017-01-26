@@ -1,10 +1,407 @@
-Siemens postiže sveopšti rast u drugom kvartalu 
-Prognoza za rezultat iz redovnog poslovanja je povećana na najmanje 7.5 mlrd EUR 
-U drugom kvartalu fiskalne 2011, Siemens je postigao širok rast i ostvario povećanje novih narudžbi za 28 % u odnosu na isti period prethodne godine. Prihodi su uvećani za 7 %. Svi sektori i regije su doprineli porastu narudžbi i prihoda. Prihodi od redovnog poslovanja su se više nego udvostručil zbog značajnog poboljšanja operativne dobiti i prihoda od prodaje 34 % Siemens-ovog učešća u Areva NP. " Postigli smo izvanredan sveopšti rast narudžbi. Podižemo i procenu rezultata za fiskalnu 2011 godinu na minimum 7.5 mlrd EUR-a, " rekao je Peter Loscher, Predsednik i CEO Siemens-a. 
-Siemens očekuje vitalan rast porudžbina u fiskalnoj 2011. u odnosu na narudžbine od 74.1 mlrd EUR iz redovnog poslovanja u fiskalnoj 2010. Podržana visokim nivoom nefakturisanih narudžbina, kompanija očekuje da se prihod (koji je inače u fiskalnoj 2010. iznosio 69 mlrd EUR od redovnog poslovanja), na nivo održivog jednocifrenog rasta. Nadalje, Siemens predviđa rezultat iz redovnog poslovanja od najmanje 7.5 mlrd EUR. Rezultat iz redovnog poslovanja u fiskalnoj 2010. bio je 4.3 mlrd EUR. Za fiskalnu 2010, narudžbe, prihodi i rezultat iz redovnog poslovanja ne obuhvataju rezultate Osram-a i Siemens IT Solutions and Services, koji se ne smatraju redovnim poslovanjem u fiskalnoj 2011. Ovakva slika isključuje uticaj pravnih i zakonskih pitanja, između ostalog, mogući uticaj tekućeg arbitražnog postupka između Siemens-a i Areva SA. Arbitražni sud će, između ostalog, odlučiti o obimu povećanja ili smanjenja plaćanja Areva-e i do 40 %. 
-U drugom kvartalu fiskalne 2011. nove narudžbe su porasle za 28 %, na 20.7 mlrd EUR. Prihod se popeo za 7 %, na 17.7 mlrd EUR. Rast narudžbina i prihoda se značajno duguje iznad prosečnom rastu u zemljama u razvoju. Book-to-bill racio u drugom kvartalu je iznosio 1.17. Sa 92 mlrd EUR nefakturisanih porudžbina, u svim sektorima, postignut je rekordni nivo u odnosu na prethodni kvartal, uprkos negativnom efektu kursnih razlika. 
-Gore navedene brojke za nove narudžbine, prihod i dobit, ne uključuju Siemens IT Solutions and Services, Osram diviziju. Od drugog kvartala, rezultati ove dve divizije ne spadaju u redovno poslovanje. Kao rezultat toga, odgovarajući podaci za drugi kvartal fiskalne 2010. i prvi kvartal fiskalne 2011. obračunati su na uporedivoj osnovi. Sredinom decembra 2010. Siemens je objavio prodaju Siemens IT Solutions and Services Atos Origin-u. Krajem marta, Siemens je objavio nameru javne ponude Osram divizije za jesen 2011. Kompanija namerava da ubuduće zadrži manjinski akcionarski udeo Osram-a i ostane dugoročan akcionar. 
-U drugom kvartalu fiskalne 2011, sva tri sektora - Industrija, Energija i Medicinska zaštita doprinela su povećanju broja novih narudžbi i prihoda. Sa rekordnih 51 % povećanjem novih narudžbi, sektor energetike je bio vodeći pokretač rasta. Sektor je profitirao od velikog broja narudžbi za elektrane na fosilna goriva, elektrane na pogon vetra i sisteme za prenos električne energije. Prihod sektora energetika se popeo za 8 %. Porast narudžbi u Industrijskom sektoru je takođe dvocifren i iznosi 22 %. Prihod u Industrijskom sektoru porastao je za 9 %. Najveće nove narudžbine realizovane su u domenu industrijske automatizacije, pogonskih tehnologija i saobraćajnih sistema. U sektoru zdravstvene zaštite broj novih narudžbina je porastao za 6 %, dok su prihodi porasli za 5 %. 
-Ukupan profit svih sektora je udvostručen u drugom kvartalu dostigavši 3.7 mlrd EUR, uz najveći doprinos sektora Energetike. Profit sektora energetika od 2,4 mlrd EUR u drugom kvartalu obuhvata 1.5 mlrd EUR profita pre oporezivanja od prodaje 34 % učešća u Areva SA, što je gotovo trostruko više u odnosu na rezultat ostvaren u drugom kvartalu 2010. Zahvaljujući porastu dobiti svih sektora, rezultat iz redovnog poslovanja povećan je za 122 %, na 3.2 mlrd EUR. 
-Rezultat iz poslovanja koje ne spada u redovno u izveštajnom periodu je bio negativan 338 mil EUR. Osram je u drugom kvartalu zabeležio 87 mil EUR neto dobiti zahvaljujući povećanim prihodima u svim poslovnim jedinicama i regijama. Sa druge strane, Siemens IT Solutions and Services, je zabeležio gubitak posle oporezivanja u iznosu 345 mil EUR. Ova brojka uključuje obezvređenja pre poreza u iznosu 464 mil EUR. Siemens-ov neto rezultat je iznosio 2.8 mlrd EUR dok je u uporedivom periodu prethodne godine iznosio 1.5 mlrd EUR. 
-06.05.2011. 
+Osnovni objekti odgovaraju osnovnim kulturnim dobrima. Opisi osnovnih objekata su minimalni u smislu da se osnovni objekti mogu proširivati pri čemu se nasleđuju osobine užih objekata.
+Primer 1. Objekt koji odgovara digitalnom dokumentu u biblioteci može imati izdavača i jezik na kome se izlaže intelektualni sadržaj kulturnog dobra, što nije od značaja za neko likovno kulturno dobro.
+Digitalizovani_dokument je objekat koji odgovara jedinstvenom dokumentu u digitalnom formatu. Digitalizovano_kulturno_dobro je objekat koji odgovara jedinstvenom kulturnom dobru koje je opisano odgovarajućim tekstom u poljima objekta, a može sadržati više identifikatora (pokazivača na) digitalizovanih dokumenata.
+Primer 2. Jedno kulturno dobro, na primer trodimenzionalni objekat, predstavlja se jednim objektom tipa Digitalizovano_kulturno_dobro. To kulturno dobro je, na primer fotografisano sa sve 4 strane. Skenu svake fotografije odgovara jedan objekat tipa Digitalni_dokument, a objekat tipa Digitalizovano_kulturno_dobro sadrži identifikatore sva ta 4 objekta, kao i moguće identifikatore drugih digitalnih reprezentacija originalnog kulturnog dobra.
+Prilikom opisivanja objekta potrebno je koristiti te standardizovane nazive. Homonimi (ista reč, različito značenje) se moraju unositi kao različiti kontrolisani termini.
+Od osnovnih objekata formira se hijerarhija kolekcija koja služi za grupisanje objekata po određenim kriterijumima. Kolekcije su skupovi objekata koji ne moraju biti disjunktni. Kolekcije se mogu formirati i od drugih kolekcija.
+Pri navođenju imena osoba treba voditi računa o jasnom razdvajanju imena i prezimena. Primeri obaveznih imena (kada nema prezimena): neimar Rade, Deli Radivoje. Upisuje se samo kao potpolje ili potpolja. Samo polje Usvojeno_ime ne sadrži tekst
+Naziv
+Usvojeno_ime.ime
+Definicija
+Ime osobe
+Obaveznost upisa
+Ponavljanje podatka u opisu
+Format opisa
+Slobodan tekst
+Linkovi
+Spisak potpolja
+Naziv_srpski
+Ime
+Naziv_engleski
+First name
+Komentar
+Potpolje polja Usvojeno_ime
+Naziv
+Usvojeno_ime.srednje_ime
+Definicija
+Srednje ime osobe
+Obaveznost upisa
+Srednje ime
+Naziv_engleski
+Patronic name
+Komentar
+Potpolje polja Usvojeno_ime, sadrži srednje ime, tj. srednje slovo
+Naziv
+Usvojeno_ime.prezime
+Definicija
+Prezime osobe
+Obaveznost upisa
+Verzija_imena
+Definicija
+Verzija imena osobe
+Obaveznost upisa
+Ako verzija postoji, obavezno je uneti bar jedno od potpolja Ime, Prezime
+Ponavljanje podatka u opisu
+Moguće
+Format opisa
+Slobodan tekst
+Ime, Srednje ime, Prezime
+Naziv_srpski
+Ime
+Naziv_engleski
+Name
+Komentar
+Može postojati više verzija (inačica) imena osobe. Obaveznost unosa potpolja je ista kao kod polja Usvojeno_ime. Upisuje se samo kao potpolje ili potpolja. Samo polje Verzija_imena ne sadrži tekst
+Naziv
+Verzija_imena.ime
+Definicija
+Verzija imena osobe
+Nadimak
+Naziv_engleski
+Nickname
+Komentar
+Polje sadrži nadimak (nadimke) osobe.
+Naziv
+Datum_rođenja
+Definicija
+Datum rođenja osobe, moguće je da nije precizno poznat
+Obaveznost upisa
+Ne
+Ne
+Format opisa
+yyyy [ - mm [ - dd ] ] [ / yyyy [ - mm [ - dd ] ] ]
+Linkovi
+Spisak potpolja
+Naziv_srpski
+Datum rođenja
+Naziv_engleski
+Day of birth
+Komentar
+Ako je poznat tačan datum, navodi se u formatu yyyy-mm-dd, ako se znaju samo godina i mesec unosi se yyyy-mm. Ako se zna samo godina unosi se yyyy. Ako se zna samo opseg u kojem se nalazi datum koristi se / pri čemu za deo zapisa iza crte važe ista pravila kao i za deo pre crte.
+Naziv
+Datum_smrti
+Definicija
+Biografije mogu biti na Internetu, ili u klasičnim izdanjima. Upisuje se samo kao potpolje ili potpolja. Samo polje Link_biografija ne sadrži tekst
+Naziv
+Link_biografija.srpska_biografija
+Definicija
+Povezuje osobu sa raspoloživim biografijama na srpskom
+Obaveznost upisa
+Izvori u vezi sa osobom
+Naziv_engleski
+Resources related to the person
+Komentar
+Izvori mogu biti na Internetu, ili u klasičnim oblicima (knjiga, skulptura, elektronski dokument itd.)
+Naziv
+Slika
+Definicija
+Povezuje osobu sa slikama (portretima)
+Obaveznost upisa
+Ne
+Linkovi
+Spisak potpolja
+Napomena_srpska, Napomena_engleska
+Naziv_srpski
+Napomena
+Naziv_engleski
+Note
+Komentar
+Upisuje se samo kao potpolje ili potpolja. Samo polje Napomena ne sadrži tekst. Ovde je moguće nezavisno zapisati biografiju osobe, nevezano od linkova na biografiju.
+Naziv
+Napomena.napomena_srpska
+Definicija
+Kreator (i) zapisa
+Naziv_engleski
+Record creator (s)
+Komentar
+Moguće je da ima i više kreatora, u kom slučaju se navode kao spisak razdvojen zarezom. Ne ističu se kao osobe koje imaju intelektualni ili neki drugi doprinos u vezi kulturnog dobra. Moguće je navesti ulogu u kreiranju pojedinih delova zapisa. Na primer, napisao je opis ili preveo na engleski itd.
+Naziv
+Vlasnik_zapisa
+Definicija
+Ime vlasnika zapisa
+Obaveznost upisa
+Ne
+Iz podskupa Vlasnici i Institucije, skupa kontrolisanih termina
+Linkovi
+Spisak potpolja
+Naziv_srpski
+Vlasnik zapisa
+Naziv_engleski
+Record owner
+Komentar
+Polje može da sadrži samo predefinisana imena iz skupa kontrolisanih termina.
+Identifikator, Uloga
+Naziv_srpski
+Član
+Naziv_engleski
+Member
+Komentar
+Upisuje se samo kao potpolje ili potpolja. Samo polje Član ne sadrži podatke. Moguće je da nema potrebe za isticianjem članova, u kom slučaju se polje ne piše. Moguće je da ima više članova, u kom slučaju se polje ponavlja. Član može biti pojedinac ili grupa osoba. Primer: član orkestra.
+Naziv
+Član.identifikator
+Definicija
+Identifikator člana ili grupe članova grupe osoba
+Obaveznost upisa
+Potpolje polja Član. Ispisuje se ime osobe ili grupe osoba i linkovi na odgovarajuće objekte.
+Naziv
+Član.uloga
+Definicija
+Uloga člana ili grupe članova u grupi osoba
+Obaveznost upisa
+Širi termin
+Naziv_engleski
+Broader term
+Komentar
+Termin može imati više termina koji ga pojmnovno obuhvataju. Primer: Internet kao šire termine može imati Komunikacije, Računar. Ispisuje se usvojeni oblik termina i link na njega.
+Naziv
+Termin_u_vezi
+Definicija
+Termin koji je povezan po značenju sa terminom koji se opisuje.
+Upisuje se naziv koji odgovara digitalizovanom sadržaju, na primer leva strana predmeta. Upisuje se samo kao potpolje ili potpolja. Samo polje Ime ne sadrži tekst. Obavezno je bar jedno od potpolja.
+Naziv
+Ime.ime_srpsko
+Definicija
+Srpsko ime pridruženo digitalnom dokumentu
+Obaveznost upisa
+Prezentacionu verziju digitalnog dokumenta povezuje sa digitalizovanim kulturnim dobrom koje dokument predstavlja. Moguće je da postoji više digitalizovanih kulturnih dobara koje dokument predstavlja. Na primer, na jednoj fotografiji se nalaze 2 kulturna dobra.
+Naziv
+Napomena
+Definicija
+Format (i) digitalnog dokumenta
+Naziv_engleski
+Digital document format (s)
+Komentar
+U formi slobodnog teksta se navodi format digitalnog dokumenta (standardizovani nazivi formata - tiff, jpg, gif, mpg, mp3; rezolucija audio ili vizuelnog skeniranja, dubina boja itd.). Moguće je da postoji više formata dokumenta koji ulaze u pezentaciju, u kom slučaju se navode redom, razdvojeni zarezom.
+Ako postoji razlika između arhivske i prezentacione verzije digitalnog dokumenta navode se formati i jedne i druge verzije.
+Naziv
+Veličina
+Definicija
+Dimenzije digitalnog dokumenta u bajtima
+Obaveznost upisa
+Ne
+Autorska prava
+Naziv_engleski
+Rights
+Komentar
+Na primer, vlasnik Copyright-a, (nije) dozvoljeno profitabilno korišćenje, korišćenje samo u celini sa napomenom o poreklu itd.
+Lokacija arhivskog digitalnog dokumenta
+Naziv_engleski
+Archive location
+Komentar
+Moguće je da postoji više kipoja arhivske verzije digitalnog dokumenta. Može biti dato kao URL ili URN (universal resource name)
+Naziv
+Vlasnik_digitalnog_dokumenta
+Definicija
+Ime vlasnika dokumenta koji predstavlja digitalizovano kulturno dobro
+Obaveznost upisa
+Ne
+Upisuje se samo kao potpolje ili potpolja. Samo polje Ime ne sadrži tekst. Obavezno je bar jedno od potpolja. Ako je originalno ime kulturnog dobra na savremenom srpskom ili engleskom, upisuje se u potpolje ime_originalno, a ne u ime_srpsko, odnosno u ime_englesko
+Naziv
+Ime.ime_originalno
+Definicija
+Originalno ime kulturnog dobra
+Obaveznost upisa
+Predmetna odrednica
+Naziv_engleski
+Subject
+Komentar
+Predmetne odrednice, odnosno ključne reči iz kontrolisanog rečnika. Može ih biti više.
+Naziv
+Klasifikacija
+Definicija
+Oznaka klasifikacije prema kojoj se vršu klasifikacija originalnog kulturnog dobra
+Objekt može biti proglašen za kulturno dobro, može biti kategorisan i može biti na listi UNESCO. Samo polje ne sadrži podatke.
+Naziv
+Kategorija.Datum_proglašenja
+Definicija
+Datum proglašenja za nacionalno kulturno dobro
+Obaveznost upisa
+Kategorija može biti: nije proglašeno za kulturno dobro, proglašeno ali nekategorisano, od izuzetnog značaja A, od velikog značaja B, od značaja C
+Naziv
+Kategorija. Datum_nacionalne_kategorizacije
+Definicija
+Datum kada je izvršena nacionalna kategorizacija kulturnog dobra
+Obaveznost upisa
+Rešenje o kategorisanju
+Naziv_engleski
+Decision for the national categorization
+Komentar
+Broj rešenja i gde je objavljeno
+Naziv
+Kategorija.Proglašavač_kategorije
+Definicija
+Ko je doneo rešenje prema kome je objekat kategorisan
+Obaveznost upisa
+Ne
+Kategorija, Datum, Rešenje, Proglašavač
+Naziv_srpski
+Internacionalna kategorija kulturnog dobra
+Naziv_engleski
+International category of the cultural monument
+Komentar
+Obavezno se upisuje ako postoji međunarodna kategorija objekta. Kategorija može biti: UNESCO World Heritage List... Samo polje ne sadrži podatke.
+Slobodan tekst, Link na međunarodnu listu u kojoj je objekat kategorisan
+Linkovi
+Spisak potpolja
+Naziv_srpski
+Rešenje o internacionalnom kategorisanju
+Naziv_engleski
+Komentar
+Upisuje se ako je objekat kategorisan, Broj rešenja i gde je objavljeno
+Upisuje se samo kao potpolje ili potpolja. Samo polje Datum_mesto ne sadrži podatke. Moguće je da podaci o datumu i mestu nisi poznati, u kom slučaju se polje ne piše. Moguće je razlikovati datum / mesto nastanka, recimo pisanja kulturnog dobra, i datum / mesto prvog štampanja koji se onda vodi kao datum / mesto verzije kulturnog dobra.
+Naziv
+Datum_mesto.datum_nastanka
+Definicija
+Datum nastanka kulturnog dobra
+Obaveznost upisa
+Kod kulturnih dobara koja se štampaju može se odnositi na mesto nastanka ili mesto štampanja, tj. mesto nastanka štampane verzije dobra.
+Opisuje je se o kakvoj verziji je reč: posebno izdanje, varijanta dela,...
+Naziv
+Datum_mesto.verzija.datum_verzije
+Definicija
+Datum nastanka verzije kulturnog dobra
+Obaveznost upisa
+Naziv dimenzije, fizička dimenzija
+Naziv_srpski
+Dimenzije
+Naziv_engleski
+Dimension
+Komentar
+Odnosi se na originalno kulturno dobro, ne na digitalizovanu reprezentaciju. Upisuje sae kao potpolja. Ako je kulturno dobro elektronsko, onda dimenzija uključuje i memorijsku veličinu.
+Naziv
+Dimenzija.naziv_dimenzije
+Definicija
+Ime dimenzije originalnog kulturnog dobra
+Vrednost fizičke dimenzije
+Naziv_engleski
+Value of dimension
+Komentar
+Naziv
+Materijal
+Definicija
+Materijal od koga je napravljeno originalno kulturno dobro
+Obaveznost upisa
+Materijal
+Naziv_engleski
+Material
+Komentar
+Moguće je da je kulturno dobro sastavljeno od više materijala (recimo kamen i staklo), tako da je polje ponovljivo.
+Naziv
+Tip
+Definicija
+Tip originalnog kulturnor dobra
+Obaveznost upisa
+Da
+Tip
+Naziv_engleski
+Type
+Komentar
+Tip kulturnog dobra treba da je u skladu sa standardnom klasifikacijom. Može biti (tekst, slika, ploča, skulptura, elektronski dokument itd.)
+Širi objekt
+Naziv_engleski
+Broader object
+Komentar
+Objekt može imati više drugih objekata koji ga pojmnovno obuhvataju. Primer: ako je objekt detalj rukopisne knjige, zavisno od organizacije nadređeni objekt može biti stranica i / ili cela knjiga. Ispisuje se naziv objekta i link na njega.
+Tip_veze, Identifikator
+Naziv_srpski
+Objekt u vezi
+Naziv_engleski
+Related object
+Komentar
+Objekt može imati više objekata koji su sa njim u vezi. Tip veze i identifikacija se opisuju potpoljima. Samo polje nema sadržaj.
+Naziv
+Objekt_u_vezi.tip_veze
+Definicija
+Tip veze
+Naziv_engleski
+Type of relation
+Komentar
+Potpolje polja Objekt_u_vezi. Recimo više obrada istog dokumenta, ili druga poglavlja iste knjige.
+Naziv
+Objekt_u_vezi.identifikator
+Definicija
+Upisuje se samo kao potpolje ili potpolja. Samo polje Istorijat ne sadrži tekst. Istorijat se odnosi na samo kulturno dobro, ali je moguće dati i prikaz istorijskih, političkih i drugih uslova u kojima delo nastanje.
+Naziv
+Istorijat. istorijat_srpski
+Definicija
+Istorijat kulturnog dobra na srpskom jeziku
+Obaveznost upisa
+Ne
+Istorijat kulturnog dobra
+Naziv_engleski
+Object s history in serbian
+Komentar
+Potpolje polja Istorijat.
+Naziv
+Istorijat. Istorijat_engleski
+Definicija
+Opis na engleskom jeziku kulturnog dobra
+Obaveznost upisa
+Signatura
+Naziv_engleski
+Source object id
+Komentar
+Polje sadrži oznaku pod kojom je kod vlasnika originalnog kulturnog dobra samo dobro jedinstveno određeno i na osnovu čega može biti locirano. Može biti sastavljena i od više delova, na osnovu načina kojim se u konkretnoj instituciji koriste.
+Naziv
+Bibliografija
+Definicija
+Bibliografija o kulturnom dobru
+Obaveznost upisa
+Ne
+Slobodan tekst, ili link na bibliografski jedinicu
+Linkovi
+Spisak potpolja
+Naziv_srpski
+Bibliografija
+Naziv_engleski
+Bibliography
+Komentar
+Polje sadrži odrednicu na bibliografsku jedinicu o kultuenom dobru
+Naziv
+Napomena
+Definicija
+Daje se za objekte koji su pronađeni tokom istraživanja na terenu. Ponavlja se ako je objekat pronađen na više mesta ili u različitim terminima
+Naziv
+Nalaz. Pronađeni_deo
+Definicija
+Pronađeni deo objekta
+Obaveznost upisa
+Ne
+Deo
+Naziv_engleski
+Part
+Komentar
+Naziv pronađenog dela objekta (ukoliko je objekat pronađen u više navrata) na koji se odnose naredni datum, lokalitet itd.
+Naziv
+Nalaz.Datum
+Definicija
+Datum nalaženja objekta
+Obaveznost upisa
+Ne
+Ime, Ime dela lokaliteta, Koordinate, Mesto, Opština, Region, Država
+Naziv_srpski
+Lokalitet
+Naziv_engleski
+Place
+Komentar
+Naziv
+Nalaz.Lokalitet.Ime
+Definicija
+Ime lokaliteta nalaženja objekta
+Obaveznost upisa
+Ako je lokalitet u samom mestu unose se oba polja (lokalitet.ime, lokalitet.mesto) ili se lokalitet dodatno specificira
+Naziv
+Nalaz.Lokalitet.Ime_dela_lokaliteta
+Definicija
+Ime dela lokaliteta na kome je objekat pronađen
+Obaveznost upisa
+Ne
+Koordinate
+Naziv_engleski
+Coordinates
+Komentar
+Preciznije određuje mesto pronalaženja objekta, recimo podaci iz GPS-a
+Naziv
+Nalaz.Lokalitet.Mesto
+Definicija
+Mesto kod koga se nalazi lokaliteta nalaženja objekta

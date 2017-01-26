@@ -1,5 +1,6 @@
 IPA	IPA	Npfsn
 2009	2009	Mdc
+
 U	u	Sl
 okviru	okvir	Ncmsl
 programa	program	Ncmsg
@@ -38,6 +39,7 @@ I	i	Cc
 ODRŽIVOST	održivost	Ncfsa
 EUROPSKOG	europski	Agpmsgy
 TURIZMA	turizam	Ncmsg
+
 Enterprise	Enterprise	Npfsn
 and	and	Xf
 Industry	Industry	Xf
@@ -223,6 +225,7 @@ od	od	Sg
 TRANSNACIONALNI	transnacionalan	Agpmsny
 PROGRAM	program	Ncmsn
 MEDITERAN	MEDITERAN	Npmsn
+
 Cilj	cilj	Ncmsn
 je	biti	Var3s
 ojačati	ojačati	Vmn
@@ -370,8 +373,9 @@ PHARE	phar	Ncmpa
 
 SME	sme	Agpmsny
 PILOT	pilot	Ncmsn
-GRANT	Grant	Npmsn
-SCHEME	SCHEME	Npmsn
+GRANT	GRAN	Npmsg
+SCHEME	SCHEM	Npmsg
+
 Objavljen	objaviti	Appmsnn
 je	biti	Var3s
 Javni	javan	Agpmsny
@@ -449,6 +453,7 @@ prijave	prijava	Ncfsg
 21.	21.	Mdo
 travanj	travanj	Ncmsn
 2008.	2008.	Mdo
+
 05.	05.	Mdo
 ožujka	ožujak	Ncmsg
 2008.	2008.	Mdo
@@ -497,6 +502,7 @@ i	i	Cc
 Splitsko-dalmatinske	splitsko-dalmatinski	Agpfsgy
 županije	županija	Ncfsg
 .	.	Z
+
 06.	06.	Mdo
 ožujka	ožujak	Ncmsg
 2008.	2008.	Mdo

@@ -1,0 +1,14 @@
+Ko može da registruje. srb domen?
+U periodu od 6 meseci od početka rada. srb domena, pravo na registraciju imaju postojeći vlasnici. rs domena. Moguće je registrovati samo one. srb domene koji su u direktnoj vezi sa vašim. rs domenima.
+Kako da registrujete. srb domen?
+Za svaki postojeci. rs domen možete izabrati samo jedan. srb domen od ponuđenih za registraciju. Ukoliko želite da registrujete neki drugi. srb domen koji nije ponuđen, preporučujemo da registrujete takav isti latinični. rs domen i moći ćete da ga registrujete odmah u. srb domenu. Primer: Ukoliko imate domena wordpress.rs, moći ćete da registrujete besplatno jedan od sledećih domena:
+ljćšordpress.srb
+ljćšordpresš.srb
+ljćšordprešs.srb
+ljćšordprešš.srb
+a ukoliko želite da zakupite vordpres.srb moraćete prvo da registrujete vordpres.rs. Proveru ekvivalentnih. srb domena možete obaviti na ovom linku.
+Imam. rs domen kod AdriaHosta, kako da registrujem. srb domen?
+Imam. rs domen kod drugog registrara, da li mogu kod AdriaHosta da registrujem. srb?
+Ne. Domen. srb možete da registrujete samo kod ovlašćenog registra. rs domena. Ukoliko želite da registrujete. srb domen preko AdriaHosta, potrebno je svoj domen transferujete na AdriaHost.
+Kako da podesim svoj. srb domen u svom cPanelu?
+Prvo je potrebno da prebacite svoj ćirilični domen u punycode, što možete uraditi na ovom linku. Kada dobijete ime domena u punycode obliku, možete ga dodati u svoj cPanel preko opcije Parked Domains ili Addon domains.

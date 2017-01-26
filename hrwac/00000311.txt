@@ -1,0 +1,29 @@
+Izdvojeni radovi
+Catamaran Charter Croatia
+Munio Projekt
+Zlatno Ulje Gulin
+Content Management sustav (CMS) omogućava Vam da samostalno postavljate ili mijenjate sadržaje Vaših web stranica neovisno o tome koliko znate o izradi web stranica i čak uz minimalno opće znanje i služenje računalom. Za rad Vam je dovoljan samo Vaš preglednik web stranica (browser), a to je upravo Vaš Internet Explorer, Firefox, Chrome ili neki drugi program koji upravo i sada koristite kada čitate ovaj tekst.
+Zbog takvog sustava dobivate mogućnost da sami ' održavate ' Vaše stranice i da one uvijek budu aktualne.
+Na taj način svojim kupcima i poslovnim partnerima omogućujete da uvijek dobiju najnovije informacije o Vašoj tvrtki i ponudi, a svoju dostupnost klijentima podižete na višu razinu.
+Jedna od najvećih prednosti je, premda je stranica u startu skuplja od statične stranice na kojoj niste u mogućnosti raditi promjene bez naše pomoći ili Vašeg znanja web dizajna, upravo to što Vam dugoročno smanjuje troškove jer Vam za promjene nismo potrebni ni mi, niti itko drugi.
+Osobine dobrog CMS-a
+web sučelje za administraciju
+online uređivanje sadržaja s vjernim pregledom (WYSIWYG)
+upravljanje s raznim izvoznim formatima
+sustav predložaka (template) u CMS-u
+upravljanje inačicama
+ugrađeno pretraživanje
+podrška za višejezičnost
+sustav prava pristupa zasnovan na ulogama
+upravljanje korisnicima
+sustav tijeka zadataka (workflow system)
+sigurnost CMS-a
+CMS Administracijsko sučelje
+Svojem sučelju za administriranje pristupate preko korisničkog imena i lozinke tako da je ono u potpunosti zaštićeno od neželjenih posjetitelja.
+Unos podataka je za Vas maksimalno pojednostavljen, a svodi se na ispunjavanje unaprijed definiranih stavki (slike i teksta) koje želite mijenjati na svojoj stranici.
+Jednim klikom ' Spremi ' na stranicu postavljate novi sadržaj.
+CMS Korisničko sučelje
+Visoka razina interakcije s korisnicima web stranica danas je ne samo poželjna, nego predstavlja nužnost ukoliko posjetitelje želite zadržati dulje na stranici, a pogotovo ukoliko putem interneta direktno ostvarujete neku dobit ili obavljate prodaju.
+Upravo zbog toga je dobro omogućiti korisnicima komunikaciju s Vama kako biste ih zainteresirali i stupili s njima u kontakt, saznali više o njihovim potrebama, interesima, navikama...
+U tu svrhu možete i njima omogućiti da budu sukreatori Vaših stranica postavljajući na njih sve vrste sadržaja - svoje podatke, pitanja, komentare ili materijale preko korisničkog sučelja.
+Ukoliko se želite informirati ili nam postaviti dodatna pitanja, budite nas slobodni kontaktirati.

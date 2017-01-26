@@ -1,0 +1,23 @@
+Utvrdili smo da Sony paketi baterija koje smo koristili u Toshiba prenosnim računarima izazivaju požar. U zajedničkoj istrazi sa korporacijom Sony, zaključili smo da ćelije baterija u određenim proizvodnim serijama sadrže grešku i da mogu izazvati požar. Odlučili smo se da uvedemo program zamene paketa baterija koji je ograničen samo na specifične proizvodne serije ćelija baterija. U skladu sa preporukama proizvođača baterija, pokrećemo program zamene novih paketa baterija za pakete baterija sa ovom greškom.
+Korisnici čiji Toshiba prenosni računari sadrže ove pakete baterija imaju pravo na besplatnu zamenu paketa baterija.
+Posebno preporučujemo da korisnici odmah uzmu učešća u ovom programu za zamenu novih paketa baterija.
+Paketi baterija u pitanju biće zamenjeni besplatno. Ponuda važi samo za pakete baterija u pitanju i ne podrazumeva zamenu bilo kog Toshiba računara.
+Od vas se zahteva da nam vratite originalni paket baterija radi ispravnog odlaganja u skladu sa primenljivim zakonima o zaštiti životne sredine i drugim zakonima i propisima.
+Bezbednosna uputstva za uklanjanje paketa baterija:
+Ako je vaš paket baterija identifikovan kao paket baterija sa greškom, pogledajte Uputstvo za bezbednost i udobnost i sledite uputstva.
+Dok se paket baterija ne zameni, nastavite da koristite računar sa originalnim adapterom naizmenične struje koji ste dobili sa računarom. Preporučuje se uklanjanje postojećeg paketa baterija. Radi bezbednosti, pre uklanjanja paketa baterija u pitanju iskopčajte izvor napajanja iz Toshiba prenosnog računara, kao i kabl adaptera naizmenične struje.
+Ako koristite paket baterija do zamene:
+Izbegavajte korišćenje paketa baterija u pitanju kada je adapter naizmenične struje povezan.
+(Odnosi se na Toshiba prenosne računare koji se prodaju i distribuiraju preko preduzeća Toshiba Europe GmbH u Evropi, na Bliskom istoku i u Africi.)
+Paketi baterija sa greškom koju je identifikovao proizvođač baterija nalaze se u nekim od sledećih modela Toshiba prenosnih računara. Samo neki ne svi paketi baterija u ovim modelima podležu programu za zameni novih paketa baterija:
+Paketi baterija u ostalim modelima Toshiba prenosnih računara nisu uključeni u ovaj program i ne mogu biti zamenjeni u okviru njega.
+Neki ne svi opcionalni paketi baterija sa sledećim brojevima delova uključeni su u ovaj program:
+Optional Battery Pack
+[ Nije primenljivo ]
+Stanite ovde ako vaš računar nije uključen u program
+Ako se vaš računar na nalazi među modelima na listi iznad i ako nemate neki od opcionalnih paketa baterija navedenih iznad, ovaj program zamene paketa baterija ne odnosi se na vas. Zanemarite ostatak dokumenta i sve ostale materijale o ovom programu zamene novih paketa baterija.
+Ako imate računar ili opcionalni paket baterija sa liste, u ostatku dokumenta objašnjava se kako da definitvno utvrdite da li imate paket baterija sa greškom koji će biti besplatno zamenjen.
+Identifikacija paketa baterija
+Ako imate jedan ili više Toshiba modela ili opcionalni paket baterija sa liste iznad, proverite da li su paketi baterija u pitanju instalirani u računar. Najlakši i najprecizniji način je pomoću Toshiba BatteryCheck uslužnog programa. BatteryCheck uslužni program će identifikovati da li je paket baterija u pitanju instaliran u Toshiba prenosnom računaru. Ako se paket baterija u pitanju identifikuje, uslužni softver će pokrenuti Web pregledač i automatski popuniti obrazac na Web lokaciji Toshiba podrške identifikacionim informacijama o paketu baterija. Od vas će se tražiti da navedete informacije za isporuku i prosledite zahtev za besplatnu zamenu.
+BatteryCheck uslužni program je veoma mali, tako da se može brzo preuzeti. Kliknite na sledeću vezu da biste preuzeli BatteryCheck uslužni program, pokrenite ga i sledite jednostavna uputstva na ekranu.
+Ako ne želite da preuzmete i koristite BatteryCheck uslužni program, možete slediti uputstva u dokumentu Ručna identifikacija paketa baterija da biste vizuelno odredili da li imate paket baterija u pitanju i zapisali naziv modela baterije i serijski broj baterije. Ručni metod zahteva uklanjane paketa baterija iz računara i upoređivanje identifikacionih brojeva na oznaci paketa baterija sa brojevima navedenim u dokumentu Ručna identifikacija paketa baterija. Imajte na umu da vizuelna identifikacija može dovesti do netačnih rezultata. Moguće je da će vizuelnom identifikacijom biti utvrđeno da paket baterija treba zameniti, ali će BatteryCheck uslužni program navesti da zamena nije potrebna. Ako se rezultati ova dva identifikaciona metoda ne podudaraju, smatra se da je rezultat uslužnog programa (a ne vizuelnog metoda) tačan. Preporučeni metod identifikacije paketa baterija je korišćenje uslužnog programa.

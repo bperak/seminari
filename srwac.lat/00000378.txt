@@ -1,0 +1,9 @@
+GreatDomains je sajt na kome mozete prodati svoj domen, ili kupiti neki od ponudjenih domena. Uclanjenje je besplatno.
+Detaljniji opis
+I85.net je sajt koji Vam nudi besplatnu URL redirekciju, bez reklamnih banera i pop-up-a. Vasa adresa ima oblik: imesajta.i85.net. Adresu na koju zelite da se redirekcija vrsi (na kojoj se Vas sajt nalazi) mozete promeniti u svakom trenutku.
+Detaljniji opis
+NameBoy nudi odlican servis za generisanje predloga internet domena na osnovu unetih kljucnih reci. Potrebno je da unesete osnovnu rec koju Vas domen treba da sadrzi (Primary Word), a opciono mozete uneti i drugu rec manjeg prioriteta (Secondary Word). Pored ovoga mozete izabrati jos par opcija, na primer da li u domenu moze da se nadje crtica ili ne, i sl. Na osnovu unetih podataka NameBoy ce Vam dati veliku listu odlicnih predloga za naziv domena, kao i da li je domen zauzet ili ne (zauzetost domena nije bas najtacnija, pa se mora naknadno proveriti).
+Detaljniji opis
+Hn.org je sajt koji besplatno nudi dinamicki DNS servis (Dynamic DNS Services), najcesce koriscen u situacijama kada zelite da Vas kucni kompjuter koristite kao host, ili iz bilo kog drugog razloga zelite da se Vas kompjuter ponasa kao da ima staticku IP adresu, ali zbog koriscenja Dial-Up veze Vasa IP adresa se menja svaki put kada se diskonektujete i ponovo konektujete. Da bi koristili ovaj servis potrebno je da pazljivo procitate veoma opsirna uputstva na samom sajtu, gde cete naci i sve ostale moguce primene ovog servisa.
+Detaljniji opis
+Sedo je sajt na kome mozete prodati ili kupiti vec registrovani domen. Uclanjenje je besplatno, kao i prodaja domena (ne postoji provizija). U njihovoj bazi nalazi se preko 400,000 domena. Oni koji su na vreme registrovali neki zanimljiv domen mogu to unovciti prodajom na ovom sajtu. Sajt pruza i usluge prilikom transfera prodatog ili kupljenog domena.

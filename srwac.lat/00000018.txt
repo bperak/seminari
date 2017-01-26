@@ -1,25 +1,11 @@
-što se tiče električne sigurnosti, sistem centralnog usisavanja je sigurniji, jer do korisnika dolazi samo napon od 12 / 24 V. 
-HIDE-A-HOSE je u zid ugrađena usisna cev sa utičnicom, koja vam omogućava upotrebu centralnog sistema za usisavanje bez posebnog pakovanja usisne cevi. 
-VROOM - sklopivo crevo za usisavanje (dužine 5,5 m), za brzo usisavanje u malom prostoru (npr. kuhinja). Ugrađuje se ispod kuhinjskog pulta, ili u ormar i zbog priručnosti odmah je na raspolaganju. Povlačenjem iz kasete automatski se uključuje centralna jedinica i odmah možete početi sa usisavanjem. 
-Osnovni princip rada centralnih sistema za usisavanje se zasniva na činjenici da centralni usisivač bude montiran van životnog prostora 
-Slikovito rečeno, zamislimo klasičan kućni usisivač koji, razdvojen od creva za usisavanje, radi u nekoj drugoj prostoriji dok mi u tišini usisavamo prostorije gde boravimo. 
-Ne vidimo ga, ne čujemo ga, ne vučemo ga po sobi i stepeništu, ne udišemo neprijatni miris i izduvni vazduh iz motora 
-Centralni usisivač 
-Centralni usisivač se montira u prostorijama van životnog prostora poput podruma, garaža, kotlarnica, ostava, itd. 
-Uredjaj se zatim sistemom specijalnih PVC cevi instaliranih u objekat, povezuje sa strateški postavljenim utičnicama za usisno crevo kojim vršimo usisavanje. Sva prljavština putem cevovoda odlazi do centralnog usisivača u kantu. 
-Širok izbor vakuum utičnica raznih boja i dezena koje se mogu lako uklopiti u Vaš enterijer. 
-U ponudi imamo PVC i metalne utičnice kao i posebne dodatke za kuhinju 
-Lako i jednostavno rukovanje 
-Brzo i lako usisavanje bez buke Visoko kvalitetna creva za usisavanje nudimo u dužinama od 7,5 m do 15 m. 
-Sa pravilno instaliranim utičnicama na strateškim pozicijama i uz adekvatnu dužinu creva, moguće je usisati od 50 do 80 m2 po jednoj utičnici. 
-Creva nudimo u setu sa stalkom i dodatnim nastavcima. 
-DRAINVAC centralni sistem za usisavanje 
-DRAINVAC centralni sistem za usisavanje se gledajući na tehnologiju u grubo, deli na tri različita sistema: 
-suvi sistem kombinovani suvo / vodeni sistem bez odvoda (potrebno pražnjenje sabirne posude) kombinovani sistem sa automatskim odvodom 
-Naravno nije potrebno posebno naglašavati, da je Centralni Sistem za Usisavanje sa automatskim odvodom, koji omogućava istovremeno i mokro usisavanje, daleko najpraktičniji, jer od korisnika ne zahteva nikakvo održavanje, u smislu čišćenja ili pražnjenja sabirne posude. Ukratko, ovaj sistem je najrasprostranjeniji u upotrebi kako u porodičnim, tako u poslovnim i industrijskim objektima. 
-Centralni Sistem za Usisavanje sastoji se od četri zasebne celine: cevni i instalacijski sistem (razveden po objektu) utičnice usisni komplet (kit) usisna jedinica (usisivač) 
-Usisne utičnice Usisne utičnice su ugrađene u zid (zidne utičnice), uobičajeno u visini električnih utičnica, moguće ih je ugraditi prema zahtevu i potrebi naručioca. Utičnice se postavljaju u objektu tako, da je moguće sa prenosnom cevi dosegnuti sve uglove prostorije. Poklopac na utičnici prvo ima estetsku, a druga mu je funkcija zaptivanje, koje omogućava stvaranje podpritiska u sisitemu za usisavanje. Uz zidne utičnice imamo i utičnice koje se koriste kod adaptacija stambenih objekata, u poslovnim i industrijskim objektima, kao i podne utičnice. 
-Usisni kompleti (kit) Usisni komplet sadrži savitljivu rebrastu cev, metalnu ručku sa prekidačem za uklj / isklj, kao i osnovne nastavke za usisavanje (četke raznih oblika i veličina za različite namene). Standardne dužine usisnih cevi su 7,5 m, 9 m, 10,5 m 12 m i 15 m. Nudimo različite palete usisnih kompleta, od kojih nudimo naručiocu najoptimalniji, prema odabranom centralnom sistemu za usisavanje. Za najgrublju upotrebu u najtežim uslovima nudimo posebne usisne komplete od nerdjajućeg čelika. 
-Usisna jedinica (usisivač) Usisna jedinica je sastavljena iz kućišta (sa doživotnom garancijom) i sabirnikom za nečistoće koji se skida. Usisna jedinica pričvršćena je na zid (u pomoćnom prostoru), izlaz vazduha izveden je izvan objekta ili u dimnjak. Za ugradnju vodenog sistema za usisavanje mora biti omogućen dovod vode, a u slučaju automatskog pražnjenja sabirne posude, odvod u kanalazaciju. (najmanje fi 50 mm). Kod odabira usisne jedinice potrebno je poštovati različitosti objekata gde će se primenjivati: broj spratova, željeni broj utičnica, potrebna dužina instalacionih cevi, u svemu vam pomažu naši stručnjaci od same ponudbene faze. 
-Delovanje usisne jedinice Kod instalacije sistema za usisavanje brzina suvih čestica je značajan protivnik kvalitetnom izvođenju cevnih spojeva, zato je preporučljivo postavljanje cevne instalacije poveriti iskusnim instalaterima. Moguće je cevnu instalaciju postaviti u vlastitoj režiji uz uputstvo naših montera, uz uslov da Vam pored savetovanja i nadzora dostavimo potreban materijal. 
-Kod sistema za usisavanje filtriran vazduh sprovodi se izvan objekta, zbog toga je učinak čišćenja 100 %. Nečistoće se mešaju sa vodom i odvode u kanalizaciju, pre odvoda postavljen je plastični filter u cilju sprečavanja odlaska vrednih komada u kanalizaciju. Zbog toga u takvom objektu nema mikro čestica prašine, alergijskih čestica i drugih nevidljivih nečistoća, nema neugodnog mirisa koji ostaje nakon klasičnog usisavanja, istovremeno se celi objekt provetri zbog enormnog protoka vazduha kroz centralni sistem za usisavanje. 
+SQL - POSLOVNA MISIJA
+Odabir softverskog rešenja za praćenje poslovanja je jedna od najtežih poslovnih odluka, čiji su efekti dugoročni i značajno utiču na kvalitet procesa upravljanja preduzećem.
+Prilikom odabira, preduzeća se susreću sa tri faktora, koji se nalaze u međusobnoj sprezi.
+KVALITETNO I BRZO
+Želite kvalitetan softver koji će pratiti poslovanje Vašeg preduzeća? Nemate vremena da čekate da se Vaša organizacija prilagodi softveru, već želite da se softver prilagodi Vama. Ovakav pristup zahteva dodatno angažovanje ljudskih resursa sa naše strane. Naravno, uz ispunjenje cilja.
+JEFTINO I BRZO
+Želite softver koji će pratiti Vaše poslovanje, a nemate vremena ni novca za dug razvoj i implementaciju. Odgovara Vam neko od postojećih rešenja, koji možda ne pokriva sve aspekte Vašeg poslovanja, ali je dovoljno. Rešenje Vam je potrebno brzo, a o dodatnim unapređenjima ćete razmišljati kasnije.
+JEFTINO I KVALITETNO
+Pristup jeftinog i kvalitetnog softvera podrazumeva konzistentno ulaganje manjih iznosa u razvoj softvera, kao i odsustvo pritiska na softversku kuću u pogledu roka isporuke krajnjeg proizvoda. Ovaj način razvoja omogućava da projektanti detaljno upoznaju Vaše poslovne procese i da aplikacija bude u potpunosti prilagođena Vašim potrebama. Ukoliko ne žurite sa implementacijom, i imate postojeći sistem koji može u međuvremenu da radi, ovo je veoma primamljivo rešenje.
+ŠTA ODABRATI?
+Navedene kombinacije su krajnjosti koje se retko javljaju u stvarnom svetu. Vaša odluka se svodi na odabir prave kombinacije kvaliteta, cene i brzine isporuke u dogovoru sa softverskom kućom. Bitno je samo u toku dogovaranja imati na umu ove odnose i pokazati spremnost na popuštanje na jednoj strani kada tražite puno na druge dve.

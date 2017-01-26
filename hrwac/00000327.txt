@@ -1,0 +1,34 @@
+INFIGO IS certificiran prema ISO 27001
+17.04.2009.
+19.3.2009. SGS dodijelio ISO / IEC 27001:2005 certifikat kojim potvrđuje da je INFIGO IS uspješno implementirao sustav za upravljanje informacijskom sigurnošću kojim je pokriveno kompletno poslovanje tvrtke.
+ISO 27001 certifikat potvrđuje ne samo da je tvrtka uvela tehničke kontrole za zaštitu svog IT sustava, već da je uspostavila sveobuhvatni proces zaštite poslovanja kroz procese upravljanja rizikom, kontrole i unapređenja, kojim se štite poslovni procesi i poslovni podaci tvrtke, ali i njenih klijenata.
+Na taj način, uz postojeći ISO 9001 certificirani sustav upravljanja kvalitetom, željeli smo osigurati dodatnu vrijednost našim uslugama i još jednom potvrditi da su nam vaše želje, zahtjevi i naravno sigurnost na prvom mjestu.
+Infigo IS na E-Biz 2009 i na 2. međunarodnoj konferenciji o korporativnoj sigurnosti
+07.04.2009.
+Prošli tjedan tvrtka Infigo IS aktivno je sudjelovala na dvije konferencije.
+Ivana Marijanović je na konferenciji održala predavanje na temu ISO 27001 certifikacija naše iskustvo, u kojem je predstavila način na koji je tvrtka implementirala i certificirala svoj sustav upravljanja informacijskom sigurnošću prema ISO 27001 normi.
+Bojan Ždrnja je na istoj konferenciji održao predavanje na temu korporativne (ne) sigurnosti u Hrvatskoj u kojoj je analizirao aktualne sigurnosne prijetnje i incidente koji su se u Hrvatskim tvrtkama pojavili u prva 3 mjeseca ove godine.
+2. travnja 2009. je u Zagrebu održana 2. međunarodna konferencija o korporativnoj sigurnosti.
+Hrvoje Šegudović je razmatrao korporativnu sigurnost iz aspekta usklađivanja sa zakonskim i normativnim zahtjevima, ukazao na pogrešna očekivanja, utjecaj financijske krize te se osvrnuo na niz sigurnosnih incidenata koji su se dogodili od počekta ove godine.
+Također, tri dana ranije, na polugodišnjem sastanku ITIC grupe u Barceloni, Hrvoje Šegudović održao je prezentaciju u kojoj je dublje razmotren utjecaj financijske krize na informacijsku sigurnost: Financial crisis opportunities for information security consulting companies.
+Održan SANS SEC 504 seminar u Zagrebu
+31.03.2009.
+Od 23. 28. ožujka održan je SANS-ov SEC 504 seminar (Hacker Techniques, Exploits and Incident Handling) u organizaciji SANS-a i tvrtke INFIGO IS. SANS je najveća edukacijska, certifikacijska i istraživačka kuća na području informacijske sigurnosti u svijetu.
+Predavač na šestodnevnom seminaru bio je ekspert s više od 10 godina iskustva na području informacijske sigurnosti te zaposlenik tvrtke INFIGO IS, Bojan Ždrnja.
+SEC 504 je najpopularniji SANS-ov seminar koji polaznicima omogućuje da kroz teoretski i praktični dio steknu iskustvo u pronalaženju sigurnosnih nedostataka i ranjivosti, otkrivanju napada i konačno zaštiti informacijskog sustava.
+Kroz pet dana polaznici su se tako upoznali s metodama i alatima koje upotrebljavaju neovlašteni korisnici da bi šesti dan seminara imali i sami priliku isprobati naučeno kroz praktičnu, cjelodnevnu vježbu.
+Nakon pohađanja seminara polaznicima su u mogućnosti i polagati ispita za stjecanje GIAC Certified Incident Handler (GCIH) certifikata.
+Napadi iskorištavanjem MS09-002 sigurnosne ranjivosti
+20.02.2009.
+Samo tjedan dana nakon što je Microsoft izdao sigurnosnu zakrpu za MS09-002 ranjivost, primijećeni su prvi napadi koji ovu ranjivost iskorištavaju. Iako su napadi provedeni u vidu Word dokumenata koji su poslani elektroničkom poštom, riječ je o sigurnosnoj ranjivosti u Internet Explorer 7 web pregledniku tako da je za očekivati da će se napadi uskoro u potpunosti provoditi preko web stranica.
+Inačica napada koju su analizirali i stručnjaci INFIGO IS na ranjivo računalo instalira trojanski konj koji zatim prikuplja privatne podatke korisnika i šalje ih na udaljeni poslužitelj.
+INFIGO IS upozorava sve klijente na nužnost redovitog instaliranja sigurnosnih zakrpi za sve operacijske sustave, ali i aplikacije koje se koriste. Više informacija o navedenom napadu može se naći na Internet Storm Centru.
+Tvrtke i dalje na udaru Confickera
+16.02.2009.
+Velik broj tvrtki i dalje trpi štete koje proizlaze iz problema u normalnom funkcioniranju prouzrokovanih crvom Conficker (Downup) koji se pojavio u posljednjim danima 2008.
+Procjenjuje se da je crv je u svega nekoliko dana uspio zaraziti više milijuna računala širom svijeta. Činjenica da nakon više od 45 dana od njegove pojave, i nešto kraćeg razdoblja od kad su antivirusni softveri u svoju bazu dodali njegov potpis, u mnogim sustavima crv nije stavljen pod kontrolu govori u prilog tome da je riječ o globalno najozbiljnijem incidentu unazad posljednjih nekoliko godina.
+Stručnjaci INFIGO IS su među prvima u svijetu detaljno analizirali rad crva te u više navrata svojim klijentima pogođenim ovim crvom pomogli pri rješavanju incidentnih situacija i eliminiranju crva iz sustava. Procjenjuje se da je u Hrvatskoj crvom Conficker zaraženo nekoliko desetaka tisuća računala.
+Iz analize programskog koda crva ali i redovitog praćenja zbivanja na Internetu koja su iz dana u dan pokazivali kako dolazi do globalne eskalacije problema, mogu se uočiti dva osnovna razloga za tako brzo širenje i vrlo teškog uklanjanja, pogotovo u većim sustavima.
+S jedne strane, radi se o tehnički vrlo sofisticiranom crvu koji za svoje širenje koristi nekoliko vektora napada: USB medije, mrežne diskove, sigurnosni nedostatak u Windows operacijskim sustavima itd.
+S druge strane, njegovom rapidnom širenju pomogla je činjenica da organizacije još uvijek ne pridaju dovoljno pažnje osnovnim sigurnosnim zahtjevima kao što su redovito osvježavanje antivirusnih programa, instalacija sigurnosnih zakrpi, korištenje složenih zaporki itd.
+Ovaj incident još jednom ukazao da je, bez obzira na određene pomake, informacijska sigurnost u tvrtkama i dalje podcijenjena i su dodatna ulaganja u tehnologiju, ali još više u ljude i uspostavu adekvatnih procesa nužna.

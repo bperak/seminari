@@ -1,0 +1,17 @@
+MojaPlaća je usluga koja je osmišljena od strane Profesia, spol. s r. o. (Slovačka). U kolovozu 2007. Profesia je uvela novu uslugu, Platy.sk (nekada pod nazivom Merces), istraživanje o plaćama s ciljem pružanja infomacija o plaćama posloprimcima i poslodavcima. Kako je MojPosao imao slično istraživanje pod nazivom Istraživanje o visini plaća, odlučili smo udružiti snage u zajednički, regionalni projekt kako bi svojim klijentima i korisnicima omogućili što više korisnih informacija.
+Kome je namjenjena MojaPlaća
+Detaljna analiza plaća i beneficija je dizajnirana za profesionalce koji se bave regrutiranjem i zapošljavanjem: voditeljima ljudskih potencijala, srednjem i top managemantu. Informacije o plaćama i beneficijama na raznim pozicijama su značajne za sve managere koji žele pravedno nagraditi svoje zaposlenike.
+Detalji o prosječnim plaćama na individualnim pozicijama i najčešće beneficije koje se mogu koristiti kako bi se uskladio sustav plaća unutar kompanije.
+Izvor podataka za MojuPlaću
+Izvor podataka na MojaPlaća je informacija dobivena od strane sudionika u instraživanju koji ispunjavaju online upitnike. Valjanost svakog upitnika je godinu dana.
+Svi podaci u istraživanju plaća su anonimni.
+Podaci koje pruža MojaPlaća
+Prije kalkulacija uzorak podataka je pročišćen ". Greške i besmisleni podaci (npr. negativne vrijednosti, ekstremne vrijednosti primjerice mjesečna plaća od 1 HRK itd.) su filtrirane. Nadalje, statistička metoda bazirana na kvartilima pomaže u sprječavanju utjecaja ekstremnih vrijednosti na rezultate.
+Analiza podataka se vrši nakon pročišćavanja prikupljenih podataka.Sa svakom pozicijom izražavamo različite statističke vrijednosti odgovarajuće mjesečne plaće:
+1. decil: desetina zaposlenika zarađuje manje od dane vrijednosti.
+Minimalan broj plaća za objavu rezultata je deset.
+Mjesečne analize plaća uključuju božićni bonus i druge financijske benefite koji su plaćeni tijekom godine. Zbog ovog razloga također uračunavamo medijan božićnog bonusa kao i financijskih benefita kao i udio zaposlenika koji su primili te financijske benefite. Osim financijskih beneficija MojaPlaća također prati i nefinancijske beneficije. Graf prikazuje učestalost dobivanja ovakvih nefinancijskih beneficija.
+Podaci sadržani u izvješću MojaPlaća sadrže i shematski prikaz strukture sudionika istraživanja, prema demografskim karakteristikama.
+Za svaku poziciju istraživanje pruža detaljnu analizu plaća temeljem osnovnih kriterija koje imaju utjecaj na veličinu plaće:
+Ukoliko baza podataka sadrži manje od deset sudionika istraživanja koji odgovaraju zadanim kriterijima, razmatra se širi model. Primjerice, ukoliko nema dovoljno podataka za određenu županiju, razmatra se uzorak za cijelu Hrvatsku. Slična procedura se primjenjuje i na kriterij primarne djelatnosti. Ukoliko postoji premalo podataka za određenu primarnu djelatnost kompanije uzorak je proširen kako bi uključio veće grupe poslovanja.
+Ukoliko korisnik ispuni sve kriterije ali odgovarajući uzorak ne sadrži dovoljno podataka kako bi se statistike objavile, uzorak se prilagođava na sljedeći način: Prvo, oblik vlasništva nad kompanijom je uklonjen. Ukoliko uzorak još uvijek sadrži premalo podataka uklanja se kriterij veličine kompanije. Ukoliko ovaj postupak još uvijek ne daje dovoljno podataka za objavu izostavlja se kriterij primarne djelatnosti. Najvažniji kriterij za utvrđivanje referentnog uzorka, nakon radnog mjesta, je mjesto rada.

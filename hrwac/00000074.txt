@@ -1,44 +1,38 @@
-455. Možete li mi reci nešto o pingvinima, npr. koje vrste postoje, čime se sve mogu hraniti i koja bi vrsta opstala u umjereno kontinentalnoj klimi? Jel ' pingvini mogu biti kućni ljubimci? 
-Pingvini pripadaju razredu ptica, ali ne mogu letjeti, jer su im zakržljala krila no ta ista krila im služe kao peraje pri plivanju tj. ronjenju u moru. Odlični su ronioci i plivači pa im ta vještina određuje jelovnik koji čine ribe i mekušci. Sve vrste se odlikuju bijelim prsima i plavim do crnim leđima. Razlika između mužjaka i ženke nije uočljiva kao kod ostalih ptica. Ukoliko želite pingvina za kućnog ljubimca preporučam prije svega provjeru IUCN-ove crvene liste i liste ugroženih vrsta uz napomenu da je trenutno 12 vrsta pingvina na crvenoj listi i od toga su tri vrste ugrožene, a to su: Eudyptes sclateri, Megadytpes antipodes, Spheniscus mendiculus. 
-Što se tiče vrsta koje bi uspjele preživjeti u umjereno kontinentalnoj klimi, o ledu su ovisni samo adelijski i carski pingvini. Druge vrste mogu opstati u toplijim krajevima, štoviše ostale vrste i žive u umjerenijim klimatskim uvjetima. No, ne treba zaboraviti činjenicu da su pingvini ptice " koje lete u moru " i da zatočeništvo teško podnose Ako tome pridodamo i to da su pingvini na crvenoj listi mislim da s razlogom nećeš moći imati pingvina za ljubimca, ali to neće biti problem, jer ćeš " navijat za slobodne " pingvine. 
-PINGVINI OVISNI O LEDU 
-Prije dvadeset godina Biscoe (mjesto na Antartici) je bio stanište 2800 parova adelijskih pingvina. Ti su pingvini jedna od samo dvije vrste o ledu ovisnih polarnih pingvina (druga su vrsta carski pingvini) koji žive na Antarktici. Njihov se broj sveo na današnjih pukih oko tisuću parova, što je u skladu s istovjetnim 66 - postotnim smanjenjem broja tih pingvina na susjednim otocima, gdje se broj njihovih parova u 30 godina drastično smanjio: s 32.000 parova na samo 11.000 Prebrojavanje je pokazalo da odumiruće adelijske pingvine potiskuju žutonogi pingvini, subarktička vrsta koje je počela migrirati prema Južnom polu iz umjerenijih podneblja, primjerice s Falklandskih otoka. Desetak parova žutonogih pingvina stiglo je na otok Biscoe početkom 1990 - ih. Danas tu živi 660 parova. 
-Ponešto o carskim pigvinima: 
-Na najhladnijem mjestu na svijetu, na antarktičkom ledu gdje temperature mogu pasti i do minus 60 stupnjeva Celzija žive carski pingvini, najveće vrste među pingvinima. Visoki su čak 1,2 metra i teže od 30 do 40 kilograma. Postaju spolno zreli s četiri godine, a žive oko 20 godina. Jedu račiće, ribe i lignje. 
-Carski pingvini se razmnožavaju u ranu zimu po ledenjacima koji okružuju Antarktiku. Procjenjuje se da tamo živi oko 200.000 parova. Nakon parenja, ženka liježe jedno veliko jaje, nakon čega brigu oko jaja preuzima mužjak koji sjedi na jajetu tj. grije ga svojom krznenom masom. 
-Nije mu lako, kao ni drugim pingvinima koji griju jaja. Zajedno stoje u grupi oko devet tjedana tj. malo više od dva mjeseca, na snijegu, ledu i vjetru. Glavna im je briga da jaje bude na toplom. Dok tako čekaju, izgube čak polovicu svoje tjelesne težine jer ništa ne jedu. Dotle uče o odricanju, gladi i - roditeljstvu te s nestrpljenjem isčekuju svoje pingvinice da se vrate. 
-Ženke se dotle vraćaju na otvoreno more kako bi se hranile, ne iz sebičnih razloga, već zato da skupe kalorije i snage da se, kad se vrate, mogu brinuti za mladunce. Kad se vrate, preuzimaju brigu za novorođenčad, a mužjaci na neko vrijeme odlaze na otvoreno more u potrazi za hranom, ali se vraćaju i zajedno s ženkama brinu za potomke. 
-Ženke svojim tijelom griju mališane i hrane ih hranom iz pričuva u svom želucu. Nakon sedam tjedana mladi se počinju i samostalnije kretati, druže se međusobno i stišću jedan uz drugoga radi zaštite i topline. Roditelji ih, naravno, i dalje hrane. 
-Kako mladunci pingvina raspoznaju svoje roditelje? Po zvukovima, tj. glasanju. Sa šest mjeseci mali pingvinići su već kršni momci i odlaze na otvoreno more u nove pustolovine. Na Antarktici počinje ljetno razdoblje (to znači da nije tako strašno hladno). Ako djeluju zdepasto i jako debelo, upravo je oblik tijela, takav kakav je, jako važan za carske pingvine. Imaju kratka krila (ne mogu letjeti) koja im u vodi služe kao super peraje, uz pomoć kojih mogu roniti i do 280 metra dubine kako bi uhvatili i veću ribu. 
-Mogu plivati 10 do 15 kilometara na sat pa uglavnom pobjegnu pred svojim neprijateljima - tuljanima - koji su zabrijali da su pingvini zapravo velike ribe Nažalost, ne uspiju pobjeći uvijek svi pingvini... Pingvinima zapravo nije hladno unatoč ledenici u kojoj žive. Grije ih debeo sloj kože, dva sloja perja i mnogo ulja u tijelu... 
-KLASIFIKACIJA PINGVINA: 
-Razred Aves (ptice) 
-Red Sphenisciformes (pingvini) 
-Porodica Spheniscidae (pingvinke) 
-Rod Aptenodytes 
-Vrsta Aptenodytes forsteri 
-Vrsta Aptenodytes patagonicus 
-Rod Eudyptes 
-Vrsta Eudyptes chrysocome 
-Vrsta Eudyptes chrysolophu s 
-Vrsta Eudyptes crestatus 
-Vrsta Eudyptes pachyrhynchus 
-Vrsta Eudyptes robustus 
-Vrsta Eudyptes schlegeli 
-Vrsta Eudyptes sclateri 
-Rod Eudyptula 
-Vrsta Eudyptula albosignata 
-Vrsta Eudyptula minor 
-Rod Megadyptes 
-Vrsta Megadyptes antipodes 
-Rod Pygoscelis 
-Vrsta Pygoscelis adeliae 
-Vrsta Pygoscelis antarctica 
-Vrsta Pygoscelis papua 
-Rod Spheniscus 
-Vrsta Spheniscus demersus 
-Vrsta Spheniscus humboldti 
-Vrsta Spheniscus magellanicus 
-Vrsta Spheniscus mendiculus 
-Literatura: 
-Feduccia, A. 1999. The Origin and Evolution of Birds, 2 nd edition. Yale University Press, New Haven. 
+Na priredbi borilačkog sporta ' Oluja u ringu 3 ', u organizaciji njegova Pit Bulla, Radnić je u Hvaru odlukom sudaca 3:0 savladao Bruna Franchija i vratio pojas WAKO PRO prvaka svijeta po K1 pravilima u polusrednjoj kategoriji (do 71,8 kilogram) koji mu je ovaj bio oduzeo već u prvoj obrani, u lipnju.
+Podsjetimo, Radnić je vlasnik pojasa postao u travnju, u Beču, svladavši Foada Sadeghija da bi dva mjeseca kasnije izgubio od Talijana Franchija odlukom sudaca. Željan uzvrata titulu je napao unatoč činjenici da je doživio prometnu nesreću, pao je s motora, što ga je spriječilo da pripreme odradi kako treba i bude sto posto spreman. Ipak, to se u ringu u Hvaru nije osjetilo. Radnić je od prvog do posljednjeg gonga bio dominantniji. Kontrirao je Talijanu, vješto izbjegavao njegove nalete, a na koncu ga i pošteno namlatio. U četvrtoj rundi Frane je raskrvario protivnika, curio mu je nos, pa su do kraja meča obojica bila zamazana krvlju, no Radnić je prošao bez posjekotine.
+- " Bio sam bolji i zasluženo osvojio naslov, ali nisam bio sto posto spreman. " - kazao je nakon meča Radnić.
+Frane se plasirao i na završni ovogodišnji turnir K-1 boraca Europske lige Collizion koji će se u održat u prosincu Europska liga Collizion okuplja najjače K-1 europske promotore, te se koristi kao karta za Japan
+Uz sve to nemojmo zaboraviti na čovjeka koji stoji iza Frane a to je Marko Žaja - predsjednik za tajlandski boks, savate i slobodnu borbu te sportski direktor svih klubova. Od svog osnutka prije 14 godina " PitBull " bilježi mnoge značajne uspjehe na brojnim nacionalnim i međunarodnim borilačkim natjecanjima i turnirima, Žaja je osnivač i uspješni borac iz vremena klupskih početaka, a danas jednako uspješni sportski direktor i trener u klubu.
+" ARENA " Zagreb
+Zaštitari Bilić-Erić " a su od prvoga dana početka radova na projektu Arena Zagreb zaduženi za osiguranje objekta, bio je to dugotrajan I delikatan proces izgradnje koji je prošao u najboljem redu. Nakon završetka radova na Areni Zagreb, ljepotica je bila spremna za svoju svrhu, te je ugostila najbolje rukometaše svijeta za čiju su se sigurnost brinuli naši zaštitari.
+Arena Zagreb je naziv za višenamjensku dvoranu s pratećim sadržajima, predviđenu za održavanje sportskih, kulturnih, poslovnih i zabavnih manifestacija. Smještena je na zapadnom ulazu u grad Zagreb u naselju Lanište. Grad Zagreb i Vlada Republike Hrvatske raspisali su natječaj za izgradnju sportske dvorane koja bi ujedno bila i domaćin za Svjetsko rukometno prvenstvo u siječnju 2009. godine. Kapacitet dvorane iznosi 15.200 sjedećih mjesta, odnosno 20.000 za potrebe održavanja koncerata.
+Sportska događanja za koje je predviđena Arena Zagreb su rukomet, košarka, odbojka, mali nogomet, tenis, stolni tenis, gimnastika, badminton, boks, hrvanje, dvoranska atletika i ostali dvoranski sportovi. Također, omogućeno je i održavanje različitih koncerata, izložbi, sajmova, konvencija i kongresa. Osim navedenog, unutar građevine smješteni su i popratni ugostiteljski, poslovno-komercijalni sadržaji, kao i mala dvorana za trening sportaša.
+Arena koncerti - Uspješno odrađeni projekti naših zaštitara::
+Svjetsko rukometno prvenstvo 2009.
+Prljavo kazalište
+Beyonce
+Mišo Kovač
+Toni Cetinski
+Londonska Filharmonija
+Organizacija i zaštita tijekom Don King ovog boravka u Zagrebu
+Don King je najutjecajnija ličnost u svijetu profesionalnog profesionalnog boksa u posljednjih 30 godina.
+Bio je promotor najvećih boksača na svijetu - Muhammada Alija, Joea Fraziera, Georgea Foremana, Mikea Tysona, " Sugar " Ray Leonarda. Trenutno se brine o karijerama trojice svjetskih prvaka u teškoj kategoriji. To su John Ruiz (WBA), Chris Byrd (IBF) i Lamon Brewster (WBO).
+Proslavio se 1974. kada je u Kinshasi (DR Kongo, bivši Zair) organizirao legendarni dvoboj Muhammada Alija i Georgea Foremana, koji je bio poznat po sloganu " Rumble in the Jungle ". Bio je to prvi boksački meč u povijesti kojeg je putem tv prijenosa vidjelo više od milijardu ljudi.
+Razlog njegovog dolaska u Hrvatsku je karijera hrvatskog teškaša Marija Preskara.
+Don King je u hotelu Sheraton održao konferenciju za novinare. Svi događaji kojima je bio nazočan Don King su pomno isplanirani od strane stručnjaka iz tvrtke Bilić-Erić security i njegovog bodyguard tima. Bila je to jedna lijepa međunarodna suradnja.
+SAMSUNG NATIONS CUP
+Zaštitari Bilić-Erić a iz godine u godinu brinu se za sigurnost natjecatelja i posjetitelja Zagrebačkog hipodroma. Rezultat tome je obostrano zadovoljstvo sudionika prestižnog konjičkog natjecanja za Svjetski kup.
+Ovo prestižno konjičko natjecanje za Svjetski kup najviše međunarodne kategorije C. S. I. O. - W - (Concours de Saut International Officiel) održava se na Hipodromu Zagreb kao natjecanje za Svjetski kup u individualnoj kategoriji (World Cup) i natjecanje za Svjetski kup nacija (Samsung Nations Cup).
+Zahvaljujući Međunarodnom konjičkom turniru, naša zemlja i grad Zagreb, uvršteni su u samo središte svjetskih konjičkih zbivanja, jer samo 26 zemalja u svijetu ima čast održavati natjecanja za Svjetski kup u toj najvišoj kategoriji.
+Hrvatska konjička reprezentacija, iz godine u godinu, sve se češće pojavljuje na velikim međunarodnim natjecanjima. Na taj način, ona sebi s jedne strane otvara put za ulaz među svjetsku konjičku elitu, a s druge, tu istu elitu dovodi u Hrvatsku.
+Ana Kournikova
+Najatraktivnija tenisačica svijeta, Ruskinja Ana Kournikova, nastupila je na WTA turniru u Bolu na Braču, na kojem je nagradni fond bio 170,000 USD atraktivna Ruskinja bila je najveća zvijezda izdanja Croatian Bol Ladies Open turnira. Tijekom njezinog boravka od trenutka kada je stupila na hrvatsko tlo u zračnoj luci, za njezinu sigurnost bili su zaduženi zaštitari Bilić-Erića.
+" naslov u svim novinama "
+Odlično organiziran koncert Beyonce rasplesao Zagreb
+Prepunu arenu u euforiji trebalo je koordinirano i taktički osigurati od neželjenih posljedica gužve, što su zaštitari i redari Bilić-Erića profesionalno odradili i time još jednom dokazali da su sposobni upravljati velikim brojem ljudi. " Dečki su odlični " bile su riječi posjetitelja Arene.
+Spektakl kakav u Zagrebu dugo nije viđen priredila je svojim obožavateljima Beyonce nastupom u Areni.
+Nakon jednog od pet ili šest presvlačenja Beyonce je završila pod krovom dvorane na trapezu, što je uz odlično dizajniranu rasvjetu izazvalo pravu pomamu, pogotovo činjenica da se spustila na otočić među fanovima i tamo odradila sljedeće tri pjesme, komunicirajući direktno s publikom.
+Ne treba zanemariti niti policiju koja je odradila sjajan posao oko dvorane, jer je promet tekao bez prevelikih zastoja i uz velik broj prometnika koji su pomagali vozačima da se što prije maknu s parkinga. Ispit je položila i Lupa i Arena, tako da se Depeche Mode može čekati s nestrpljenjem.
+Boksački klub " Sesvete "
+Boksački klub Sesvete krenuo je sa radom 14.04.2008. godine, pod vodstvom trenera Bone Bošnjaka, i u gotovo samo godinu dana rada može se pohvaliti sa jedanaest državnih reprezentativaca, od toga šest državnih prvaka i pet viceprvaka, te pet boksača koji su uzeli brončane medalje na državnom prvenstvu.
+U ovom trenutku, slovi kao najbolji klub u Hrvatskoj u kategoriji kadeta, drugi je najbolji u kategoriji juniora, te treći u kategoriji seniora. Uzimajući u obzir navedeno, nijedan klub u povijesti hrvatskog boksa nije ostvario takve rezulate u svom samom početku.

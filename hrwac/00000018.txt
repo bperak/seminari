@@ -1,7 +1,32 @@
-Preporuke 
-Heraklea 
-Kao klijent koji naručuje prijevod, očekujemo odnosno podrazumijevamo i uopće ne sumnjamo u stručnost samog prijevoda. No, ono što čini razliku od agencije do agencije za prevođenje i općenito od poduzeća do poduzeća jest upravo kvaliteta usluge. Ono što nas je oduševilo tijekom korištenja usluga simultanog prevođenja na 6. Mystery shopping danu jesu ljubaznost i proaktivnost angažirane djelatnice. Iskreno se zanimala za naše poslovanje, od prvog trenutka je nastojala odraditi posao najbolje što je mogla, a sve prezentacije koje smo joj prethodno dostavili čak je i pismeno prevela. Dodatno, svega par sati nakon završetka događaja stigao je i upit iz Increatusa o našem zadovoljstvu. 
-Portal Quantum21.net je internet portal koji donosi novu znanost i umjetnost vođenja sa željom unapređenja života i rada u hrvatskim kompanijama i institucijama, a ponajviše načina na koji se istima vodi i upravlja. Portal se povezao sa vodećim svjetskim izvorima znanja o vođenju i managementu i učinio ga dostupnim široj javnosti na hrvatskom jeziku. 
-qLife je kvartalni stručni časopis za liderstvo i organizacijski razvoj koji se ostvaruje u suradnju portala Quantum21.net, Cotrugli Business Schoola i Business.hr-a. Jedinstven je izvor znanja liderima i managerima na svim organizacijskim razinama u poslovnom, javnom i neprofitnom sektoru. U časopisu se objavljuju mudre izreke i promišljanja vodećih svjetskih stručnjaka koje pomažu izgradnji zdravog društva i konkurentnog gospodarstva. Više informacija možete pronaći na www.quantum21.net 
-Ivančica d. d. Izuzetno smo zadovoljni kvalitetom i brzinom pruženih usluga prevođenja tvrtke Increatus. Ono što ovu agenciju za prevođenje čini drugačijim od ostalih jesu visoka razina stručnosti, brzina, te prije svega dostupnost u svakom trenutku. Kao tvrtka koja svoj brand FRODDO izvozi velikim dijelom i na inozemna tržišta, želimo svoje internet stranice i sve informacije koje se na njima nalaze učiniti razumljivima svim našim distributerima i krajnjim potrošačima van granica Hrvatske. Oduševila nas je velika pomoć kod odabira slogana, gdje nam je tvrtka Increatus pomogla ne samo stručnim prijevodom, već i prilagodbom slogana različitim govornim područjima, što ga je učinilo razumljivim i prihvatljivim diljem Europe, ali i svijeta. 
-" Nisam dovoljno bogat da kupujem jeftino " ili " U laži su kratke noge " Na našoj web stranici uskoro pročitajte članak pod nazivom " Nisam dovoljno bogat da kupujem jeftino " koji će vam otkriti kako u mnoštvu agencija za prevođenje prepoznati i odabrati baš onu koja poznaje i poštuje standarde prevođenja u kojoj ćete doista dobiti uslugu kakvu tražite, kvalitetnu, brzu i profesionalnu. Ä lanak će vam pojasniti zašto je bitno odabrati provjerenu agenciju za prevođenje koja ima reputaciju na tržištu, dobre reference i koju vode profesionalci. Takva će vam agencija nakon naručenog prijevoda postati dugogodišnji poslovni partner kojemu ćete moći vjerovati i na kojega ćete se uvijek moći osloniti. Ispričati ćemo vam kako je nama to uspjelo. Daniela Vujević, MBA Ovlašteni sudski tumač za engleski jezik Direktor Increatus d. o. o. 
+FAQ
+1. Koja konfiguracija je potrebna za rad aplikacija iz sustava Smartrješenja?
+Za rad aplikacija potrebno je imati bilo koju konfiguraciju koja podržava rad najmanje Windows XP operativnog sustava. Poželjno je posjedovati barem 512 MB radne memorije.
+2. Je li podržan rad na Windows Vista i Windows 7 operativnim sustavima?
+Da. Aplikacija pouzdano radi na svim operativnim sustavima od Windows XP na dalje.
+3. Mogu li jednostavno prebaciti podatke iz starijih verzija GastroOffice aplikacija u novi SmartOffice?
+Da. Postoji prodedura koja iz Vaše stare baze podataka prebacuje sve matične podatke, kao i promete, dokumente i sl.
+4. Podržava li ugostiteljska verzija SmartOffice aplikacije rad s trgovačkim artiklima?
+Podržava. Svi dokumenti potrebni za rad s trgovačkim artiklima u ugostiteljstvu, sastavni su dio ugostiteljske licence.
+5. Imam više prodajnih mjesta. Mogu li objediniti podatke iz svih lokacija na jednom mjestu?
+Možete.Sve podatke iz udaljenih lokacija, automatski je moguće slati u centralnu bazu korištenjem FTP servera i bez obzira na na vrstu veze prema internetu. Ukoliko ne posjedujete vezu prema internetu, podatke je moguće i ručno prebaciti preko bilo kojega medija (disketa, memory stick, CD...)
+6. Mogu li podatke iz SmartOffice aplikacije otvoriti u Excelu ili prebaciti u PDF?
+Da. Svi podaci mogu se ispisati, pretvoriti u PDF, Excel, ili neki drugi format.
+7. Imam dva šanka i dvije kase. Mogu li dio artikala naručenih na jednoj kasi ispisati na jednom, a ostale na drugom šanku?
+Možete. Printer za narudžbe definira se za svaki artikl i svako naplatno mjesto posebno, bez obzira radi li se o kasi ili ORDERMAN terminalu.
+8. Mogu li podijeliti iznos računa na dva gosta?
+Da. Svaki račun moguće je djelomično naplatiti.
+9. Mogu li znati kada je narudžba završena ili koliko treba do završetka narudžbe?
+Ukoliko posjedujete SmartCook aplikaciju, možete u svakom trenutku znati status bilo koje narudžbe, te iste podatke vidjeti i na kasi i na ORDERMAN terminalu.
+10. Imam dnevnu ponudu jela koja se priprema ujutro. Može li konobar znati koliko je pripremljenih jela ostalo i koja su prodana?
+Za tu funkciju potrebna je SmartCook aplikacija preko koje se definiraju pripremljena jela i može se pratiti preostalo stanje.
+11. Mogu li povezati ORDERMAN terminale koje koristim na nekoj drugoj aplikaciji sa Smart aplikacijama?
+Da. Ukoliko posjedujete ORDERMAN terminale, potrebno je samo postaviti SmartOrder aplikaciju koja se ne naplaćuje, te će te moći koristiti postojeće terminale.
+12. Ako napravim narudžbu na ORDERMAN terminalu, mogu li ispisati račun na kasi ili mora biti ispisan na ORDERMAN-u?
+Možete. Sve narudžbe nalaze se na jednom mjestu i vidljive su na kasi i na Ordermanu, bez obzira gdje su napravljene.
+13. Mogu li koristiti bar-code na kutiji a da ne moram otvarati kutiju da bi naplatio artikl?
+14. Mogu li račun naplatiti dijelom u gotovini a djelom na karticu?
+Da. Možete definirati bazu podataka, pratiti kupce po potrošnji te dodjeljivati različite vrste bonusa, posebne cijene i sl.
+16. Mogu li definirati posebne cijene u određenom trenutku, tzv. happy hour?
+Možete. Happy hour može funkcionirati automatskim aktiviranjem u određenom trenutku ili ručnim aktiviranjem po želji. Moguće je definirati različite vrste happy hour-a, kako za sve artikle, grupu artiklala i samo određene artikle.
+17. Mora li konobar naplatiti sve svoje račune prilikom predaje smjene?
+Ne mora. U aplikaciji postoji funkcija prebacivanja stola na drugoga konobara, kako se ne bi moralo prekidati gosta u konzumaciji.

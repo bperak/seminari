@@ -1,0 +1,47 @@
+Da bi se nadogradnja ispravno izvršila potrebni su ispunjeni određeni preduvjeti (najčešće jesu, no vrijedi provjeriti):
+Iz glavnog izbornika odaberite Šifarnici i postavke
+Odaberite odjeljak E-mail Ftp
+Provjerite da su tamo upisani svi podaci:
+Adresa pošiljatelja to je Vaš e-mail
+Smtp server to je server firme koja vam pruža uslugu spajanja na Internet obično su to sljedeći serveri:
+mail.t-com.hr (ako spajanje na Internet ide preko T-coma)
+mail.vip.hr (ako se spajate preko Vipa)
+mail.iskon.hr (za Iskon korisnike)
+mail.tele2.hr (za Tele2 korisnike)
+mail.optinet.hr (za Optima korisnike)
+mail.cmu.carnet.hr (Carnet korisnici)
+mailmetronet.hr (Metronet korisnici)
+ili neki drugi
+ftp korisničko ime: programi.sokoli.hr
+ftp lozinka:
+ftp broj priključka: 21
+ftp broj kase: nije bitno ako ne koristite
+Zaglavlje gotovinskih računa važno da popunite iako ne koristite, ne smije ostati prazno
+Ako ste nadopunjavali neke od gore navedenih podataka potrebno je izaći iz programa i ponovno ući da bi te izmjene postale aktivne. Ovo gore navedeno potrebno je odraditi samo prvi puta.
+Postupak nadogradnje programa:
+Važno: Ako program koristite u računalnoj mreži na više računala, potrebno ga je preuzeti i usnimiti SAMO na serveru Za vrijeme nadogradnje programa sa svih računala se mora izaći iz programa do kraja
+Automatski kreće provjera ima li na Internetu novija inačica programa od ove koju sada koristite, uspoređuju se inačica na Internetu i Vaša
+Ako je na Internetu pronađena novija inačica program Vam nudi da prvo pročitate što je novo u novoj inačici, možete i ne morate, kako želite
+Ako je pronađena novija inačica, nudi se preuzimanje i pokretanje usnimavanja.
+Za vrijeme preuzimanja potrebno je čekati i ništa ne dirati u programu
+Kada se preuzimanje završi, program će se sam zatvoriti i pokreće se program za usnimavanje nove inačice programa
+Pratimo upute na ekranu za dovršetak usnimavanja, kada se pojavio dio za ubacivanje dodatnih programa, možemo ga preskočiti jer su oni već ubačeni u program (to je potrebno poklikati samo ako se program prvi puta usnimava, kasnije više nije)
+Kada se usnimavanje novije inačice završi, pokrenemo program, automatski se ažuriraju postojeći podaci. U slučaju bilo kakvih grešaka, provjerite niže nevedene mogućnosti grešaka, te ako ne riješite uz pomoć ovih uputa, javite nam se.
+To je to
+Mogući problemi pri usnimavanju novije inačice i rješenja za iste:
+Ne pokreće se provjera novije inačice javlja da nije moguće provjeriti podatke
+Provjerite da li ste ispunili sve preduvjete koji su potrebni za usnimavanje
+Provjerite vezu sa internetom
+Provjerite da Vaš protuvirusni program ne blokira naš program
+Program javlja Čudna tablica ta i ta
+Potvrdite mišem u natpis gdje se to javlja,
+Kasnije ako se pojavi prozor u kojemu nešto piše i opet ime te tablice sa Delete potvrdite da nestane
+Ako se pojavi neki natpis sa imenom te tablice i na dnu tipka Ignore pritisnite Ignore
+Ponovite gore navedeno za sve tablice koje se na taj način pojave. Radi se o praznim tablicama koje će se kasnije kreirati i same popuniti po potrebi.
+Preuzimanje programa traje jako dugo
+Ako se na Internet spajate preko mobilnih usb stickova ili homeboxa moguće je da preuzimanje programa potraje i do pola sata, ovisno o signalu i brzini veze koju imate. Budite strpljivi
+Preuzmite progam na drugom računalu sa stranice www.sokoli.hr i spremite ga na prijenosni usb disk pa ga pokrenite na računalu gdje je program podešen
+Nešto treće, što nije ovdje navedeno
+Obavezno nas kontaktirajte
+Pogledajte niže video datoteke za pojašnjenja, povećate ih preko cijelog ekrana za lakši pregled, imate i više izbora kvalitete.
+Ako iz nekog razloga automatska nadogradnja ne radi kod Vas, ručno preuzimanje možete pokrenuti tako da kliknite ovdje, te nakon što preuzmete program, pokrenite njegovo usnimavanje i pratite upute na ekranu.

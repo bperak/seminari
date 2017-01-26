@@ -1,17 +1,28 @@
-Izbjeljivanje zuba 
-Kava, čaj, pušenje i vino - samo su neke od malih životnih radosti koji nam tijekom vremena ostavljaju mrlje na zubima ili ih tamnije oboje u cijelosti i ostavljaju nam dojam neprivlačnog osmijeha. Na sreću, postoje metode za izbjeljivanje boje zuba u ordinaciji ili kod kuće a da se pri tome zubi ne oštećuju. 
-Izbjeljivanje koristi proces u kojem se odstranjuju tamne mrlje i obojenosti i doprinose njihovom svjetlijem izgledu. Efekt može potrajati i do 10 godina - izbjeljivanje zuba je odličan način kako izgledati mlađe. 
-IZBJELJIVANJE KOD KUĆE KORIŠTENJEM UDLAGA 
-Ova metoda izbjeljivanja koristi udlage koje se individualno, prema otisku zubala, izrađuju u ordinaciji. Pacijent stavlja samostalno kod kuće gel za izbjeljivanje u udlagu (za gornju i donju čeljust) i drži otprilike 1 sat u ustima. Sam postupak traje od sedam do deset dana. 
-Ovaj proces izbjeljivanja traje duže nego izbjeljivanje u ordinaciji, ali je zato jeftiniji oko 800 kn. 
-IZBJELJIVANJE U ORDINACIJI BEYOND TEHNOLOGIJOM 
-Beyond tehnologija je brz, učinkovit i suvremen način izbjeljivanja. Rezultati se mogu očekivati za cca 45 minuta. Ova metoda ima učinkovitost izbjeljivanja za 7 do 15 nijansi i s smanjenom osjetljivosti zuba za 75 % u odnosu na ostale metode. 
-Postupak se izvodi u ordinaciji - nakon aplikacije zaštitnog gela za desni, nanosi se gel za izbjeljivanje zuba na bazi vodikovog peroksida koji se aktivira UV lampom određene valne duljine svjetlosti koja aktivira gel. 
-Ponekad je potrebno nastaviti kod kuće održavanje bjeline osmjeha gelovima i pastama kod kuće koje će onda dati dugotrajan rezultat. 
-Cijena od 3.000 kn je opravdana rezultatom učinkovitost u vremenskom intervalu. 
-NAJČEŠĆA PITANJA 
-Mogu li koristiti samo pastu za zube sa efektom izbjeljivanja? 
-Da bi neka pasta za zube bila učinkovita u postupku izbjeljivanja morala bi biti u kontaktu s vašim zubima barem 15 minuta što se nikada ne dešava. Neke paste mogu čak nanijeti više štete vašim zubima svojim abrazivnim učinkom, odnosno sadržajem kiselina oštećuju caklinu. 
-Što je sa ispunima i krunama na zubima? 
-Obzirom da gel za izbjeljivanje zubi djeluje samo na zubno tkivo, vaši ispuni ili krune neće promijeniti boju, stoga mogu izgledati tamnije - ponekad ih je potrebno zamijentiti. 
-Mi preporučujemo zamjenu ispuna 2 tjedna nakon postupka izbjeljivanja obzirom na to da se boja zuba još stabilizira. 
+Ovlaštena osoba u nadležnoj područnoj službi HZMO-a (radnik koji radi na poslovima obrade i zaprimanja elektroničkih prijava za vodenje matične evidencije Zavoda).
+Usluga
+Usluga e-prijave
+Pravilnik
+Pravilnik o vodenju matične evidencije Hrvatskog zavoda za mirovinsko osiguranje
+Napredni elektronički potpis
+Elektronički potpis koji ima istu pravnu snagu i zamjenjuje vlastoručni potpis odnosno vlastoručni potpis i otisak pečata. Pouzdano jamči identitet potpisnika. Povezan je isključivo s potpisnikom. Nedvojbeno identificira potpisnika. Nastaje korištenjem sredstava kojima potpisnik može samostalno upravljati i koja su isključivo pod nadzorom potpisnika. Sadrži izravnu povezanost s podacima na koje se odnosi i to na način koji nedvojbeno omogućava uvid u bilo koju izmjenu izvornih podataka.
+Elektronički potpis
+Skup podataka u elektroničkom obliku koji su pridruženi ili su logički povezani s drugim podacima u elektroničkom obliku i koji služe za identifikaciju potpisnika i vjerodostojnosti potpisanoga elektroničkog dokumenta.
+Verifikacija
+Proces koji provodi ovjerovitelj neposredno nakon kreiranja elektroničkog potpisa ili kasnije, da bi ustanovio valjanost elektroničkog potpisa i njegovu usklađenost s važećom politikom uporabe potpisa. Proces ispitivanja poruke i / ili integriteta elektroničkog potpisa.
+Ovjerovitelj je povjerljiva treća strana u sustavu elektroničkog poslovanja koja prema ugovoru s primateljem verificira i ovjerava elektronički potpis prije procesiranja transakcije.
+Politika uporabe elektroničkog potpisa
+Skup pravila kojima se odreduju tehnički, tehnološki i proceduralni zahtjevi izrade i verificiranja elektroničkog potpisa, a po kojima se može odrediti valjanost potpisa.
+e-kartica
+e-card, pametna kartica (smart card), elektronička kartica, čip kartica. Kartica u koju je ugraden čip na koji se mogu pohraniti različiti zapisi poput kodova, pinova itd. Na čip se mogu " upisati " ovlaštenja pa tako i napredni elektronički potpis tj. kvalificirani poslovni certifikat.
+Primljena e-prijava koja u postupku obrade nije zaprimljena od primatelja. Takva prijava smatra se kao da nije ni primljena u uslugu e-prijave.
+Vremenski žig
+Podatkovni objekt koji nedvojbeno i nerazdovojivo povezuje odredene podatke s odredenim vremenom, čime je omogućeno dokazivanje postojanja tih podatka prije tog vremena. Vremenski žig (time stamp) ovjerava elektronički potpisane podatke o pouzdanom vremenu postojanja podataka zajedno s hash prezentacijom tih podataka.
+Adobe Reader
+Aplikacija, program koji se sastoji od niza potprograma od kojih je svaki zadužen za odredene funkcije unutar osnovne aplikacije. Adobe Reader program stvara i čita dokumente u PDF formatu. U usluzi e-prijave pomoću njega popunjavamo, pregledavamo, potpisujemo e-prijave i njihove priloge.
+Internet Explorer (IE)
+Aplikacija, program pomoću kojega pregledavamo i istražujemo internetske stranice. Zahvaljujući standardiziranom " html " jeziku i kompatibilnosti s internetskim protokolima sposoban je učitati svaku pravilno programiranu stranicu. Unutar IE moguće je otvarati programe poput Adobe Readera ili pregledavati slike.
+PDF
+Portable Document Format - format datoteke kojeg je razvila tvrtka Adobe Systems.
+IDobr
+Identifikator obrasca - dodjeljuje se sistemski pri ulasku obrasca e-prijave u sustav e-Mirovinsko. Na jedinstven način identificira obrazac e-prijave. Upisuje se u sam obrazac.
+otvoreni telefon 0800 / 63 - 63 - 63 (besplatni telefon samo za Republiku Hrvatsku) radnim danom od 8 do 16 sati

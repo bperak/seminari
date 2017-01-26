@@ -1,0 +1,25 @@
+Sve komande kod čatovanja su dosta jednostavne. Mošete ih pogledati klikom na sliku sa opisom komandi.
+- Meni ' Alati '. Podmeni sadrži sledeće opcije:
+1.1. Prijava zauzetosti
+Poziva se iz menija ' Alati - &gt; Zauzetost '. Tada pored Vašeg imena u listi OnLine igrača stoiji ' z '. Koristite je kada čatujete sa nekim. Kod zauzetosti niko ne može da Vam ponudi partiju (da se ne bi izvinjavali).
+U slučaju da u toku jedno minuta ne pošaljete ni jednu poruku, ili ne dobijete ni jednu poruku, ' zauzetost ' se sama skida
+1.2. Nova prijava drugog igrača
+Sa istog računara možete prijaviti još jednog igrača Novi igrač nasleđuje prava prvog igrača: ako je prvi igrač u besplatnom periodu, novi igrač dobija broj dana za igru koliko ima i prvi igrač. Ako je prvi igrač sa plaćenim kreditima, drugi igrač koristi kredite prvog igrača. Napomena: ako u 24 časa igraju oba igrača, potrošiće jedan kredit
+1.3. Promeni igrača
+Ako imate definisana 2 igrača na računaru, menjate igrača koji će da igra. Informaciju o tome dobijaju svi Online igrači.
+1.4. Obriši lozinku
+Ovu opciju će te koristiti ako ne želite da neko dolazi u Klub bez vašeg znanja i npr. troši vaše kredite.
+1.5. Promeni lozinku
+Ukoliko plaćate kredite, a smatrate da je vaša lozinka laka za otkrivanje, možete je promeniti...
+1.6. Izbor tabli i igra u kredit
+Član Kluba koji ima plaćene kredite može igrati sa bilo kog računara, unoseći svoje Korisničko ime i Korisničku šifru
+Komande kod igre:
+- Bacanje kockica Kockice se bacaju klikom na dugme ' Bacaj ', a zaustavljaju se klikom na isto dugme kada na njemu pise ' Stop '.
+- Izbor kockica za bacanje Izbor se vr š i za drugo i tre ć e bacanje. Klikom misa na kockicu odla ž ete je (kockica postaje siva), a ostale kockice se ponovo bacaju. Desnim tasterom miša na kockicu se selektuju (ili deselektuju) sve kockice iste vrednosti.
+- Najava Najava se aktivira posle prvog bacanja pritiskom na dugme ' Najava '. Iza toga se odre đ uje š ta se najavljuje klikom mi š a na opis reda tabele ili klikom na kockicu za izbor 1 - 6. Posle prvog bacanja je mogu ć direktan upis u polje za najavu.
+- Upis rezultata Rezultat se upisuje posle prvog, drugog ili tre ć eg bacanja klikom na ž eljeno mesto u tabeli. Najava i Dirigovana se upisuje klikom posle prvog i drugog bacanja, a automatski posle tre ć eg bacanja.
+Samo u slu č aju da igrate preko Interneta, nakon upisa se pojavljuje dugme ' OK '. Pritiskom na to dugme predajete igru drugom igra č u. Pre toga je nemogu ć e poni š tavanje upisa i novo upis.
+- Čatovanje
+Kada igrate preko Interneta ili mreže, imate prozore za slanje i prikaz primljenih poruka. Desnim tasterom miša na prozor za poruke se otvara prozor sa nekoliko funkcija
+- Slanje sličica
+Kada igrate preko Interneta ili mreže, možete slati sličice pritiskom na dugme sa oznakom (-:: -).

@@ -1,11 +1,90 @@
-TIS pilot projekat za podršku razvoju turizma 
-NAJLEPŠE IZ ČAČKA 
-Naš TIS tim je 1. juna 2007, na radionici u Beogradu predstavio rezultate prve faze rada na TIS Pilot projektu " TIS za podršku razvoju turizma opštine Čačak " namenjenom za planiranje i kreiranje integralne baze podataka o opštinskim prirodnim i kulturnim resursima i turističkim potencijalima kao podrška planiranju razvoja i upravljanju resursima kao i promovisanju turizma u opštini, i započinjanje i unapređenje opštinskog integralnog teritorijalnog informacionog sistema kao alata za upravljanje i planiranje teritorije na osnovu GIS (geografski informacioni sistem) tehnologija. 
-Na ovoj radionici razmenili smo iskustva sa opštinskim TIS timovima iz Kraljeva, Kragujevca, Valjeva, Niša i Pančeva, kao i sa kolegama iz Prata. To je usmerilo naš dalji rad i opredelilo početak medjuopštinske saradnje. 
-Na 31. sednici SO Čačak održanoj 26. juna 2007. god. u okviru tačke 7 ' ' Izveštaj o radu Opštinskog veća ' ' član Opštinskog veća Vladan Savićević i TIS koordinacionog tela detaljno je opisao svrhu i tok realizacije navedenog projekta. Potpisan je i Okvir saradnje između Programa Ujedinjenih Nacija za ljudska naselja (UN-HABITAT) i Opštine Čačak za implementaciju Pilot projekta za razvoj i unapređenje opštinskog teritorijalnog informacionog sistema. 
-U drugoj fazi implementacije projekta posvetili smo veliku pažnju prikupljanju veoma različitih podataka za integraciju u sistem. Korišćeni su podaci koji već postoje u opštinskim službama, JP Gradac i TO Čačak, ali su za potrebe ovog projekta podaci prikupljani i na terenu. 
-Naš projekat odslikava turistički potencijal opštine Čačak kroz prikazivanje manastira u Ovčarsko Kablarskoj klisuri, kroz prikaz banjskog i mogućnostima rekreativnog turizma kao i niza veoma značajnih kulturnih i istorijskih objekata koji ukazuju na značaj koji je Čačak u svojoj istoriji imao. U TIS su integrisane ne samo pozicije ovih objekata već i dobar deo pisane građe o njima kao i fotografije lokaliteta. 
-Osim podataka o kulturno-istorijskim vrednostima na teritoriji opštine Čačak, u TIS su integrisani i podaci o prirodnim lepotama, vidikovcima, tradicionalnim srpskim kućama, smeštajnim kapacitetima i svim pratećim uslugama od pošta, zdravstvenih stanica, preko ugostiteljskih objekata do benzinskih pumpi. Bogatstvo našeg TIS-a je što se osim lokacija ovih sadržaja mogu pronaći i mnogi drugi podaci o ovim objektima kao što su broj ležaja, kategorija smeštaja, sve do kontakt telefona. Posebna pažnja je posvećena dostupnosti turističkoj ponudi tako da je sa velikom detaljnosti obrađena putna mreža i različiti vidovi transporta. 
-Rezultati druge faze implementacije našeg TIS pilot projekta javno predstavljeni su na radionici u Beogradu održanoj 5. oktobra 2007. Rezultati koje smo postigli za samo nekoliko meseci impresionirali su naše kolege iz Prata, drugih opština i predstavnike resornih ministarstava. Kolege iz Prata preneli su nam još njihovih veoma korisnih iskustava i dali mnoštvo ideja kako da nastavimo sa daljim razvojem našeg TIS-a. 
-U ovom trenutku mi smo u trećoj fazi implementacije projekta. Ovaj CD prestavlja prikaz našeg rada koji još nije okončan. Ipak želja nam je da pokažemo rezultate prve dve faze razvoja našeg TIS-a za razvoj turizma i na taj način prenesemo naša iskustva i ostalim institucijama u Čačku. 
-Iskreno se nadamo da će ovaj projekat doprineti da se turizam u našoj opštini još više razvije, da će doprineti značajnom povećanju broja turista koji će u njemu i njegovoj okolini pronalaziti svoje oaze zadovoljstva i odmora i da će preglednost turističkih potencijala kroz mape ovog projekta, doprineti podizanju svesti o značaju ulaganja u turizam. 
+Opšte napomene: Prava koja se stiču po zakonu po osnovu rane, povrede ili ozlede ne zastarevaju. Zahtev za priznavanje svojstva ratnog vojnog invalida po osnovu oštećenja organizma usled bolesti podnet po isteku od 5 godina od prestanka okolnosti koje su dovele do nastanka bolesti neće se uzimati u postupak. Ostvarivanje prava iz oblasti boračko-invalidske zaštite oslobođeno je plaćanja administrativne takse.
+Ovo svojstvo mogu da ostvare lica, učesnici rata 1941 - 1945, kao i lica koja su učestvovala u ratovima na prostoru bivše SFRJ od 1990. do 1995. kao pripadnici i dobrovoljci u JNA i pripadnici Vojske Jugoslavije i lica koja su obavljala poslove državne bezbednosti u oružanim akcijama za vreme NATO agresije. Dokumentacija potrebna za ostvarivanje prava:
+lična karta (fotokopija)
+izvod iz MKR
+uverenje o državljanstvu
+medicinska dokumentacija o lečenju iz vremena nastanka oštećenja i vremena podnošenja zahteva
+uverenje o okolnostima povređivanja (izdaje nadležni vojni ili drugi nadležni organ)
+vojna knjižica (fotokopija)
+Ovo svojstvo mogu da ostvare lica jugoslovenski državljani koji su u miru kao vojnici na služenju vojnog roka, studenti vojne akademije, učenici srednje vojne škole, lica u rezervnom sastavu, slušaoci škole za rezervne oficire kao i dobrovoljci na vojnoj dužnosti u Vojsci Jugoslavije ili Vojsci Srbije i Crne Gore u vršenju vojne službe ili dužnosti u vezi sa službom zadobili povredu ili ozledu bez svoje krivice pa je nastupilo oštećenje njihovog organizma najmanje 20 %. (Za navedena lica koja su obolela na službi u Vojsci SCG procenat oštećenja je 60 %) Dokumentacija potrebna za ostvarivanje prava:
+zahtev za priznavanje svojstva mirnodopskog vojnog invalida,
+uverenje vojne jedinice o okolnostima povređivanja ili rešenje o otpuštanju iz Vojske Srbije i Crne Gore
+Povećanje procenta vojnog invaliditetah3 &gt; lica koja imaju svojstvo ratnog ili mirnodopskog vojnog invalida mogu tražiti povećanje već postojećeg procenta vojnog invaliditeta. Po isteku dve godine od dana donošenje konačnog rešenja o sticanju svojstva ratnog ili mirnodopskog vojnog invalida, vojni invalid može podneti novi zahtev za utvrđivanje novog procenta invaliditeta a u vezi sa nastalom promenom. Dokumentacija potrebna za ostvarivanje prava:
+zahtev za povećanje procenta vojnog invaliditeta;
+nalaz lekara specijaliste o tome da je nastupila promena od uticaja na raniji utvrđeni invaliditet;
+Porodična invalidnina po palom borcu
+Osnovno pravo porodice palog borca je pravo na porodičnu invalidninu (pravo na mesečni novčani iznos). Dokumentacija potrebna za ostvarivanje prava:
+Uvećanje porodične invalidnine
+Roditelj palog borca koji nije imao druge dece ili koji je imao više dece kome su ostala deca izgubila život kao građanske žrtve rata ima pravo na uvećanje porodične invalidnine. Takođe, i bračni drug palog borca koji nema dece odnosno ako ima jedno dete ili više dece koja su nesposobna za privređivanje, pod uslovom da je nesposobnost nastupila pre 15 godine života, odnosno do navršenih 26 godina, ako je dete bilo na školovanju, pored prava na porodičnu invalidninu ima pravo na uvećanu porodičnu invalidninu. Dokumentacija potrebna za ostvarivanje prava:
+fotokopija lične karte ili legitimacije prognanog lica
+izjava dva svedoka da podnosilac zahteva nema više dece tj. da mu je poginuli borac bio jedino dete
+izvod iz MKR i MKU za lice od koga se izvodi pravo
+uverenje vojnog organa o datumu i okolnostima pogibije palog borca
+izvod iz MKR za dete palog borca
+školska potvrda za decu školskog uzrasta
+Porodična invalidnina po umrlom vojnom invalidu
+Članovi uže porodice palog borca, članovi uže porodice vojnog invalida od I do VII grupe, posle njegove smrti, i članovi uže porodice lica koje je poginulo ili umrlo od posledica rane, povrede, ozlede ili bolesti zadobijene pod okolnostima iz člana 7. i 9. Zakona o osnovnim pravima boraca, vojnih invalida i porodica palih boraca imaju pravo na porodičnu invalidninu (Službeni list SRJ 24 / 98) (odnosi se na mirnodopske vojne invalide). Dokumentacija potrebna za ostvarivanje prava:
+zahtev za priznavanje prava na porodičnu invalidninu po umrlom vojnom invalidu,
+fotokopija lične karte
+izvod iz MKV
+izjava dva svedoka da se udova nije preudala
+izvod iz MKR za podnosioca zahteva i decu
+izvod iz MKU za pokojnog vojnog invalida
+Borački dodatak
+Borački dodatak je dodatak uz zaradu ostvarenu po osnovu radnog odnosa. Dokumentacija potrebna za ostvarivanje prava:
+potvrda o radnom odnosu koju izdaje poslodavac
+potvrda o visini isplaćene mesečne zarade (izdaje poslodavac)
+potvrda o minimalnoj zaradi po kolektivnom ugovoru
+Ortopedska i druga pomagala
+Vojni invalid ima pravo na ortopedska i druga pomagala za opštećenje organizma po osnovu kojih mu je priznat vojni invaliditet, u skladu sa medicinskim indikacijama utvrđenim Pravilnikom za ortopedska i druga pomagla vojnih invalida (Službeni list SRJ broj 37 / 2000) Dokumentacija potrebna za ostvarivanje prava:
+Vojni invalid kome je svojstvo vojnog invalida prve grupe priznato trajno zbog amputacije ili teških opšećenja ekstremiteta izjednačenih sa amputacijom ekstremiteta i zbog gubitka vida na oba oka, ima pravo na putničko motorno vozilo domaće proizvodnje zapremine do 1000 cm3. Vojni invalid može ponovo ostvariti pravno na putničko motorno vozilo po isteku 7 godina od dana preuzimanja ranije primljenog vozila. Dokumentacija potrebna za ostvarivanje prava:
+izvod iz MKU vojnog invalida
+izjava dva svedoka o činjenici da je podnosilac zahteva živeo u istom domaćinstvu sa vojnim invalidom ili se starao o njemu najmanje godinu dana pre smrti, kao i to da je snosio troškove sahrane umrlog vojnog invalida
+fotokopija lične karte korisnika lične ili porodične invalidnine
+fotokopija lične karte pratioca korisnika lične ili porodične invalidnine kome je priznato pravo na dodatak za negu i pomoć i pratioca deteta korisnika do navršene 15 godine života
+Nega i pomoć
+Pravo na negu i pomoć imaju invalidi od I do IV grupe. Dokumentacija potrebna za ostvarivanje prava:
+nalaz lekara specijaliste o potrebi za negom i pomoći drugog lica
+Ortopedski dodatak
+Pravo na ortopedski dodatak (mesečni novčani iznos) ima vojni invalid od I do VI grupe kome je vojni invaliditet utvrđen zbog oštećenja organizma koje je neposredna posledica zadobijene rane, povrede, ozlede ili bolesti koja je prouzrokovala amputaciju ekstremiteta ili teško oštećenje ekstremiteta kao i zbog gubitka vida na oba oka. Dokumentacija potrebna za ostvarivanje prava:
+uverenje da je vojni invalid nezaposleno lice (izdaje Služba zapošljavanja)
+uverenje o imovnom stanju (izdaje Služba za katastar nepokretnosti)
+uverenje o načinu ostvarivanja zdravstvene zaštite
+dokaz o imovnom stanju i korišćenju penzije za lica iz bivših republika iz opštine u kojoj su živeli
+izjave svedoka pred službenim licem organa o sastavu i prihodima članova domaćinstva podnosioca zahteva
+uverenje o zaduženju katastarskim prihodom
+uverenje o korišćenju penzije ili novčane naknade iz oblasti penzijsko - invalidskog osiguranja za sve članove
+uverenje o svojstvu penzionera po osnovu samostalne delatnosti ili zemljoradničke penzije za sve članove (Rep ublički fond za penzijsko i invalidsko osiguranje samostalnih delatnosti i zemljoradnika)
+izveštaj poreske uprave o zaduženju porezom podnosioca ili članova domaćinstva
+prosek zarade zaposlenih članova domaćinstva i podnosioca zahteva, po osnovu radnog odnosa u prethodnoj godini
+Članovima porodice priznaje se samo jedno mesečno novčano primanje prema redosledu: bračni drug, deca i roditelji. Korisniku pripada jedno mesečno novčano primanje i u slučaju kada ima više osnova (vojni invalid i korisnik porodične invalidnine).
+PRAVA CIVILNIH INVALIDA RATA
+Svojstvo i prava civilnog invalida rata i pravo na ličnu invalidninu
+Civilni invalid rata je lice kod koga nastupilo telesno optećenje od najmanje 50 % usled rane, povrede ili ozlede koje su ostavile vidne tragove, zadobijene zlostavljanjem ili lišenjem slobode od strane neprijatelja za vreme rata, izvođenja ratnih operacija, od zaostalog ratnog materijala ili neprijateljskih diverzantskih, odnosno terorističkih akcija. Dokumentacija potrebna za ostvarivanje prava:
+uverenje o državljanstvu
+izvod iz MKR
+medicinska dokumentacija iz vremena nastanka oštećenja organizma
+uverenje o okolnostima povređivanja od nadležnog organa
+dokaz da lice nije bilo u sastavu neprijateljskih formacija ili pomagač
+Dodatak na negu i pomoć od strane drugog lica
+poziv od nadležnog organa
+fotokopija lična karta
+dokazi o troškovima smeštaja, ishrane i prevoza
+PRAVA BORACA (po republičkim propisima)
+Mesečno novčano primanje
+pravosnažno rešenje o svojstvu podnosioca zahteva i to rešenje da je podnosiocu zahteva vreme provedeno u ratu priznato u dvostrukom trajanju u poseban staž za učesnike NOR-a ili udove istih, rešenje o svojstvu vojnog invalida ili rešenje o svojstvu porodičnog invalida,
+fotokopija lične karte
+izvod iz MKR za decu, ukoliko su članovi domaćinstva podnosioca zahteva i potvrde o školovanju za decu školskog uzrasta
+izvod iz MKV
+izjave dva svedoka o prihodima i sastavu domaćinstva
+uverenje o imovnom stanju
+uverenje o načinu korišćenja zdravstvene zaštite
+izjave dva svedoka o činjenici da je podnosilac zahteva samohrano lice - ko sačinjava užu porodicu korisnika, da li ima žive roditelje i decu van domaćinstva, kao i da li isti ostvaruju prihod
+izvod iz MKR ili MKV ili MKU za roditelje podnosioca zahteva
+Pomoć u slučaju smrti
+Član domaćinstva sa kojim je invalid živeo poslednju godinu života, odnosno lice koje se ovojnom invalidu staralo u poslednjoj godini njegovog života ima pravo na jednokratnu pomoć u visini dvostrukog iznosa lične invalidnine umrlog vojnog invalida. Dokumentacija potrebna za ostvarivanje prava:
+Nadoknada troškove smeštaja u ustanovi socijalne zaštite
+Ovo pravo mogu ostvariti borci koji su samohrani. Dokumentacija potrebna za ostvarivanje prava:
+medicinska dokumentacija o zdravstvenom stanju za roditelje hranioca ukoliko su mlađi od 60 godina muškarci, odnosno 55 godina žene,
+izjave dva svedoka sastavu domaćinstva
+uverenje o prihodima i imovnom stanju podnosioca zahteva i članova domaćinstva

@@ -1,0 +1,209 @@
+Trenutno	trenutno	Rgp
+u	u	Sl
+Ekspertu	ekspert	Ncmsl
+
+Modeli	model	Ncmpn
+akata	akt	Ncmpg
+u	u	Sl
+Ekspertu	ekspert	Ncmsl
+
+U	u	Sl
+EKSPERT-u	ekspert-a	Ncfsl
+se	sebe	Px--sa
+nalaze	nalaziti	Vmr3p
+i	i	Qo
+predlozi	predlog	Ncmpn
+formi	forma	Ncfpg
+:	:	Z
+
+ugovora	ugovor	Ncmsg
+,	,	Z
+
+pravilnika	pravilnik	Ncmpg
+,	,	Z
+
+odluka	odluka	Ncfsn
+,	,	Z
+
+sporazuma	sporazum	Ncmsg
+,	,	Z
+
+kolektivnog	kolektivan	Agpmsgy
+ugovora	ugovor	Ncmsg
+,	,	Z
+
+poslovnika	poslovnik	Ncmpg
+,	,	Z
+
+izjava	izjava	Ncfsn
+,	,	Z
+
+upozorenja	upozorenje	Ncnsg
+,	,	Z
+
+zahteva	zahtevati	Vmr3s
+,	,	Z
+
+rešenja	rešenje	Ncnsg
+,	,	Z
+
+obaveštenja	obaveštenje	Ncnsg
+i	i	Cc
+dr.	dr.	Y
+
+Prilikom	prilikom	Sg
+izbora	izbor	Ncmpg
+i	i	Cc
+obrade	obrada	Ncfsg
+predloženih	predložen	Agpmpgy
+modela	model	Ncmpg
+akata	akt	Ncmpg
+,	,	Z
+nastojali	nastojati	Vmp-pm
+smo	biti	Var1p
+da	da	Cs
+budu	biti	Var3p
+zastupljeni	zastupiti	Appmpny
+primeri	primer	Ncmpn
+modela	model	Ncmpg
+iz	iz	Sg
+više	mnogo	Rgc
+različitih	različit	Agpfpgy
+oblasti	oblast	Ncfpg
+(	(	Z
+na	na	Sa
+primer	primer	Ncmsan
+:	:	Z
+radnih	radni	Agpmpgy
+odnosa	odnos	Ncmpg
+,	,	Z
+zaštite	zaštita	Ncfsg
+na	na	Sl
+radu	rad	Ncmsl
+,	,	Z
+obligacionih	obligacioni	Agpmpgy
+odnosa	odnos	Ncmpg
+,	,	Z
+preduzetništva	preduzetništvo	Ncnsg
+i	i	Cc
+privatizacije	privatizacija	Ncfsg
+...	...	Z
+)	)	Z
+.	.	Z
+
+Datim	dati	Agpmpiy
+modelima	model	Ncmpi
+su	biti	Var3p
+obuhvaćeni	obuhvatiti	Appmpny
+osnovni	osnovan	Agpmpny
+i	i	Cc
+najreprezentativniji	reprezentativan	Agsmpny
+primeri	primer	Ncmpn
+akata	akt	Ncmpg
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+najčešće	često	Rgs
+koriste	koristiti	Vmr3p
+u	u	Sl
+svakodnevnom	svakodnevan	Agpmsly
+radu	rad	Ncmsl
+.	.	Z
+
+Svaki	svaki	Pi-msn
+od	od	Sg
+modela	model	Ncmpg
+akata	akt	Ncmpg
+kreiran	kreirati	Appmsnn
+je	biti	Var3s
+tako	tako	Cs
+da	da	Cs
+sadrži	sadržati	Vmr3s
+osnovne	osnovan	Agpmpay
+elemente	element	Ncmpa
+i	i	Cc
+specifičnosti	specifičnost	Ncfpn
+svojstvene	svojstven	Agpfpny
+za	za	Sa
+određenu	određen	Agpfsay
+vrstu	vrsta	Ncfsa
+akta	akt	Ncmsg
+.	.	Z
+
+Kriterijumi	kriterijum	Ncmpn
+po	po	Sl
+kojima	koji	Pi-mpl
+možete	moći	Vmr2p
+vrši	vršiti	Vmr3s
+pretragu	pretraga	Ncfsa
+su	biti	Var3p
+:	:	Z
+zadata	zadati	Appfsny
+reč	reč	Ncfsn
+ili	ili	Cc
+izraz	izraz	Ncmsan
+u	u	Sl
+naslovu	naslov	Ncmsl
+,	,	Z
+tekstu	tekst	Ncmsl
+ili	ili	Cc
+i	i	Qo
+u	u	Sl
+naslovu	naslov	Ncmsl
+i	i	Cc
+tekstu	tekst	Ncmsl
+dokumenta	dokument	Ncmsg
+,	,	Z
+oblast	oblast	Ncfsa
+,	,	Z
+zakon	zakon	Ncmsan
+na	na	Sa
+koji	koji	Pi-msn
+se	sebe	Px--sa
+odnosi	odnositi	Vmr3s
+,	,	Z
+vrsta	vrsta	Ncfsn
+dokumenta	dokument	Ncmsg
+(	(	Z
+Videti	videti	Vmn
+sliku	slika	Ncfsa
+)	)	Z
+.	.	Z
+
+Dokumentima	dokument	Ncmpi
+modela	model	Ncmpg
+možete	moći	Vmr2p
+pristupiti	pristupiti	Vmn
+na	na	Sa
+dva	dva	Mlc
+načina	način	Ncmsg
+:	:	Z
+
+preko	preko	Sg
+Pretraživača	pretraživač	Ncmsg
+modela	model	Ncmpg
+akata	akt	Ncmpg
+
+preko	preko	Sg
+funkcije	funkcija	Ncfsg
+Modeli	Modeli	Npmsn
+akata	akt	Ncmpg
+,	,	Z
+koja	koji	Pi-fsn
+se	sebe	Px--sa
+pojavljuje	pojavljivati	Vmr3s
+kada	kada	Cs
+se	sebe	Px--sa
+nalazite	nalaziti	Vmr2p
+u	u	Sl
+propisu	propis	Ncmsl
+u	u	Sl
+vezi	veza	Ncfsl
+sa	sa	Si
+kojim	koji	Pi-msi
+je	biti	Var3s
+kreiran	kreirati	Appmsnn
+određen	odrediti	Appmsnn
+model	model	Ncmsn
+akta	akt	Ncmsg
+.	.	Z
+

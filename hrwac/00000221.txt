@@ -1,0 +1,16 @@
+EKOguard PUMP 1
+Postavlja se u svrhu rješavanja raznolike problematike na kolektorima kako fekalne tako i oborinske odvodnje.
+Odabirom odgovarajuće crpne stanice prema tipizaciji, sa ugrađenom opremom i priključcima, ostvaruje se brza montaža i puštanje u pogon, uz dodatne uštede u projektiranju i gradnji.
+Princip rada:
+Mjerači nivoa prate nivo vode u poliesterskom oknu i prema nivou vrši se uključivanje odnosno isključivanje crpki. Crpke se u radu ciklički izmjenjuju, a u slučaju kvara na jednoj automatski starta druga.
+Osnova crpne stanice je cilindrično poliestersko okno-zdenac, izvedeno od poliesterske smole ojačane staklenim vlaknima. Okno je kompletno opremljeno sa svom hidromehaničkom, elektro opremom, te sigurnosnim ljestvama, a sve u sladu sa projektnim zahtjevima. Opcionalno se isporučuju i poklopci od nehrđajućeg čelika za ugradnju na pokrovnu armirano-betonsku ploča, a koja sama nije uključena u opseg isporuke.
+Osnovna oprema:
+Hidromehanička oprema
+Crpni agregati
+Crpna stanica standardno je opremljena sa dvije potopne crpke, a opcionalno može biti opremljena samo sa jednom ili tri crpke. Crpke su tehničkih karakteristika (Q / H) koje odgovaraju zahtjevima projekta. Crpke su potopnog tipa kompletno opremljene sa postoljem za mokru ugradnju, vodilicama, lancem od nehrđajućeg čelika za spuštanje i izvlačenje crpki, te pripadajućim držačem lanca. Radno kolo crpke je nezačepljivog tipa. Standardno crpka je izvedena sa zaštitom IP 68, sa temperaturnom bimetalnom zaštitom u statoru.
+Fazonski komadi i armature
+Dimenzija tlačnog cjevovoda definirana je kapacitetom ugrađenih crpki. Tlačni cjevovode je standardno izveden od lijevano željeznih fazonskih komada. Grane tlačnog cjevovoda, za svaku od crpki, opremljene su sa odgovarajućim armaturama (zasunima i nepovratnim ventilima), a krajevi grana se unutar okna spajaju u zajednički tlačni vod.
+Sigurnosne ljestve
+Crpna stanica je standardno opremljena servisnim ljestvama iz nehrđajućeg čelika, i to sigurnosnim ljestvama sa leđobranom, tip EKOguard SAFELAD1.
+Elektrooprema
+Crpna stanica je predviđena za ručni-servisni i automatski režim rada, bez posade. Za vrijeme rada crpne stanice signal nivoa vode dobiven kontinuiranim praćenjem ili diskretnim praćenjem (plovcima), dovodi se na automatiku ugrađenu u elektroormaru. Standardno se u sklopu ove crpne stanice isporučuje tipski poliesterski elektroormar EKOcontrol P-CAB, za izvedbu do dvije crpke ukupne snage do 30 kW koji u osnovnoj inačici sadrži mjerne instrumente za prikaz sati rada i struja crpki, preklopke za odabir režima rada ili isključenje crpki, lampice za signalizaciju stanja, elemente za termo-magnetsku zaštitu motora crpki, uređaj za kontrolu faza napajanja, te uređaj za cikličku izmjenu radne i pričuvne crpke.

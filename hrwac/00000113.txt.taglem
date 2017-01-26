@@ -1,0 +1,237 @@
+3.	3.	Mdo
+Popis	popis	Ncmsn
+proizvoda	proizvod	Ncmpg
+/	/	Z
+usluga	usluga	Ncfpg
+prema	prema	Sl
+Nicanskoj	nicanski	Agpfsly
+klasifikaciji	klasifikacija	Ncfsl
+.	.	Z
+
+Podnosi	podnositi	Vmr3s
+se	sebe	Px--sa
+po	po	Sa
+jedna	jedan	Mlcfsn
+prijava	prijava	Ncfsn
+za	za	Sa
+svaki	svaki	Pi-msan
+razred	razred	Ncmsan
+
+4.	4.	Mdo
+Punomoć	punomoć	Ncfsn
+
+5.	5.	Mdo
+Prioritetni	prioritetni	Agpmsny
+dokument	dokument	Ncmsn
+i	i	Cc
+podaci	podatak	Ncmpn
+o	o	Sl
+prioritetu	prioritet	Ncmsl
+
+Zaštitu	zaštita	Ncfsa
+izuma	izum	Ncmsg
+patentom	patent	Ncmsi
+moguće	moguć	Agpnsny
+je	biti	Var3s
+dobiti	dobiti	Vmn
+samo	samo	Rgp
+za	za	Sa
+,	,	Z
+od	od	Sg
+strane	strana	Ncfsg
+EPO-a	EPO	Npmsg
+,	,	Z
+priznate	priznati	Vmr2p
+PCT	pct	Ncmsan
+prijave	prijava	Ncfsg
+
+Dokumenti	dokument	Ncmpn
+za	za	Sa
+EP	ep	Ncmsan
+-	-	Z
+validaciju	validacija	Ncfsa
+
+1.	1.	Mdo
+EPO	epo	Agpmsayn
+obrazac	obrazac	Ncmsan
+2006	2006	Mdc
+
+2.	2.	Mdo
+Punomoć	punomoć	Ncfsn
+
+3.	3.	Mdo
+prijevod	prijevod	Ncmsn
+priznatog	priznati	Agpmsgy
+EPO	ep	Ncmsg
+patenta	patent	Ncmsg
+na	na	Sa
+Grčki	grčki	Agpmsayn
+
+Dokumenti	dokument	Ncmpn
+za	za	Sa
+podnošenje	podnošenje	Ncnsa
+:	:	Z
+
+1.	1.	Mdo
+Ime	ime	Ncnsn
+,	,	Z
+adresa	adresa	Ncfsn
+i	i	Cc
+nacionalnost	nacionalnost	Ncfsn
+prijavitelja	prijavitelj	Ncmpg
+
+2.	2.	Mdo
+Opis	opis	Ncmsn
+dizajna	dizajn	Ncmsg
+
+3.	3.	Mdo
+Slike	slika	Ncfsg
+ili	ili	Cc
+fotografije	fotografija	Ncfsg
+dizajna	dizajn	Ncmsg
+
+4.	4.	Mdo
+Punomoć	punomoć	Ncfsn
+
+5.	5.	Mdo
+U	u	Sl
+slučaju	slučaj	Ncmsl
+kad	kad	Cs
+prijavitelj	prijavitelj	Ncmsn
+nema	nemati	Vmr3s
+prebivalište	prebivalište	Ncnsa
+ili	ili	Cc
+registrirani	registriran	Agpmsny
+ured	ured	Ncmsn
+na	na	Sl
+Cipru	Cipar	Npmsl
+:	:	Z
+-	-	Z
+ime	ime	Ncnsn
+fizičke	fizički	Agpfsgy
+ili	ili	Cc
+pravne	pravni	Agpfsgy
+osobe	osoba	Ncfsg
+iz	iz	Sg
+Cipra	Cipar	Npmsg
+,	,	Z
+opunomoćene	opunomoćiti	Appfpny
+da	da	Cs
+zastupa	zastupati	Vmr3s
+prijavitelja	prijavitelj	Ncmsay
+-	-	Z
+izjavu	izjava	Ncfsa
+prijavitelja	prijavitelj	Ncmpg
+da	da	Cs
+prihvaća	prihvaćati	Vmr3s
+nadležnost	nadležnost	Ncfsa
+ciparskih	ciparski	Agpmpgy
+sudova	sud	Ncmpg
+
+Upotreba	upotreba	Ncfsn
+žiga	žig	Ncmsg
+:	:	Z
+obvezujuća	obvezujuć	Agpfsny
+Rok	rok	Ncmsn
+za	za	Sa
+upotrebu	upotreba	Ncfsa
+:	:	Z
+5	5	Mdc
+godina	godina	Ncfpg
+Trajanje	trajanje	Ncnsn
+zaštite	zaštita	Ncfsg
+:	:	Z
+7	7	Mdc
+godina	godina	Ncfpg
+nakon	nakon	Sg
+datuma	datum	Ncmsg
+podnošenja	podnošenje	Ncnsg
+i	i	Cc
+može	moći	Vmr3s
+se	sebe	Px--sa
+produžiti	produžiti	Vmn
+za	za	Sa
+14	14	Mdc
+godina	godina	Ncfpg
+
+Dokumenti	dokument	Ncmpn
+za	za	Sa
+podnošenje	podnošenje	Ncnsa
+(	(	Z
+nacionalna	nacionalan	Agpfsny
+prijava	prijava	Ncfsn
+)	)	Z
+:	:	Z
+
+1.	1.	Mdo
+Ime	ime	Ncnsn
+i	i	Cc
+adresa	adresa	Ncfsn
+prijavitelja	prijavitelj	Ncmpg
+
+2.	2.	Mdo
+Ime	ime	Ncnsn
+i	i	Cc
+adresa	adresa	Ncfsn
+izumitelja	izumitelj	Ncmpg
+
+3.	3.	Mdo
+Opis	opis	Ncmsan
+izuma	izum	Ncmsg
+,	,	Z
+zahtjevi	zahtjev	Ncmpn
+,	,	Z
+sažetak	sažetak	Ncmsn
+i	i	Cc
+slike	slika	Ncfpn
+
+4.	4.	Mdo
+Punomoć	punomoć	Ncfsn
+
+Osobe	osoba	Ncfpn
+kvalificirane	kvalificiran	Agpfpny
+za	za	Sa
+podnošenje	podnošenje	Ncnsa
+prijave	prijava	Ncfsg
+:	:	Z
+
+Fizičke	fizički	Agpfpny
+osobe	osoba	Ncfpn
+,	,	Z
+državljani	državljanin	Ncmpn
+ili	ili	Cc
+oni	oni	Pp3mpn
+čije	čiji	Pi-nsn
+je	biti	Var3s
+uobičajeno	uobičajiti	Appnsny
+prebivalište	prebivalište	Ncnsn
+Cipar	Cipar	Npmsan
+ili	ili	Cc
+bilo	bilo	Qo
+koja	koji	Pi-fsn
+od	od	Sg
+članica	članica	Ncfpg
+EU	E	Npmsg
+;	;	Z
+poduzeća	poduzeće	Ncnsg
+ili	ili	Cc
+druge	drugi	Mlofpa
+pravne	pravni	Agpfpay
+osobe	osoba	Ncfpa
+čije	čiji	Pi-nsn
+je	biti	Var3s
+proizvodno	proizvodni	Agpnsny
+ili	ili	Cc
+komercijalno	komercijalan	Agpnsny
+sjedište	sjedište	Ncnsn
+smješteno	smjestiti	Appnsny
+na	na	Sl
+Cipru	Cipar	Npmsl
+ili	ili	Cc
+bilo	bilo	Qo
+kojoj	koji	Pi-fsl
+od	od	Sg
+država	država	Ncfpg
+EU	E	Npmsg
+.	.	Z
+

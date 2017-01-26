@@ -1,0 +1,19 @@
+Trenutno u Ekspertu
+Modeli akata u Ekspertu
+U EKSPERT-u se nalaze i predlozi formi:
+ugovora,
+pravilnika,
+odluka,
+sporazuma,
+kolektivnog ugovora,
+poslovnika,
+izjava,
+upozorenja,
+zahteva,
+rešenja,
+obaveštenja i dr.
+Prilikom izbora i obrade predloženih modela akata, nastojali smo da budu zastupljeni primeri modela iz više različitih oblasti (na primer: radnih odnosa, zaštite na radu, obligacionih odnosa, preduzetništva i privatizacije...). Datim modelima su obuhvaćeni osnovni i najreprezentativniji primeri akata koji se najčešće koriste u svakodnevnom radu. Svaki od modela akata kreiran je tako da sadrži osnovne elemente i specifičnosti svojstvene za određenu vrstu akta.
+Kriterijumi po kojima možete vrši pretragu su: zadata reč ili izraz u naslovu, tekstu ili i u naslovu i tekstu dokumenta, oblast, zakon na koji se odnosi, vrsta dokumenta (Videti sliku).
+Dokumentima modela možete pristupiti na dva načina:
+preko Pretraživača modela akata
+preko funkcije Modeli akata, koja se pojavljuje kada se nalazite u propisu u vezi sa kojim je kreiran određen model akta.

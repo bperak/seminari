@@ -1,0 +1,82 @@
+Gastro grupa se nakon dužeg odabira odlučila za FILOS sustav, te će pomoću FILOS 2 BE sustava pratiti vlastito poslovanje. Kao novost, 2 BE sustav će također služiti za komunikaciju među članicama, te razmjenu podataka među članicama. Kod sustava razmjene bitno je naglasiti da će filosov sustav FODES (Filos Open Data Exchange System) omogućiti razmjenu podatka između svih članica, neovisno čiji informatički sustav članice koriste. Na taj način će se povećati dinamičnost i manevarska sposobnost svih članica, te će i više nego do sada djelovati kao jedan.
+Najviša instalacija u Hrvatskoj
+(Begovo Razdolje, 21.12.2008)
+Na nadmorskoj visini od 1060 m smjestio se pansion Planinski raj i Obiteljsko gospodarstvo Francisković. Begovo Razdolje je najviše naseljeno mjesto u Hrvatskoj, te je tako to i najviša instalacija FILOS programa u Hrvatskoj. U pansion Planinski raj instalirana je NCR kasa sa F-POS om, te 300 metara udaljena MP.X instalacija za vođenje maloprodaje. Dvije lokacije su povezane na " starinski način ", putem modema. Back office je putem ADSL-a povezan s Internetom, te se putem Interneta pruža podrška i održavanje sustava. Ovo je još jedna instalacija, koja se uz već postojeće u Vela Luci, otoku Prviću i Braču ne mogu obići u roku manjem od 12 sati. Takve lokacije zahtijevaju pouzdanu opremu i program koji ne zahtijeva održavanje i intervencije. FILOSov sustav je tako dobio još jednom priliku da se potvrdi kao pouzdan i samostalan programski sustav na koje se poduzetnici mogu osloniti.
+U TRGOSTIL u potpunosti uveden FILOS sustav
+(Donja Stubica, 30.04.2008)
+Proces bešavnog uvođenja FILOS poslovnog sustava u TRGOSTIL je završio. Tijekom godine dana FILOSov tim je bešavno uvodio svoj poslovni sustav preuzimajući podatke iz starog sustava. Paralelno s nama, trgostilov informatički tim sastavljen od Srećka Ljubiića, Martina Kica i Martine Košec je uvodio FILOS programe u dućanem, te s 30.11.2007 su ti procesi završeni. Preostale su još neki dijelovi koje će TRGOSTIL uvesti po vlastitoj odluci, a zbog organizacijskih razloga.
+Komercijalni odjel TRGOSTILa je pomoću naših programa uveo visoku kontrolu nad ugovorima s dobavljačima, te asortimanom u prodavaonicama. Ukupni rezultati poslovanja TRGOSTILA u 2007. godini doveli su do gotovo čudesnog zaokreta, te je TRGOSTILova dionica postala vrlo tražena. Time se pokazalo da je strategija uprave, vođena direktorom g. Potočkim urodila plodovima.
+Robne kuće ORO, Stubičke Toplice i Bistričanka startale
+(Oroslavlje, Stubičke Toplice, Marija Bistrica, 20.03.2007 - 01.04.2007)
+Tri najveća maloprodajna objekta su u roku od 10 dana prešla na rad s FILOS sustavom. Kako su svi podaci o stanju lagera na dan prelaska se automatski preuzimanju, te se na taj način ubrzava proces prelaska.
+Kako su svi podaci o cijenama i asortimanu centralizirani, s prodajnom mrežom se upravlja iz komercijale, te je na taj način rasterećeno osoblje dućana. Sada se na prodajnim mjestima mora voditi briga o robi i kupcima, a komercijalni dio se odrađuje u centrali, gdje se prate trendovi i cijene kod konkurencije.
+I ono što je za prodajno mjesto najbitnije - kupac prolazi blagajnu brzo i bezbolno. Više vremena za odabir artikala; a za one brzopotezne kupce - najbrža kupnja u Hrvatskoj.
+Što kažu blagajnice? Brzo i lako I ono što je još lakše - kreditne i debitne kartice; nema više prekucavanja. Kako? Blagajna je povezana s EFT POS uređajem
+Maloprodajna lokacija " 36 - ca " startala sa FILOS sustavom
+(Donja Stubica, 11.03.2007
+Otvorena prva trgostilova maloprodajna lokacija sa FILOS sustavom.
+Što je novo kupcima? Brži prolaz na blagajnama.... A za popularne ULTRA akcije iz kataloga sada se vidi i ukupna ušteda
+Startala veleprodaja i distributovno skladište
+(Donja Stubica, 20.02.2007)
+Kao prvi subjekt koji koristi FILOSov sustav, startalo je distributovno skladište i veleprodaja, kojom TRGOSTIL snadbijeva svoje dućane, te prodaje robu svojim veleprodajnim kupcima, čiji profil kreće od malih obiteljskih trgovina pa sve do javnih ustanova.
+Kao sljedeći korak, planira se start prvog maloprodajnog dućana, koji se nalazi preko puta upravne zgrade, te je tako napogodnija lokacija za obuku trgostilovog help desk-a, odnosno informatičkog tima koji će održavati FILOSov sustav u TRGOSTILU.
+TRGOSTIL D. D. - uvođenje cjelokupnog FILOSovog informatičkog sustava
+(Donja Stubica, 20.12.2006)
+FILOS i TRGOSTIL su potpisali ugovor kojim se regulira uvođenje cjelokupnog FILOSovog informatičkog sustava u trgovački lanac TRGOSTIL. To znači da će Trgostil koristiti naše programe od blagajne do uprave, te u svim dijelovima sustava kao što su centralna distribucija i veleprodaja, naručivanje, te ono najbitnije - kontrola sustava i upravljanje zalihama.
+TRGOSTIL je, osim po svom regionalnom značaju i tradiciji, poznat kao član i osnivač ULTRA GROS grupe, koja kao udruženje trgovaca okuplja velik broj članica i pokriva cijelu Hrvatsku.
+Starta novi projekt - F-POS za Linux
+(FILOS, 06.11.2006)
+Iako je F-POS program koji je najbrži i najstabilniji pod DR-DOS operativnim sustavom, te nema nikakvih problema sa novim POS uređajima na USB sučelju, markenting " velikih " nas gura da F-POS dobije i inačicu za drugi najpopularniji operativni sustav za POS - Linux.
+Iako će novi F-POS biti primarno razvijan za Ubuntu Linux, paralelno će se testirati i rad pod MS WePOS-om. Očekuje se da će razvoj novog F-POSa trajati oko 3 godine. Prve će verzije programa biti distupne i prije, ali stabilnost aktualnog F-POSa neće biti postignuta prije roka od 3 godine.
+Zaželimo sreću F-POS Linux timu, pred kojim je dug i naporan put
+PROTADE-LEMONA sa FILOS poslovnim sustavom
+(Stubičke Toplice, 01.09.2006)
+PROTRADE LEMONA iz Stubičkih toplica startao s kompletnim FILOS poslovnim paketom. Tvrtka PROTRADE je maš dugogodišnji korisnik maloprodajnih rješenja (MP.X, MP.Norm i F-POS), a prije 2 mjeseca sklopljen je ugovor kojim će se pokriti i ostale djelatnosti (proizvodnja tekstila i hrane), te uprava poduzeća i knjiigovodstvo. Trenutno PROTRADE ima 51 uposlenika i 20 vanjskih suradnika.
+Tvrtka PIP iz Zagreba startala je s korištenjem FILOSove maloprodaje koja je informatički povezana s Microsoft Navision ERP sustavom.
+Maloprodajni dio sastoji se od F-POS blagajni, MP.X backoffice programa za maloprodajno poslovanje, te sustava Koncentrator koji prikuplja i distribuira podatke iz i prema prodavaonicama.
+Osim što se u Koncentratoru mogu vidjeti svi podaci prodajnih mjesta, on u sebi ima ugrađen i modul za razmjenu podataka s ERP sustavima, koji je FILOS već koristio i kod povezivanja s drugim ERP sustavima (BAAN, te sustavima u Konzumu, Dioni, Brodokomercu, Ferimportu i dr.). Tvrtka SPAN iz zagreba, koja je uvela Navision u PIP sudjelovala je u izradi modula u Navisionu koji razmjenjuje podatke s Koncentratorom. Format za razmjenu podataka je FILOSov format koji se koristio i za razmjenu podataka s drugim ERPovima.
+Tvrtka EUROSHOP PC iz Splita odlučila se na uvođenje FILOSovog kompletnog informatičkog sustava. EUROSHOP je već duže vrijeme korisnik programa za blagajnu F-POS, te se tako imao prilike upoznati s kvalitetom FILOSovih programa.
+Planira se u roku od mjesec dana prebaciti podatke iz postojećeg sustava, te u roku od 6 mjeseci napraviti prilagodbe poslovanju EUROSHOPA.
+EUROSHOP PC novi prodajni centar u Koprivnici
+(Koprivnica, 15.09.2004)
+Otvorenje novog prodajnog centra površine 2000 m2 u Koprivnici izazvalo je veliko zanimanje Koprivnice i okolice, te obogatilo ponudu roba tog kraja.
+Tri blagajne, dvije IBM 4614 ShureONE i jedna IBM 4694 ShurePOS u potpunosti zadovoljavaju potrebe centra. Kupci su zadovoljni velikom protočnošću blagajni, te brzom naplatom bez dosadnih redova.
+BAUHAUS otvorenje novog prodajnog centra na Jankomiru
+(Zagreb, 28.11.2003)
+Otvorenje novog prodajnog centra na 13.000 m2 na Jankomiru privukla je pažnju iznad svih očekivanja. Bogata ponuda kombinirana s kvalitetom i velikim brojem akcija privukla je više od 20.000 kupaca u prva dva dana rada novog centra.
+F-POS 3.68 Rabbit instaliran na IBM 4694 - 207 ShurePOS blagajnama s najnovijim SureMark termalnim printerom s tri stanice, te 10 " TFT color monitorima najjača je instalacija među blagajnama u ovim prostorima. Izračunata brzina protoka blagajne na ovim blagajnama je preko 4200 stavaka u satu, a vrijeme koje je potrebno za start blagajne nakon nasilnog pada (nestanka struji i sl.) je 65 sekundi
+Također, jedan od noviteta je upotreba bežičnih BARKOD čitača, što operateru daje veliku autonomiju kretanja, te se roba može registrirati i u kolicima.
+I u ovoj instalaciji koristili su se EFT POS uređaji Zagrebačke banke DD kao integrirani dio sustava naplate kreditnih kartica. Tako integrirani EFT POS uređaj, osim komfora, donosi i potpunu kontrolu nad naplatom kreditnih kartica, te veliku brzinu rada i brz ispis SLIP-ova na štampaču blagajne, što smanjuje troškove nabavke više vrsta termo papira.
+Široka ponuda kozmetike, porculana, stakla, multimedije i robe za domaćinstvo na 4 kata privukla je velik broj kupaca na otvaranje. Kako je to i predpraznični period, broj kupaca je bio i udsetostručen nego u ostalim mjesecima u godini
+Osim obnove odjela prehrane, odlučili su povećati protočnost blagajne, te su tako pozvali FILOS da postavi IBM-ove blagajne 4694 s FILOS-ovim programom F-POS 3.2 SX, što je i učinjeno u roku jednoga dana.
+Rezultati povećanja brzine u odnosu na prijašnje stanje mogu se svesti u jednu jedinu riječ: ZEC
+F-POS dobio i kodno ime: RABBIT.
+BUHAUS-Zagreb otvorio veliki prodajni centar na žitnjaku.
+(Zagreb, 14.12.2000.)
+Poznata europska trgovačka kuća BAUHAUS napokon je otvorila svoja vrata i u Hrvatskoj. Prilikom odabira blagajni i programa za blagajnu odlučili su se za IBM-4694 blagajne i FILOS-ov F-POS 3.1 SX.
+Pilikom otvaranja, koristili su 11 stacionarnih blagajni te 6 dodatnih (privremenih) blagajni, kako bi smanjili gužvu prilikom otvaranja i prvih dana rada.
+CENTROMARKET u Bihaću također s F-POS-om (Bihać, 13.12.2000.)
+Talijaski ulagači (EUROSHOP PITARELLO) sa partnerom iz BiH (CENTROMARKET) otvorili su jednu razinu robne kuće u centru Bihaća. Prilikom odabira blagajni i programa za blagajnu, odlučili su se za IBM POSIFLEX blagajne i F-POS 3.0 SX.
+EUROSHOP d. o. o. Otvorio svoj novi dućan i u Osijeku (Osijek, 06.12.2000.)
+EUROSHOP PC d. o. o. Split, otvorio je svoj novi dućan u Osijeku, pri čemu se opet odlučio za FILOS-ov F-POS 3.0 SX.
+Takav korak talijanskog vlasnika samo potvrđuje kvalitetu programa i uslužnost FILOS-a.
+Odlučivši se na kvalitetno rješenje POS-a (blagajni), odabrali su IBM 4614 blagajnu i FILOS-ov program F-POS 3.0 SX. Takvo rješenje POS-a garantira EUROSHOP-u protočnost od 3500 stavaka po blagajni u satu, što pridonosi zadovoljstvu kupaca kako bi njihovo dragocjeno vrijeme proveli u kupovini, a ne čekanju pred blagajnom.
+Kako se talijanski vlasnik odlučio na F-POS, to samo doprionosi potvrdi europske kvalitete hrvatskih softwerskih kuća, pa tako i FILOS-a kao vodećeg proizvođača domaćeg POS softwarea. Daljnji dokazi ove teze očekuju se uskoro (12. mj. 2000.), ali o tome uskoro
+PROVJERENA KONFIGURACIJA: F-POS IBM4694
+A-C TRADING CO. Otvorio svoj novi dućan u Malom Lošinju
+(Mali Lošinj, 02.04.2000.)
+FILOS-ov dugogodišnji korisnik, tvrtka A-C TRADING CO. Otvorila je svoj novi dućan u Malom Lošinju, tik uz tržnicu. Kako i u svojim ostalim dućanima koriste IBM 4694 blagajne, nije bilo razlike u odabiru niti kod otvaranja svog novog dućana. Pouzdanost rada i brzina posluge kupaca jedne su od glavnih uvjeta koji moraju biti zadovoljeni u svakoj trgovini.
+Odabirom programa F-POS za blagajnu IBM4694 već u samom početku (u verziji 1.0), te stalnom razvitku (do aktualne verzije 2.4), tvrtka A-C TRADING CO. pokazala je povjerenje u kvalitetu programa i njegov pouzdan rad, te se radi toga odlučila u svom novom dućanu koristiti provjerenu konfiguraciju hardware-a i software-a.
+DIONIN zagrebački diskont otvorio vrata sa F-POS-om i blagajnom IBM4694
+(Zagreb, 10.12.1999.)
+Tvrtka DIONA iz Zagreba odlučila je pokrenuti lanac diskontnih prodavaonica u Zagrebu, od kojih je prvi na adresi H. Macanovića 29 (kod tržnice Jarun). Paralelno sa tom poslovnom odlukom donesena je i odluka o prelasku na domaći program za blagajnu IBM4694, kako bi riješio problem 2000 - te i povećao mogućnost prilagodbe programa na blagajni specifičnom poslovanju diskonta.
+S obzirom da DIONA već dvije godine koristi FILOS-ov program za robno praćenje u trgovinama (BackOffice), prelaskom na F-POS otvorile su se mnogobrojne nove mogućnosti prilagodbe informatičkog sustava prema želji i potrebama DIONE.
+F-POS i blagajna IBM4694 u punom pogonu u Rijeci
+(Zagreb, 20.09.1999.)
+Tvrtka BRODOKOMERC iz Rijeke donijela je odluku o prelasku na novi, domaći program za IBM-ove blagajne 4694. Kako suradnja između Brodokomerca i FILOS-a postoji već dvije godine (Brodokomerc koristi program za maloprodaju MP4.3 često zvan u trgovačkim krugovima kao BackOffice), odluka o prelasku na F-POS bila je najlogičnija, time više što su se brodokomercovi stručnjaci mogli uvjeriti u kvalitetu rada prateći rad marketa " Bella " tvrtke A-C Trading.
+Stabilan rad programa pri velikom broju izdanih računa marketa " Bella " (tijekom godine nikada ne pada ispod 1000 dnevno) i podrška bili su jedni od glavnih razloga odluke o prelasku na F-POS u Brodokomercu.
+Također, potpisom ugovora o održavanju Brodokomerc je otvorio mogućnost promptne preinake samog programa prema njihovim potrebama.
+Prvi brodokomercov dućan koji u punom pogonu sa FILOS-ovim software-om na IBM-ovim blagajnama 4694 radi već punih mjesec dana pokazao je da F-POS, kao domaći, hrvatski proizvod, može u potpunosti konkurirati svjetskim rješenjima.
+Privredna banka Zagreb i FILOS zajednički prezentirali vezu POS blagajne i EFT POS uređaja
+(Zagreb, 10.09.1999.)
+FILOS i PBZ prezentirali su rad EFT POS uređaja kojim upravlja blagajna. Tako se i na Hrvatsko tržište uvodi standard koji je u Europi i svijetu već uveliko u primjenu.

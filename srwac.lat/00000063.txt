@@ -1,11 +1,24 @@
-Svečanim rezanjem slavskog kolača i uz prigodan program Prva i Druga mesna zajednica počeće u četvrtak 25. jula proslavu kovinske slave. U Galeriji Doma kulture, rezanje slavskog kolača zakazano je za 20.00 časova. Dan kasnije, u petak 26. jula u 9.00 sati počeće bogosluženje sa liturgijom u pravoslavnoj crkvi posle koje će se nositi slavska [... ] 
-Posle kratke i teške bolesti, u Pančevačkoj bolnici iznenada je preminuo u pedesetoj godini života Niki Novković, Koordinator odseka za lokalni ekonomski razvoj u Opštinskoj upravi. Bio je oženjen suprugom Anom sa kojom ima dvoje dece, kći Ivu i sina Nikolu. Rođen je i odrastao u Kovinu, u poznatoj i uglednoj kovinskoj porodici. Komemoracija povodom [... ] 
-Osnovna škola Bora Radić Bavanište potpisala je ugovor sa Pokrajinskim sekretarijatom za sport i omladinu za dobijanje sredstava za projekat koji će partnerski realizovati sa Crvenim krstom Kovin. Fer poen za zdravlje obuhvatiće obuku 24 edukatora iz ove škole, realizaciju sportskih manifestacija i podizanje nivoa znanja stanovnika Bavaništa o humanim vrednostima i zdravim stilovima života. [... ] 
-Regata REKA rečni ekološki karavan startuje 28.07.2013. godine u opštini Stara Pazova iz podunavskog sela Stari Banovci koje se nalazi na 1190 km dunavskog toka. Pre prvog dana i početka regate REKA u opštini Stara Pazova održaće se regata PUSTOLOVNE AVANTURE DUNAVOM u organizaciji kluba ekstremnih sportova na vodi Pustolov. Početak avantura zakazan je za [... ] 
-Tradicionalna regata Reka koja se održava u organizaciji Turističke organizacije Stara Pazova kao glavnog organizatora i još osam gradova i opština Pančevo, Smederevo, Bela Crkva, Plandište, Sečanj, Žitište, Novi Bečej i Titel kao surganizatora, uz podršku i pomoć usputnih gradova i opština na rekama (Zemun, Beograd, Grocka, Kovin, Veliko Gradište Ram, Vršac, Zrenjanin, Alibunar, Žabalj [... ] 
-Opšte udruženje preduzetnika opštine Kovin, Opština Kovin i Turistička organizacija opštine, kao organizatori 3. po redu Manifestacije Stari Lala pozivaju na ovogodišnje druženje u subotu i nedelju 22. i 23. juna u centru Kovina i obližnjim sokacima. Pozvani su svi kojima su Banat, stari zanati i običaji u srcu Cilj manifestacije, koja je u [... ] 
-Učenici trećeg razreda OŠ,, Desanka Maksimović zajedno sa učiteljicama Natašom Buljugić i Snežanom Lomigora učestvovali su u humanitarnoj akciji,, Knjige za sve, koju je pokrenuo Fakultet za medije i komunikacije iz Beograda. Učenici su 17. juna skupili i donirali knjige koje će naći svoje mesto u rukama dečaka i devojčica iz Svratišta i odraslih ljudi [... ] 
-U okviru turneje 2 minuta Sergej Ćetković će po prvi put nastupiti u Smederevu. Koncert će biti održan 5. jula sa početkom u 21 h u jedinstvenom ambijentu Smederevske tvrđave. Sergej će izvesti svoje najlepše ljubavne pesme u pratnji vrhunskog benda, što uz odličnu scensku, audio i video produkciju garantuje noć za pamćenje. Ulaznice se mogu [... ] 
-U predvečerje poslednjeg nastavnog dana ove školske godine, 12. juna, u kovinskom Centru za kulturu održana je završna svečanost Zmajeve škole. Tom prilikom, kako je rekla direktorka škole Vesna Jotić, ispratili smo u svet odraslih 101. generaciju škole i završili još jednu, u svakom pogledu izuzetno uspešnu školsku godinu. Za postignute rezultate na brojnim takmičenjima [... ] 
-Na Šljunkari je u ponedeljak 10. juna održano Okružno takmičenje u sportskom ribolovu za učenike školskog uzrasta. U ime Udruženja ribolovaca Dunav iz Kovina, Ivica Jovčić, predsednik Udruženja, okupio je učenike iz Omoljice, Opova, Kovačice, Debeljače i Kovina Desankina škola imala je svoju ekipu. Uz dobru organizaciju, veliko strpljenje, malih tajni velikih majstora ribolova, u [... ] 
-U ponedeljak 10. juna, u večernjim satima, posetioci Centra za kulturu bili su roditelji, bake, deke i oni najbliži učenicima Desankine škole, ali i njeni budući prvaci. Mlađi razredi pripremili su završnu priredbu koju su šarmantno vodili Jovan i Danijela.U ovogodišnjem kolažu muzike, igre, govora i pesme, scena je bila pravo mesto sa koje su [... ] 
+Jet Cooler
+Rešenje za hlađenje elektro ormana
+Princip rada:
+Jet Cooler je mehanički uređaj na bazi vorteks cevi koji razdvaja komprimovani vazduh u hladnu i vruću struju. Komprimovani vazduh se injektuje tangencijalno u vrtložnu komoru u kojoj se rotaciono ubrzava.
+Zahvaljujući koničnoj mlaznici na kraju komore, spoljašnji sloj vrtložne struje vazduha izlazi napolje iz komore, dok se ostatak vazduha usmerava u unutrašnji vrtlog i pothlađen izlazi na drugoj strani cevi.
+Prenos toplote se odvija usled toga što je pritisak u spoljašnjem vrtlogu veći nego u unutrašnjem, kao i usled toga što se oba vrtloga vrte istom ugaonom brzinom i u istom smeru, ali se ugaoni moment unutrašnjeg vrtloga prenosi na spoljašnji u vidu kinetičke energije, što na kraju rezultuje razdvajanjem struja toplog i hladnog vazduha.
+Hlaenje delova radnih mašina
+Hlaenje alata i istovremeno oduvavanje opiljaka na radnim
+mašinama
+Hlaenje u tacki (npr. kod zavarivanja)
+Hlaenje pri lemljenju
+Hlaenje elektronskih komponenti
+Hlaenje proizvoda
+Ostale moguće aplikacije:
+Hlađenje delova radnih mašina
+Hlađenje pri lemljenju
+Hlađenje elektronskih komponenti
+Hlađenje proizvoda
+Vodič za izbor
+Ukoliko je poznat potreban kapacitet hlađenja ili toplotna disipacija ormana, na osnovu pritiska komprimovanog vazduha u pneumatskoj instalaciji i prema željenoj razlici temperatura, može se odabrati jedan od dva modela Jet Coolera MJC-150, odnosno MJC-300. Podešavanje tačno potrebnog kapaciteta hlaenja, odnosno željene temperaturne razlike se vrši odvrtanjem odnosno zavrtanjem regulacionog vijka na mlaznici.
+Ukoliko su potrebni veći kapaciteti hlađenja, jednostavno postavite više Jet Coolera paralelno. Radi veće energetske efikasnosti, preporučuje se upotreba termostata i elektromagnetnog ventila, kako bi se omogućilo da hlađenje bude aktivno samo kada za time postoji stvarna potreba.
+Mehaničke dimenzije i uputstvo za montažu:
+Montažu Jet Coolera na elektro orman je najlakše izvesti pomoću standardne kablovske uvodnice PG29. Priključivanje na pneumatski sistem vrši se pomoću standardnih priključaka 1 / 8, odnosno 1 / 4. Na raspolaganju su različite mogućnosti pripreme vazduha za Jet Cooler, prema zahtevima pogona (odvajači kondenzata, filteri, odvajači ulja itd.).
+Za korišcenje Jet Coolera u sprezi sa termostatom, neophodno je na dovod vazduha postaviti elektromagnetni ventil koji će otvarati i zatvarati protok vazduha prema stvarnim potrebama za hlađenjem.

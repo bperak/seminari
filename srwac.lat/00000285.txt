@@ -1,0 +1,39 @@
+MS Dynamics NAV ERP rešenje za mala i srednja preduzeća
+Enterprise Resource Planning sistemi, ili skraćeno ERP sistemi, predstavljaju glavnu alatku za pomoć menadžmentu u odlučivanju i sagledavanju realnih troškova / dobiti, pogotovu u vreme ekonomske krize, kao što je to danas. Najčešći zahtevi firmi pri izboru ERP sistema su niska cena implementacije, velika prihvaćenost rešenja i kratko vreme prelaska na novi sistem. Microsoft je kao odgovor na te zahteve ponudio paletu proizoda iz Dynamics porodice medju kojima se nalazi i Nav (bivši Navision), kao posebna platforma za ERP sistema.
+Nav je prvenstveno namenjen malim i srednjim preduzećima koje žele da standardizuju poslovne procese i da u svakom trenutku imaju tačne podatke o svom poslovanju, ali ga je moguće koristiti i u velikim sistemima. Glavne prednosti Microsoft Navision ERP platforme jesu otvorenost koda poslovne logike, modularnost sistema i integrisano razvojno okruženje. Takođe, lokalizacija ERP sistema je uvek bila problematična, ali to ovde nije slučaj. Nav je u potpunosti lokalizovan za naše govorno područje i prilagođen je domaćim propisima i zakonima.
+Arhitektura
+Microsoft Dynamics Nav 5.0 je baziran na klijent server arhitekturi sa dva ili tri sloja. Slojevi tih arhitektura su:
+Klijentski sloj (GUI, Poslovna logika i administracija sistema)
+Aplikacioni sloj (Omogućava drugim servisima da pristupaju podacima ERP-a)
+Serverski sloj (Baza podataka i sistem za upravljanje bazom podataka MSSQL ili nativna NAV baza)
+Slika 1. Prikaz dvoslojne i troslojne arhitekture MS Dynamics Nav
+Klijentski sloj pored prikazivanja korisničkog interfejsa zadužen je i za mnogo kompleksnije poslove, kao što su izvršavanje poslovne logike, preuzimanje i pokretanje objekata iz baze podataka i direktan pristup podacima u slučaju standalone implementacije.
+Serverski sloj se sastoji iz baze podataka i sistema za upravljanje bazom podataka. Trenutno je moguće koristiti nativnu ili MS SQL bazu podataka. Osnovne funkcije koje serverski sloj obezbedjuje su:
+Kontrolu nad brojem korisnika koji pristupaju bazi podataka
+Kontrolu pristupa podacima preko zaključavanja
+Čuva logove svih read / write operacija koje su izvršili korisnici
+Šalje podatke klijentima
+Aplikacioni sloj je međusloj koji omogućava izvršavanje poslovne logike za druge servise bez intervencije korisnika. Njegova primarna namena jeste ostvarivanje komunikacije sa eksternim servisima i omogućavanje n-slojne arhitekture.
+Prilikom implementacije najčešće se koristi dvoslojna arhitektura (klient server), a nisu ni retke samostalne (standalone) instalacije gde klijent direktno pristupa podacima na računaru sa kog se izvršava.
+Osnovne funkcionalnosti Nav platforme
+Microsoft Dynamics Nav pruža veliki broj funkcionalnosti koje su potrebne malim i srednjim preduzećima u poslovanju. Sve funkcionalnosti podeljene su u module, a moduli dalje po organizacionim jedinicama koje obavljaju te poslove. Takođe, Nav ima otvoreni kod poslovne logike, tako da je moguće dodati nove funkcionalnosti ili izmeniti i prilagoditi postojeće.
+Osnovni moduli funkcionalnosti koji dolaze sa sistemom su:
+Upravljanje finansijama
+Vođenje prodaje i marketinga
+Nabavka
+Vođenje magacina
+Planiranje resursa
+Kadrovska evidencija
+Servis
+Proizvodnja
+Slika 2. Microsoft Dynamics Nav 5.0 CS
+Izmene modula i dodavanje novih funkcionalnosti
+Za potrebe razvoja i izmena postojećih modula i funkcionalnosti, obezbeđeno je integrisano razvojno okruženje C / SIDE (Client / Server Integrated Development Environment) i specijalizovan programski jezik C / AL (Client / Server Application Language). Object Designer je glavna alatka za razvoj C / SIDE aplikacija unutar Nav klijenta i omogućava programerima sledeće:
+Trenutno na internetu postoji veliki broj sajtova koji se bave razvojem Microsoft Nav platforme na kojima možete naći detaljnija upustva, primere koda i video prezentacije. Sajt mibuso.com vam može biti odlična početna stranica ako ste zainteresovani za razvoj i rad na ovoj platformi. Takođe, Microsoft Dynamics Nav možete testirati direktno iz web browsera, na oficijalnoj stranici ovog proizvoda.
+U nekoliko narednih blog postova trudiću se da detaljno pojasnim kako MS Dynamics Nav funkcioniše, šta je potrebno da postanete MCP iz ove oblasti i kako razvoj i implementacija ove platforme može biti Vaš novi posao.
+Komentari
+Super napisano.Bravo za Milosa
+anonymous, 19.12.2010. 21:12
+Pošaljite komentar
+Komentari će biti prikazani pošto ih odobri moderator sajta. Da bi komentari bili objavljeni, moraju biti u skladu sa politikom objavljivanja.
+Komentar

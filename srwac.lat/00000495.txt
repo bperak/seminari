@@ -1,0 +1,12 @@
+Teorija operativnih sistema
+Kursevi
+Uputstvo pri polaganju ispita
+Za prijavljivanje na računar za kojim se radi koristiti korisničko ime ispit1 i lozinku ispit1. Po prijavljivanju, grafičko okruženje se pokreće komandom startx. Odmah po prijavljivanju u home direktorijumu napraviti poddirektorijum koji treba da ima isto ime kao što je korisničko ime studenta na Alas - u (npr. mi01234). Ukoliko još neki direktorijum sa imenom iste strukture postoji odmah ga obrisati. U ovaj direktorijum treba stavljati sve fajlove koji se odnose na rešenja zadataka. U direktorijumu mora da postoji odgovarajući Makefile koji će omogućiti automatsko prevodjenje čitavog projekta.
+Dozvoljena je samo literatura u elektronskom obliku koja će biti na računarima i to:
+Navedena literatura je jedina čije je korišćenje dozvoljeno na ispitu.
+Tokom rada nastojati da se postavljena pitanja odnose isključivo na tekst zadatka. Ne postavljati pitanja tipa " Zašto mi ovo ne radi? " ili " Da li je to i to dobro rešenje? ". Pri radu ne praviti buku i ne komentarisati glasno dešavanja na računaru na kome se radi. Po završetku rada zatvoriti grafičko okruženje ako je isto korišćeno i pozvati asistenta da preuzme zadatak.
+Zadatak se boduje poenima od 15 do 30. Da bi zadatak mogao da dobije prelazni broj poena (15), isti mora da se pravilno prevodi i radi, kao i da je implementiran u skladu sa postavkom zadatka. Osnovne komponente za dalje ocenjivanje zadatka koji zadovoljava ove uslove su efikasnost i dokumentovanost rešenja. U pogledu efikasnosti, neophodno je koristiti procedure sa optimalnom vremenskom, odnosno strukture podataka sa optimalnom prostornom kompleksnošću. U pogledu dokumentovanosti, treba voditi računa da imena procedura i promenljivih budu deskriptivna, kao i da svaki blok naredbi ima odgovarajuci komentar. Ono što može doprineti većem broju poena je:
+- propuštanje fajlova sa kodom kroz beautifier
+- ostavljanje radnog direktorijuma u urednom stanju odnosno brisanje iz istog svih fajlova koji se mogu regenerisati
+Sa druge strane, nepridržavanje bilo kog od ovde navedenih uputstava može dovesti do smanjenja broja poena.
+Rezultati će biti postavljeni na strani predmeta. Sva ostala obaveštenja će takodje biti objavljena na toj adresi.

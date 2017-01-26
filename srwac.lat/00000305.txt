@@ -1,0 +1,29 @@
+Linux je izuzetan operativni sistem koji je na prvom mestu nekoliko puta jeftiniji od Microsoft Oper. Sist. jer se plaća samo njegova instalacija, a sigurnost podataka i rad na internetu je velika jer nepostoje virusi za njega.
+Trajanje testova je različito od 1 do nekoliko sati pa čak u nekim slučajevima 48 sati.
+Cena se računa po komponenti koja se testira.
+300.00
+Testiranje komponenti (2)
+Testiranje važi kao za testiranje (1), ali za veličine hard diskova od 200 GB do 1,5 TB I memorija od 2.5 GB do 8 GB
+450.00
+Popravka matične ploče
+Popravka matične ploče zavisi od cene delova i utrošenog vremena. Raspon cena je dat od 150 din do 2000, jer u servisu smatrama da preko 2000 din popravka nije isplativa zbog moguće nabavke polovnog ispravnog dela u toj vrednosti.
+Cenu popravke nije uvek moguće znati ali se može očekivati neka približna procena pre početka servisiranja komponente.
+150 do 2000
+Popravka grafičke karte
+Čišćenje računara
+Fizičko čišćenje računara koje ne zahteva rasklapanje računara na komponente,
+150.00
+Čišćenje računara sa rasklapanjem
+Fizičko čišćenje računara koje zahteva rasklapanje računara na komponente. Pri tome se podmazuju svi ventilatori, čiste se svi kontakti, na ploči, hard disku vrši se pregled napajanja
+500.00
+Podmazivanje ventilatora
+Ventilatori su veoma bitni za hlađenje komponenti u računaru, njihovo otkazivanje ili usporen rad mogu prouzrokovati velike I skupe kvarove. Cena je data po komadu koji se sređuje.
+(npr ako se zaustavi ventilator na napajanju, može doći do otkaza napajanja koje najčšće ima za posledicu probijanja visokog napona na ploči ili procesoru. A to je skoro sigurna kupovina drugog računara)
+100.00
+Dodatni ventilator
+Ugradnja dodatnih ventilatora neće povećati buku u vašem računar u, ali će vam zasigurno produžiti radni vek komponeti. U našem servisu je praksa pokazala da svim komponentama za koje smo utvrdili da temperaturno premašuju granice, smo produžili radni vek za 100 % ugradnom dodatnih ventilatora.
+Čišćenje laptopova koji se pregreva, često se gase sami od sebe, je obavezno. Kod laptopova kojima je lako prići procesoru hladnjaku I kanalima kroz koje struji vazduh.
+Menjanje paste na čipsetu, procesoru I grafičkoj karti je uključeno
+900.00
+Čišćenje laptopa (2)
+Čišćenje laptopova koji se pregreva, često se gase sami od sebe, je obavezno. Kod laptopova koji moraju da se rastave na sastavne delove da bi se prišlo procesoru hladnjaku i kanalima kroz koje struji vazduh. Cena je veća zbog utrošenog vremena koje je i do 3 puta veće.

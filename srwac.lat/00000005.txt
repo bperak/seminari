@@ -1,9 +1,91 @@
-Povod otkriću vitamina bile su bolesti koje nastaju zbog nedostatka vitamina, takozvanih avitaminoza. Specifičnost i intezitet njihovih simptoma upućuju na to da vitamini imaju ključnu ulogu u jednom ili više vitalnih procesa u ćelijama i tkivima organizma. Budući da delotvorno sprečavaju aviminatoze, mogli bismo ih gotovo okvalifikovati kao čudotvorne lekove. Međutim, ne sme se zaboraviti da su vitamini hrana Oni su katalizirali evoluciju naše vrste, preko su potrebni za našu egzistenciju i zdravlje. 
-Izrazita osobina ljudskih bića i drugih živih organizama je da se u njima odvija na hiljade hemijskih reakcija među supstancama koje u drugačijim okolnostima ne bi mogle međusobno reagovati Svaki dan u našem telu sagori se oko pola kilograma goriva, odnosno ugljenohidrata (uglavnom glukoze) i masti, te se tako ono snabdeva toplotom i energijom. Taj proces se odvija pri temperaturi od 37 C. Znamo, međutim, da iste materije skrob, šećer, maslac itd. - ne sagorevaju na sobnoj temperature, šta više teško gore i na povišenoj temperature. Primera radi, ako kocki šećera približite upaljenu šibicu, uočiće te da se deo šećera rastali ali ne i zapali. 
-Kako to živi organizmi omogućuju reakciju masti sa kiseonikom (spaljivanjem) na sobnoj temperaturi? Odgovor na to pitanje sastoji se u tome što se živi organizam služi pomoćnim materijama koje imaju sposobnost da ubrzavaju hemijske reakcije, a da se pri tome same ne menjaju. Te materije nazivamo katalizatorima i za njih se kaže da kataliziraju reakcije. 
-Ako na jedan od vrhova kocke stavite sasvim malo pepela od cigarete (ako uopšte poznajete nekog ko još puši) i prinesete mu zapaljenu šibicu, šećer će se zapaliti i potpuno izgoreti Sagorevanje se odvija na površini čestica pepela koje se pri tome ne menjaju, tako da sasvim mala količina pepela može katalizirati sagorevanje velike količine šećera. 
-Katalizatore u ljudskom telu nazivamo enzimi (po grčkoj reči za kvasac); kvasac sadrži enzime koji ubrzavaju fermentaciju što podrazumeva pretvaranje glukoze u alkohol. Enzimi su proteini, koji su gotovo uvek veliki molekuli građeni od deset ili dvadeset hiljada atoma. Njihova enizmatska aktivnost je strogo specifična, tako da često mogu ubrzati samo jednu ili nekoliko srodnih biohemijskih reakcija. U ljudskom organizmu može se nalaziti i pedeset hiljada različitih vrsta enzima. 
-Neki enzimi su čisti proteini, koji nisu ništa drugo do nabrani lanci međusobno povezanih ostataka aminokiselina. Ostali se sastoje od proteinskog molekula i nekog dodatka zbog kojeg zavisi sposobnost kataliziranja specifičnih reakcija.Te dodatke nazivamo koenzimi. 
-U ljudskom se telu kao koenzimi u mnogim enzimskim sistemima javljaju minerali i vitamini. 
-I jedni i drugi svojim katalitičkim delovanjem omogućuju stvaranje neke vitalne materije Pantotenska kiselina je npr. deo koenzima A, koji učestvuje u pretvaranju proteinskog apoenzima (pasivnog oblika enzima) u aktivni enzim, a on, pak, učestvuje u mnogobrojnim reakcijama. Jedna od njih je pretvaranje kolina u acetikolin koji u mozgu sudeluje kao prenosnik poruka Ostali vitamini osim vitamina C, takodje služe kao koenzimi. 
-Apoenzimi se u telu često samo delimično pretvaraju u aktivne enzime. Ta se pretvaranja mogu pospešiti većim unosom vitamina koje služe kao koenzim Na tom se principu temelji jedno od osnovnih načela moderne nauke o ishrani, koja posebno ističe adekvatno snabdevanje vitaminima 
+Naši telefoni
+Naša lokacija
+WILO Beograd d. o. o.
+Mijačka 3 11000 Beograd
+Sakupljanje i transport otpadne vode
+U pogledu ekološke zaštite i očuvanja resursa važnu ulogu igra upravo sakupljanje i transport otpadnih voda. Stalni izazovi, kao što su porast sadržaja čvrstih materija u otpadnoj vodi što otežava radne uslove postrojenja, zahtevaju inovativna rešenja da bi se neprekidno poboljšavali procesi i proizvodi vezani za njih.
+Uronjive pumpe, koje se koriste u sabirnim jamama i do kojih, između ostalog, dotiče i voda iz mašina za pranje, sapunjava voda iz lavaboa i tuševa, imaju znatno kraći radni vek zbog suspendovanih materija. Te suspendovane materije mogu da se natalože u pumpni šaht i da doprinesu stvaranju neugodnih mirisa i mulja.
+Wilo Drain TMW 32 sprečava taloženje tih suspendovanih materija zahvaljujući vrtložniku i transportuje ih zajedno sa fluidom. Time se smanjuju troškovi i vreme potrebno za redovno čišćenje šahta. Problem uklanjanja mulja se svodi na minimum, a uvažavaju se i higijenske odredbe za zaštitu na radu prilikom čišćenja.
+Vrsta konstrukcije
+Mali uređaj za odvođenje vode (nadzemna instalacija)
+Primena
+Uređaj za odvođenje fekalne otpadne vode za ograničenu primenu, spreman za priključivanje (direktno priključeno iza podne WC šolje), sa mehanizmom za usitnjavanje, za uklanjanje otpadne vode iz jedne WC šolje, kao i dodatnog lavaboa, jednog tuša ili jednog bidea, čija zaprljana / otpadna voda ne može prirodnim padom da se sprovede do kanalizacionog sistema, odn. zaprljane / otpadne vode koja se nalazi ispod nivoa povratnog toka. Specifikacije DIN EN 12050 - 3 kao i DIN 1986 - 100 moraju da se poštuju. Kod priključivanja više ili nekih drugih proizvođača otpadne vode od onih koji su ovde navedeni, preporučujemo da koristite proizvode iz serije Wilo-DrainLift S do XXL kao i FTS.
+Maks. dužina potisnog voda DN 32: za optimalan rad, potisni vod treba da bude što je moguće više uspravno, a dalje zatim horizontalno postavljen (u obzir su uzeta 2 kolena 90 i integrisani neporatni ventil)
+Vrsta konstrukcije
+Uređaj za odvođenje otpadne vode sa 1 ili 2 integrisane pumpe
+Primena
+Uređaj za odvođenje otpadne vode iz stambenih i komercijalnih zgrada (npr. gostionica, robnih kuća, itd). Neprečišćena otpadna voda, koja prirodnim padom ne može da se dovede do kanalizacionog sistema, i otpadna voda iz toaleta, koja se prikuplja ispod nivoa vraćanja vode prema DIN EN 12056 / DIN 1986 - 100 se odvodi do javne kanalizacije uz pomoć automatskog uređaja za odvođenje otpadne vode. Otpadna voda koja sadrži naftna ulja ili supstance mora se prethodno tretirati uz pomoć hvatača ulja, odn. benzina, otpadna voda sa mastima uz pomoć hvatača masti, a otpadna voda sa peskom, uz pomoć hvatača peska. U slučajevima kada dotok prema uređaju za odvođenje otpadne vode tokom normalnog rada ne sme da bude prekinut, potrebno je opremiti uređaj za odvođenje otpadne vode sa dodatnim uređajem za transportovanje sa jednakim kapacitetom, a koji će se po potrebi samostalno uključivati (DIN EN 12050 - 1 A1).
+Vrsta konstrukcije
+Primena
+Za pumpanje neprečišćene otpadne vode, koja ne može da se odvede u kanalizacioni sistem prirodnim padom. Wilo DrainLift S ispunjava propise DIN EN 12050 - 1 kao i DIN EN 12056. Minimalne dimenzije, u kombinaciji sa prostorno optimizovanom površinom za postavljanje omogućavaju višestrane mogućnosti primene kod:
+Naknadne ugradnje tuševa, toaleta, sauna itd.
+Opremanja toaleta u stanovima u suterenu
+Proširivanja / renoviranja stanova i zgrada
+Inovativno spajanje različitih mogućnosti instalacije uređaja za odvođenje otpadne vode u jedan uređaj, kao npr.:
+Direktan priključak na WC šolju
+Odvođenje vode iz jedne prostorije
+Instalacija ispred zida / ugradnja u zid
+Pogodno za sledeće vrste instalacija:
+Kao običnan uređaj za odvođenje otpadnih voda, za priključivanje zidnog ili stojećeg WC-a ili za kompletno odvođenje vode iz prostorije. Zbog kompaktnih dimenzija postrojenja neophodan je samo minimalan prostor. U kombinaciji sa montažom ispred zida / na zid kao uređaj za odvođenje otpadnih voda, povezan sa običnim sistemima za instalaciju ispred zida, u zid kao i na profile sa nosačima.
+Napomena:
+Posle postavljanja pločica, mora da bude moguće slobodno postavljanje i skidanje uređaja. Poštujte uputstva za postavljanje i dodatnu opremu.
+Vrsta konstrukcije
+Uređaj za odvođenje zaprljane vode (nadzemno postavljanje)
+Primena
+Uređaj za odvođenje zaprljane vode, za automatsko odvođenje vode iz tuševa, lavaboa, mašina za pranje veša i sudova itd., u starim ili novim zgradama gde otpadna voda ne može da se transportuje do glavnog kanalizacionog sistema putem prirodne gravitacije, odn. odvođenje zaprljane vode ispod nivoa povratnog toka. Pumpanje neagresivne zaprljane vode i drenažne vode bez fekalija i vlakana, masnoće i ulja. Specifikacije DIN EN 12050 - 2 i DIN 1986 - 100 moraju da se poštuju.
+Upozorenje: Pumpanje fekalne otpadne vode pomoću uređaja za odvođenje zaprljane vode je zabranjeno. U takvim slučajevima moraju da se koriste uređaji za odvođenje otpadne vode serija DrainLift KH32, DrainLift XS F, DrainLift S do XXL, kao i FTS.
+Vrsta konstrukcije
+Pumpna stanica u šahtu Synthetic
+Primena
+Wilo DrainLift WS 40 je prema EN 12050 - 2 automatski uređaj za odvođenje zaprljane vode bez fekalija iz ispusta u zgradama koji se nalaze ispod nivoa vraćanja vode, osiguran od povratnog toka. Uređaj možete da instalirate kako u zgradama, tako i izvan njih, kao plastični šaht u zemlji. Uređaj je najpodesniji za primene sa sezonskom pojavom otpadne vode (kao npr. u kampovima, vikendicama) ili u regionima sa malim dubinama mraza.
+Integrisana pumpa
+TC 40
+Za grubo zaprljane fluide; slobodan sferni prolaz, 40 mm
+Posebnosti / prednosti proizvoda
+Slobodan izbor dotoka
+Fleksibilna primena: Kao uređaj za odvođenje otpadne vode u zgradama ili kao pumpna stanica u šahtu izvan zgrada.
+Velika zapremina rezervoara (255 / 400 l)
+Fleksibilna ugradnja pomoću opcionog produžetka za šaht
+Uključujući električnu jedinicu za upravljanje ili upravljački uređaj
+Technical data
+Vrsta konstrukcije
+Vrsta konstrukcije
+Uređaji za odvođenje otpadnih voda sa sistemom za odvajanje čvrstih materija
+Primena
+Sistem za odvajanje čvrstih materija DrainLift FTS je uređaj za odvođenje otpadnih voda iz poslovnih objekata i kompleksa zgrada (npr. hotela, robnih kuća itd.).
+Posebnosti / prednosti proizvoda
+Jednostavna montaža zbog
+Mala težina
+Samo jedan izlaz na potisu kod sistema sa dupleks pumpom (integrisani Y-komad)
+Vrsta konstrukcije
+Postrojenje može da se instalira u zgrade (takođe i kao uređaj za odvođenje otpadne vode sa mehanizmom za usitnjavanje i MTS pumpom), kao i izvan zgrada, npr. u plastične šahtove u zemlji. Uređaj je najpodesaniji za primene sa sezonskom pojavom zaprljane vode (kao na kampovima, vikendicama), u regionima sa malim dubinama mraza ili u odvođenju vode pod pritiskom.
+Prilikom korišćenja uređaja za odvođenje otpadne vode sa mehanizmom za usitnjavanje u zgradama, sa potisne strane mogu da se koriste i manji prečnici cevovoda veličine od DN 40 (prema DIN EN 12050 - 1). To omogućava fleksibilnu i povoljnu kompletnu instalaciju.
+Technical data
+Vrsta konstrukcije
+Wilo-DrainLift WS 625 je šaht sa jednom pumpom za pumpanje zaprljane i otpadne vode u građevinskoj tehnici, iz prostorija i površina ispod nivoa vraćanja vode (EN 752). Podesan je kao pumpna stanica u šahtu radi odvođenja vode pod pritiskom i kao pumpna stanica za drenažno odvođenje vode. WS 625 se postavlja van zgrada u zemlju. On je, za svakog projektanta i izvođača radova, rešenje koje štedi vreme, troškove, a jednostavan je za montažu.
+Technical data
+Primenjivi tipovi pumpe
+MTC 32
+Pumpa za otpadnu vodu sa mehanizmom za usitnjavanje, u verziji na trofaznu struju, sa ili bez EX zaštite. Ya velike visine pumpanja do 50 m. Odgovara normama DIN EN 12050 - 1 i EN 12050 - 1.
+MTC 40
+Pumpa za otpadnu vodu sa mehanizmom za usitnjavanje, za niske napore, na monofaznu i trofaznu struju, bez EX zaštite. Monofazna verzija sa ugrađenim plivajućim prekidačem i kondenzatorskom kutijom. Odgovara normi EN 12050 - 1.
+Technical data
+Vrsta konstrukcije
+Za prenosne medije sa velikim udelom nečistoće (bez fekalija); slobodan sferni prolaz od 44 mm, priključni kabl koji se može otpustiti.
+TP 65
+Primena
+Sistem za postavljanje u već postojeću građevinu (zgrada ili betonski šaht).
+Uređaj za odvođenje otpadne vode sa sistemom za odvajanje čvrstih materija u svrhu odvođenja otpadnih voda većih naselja ili delova grada, ili kao sistem za zamenu prilikom modernizacije postojećih većih betonskih šahtova.
+Ušteda energije zahvaljujući pumpama sa malim slobodnim sfernim prolazom, a time i boljim stepenom iskorišćenja u obliku obične pumpne stanice za otpadnu vodu
+Znatno manje podložna začepljenjima, pošto pumpe ne dolaze u dodir sa čvrstim materijama u otpadnoj vodi
+Neprekidan rad prilikom radova održavanja ili opravki zahvaljujući verziji kao pumpna stanica sa dupleks pumpom i pojedinačne blokade rezervoara za odvajanje čvrstih materija
+Moguć pristup svim delovima spolja, zbog toga je održavanje vrlo jednostavno i higijensko
+Otpornost na korozije i dugi radni vek zahvaljujući konstrukciji od materijala PE-HD
+Vrsta konstrukcije
+Kompaktna pumpna stanica za otpadnu vodu sa sistemom za odvajanje čvrstih materija u šahtu od PE-HD
+Primena
+Kompletni sistem gotovo montiran u šahtu od PE-HD
+Moguća primena u područjima zaštite pitke vode pošto je homogeno zavarena i apsolutno vodonepropusna
+Definsani interfejs zbog toga što je gotov pumpni mehanizam
+Brza i povoljna montaža kao i puštanje u rad na licu mesta zbog kompletne isporuke u šahtu
+Vrsta konstrukcije

@@ -1,0 +1,13 @@
+Nove funkcionalnosti
+Masovni obračun zarada
+Razvijeno specijalno za agencije za obračun zarada koje se ponavljaju. Ukucamo podatke koji su isti za sve firme (minimalna plata), Billans obračuna sve plate odjednom samo sa jednim klikom. Uštede su velike, jer je trajanje obračuna za jednu ili sto i više firmi vremenski isti.
+Masovno fakturisanje
+Rešenje za firme koje izdaju svaki mesec ponavljajuće račune. Ako je vrednost računa ista uštede su velike, jer je obračun jednog ili pet, sto i više računa vremenski isti.
+Memo
+Mala aplikacija, ali korisna. Radite na Billansu, neko vas pozove, otvorite Memo i upišete u Memo polje tekst. Ako je u Memo polju nešto već upisano, Memo glava je crvena. Memo nas na jednostavan i efikasan način upozorava da ne zaboravimo na telefonski poziv.
+Prosto knjigovodstvo
+Urađeno je kompletno prosto knjigovodstvo. PK1 i PK2.
+Masovne kalkulacije prijema
+Pored postojećeg načina obrade kalkulacija prijema robe razvili nov način unosa koji je primeren firmama i agencijama sa velikim brojem primljene robe.
+Mobilni Billans Mobilni Billans je idealno rešenje za preduzeća koja žele, ili imaju potrebu za pristup svojim podacima odmah, bilo gde i bilo kada.
+Statistika pokazuje da oko 90 % preduzeća poseduje računar u kancelariji ili kod kuće. Isti procenat ima i pristup internetu. Procenat onih preduzeća koja mogu pristupiti svojim poslovnim podacima online je kritično mali - ispod 1 %.

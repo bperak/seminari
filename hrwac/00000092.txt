@@ -1,13 +1,34 @@
-Vježbanje koje prati potrebe suvremene žene 
-AM metoda nov je način tjelovježbe koji su nedavno osmislile i predstavile predstavile Ana Kuhanec Brašnović i Martina Mavrin Jeličić. Riječ je o načinu vježbanja koji je nastao da bi zadovoljio potrebe moderne žene. Vježbe su prilagođene upravo ljepšem spolu, a svaka žena vježbajući AM metodom pospješuje svoju snagu, senzualnost, sigurnost i prirodnost putem jedinstvenih senzualno terapeutskih pokreta, vježbi disanja i vizualizacije. 
-Ana Kuhanec Brašnović, apsolventica kineziologije i vlasnica Ana sensual fitness studija, i Martina Mavrin Jeličić, sveučilišna profesorica, magistrica kineziologije, vlasnica kineziološkog studija Body Balance, pričaju kako je AM metoda rezultat njihova dugogodišnjeg prijateljstva i želje da uspješno spoje ono najbolje što svaka od njih ima. Na temelju Martininih znanstvenih istraživanja o učinkovitosti tjelesnog pokreta na antropometrijske osobine, nedavne Anine edukacije u Americi te dugogodišneg iskustva, stvorena je jedinstvena AM metoda. 
-AM metoda razlikuje se od ostalih dosad viđenih kinezioloških programa utoliko što u jednom satu pruža prirodan terapeutski segment vježbanja u senzualnom obliku, s naglaskom na snagu i ljepotu samog pokreta. Dodatak je i faza prepuštanja koju su Ana i Martina osmislile kroz vježbe i tehnike vizualizacije, što je važan segment koji omogućuje maksimalnu učinkovitost daljnjeg treninga. Još jedna posebnost ove metode je što nema rekvizita - žene vježbaju svojim tijelom uz baletnu prečku koja ima ulogu asistenta i partnera tijekom treninga, kako bi se vježbe izvele pravilnije, a tijelo izdužilo s naglaskom na vretenaste mišiće. 
-" Kako bismo dobili potpunu slobodu pokreta, izostavili smo sve sprave i rekvizite i usmjerili se samo na ono što nam pruža naše tijelo. Metoda ima dva pravca - kondicijski i rehabilitacijski - stoga naši klijenti imaju mogućnost izbora, ovisno o svojim potrebama. Međutim, iznimno važan segment ove metode je i onaj mentalni. Posebnim senzualnim vježbama na kraju sata usmjerava se u pravcu zadovoljne žene, čime je uspjeh zagarantiran ", objasnila je Ana Kuhanec Brašnović, na koju se nadovezala Martina Mavrin Jeličić rekavši: " Kondicijski pravac ove metode ponajprije dovodi tijelo do savršenstva. Kažem do savršenstva, jer prateći biomehaniku pokreta u svakoj se vježbi snage aktivira maksimalan broj mišićnih vlakana, kako bi rezultat bio uočljiviji. Kod svakog treninga visokog intenziteta dolazi do povećanja frekvencije srca, a samim tim i do gubitka tjelesne težine. Važno je naglasiti kako je na putu svih tih transformacija misao vodilja treninga sigurnost za lokomotorni sustav te ispravljanje držanja tijela, uklanjanje bolova u leđima i vratu, rješavanje problema vezanih za nesanice, glavobolje, anksioznosti, visoki tlak. 
-AM metodu kondicijskog karaktera mogu vježbati svi koji se žele dobro oznojiti, učvrstiti i probuditi svoju senzualnost, dok su rehabilitacijski treninzi namijenjeni osobama koje imaju određene zdravstvene probleme (osobe kojima je liječnik dozvolio kontrolirano i lagano vježbanje) i mogu i žele vježbati laganije i opreznije. Ana Kuhanec Brašnović u 5. je mjesecu trudnoće pa je metodu prilagodila i trudnicama te osobno vodi treninge. AM metoda može se vježbati samo u Zagrebu i to u Ana sensual fitnessu, Oranice 48 i kineziološkom studiju Body Balance, Ilica 47. 
-Vježbe AM metode pokazuje Martina Mavrin Jeličić 
-AM PREPUŠTANJE Vježba se izvodi uz zatvorene oči. U mislima otplovite na mjesto gdje se osjećate ugodno i opušteno. Pored mora, u planinama ili uz izvor rijeke. Dišite i prepustite svoje tijelo pokretu. Lagano isturite prsni koš van, glavu prema natrag te 
-LIFTING Iz raskoračnog položaja spustite se u čučanj. Ako osjetite nelagodu, smanjite čučanj ili razmak između stopala. Podignite petu jedne noge i zadržite taj položaj te kroz 60 sekundi radite male titraje. Vježbu ponovite još jednom, 60 sekundi s drugo 
-SNAGA LABUDA Jednu nogu položite na prečku, dok drugom nogom radite mali počučanj samo do granice ugode. Vanjska ruka neka vam bude u opuštenom položaju pored tijela. Zadržite taj položaj te kroz 60 sekundi stišćite mišiće stražnjice. Ovom vježbom povećav 
-KAZALJKA SATA Hvatom za prečku smanjit ćete opterećenje na lumbalni dio kralježnice te korigirati nepravilno držanje ramena i vrata. Noge ispružite pod kutem i stisnite trbušne mišiće. Zamislite da je potkoljenica kazaljka na satu, krenite od 12, preko 9 
-SENZUALAN MOST Privucite stopala i podignite kukove prema gore, oslonac neka vam bude na prstima stopala i lopaticama. Zatvorite oči i pronađite svoj prirodan i senzualan način kruženja kukovima. Ruke nemaju određen pravac kretanja, pustite ih da opušteno 
-KRUŽNA MEDITACIJA Sjednite u turski sjed i zatvorite oči. Dlanove položite na koljena. Dok udišete, izbacite prsa van i krenite kružiti tijelom u jednu stranu. Nastojte da vam glava i kralježnica slijede val kruženja zdjelice. Napravite osam krugova u jed 
+Modul omogućuje kompletnu obradu podataka, njihov pregled i izvještavanje vezano uz financijsko knjigovodstvo poduzeća. Omogućuje unos podataka u proizvoljno kreiranu temeljnicu, no najveća je funkcionalnost postignuta u kombinaciji s ostalim modulima programskog rješenja LUCEED. Automatski prijenosi u Financijsko knjigovodstvo dešavaju se prema proizvoljno definiranoj shemi knjiženja.
+Shema knjiženja može definirati za:
+partnera i artikl
+dokument i tip dokumenta
+poslovnu jedinicu
+skladište i vrstu skladišta
+mjesto, tip i nositelja troška
+Zaključenje godine omogućeno je automatskim zatvaranjem klase 4 i 7 te prijenosom početnog stanja u novu poslovnu godinu (sintetički i analitički).
+Dodatno
+Knjiženja se vrše prema kontnom planu kojeg definira korisnik, uz mogućnost izmjene. Neovisno o kontnom planu kojeg poduzeće koristi, omogućeno je kreiranje, izmjene i dopune neograničenog broja financijskih izvješća (TSI-POD, GFI-POD, RDG, Bilance za male, srednje, velike poduzetnike, izvješća prema vlastitim potrebama...).
+Komunikacija među modulima omogućuje automatske prijenose podataka u Financijsko knjigovodstvo. Ti prijenosi omogućeni su iz modula:
+Knjiga U-Ra / I-Ra / PDV
+Kalkulacije
+Gotovinska blagajna
+Robno / materijalno poslovanje
+Obračun plaća
+Kasa - prodajno mjesto, knjiga popisa
+Fakturiranje / veleprodaja
+Proizvodnja
+Hotelsko poslovanje
+Kasa za ugostiteljstvo manager
+Neke od mogućnosti koje izdvajamo kao nezaobilazne u poslovanju kompleksnih poslovnih sustava su obrade i izvješća vezana uz otvorene stavke:
+automatsko učitavanje bankovnog izvoda u temeljnicu
+obračun kamata za dospjela potraživanja
+izrada kompenzacija
+povezivanje stavki prilikom obrade bankovnog izvoda, po veznom broju ili FIFO
+praćenje kunskih i deviznih IOS-a
+IOS sa strukturom po danima
+automatsko slanje IOS-a na e-mail uz zadane uvjete (npr. Iznosi veći od 500,00 kn ili dugovanja starija od 60 dana)
+format ispisa IOS-a prema obrascu korisnika
+automatski obračun kamata vezan uz IOS
+automatsko kreiranje kompenzacija
+Neka od izvješća
+Modul nudi predefinirane izvještaje te mogućnost samostalnog kreiranja izvještaja prema potrebama. Svako tako kreirano izvješće moguće je ispisati i prebaciti u Excel radi daljnje obrade i analize.

@@ -1,11 +1,343 @@
-Izdvojeno 
-5.0 Upravljanje obuhvatom 
-(5.0. P1) 
-Kaže se da je jedina konstanta u svijetu promjena. Možete napraviti savršene planove, ali oni ne mogu uračunati svaku potencijalnu promjenu koja se može pojaviti. Što je duži vaš projekt, vjerojatnije je da ćete imati posla sa promjenama. To je jedan razlog zašto TenStep proces razumije da procesi inicijalne definicije (korak 1) i planiranja (korak 2) ne moraju biti savršeni. Vi i vaš tim trebate napraviti najbolji posao koliko možete u tom trenutku. To je dovoljno dobro. Nakon toga vi trebate upravljati promjenama. 
-Promjene obuhvata (5.0. P2) 
-Obuhvat je pojam koji se koristi za opis cjelovitosti posla i sveukupnih granica projekta. Obuhvat se koristi za definiranje što će projekt isporučiti i što neće isporučiti. Za velike projekte, on može uključivati glavne isporuke koje su izrađene, pogođene organizacije, transakcije pod utjecajem, uključene tipove podataka, itd. 
-Ako tražite razloge zbog kojih je projekt bio neuspješan, to je obično rezultat dva problema. Ili tim nije potrošio dovoljno vremena u definiranju posla i / ili je postojao manjak upravljanja promjenama. Čak i ako je voditelj projekta napravio dobar posao prilikom definiranja obuhvata, teži dio dolazi prilikom potrebe upravljanja projekta unutar dogovorenog obuhvata. 
-Svrha upravljanja promjenama obuhvata je zaštita održivosti odobrene povelje projekta i odobrenih poslovnih zahtjeva. Drugim riječima, povelja projekta definira cjelokupan obuhvat projekta, a poslovni zahtjevi detaljno definiraju isporuke. Projektni tim se obvezao na krajnji rok i proračun na osnovu definicije obuhvata visoke razine i detaljne razine. Ako se isporuke promjene tokom projekta (a obično to znači da klijent želi dodatne stavke), procjene za troškove, angažman i trajanje više neće biti ispravne. Ako sponzor pristane uključiti novi posao u obuhvat projekta, voditelj projekta ima pravo očekivati da će se trenutni proračun i krajnji rok modificirati (obično povećati) kako bi se odrazio ovaj dodatni posao. Ovi novi procijenjeni troškovi, angažmani i trajanje sada postaju odobrena meta. 
-Ponekad voditelj projekta misli da upravljanje obuhvatom znači da klijentu treba reći ne. To čini voditelja projekta nervoznim. 
-Kako god, dobra vijest je da je upravljanje obuhvatom dobivanje sponzora da donese odluke koje će rezultirati promjenama obuhvata projekta. 
-To je veoma važno. Mali broj klijenata može vidjeti i izraziti svaki zahtjev unaprijed. Zbog toga, obično postoje promjene koje trebaju biti uvedene tokom projekta. Ove promjene mogu biti neophodne za rješenje i mogu postojati valjani poslovni razlozi zašto bi one trebale biti uključene. Voditelj projekta i projektni tim moraju prepoznati kada su ove promjene zahtijevane. Zatim moraju slijediti predefinirani proces promjene obuhvata. Ovaj proces u konačnici donosi odgovarajuće informacije sponzoru projekta i omogućava sponzoru da donese odluku da li bi modifikacija trebala biti odobrena na osnovu poslovne vrijednosti i utjecaja na projekt u smislu troškova i rasporeda. 
+Izdana je verzija programa 11.1 Najvažnije novosti su Fiskalizacija u Hrvatskoj, XML export svih tabela u programu, novi XML importi, novi PDV, UR-a, IR-a i dr. Pregled promjena programa
+28.12.2012. Nova informacija iz Porezne uprave
+Citat sa stranica PU: " Servis za zaprimanje podataka dostupan je u produkcijskoj okolini danas od 10:00. Svi podaci koji se šalju u produkcijskoj okolini smatraju se produkcijskim podacima. Za testiranje rada aplikacija na strani obveznika i povezivanja na centralni informacijski sustav Porezne uprave predviđena je testna okolina. "
+Dakle promjenili su stav da će se rad u produkcijskom režimu do 31.12.2012. smatrati testiranjem te upućuju da se za testiranje koristi demo režim rada sa demo aplikativnim certifikatima.
+U predverziji 11.1.992 u postavkama je moguće odrediti da li se radi u PRODUKCIJSKOM ili DEMO režimu rada pa na to obratite pažnju.
+27.12.2012. Izdana je druga podverzija 11.1.992 - Fiskalizacija u Hrvatskoj
+Izdana u druga predverzija 11.1.992, u dijelu za skidanje datoteka možete skinuti i isprobati tu predverziju, a koja služi isključivo za isprobavanje.
+Od danas 27.12.2012. Porezna uprava je omogućila rad u PRODUKCIJSKOM (stvarnom) režimu rada sa PRODUKCIJSKIM aplikativnim certifikatima (datoteke: RDCca.cer i FISKAL 1. P12), ali i dalje za potrebe testiranja no sa stvarnim produkcijskim certifikatima. Produkcijske certifikate od Fine možete ishoditi već neko vrijeme, a ako do sada niste krajnje je vrijeme da to učinite.
+Od 1.1.2013. kreće STVARNI PRODUKCIJSKI režim rada sa produkcijskim aplikativnim certifikatima i svi fiskalizirani računi se arhiviraju u Poreznoj upravi, a oni koji ne prijavljuju račune podliježu zakonom predviđenim sankcijama.
+PREPORUKA je svim korisnicima da što prije isprobaju ovu predverziju na svojem računalu tj. da testiraju fiskaliziranje računa sa Poreznom upravom kako bi već u ovom trenutku otklonili eventualne probleme na svojem računalu u vezi SSL konekcija, digitalnog potpisivanja poruka i dr. Istodobno će se osoblje priviknuti na novi način rada izdavanja računa. Ako fiskalizacija radi u ovom režimu raditi će i u stvarnom režimu od 1.1.2013.
+Uputa Nakon skidanja zipane (sažete) datoteke sa weba dovoljno je datoteku staviti u neki privremeni direktorij i pokrenuti dvostrukim klikom, datoteka će raspakirati sve direktorije unutar direktorija Ipos knjigovodstvo i automatski pokrenuti program knjigovodstvo.exe. Nikakvih drugih instalacija neće biti, kada želite obrisati tu predverziju dovoljno je samo obrisati kreirani direktorij Ipos knjigovodstvo. Preuzimanje datoteka
+19.12.2012. Izdana je prva podverzija 11.1.991 - Fiskalizacija u Hrvatskoj
+Trenutno je fiskalizaciju moguće raditi samo u TESTNOM okruženju Porezne uprave tj. podaci o računima se šalju u Poreznu upravu samo u svrhu testiranja, a koriste se DEMO aplikativni certifikati koje FINA izdaje besplatno svima koji to zatraže (datoteke: democacert.cer i fiskal 1 demo.pfx).
+19.12.2012. Fiskalizacija u Hrvatskoj - upute i način rada
+U uputama za Fiskalizaciju možete pronaći: - općenito o fiskalizaciji (linkovi na službene stranice PU) - popis postupaka za rad sa fiskalizacijom - sve o digitalnim certifikatima Fine - kako podesiti program Ipos knjigovodstvo za rad sa fiskalizacijom - kako fiskalizirati VP račune, MP račune, prijaviti poslovni prostor i dr. Detaljne upute za Fiskalizaciju
+18.12.2012. Ažurirane su promjene programa za ver 11.1
+Glavne promjene se odnose na Fiskalizaciju u Hrvatskoj od 1.1.2013 i na XML exporte podataka iz programa. Pregled promjena programa
+17.12.2012. Izdan je dodatak-podverzija 11.0.5 na ver 11.0
+Postavljanje dodatnih kontrola u sistemu indeksiranja na nekim računalima.
+U obračunu plaća verzija BiH MIP 1023 obrazac, korekcija kod datuma i vrste isplate gdje su se povlačili podaci uvijek iz zadnjeg obračunskog razdoblja. Istodobno je prije ispisa dodana kao opcija mogućnost da se u koloni 18. prikazuje teoretski iznos osobnog odbitka faktor x 300 KM, a ne obračunski tj. mogući. Preuzimanje datoteka - registrirani korisnici
+29.11.2012. Obavijest o Fiskalizaciji u Hrvatskoj od 1.1.2013
+Ipos knjigovodstvo će rutinu za fiskalizaciju računa implementirati u slijedećoj verziji programa koja se očekuje oko Nove godine.
+Na fiskalizaciji se radi već duže vrijeme, čim izađa konačna verzija Zakona o fiskalizaciji i konačna verzija Tehničkog pravilnika koji to uređuje izdat ćemo jednu predverziju koja će se moći isprobati i eventualno korigirati prije izlaska konačne verzije. Izlazak konačnog tehničkog pravilnika se očekuje tokom prosinca.
+Postojeći korisnici će rutinu za fiskalizaciju moći kupiti kroz kupnju redovnih nadogradnji programa, a korisnici sa pretplatama na nadogradnje i paušalnim održavanjem će nadogradnju kao i obično dobiti u sklopu pretplate.
+27.11.2012. Obavijest korisnicima
+Preporučujemo korisnicima da ako moraju raditi indeksiranje ili pakiranje u programu da to rade u single exe tj. jednokorisničkoj verziji, a ne u mrežnoj verziji. Postupak je da srušite nxServer.exe i preimenujete privremeno ipos.ini te pokrenete program.
+26.11.2012. Obavijest
+Cijena dodatne firme unutar iste instalacije je 20 % od vrijednosti osnovnih modula, za servise 2 %. Cijena mrežne licence je 25 % vrijednosti programa.
+30.08.2012. Izdan je dodatak-podverzija 11.0.3 na ver 11.0
+Promjena u rutini kod importa izvoda u FINA TXT formatu za HUB3. Primjećeno je da npr. Zagrebačka i RBA banka različito tumače broj potrebnih slogova u datoteci, npr. RBA ne uključuje u taj broj zadnji slog datoteke 999 dok ZABA i taj slog uključuje u ukupan broj pa iz tog razloga kod nekih banaka nije prolazila kontrola broja slogova koju program radi prije samog automatskog importa izvoda. Uvjet je promjenjen na način da razlika potrebnih i prebrojanih slogova ne smije biti veća od 1. Preuzimanje datoteka - registrirani korisnici
+Primjećeno je da nekim korisnicima sa Gmail računima za elektroničku poštu ne stižu svi mailovi, to nije problem kod informativnih mailova, ali je problem kod mailova sa ključevima i računima. Da biste bili sigurni da e-mailovi koje primate od IPOS-a neće završiti u Spam folderu tj. kao Neželjena pošta potrebno je da naše e-mail adrese označite kao sigurne (whitelist), da biste to napravili slijedite uputu na sljedećem linku Tekuće aktualnosti - Problemi sa Gmailom
+Povezivanje programa sa eksternom dokumentacijom U programu su na mnogim mjestima napravljene poveznice na eksternu dokumentaciju tj. na vanjske datoteke (doc, pdf, bmp, avi, mp4, xls...) Kreiranje poveznica na eksternu dokumentaciju je jednostavan postupak koji se svodi na izbor datoteke u dijaloškom okviru, otvaranje dokumentacije klikom na tipku Dokumenti. Pregled promjena programa
+Promjene programa Ipos knjigovodstvo u vezi promjena u transakcijskom poslovanju su u toku i bit će dostupne tokom narednih mjeseci u prijelaznom periodu. Prvi zakonski rok za isključivu primjenu novih formata je 1.1.2013, a do tada FINA i poslovne banke moraju u prijelaznom periodu prihvaćati i postojeći stari i novi format.
+1. Od 1.6.2012. godine omogućena je upotreba IBAN konstrukcije transakcijskih računa (21 afanumerički znak) za nacioanalne platne transakcije. U prijelaznom razdoblju do 1.6.2013. moguće je koristiti postojeću (VBDI-trans. račun) i IBAN konstrukciju.
+2. Od 4.6.2012. uvedeni su novi obrasci naloga za plaćanje HUB 3 (nacioanalna i međunarodna plaćanja) i HUB 3 A (nacionalna plaćanja). U prijelaznom razdoblju do 1.6.2013. moguće je koristiti postojeće obrasce HUB 1 i nove obrasce HUB 3.
+3. Sukladno promjenama vezanim uz IBAN promjenjene su i FINA datoteke za skupna plaćanja, u prijelaznom razdoblju do 31.12.2012. mogu se koristiti datoteke u postojećem i novom formatu, a od 1.1.2013. isključivo u novom formatu.
+4. Od 4.6.2012. u funkciji su i novi formati izvadaka po transakcijskim računima, u prijelaznom razdoblju do 31.12.2012. mogu se koristiti postojeći i novi formati.
+U izvještajima fakturiranja Ispis predračuna-kalkulacija i Ispis računa-kalkulacija u polju Kupac je šifra lokacije isporuke (LI: XY) stavljeno ispred naziva kupca jer kod dužih naziva kupaca nije bilo mjesta za prikaz šifre lokacije isporuke. Preuzimanje datoteka - registrirani korisnici
+03.05.2012. Izdan je dodatak-podverzija 10.5.5 na ver 10.5
+Kod izrade automatskih HUB-ova u template-ima (predlošcima) je omogućen automatski unos varijabli za polje Poziv na broj zaduženja, a zbog nove Uredbe o plaćama od 1.5.2012. (NN br. 49 / 12.) U predloške za pojedine doprinose možete u polje Model upisati 67, a u polje Poziv na broj zaduženja tekst: MB - MJE GOD - 0 što će automatski upisati OIB-MjesecGodina-X (X je konstanta od 0 do 4). Preuzimanje datoteka - registrirani korisnici
+11.04.2012. Izdan je dodatak-podverzija 10.5.4 na ver 10.5
+Za korisnike iz Bosne i Hercegovine. Dodatna mogućnost kod fiskalnih računa u veleprodaji u slučaju kada imate artikle sa malim cijenama i velikim količinama. Preko dodatne postavke je moguće fiskalni račun ispisati samo u u sumarnom iznosu po tarifama poreza tj. bez pojedinačnih artikala-stavaka. Ovo može biti dobra varijanta i kada imate puno stavaka na računu pa kad se već ispisuje računovodstveni račun da ne mora i fiskalni biti ispisan sa svim stavkama.
+U prozoru za unos PDV obrasca kozmetička greška pod III.9. pisalo je 23 u umjesto 25. Korekcija kod XML exporta PDV obrasca u e-Porezna.
+PDV XML za veljaču 2012. u e-Porezna je testiran na stvarnom PDV obrascu, i radi.
+Kao što je prije navedeno, PDV obrazac je trenutno prilagođen novim propisima, ali prema predviđanjima kako će to biti jer Pravilnik još nije izdan, a sve iz razloga da korisnici mogu na vrijeme početi unositi podatke. PDV XML export je prilagođen da i sa novim PDV poljima funkcionira kod exporta u e-Porezna aplikaciju za veljaču 2012., a za ožujak će biti napravljen novi XML export kada bude izdan od strane MF. Preuzimanje datoteka - registrirani korisnici
+U sklopu sljedeće verzije 10.5 će biti izdano i detaljno uputstvo kako u cijelom programu promjeniti stope pdv-a sa 23 % na 25 %. Kako se radi o velikom zahvatu u programu verzija 10.5 će biti neophodna za sve korisnike koji imaju Saldakonti kupaca, Saldakonti dobavljača, PDV evidencije, Fakturiranje, PC blagajnu, Maloprodaju, Obrtnike. Čim budu dostupni podaci o novim obrascima PDV, UR-a, IR-a i dr. u kratkom roku će biti izdana verzija 10.5, a što se očekuje u toku ovog mjeseca.
+Svi korisnici koji imaju Paušalno održavanje i Pretplate na nadogradnje moći će odmah instalirati novu verziju.
+20.02.2012. Obavijest o promjenama poreznih zakona
+Detaljnije upute u vezi nadolazećih promjena kod PDV-a, poreza na dohodak i dr. ćemo objaviti tokom ovog tjedna na web stranici u dijelu Korisnici \ Tekuće aktualnosti.
+15.02.2012. Obrazac DU
+Obrazac DU se može skinuti sa stranica Porezne uprave i NN u pdf formatu, a možete ga skinuti sa naših web stranica u Word formatu za popunjavanje na računalu u meniu O programu-Preuzimanje datoteka, na linku Preuzimanje datoeka
+08.02.2012. Nove promjene programa za verziju 10.5
+Napravljen je Financijski kalkulator sa izračunom Potrošačkog kredita koji npr. firma može ponuditi svojim kupcima i Obračunom zajma (kredita) po različitim kriterijima i otplatnom tablicom u formi kako ga kreiraju banke. Pregled promjena programa
+02.01.2012. U aktualnosti dodane nove upute u vezi otvaranja nove poslovne godine
+Pročitajte kako riješiti probleme kod otvaranja nove poslovne godine, unosa početnih stanja i dr. Isto tako pogledajte i prošlogodišnju uputu Kako započeti novu poslovnu godinu, otvaranje početnih stanja i dr. Tekuće aktualnosti
+XML export IP kartica za 2011. godinu prema novoj shemi v3.0 Napravljen je automatski prijenos u novu godinu neplaćenih R-2 računa obrtnika u PDV modulu. Pregled promjena programa
+Napravljen je automatski unos podataka o računima, ok-ovima i uplatama u pomoćnom programu za obračun kamata. Pregled promjena programa
+U blagajničkom poslovanju je napravljena rutina za renumeraciju rednih brojeva dnevnika, rednih brojeva uplatnica, isplatnica, a na osnovu redoslijeda rednih brojeva ili datuma. Pregled promjena programa
+U fakturiranju, kupcima i dobavljačima je explicitno uveden datum isporuke / obavljenje usluge pored dosadašnjeg kroz datume otpremnica. Na osnovu toga porezni datum u PDV modulu se određuje između datuma računa i datuma isporuke. U narudžbama su dodane dodatne funkcionalnosti redoslijeda i pretraživanja. Pregled promjena programa
+Kod prijenosa aktivnog predračuna-ponude u račun sada su moguće sljedeće opcije: a) Možete ostaviti puni iznos predračuna koji je program inicijalno ponudio b) Možete upisati djelomični iznos uplate c) Možete upisati iznos uplate nula, ako ništa nije plaćeno uz pozivanje na predračun u ispisu računa d) Možete obrisati sve podatke ako ništa nije plaćeno i ne želite pozivanje na predračun u ispisu računa Pregled promjena programa
+Napravljeni su korisnički izvještaji u modulu Pc kasa po uzoru na iste iz modula Glavne knjige s tom razlikom što se umjesto konta glavne knjige ovdje definiraju filteri grupa artikala. Podaci se generiraju iz računa, a vrijednosti koje možemo uključiti u izvještaje su nabava, marža, prodaja, popust i količina grupa artikala. Broj izvještaja je do 32000. Podaci na izvještaju se mogu povlačiti iz veleprodajnih računa, maloprodajnih računa ili zbrojeno veleprodajnih i maloprodajnih računa. Pregled promjena programa
+06.09.2011. IZDANA JE VERZIJA PROGRAMA 10.3
+Napravljen je SIMULATOR POSLOVANJA preko simulacije podataka korisničkih izvještaja (bilanca stanja, račund dobiti i gubitka) ili preko simulacije podataka bruto bilance, a koji se podaci onda upotrebljavaju u korisničkim izvještajima.
+Napravljen je SIMULATOR POSLOVANJA. Simulacije je moguće raditi na više načina: 1. Način je da se za bilo koji korisnički izvještaj (bilanca stanja, račun dobiti gubitka, novčani tijek i dr.) može generirati simulator datoteka koja sadrži sve podatke tog izvještaja. U toj simulator datoteci se nakon toga unutar programa mogu kao u tabličnom kalkulatoru mijenjati svi iznosi (sumarno za razdoblje ili za svaki mjesec pojedinačno), a program će automatski ažurirati sve promjene za tu poziciju i za čitav izvještaj. Tako izmijenjeni podaci se onda mogu ispisati kao simulacija izvještaja koji izgleda kao i originalni koji vuče podatke iz poslovanja. 2. Način je da se za kod izvještaja Bruto bilance generira simulator datoteka i to sa ukupnim prometima, ali i prometima za svaki mjesec pojedinačno. Nakon toga se ta simulator datoteka može proizvoljno mijenjati-simulirati i nanovo ispisati. Ovakva simulator datoteka bruto bilance se dalje može koristiti kao podloga za ispis svih Korisničkih izvještaja (bilanca stanja, račun dobiti...) umjesto da se povlače podaci iz knjigovodstva. 3. Ako smo npr. napravili simulator datoteku Bruto bilance i izmijenili je, pa nakon toga na osnovu nje ispisali neki Korisnički izvještaj, i za taj korisnički izvještaj je moguće generirati simulator datoteku koju onda opet možemo mijenjati kao u načinu 1. Moguće su i druge kombinacije koje bira sam korisnik. Pregled promjena programa
+Ažurirane su promjene za sljedeću verziju programa 10.3. Hrvatska Obrazac PP-MI-PO, novi IP obrazac, novi DNR obrazac. Bosna i Hercegovina Novi GIP-1022, export u XML za GIP-1022, napravljen MIP-1023 i export u XML. Pregled promjena programa
+16.05.2011. Izdan je dodatak-podverzija 10.2.2 na ver 10.2
+Promjene u automatskom zatvaranju saldakontija, promjene u Fakturiranju u vezi cassa sconto i devizni računi, robno-materijalno i usklađivanje stanja, pc kasa i više decimala u popustu, završne promjene u vezi fiskalnih računa BiH, platni listić u plaćama sitne kozmetičke promjene. Pregled promjena programa
+15.03.2011. IZDANA JE VERZIJA PROGRAMA 10.2
+Program je prilagođen sistemu Fiskalizacije u BiH, a trenutno podržava uređaj (fiskalni pisač) Tremol T260F zastupnika KIMTEC d. o. o. Dodatne automatizacije kod proizvodnih radnih naloga u modulu Proizvodnja. Dorada platnih listića u Plaćama za automatski prikaz specifikacije radnog vremena obrasca OP. Pregled promjena programa
+04.03.2011. Izdana je treća podverzija 10.2.993 u vezi fikalizacije BiH
+Korisnici koji su to zatražili pregled verzije u vezi fiskalizacije u BiH mogu u dijelu za skidanje datoteka skinuti i isprobati treću podverziju 10.2.993. Napravljene su dodatne izmjene, PIB je uveden kao dodatno polje u partnere, kod inozemnih faktura program u letu dodaje točku na naziv artikla kako bi se razlikovali artikli sa 17 % i sa 0 %. Preuzimanje datoteka - registrirani korisnici
+21.02.2011. Obavijest o fiskalizaciji programa Ipos knjigovodstvo u BiH
+U toku je prilagodba programa Ipos knjigovodstvo koja će omogućiti jednostavno automatsko povezivanje sa fiskalnim uređajima sukladno Propisima u BiH o fiskalizaciji.
+Za većinu firmi rok za fiskalizaciju je produžen do 15.04.2011. (ostale trgovine na malo, putničke agencije, trgovine na veliko i svi ostali nespomenuti koji izdaju bilo kakve fakture). Za jedan manji broj firmi (hoteli, kampovi, kantine, katering, farmaceutske i medicinske trgovine i motornim gorivima) rok za fiskalizaciju je bio do 31.01.2011. koji smo propustili zbog tehničkih problema vezano za fiskalne uređaje.
+U toku 2. mjeseca 2011. ćemo imati prvu funkcionalnu testnu verziju programa prilagođenu fiskalizaciji koju će korisnici koji to žele moći isprobati i dati svoje primjedbe i prijedloge. Konačna verzija se planira krajem 2. mjeseca ili početkom 3. mjeseca zavisno kako će teći testiranje i izrada završnih dijelova prilagodbe.
+U BiH je trenutno 9 proizvođača / zastupnika fiskalnih sistema i 7 fiskalnih kasa / pisača koji su prošli testiranje. Prilagodba programa je različita za svaki od tih uređaja što znači da ako je program prilagođen za jedan uređaj neće raditi sa drugim uređajem.
+Ako ste zainteresirani da dobijete na uvid testnu verziju Ipos knjigovodstvo prije konačne verzije molimo vas da nas obavijestite o tome.
+02.02.2011. Izdan je dodatak-podverzija 10.1.3 na ver 10.1
+Kod obrazaca ID-1 i Potvrde o isplaćenim primicima drugog dohotka greškom su bili u iznos doprinosa uključeni i doprinosi na dohodak. Pregled promjena programa
+28.01.2011. Uputa za IP kartice za 2010.
+Dodana uputa za predaju IP kartica u XML datoteci na magnetnom mediju. U verziji 10.1.2 se kod ispisa IP kartica kreira KONAČNA XML datoteka koju više nigdje ne morate obrađivati tj. ona se kao takva predaje u Poreznu upravu. Koja je procedura predaje, izgled popratnog lista i dr. pogledajte na web stranicama PU na linku Prihvat obrazaca IP za 2010.
+21.01.2011. Izdan je dodatak-podverzija 10.1.2 na ver 10.1
+Korekcija šifre općina kod exporta IP obrasca u XML datoteku. PU (ID, IP...) i Regos (RSm) nemaju isti šifrarnik općina jer kod Regosa postoji još i kontrolni broj. Pregled promjena programa
+19.01.2011. IZDANA JE VERZIJA PROGRAMA 10.1
+Konačna verzije exporta IP kartica za 2010. u XML datoteku za predaju u poreznu upravu. Napravljen je obrazac ID-1 u 2010. godini. Napravljena je potvrda o isplaćenom primitku drugog dohtoka u 2010. godini. Obrazac ID za isplate u 2011. godini papirnata verzija i export u XML v3.0 za predaju na ePorezna Pregled promjena programa
+13.01.2011. IP kartice za 2010., ID obrazac, ID-1 obrazac
+IP kartice u verziji 10.0.3 nisu rađene za 2010. godinu, što je i navedeno u popisu promjena, PU je tek kasnije dala uputu za IP za 2010. godinu, a program će to omogućiti u sljedećoj verziji 10.1 koja će izaći tokom siječnja. Rok za predaju IP kartica je 31.1.2011.
+ID obrazac za isplaćenu plaću u prosincu 2010. se predaje do 15.1.2011. na STAROM obrascu, prvi rok za predaju na NOVOM ID obrascu je 15.2.2011. za plaće isplaćene u siječnju 2011.
+U verziji 10.1 će biti napravljen ID-1 obrazac i Potvrda o isplaćenim primicima drugoh dohotka.
+03.01.2011. Nova Aktualnost u vezi početka rada u novoj poslovnoj godini
+Kratki podsjetnik za korisnike koji na početku nove kalendarske godine trebaju otvoriti novu poslovnu godinu, a u programu imaju podatke prethodne poslovne godine. Tekuće aktualnosti
+29.12.2010. Izdan je dodatak-podverzija 10.0.3 na ver 10.0
+Kod importa izvoda iz Fina TXT datoteke je omogućeno korisniku da sam (ručno ili programski) unese konto za svaku stavku transakcije. U postojećem importu izlaznih računa u Kupci - Dokumenti - Izlazni računi - Tipka Import omogućen unos negativnog broja računa i negativnih iznosa polja iznos sa porezom, porez, osnovica za 0 %, u stavkama polja duguje i potražuje. Napravljen je import ulaznih računa u saldakonti dobavljača iz vanjske tekstualne datoteke. Istovremeno sa importom računa se radi import i protustavaka temeljenica i unos u porezne knjige ura. Pregled promjena programa
+07.12.2010. Izdan je dodatak-podverzija 10.0.2 na ver 10.0
+Rješenje ako imate problem sa ograničenjem Evidencije radnog vremena, a imate registriranu kadrovsku evidenciju bez plaća. Pregled promjena programa
+Riješen problem koji se kod manjeg broja korisnika pojavljivao kao nemogućnost indeksiranja unutar programa zbog čega je bilo potrebno pokretati indeksiranje izvan programa. Testiranjem na takvim računalima se pokazalo da više nema tih problema. Pregled promjena programa
+27.10.2010. Obavijest u vezi ukidanja kriznog poreza od 1.11.2010.
+Svi korisnici koji imaju verziju 8.10 ili 9.0 ne trebaju novu verziju programa da bi promjenili tj. ukinuli krizni porez od 1.11.2010. jer je mogućnost za to već uključena od verzije 8.10. Postupak: u postavkama programa u grupi Obračun dohodaka potrebno je isključiti obje postavke koje se odnose na krizni porez tj. / Obračun kriznog (solidarnog poreza) na iznos za isplatu / i / Obračun samo 4 % na ukupni iznos kod isplata većih od 6.000 kn /. Ako vam slučajno zatreba ponovo obračun sa kriznim porezom možete te postavke privremeno uključiti.
+Unutar programa napravljen čitač novosti (RSS News Reader) koji će korisnika dok je u programu redovno obavještavati o svim novostima o programu istog trenutka kada budu objavljene na webu (nove podverzije, tekuće aktualnosti i dr.). Pregled promjena programa
+Korisnici koji imaju problema sa indeksiranjem nakon nadogradnje neka stave podverziju 9.0.3 knjigovodstvo.exe, zatim treba kreirati shortcut na knjigovodstvo.exe i u shortcutu staviti parametar / indeksiranje. To će pokrenuti program sa parametrom indeksiranje što će pokrenuti direktno indeksiranje bez pokretanja programa. Nakon indeksiranja neka normalno uđu u program.
+Kod nekih korisnika se problem može riješiti i restartanjem računala pa onda pokretanjem normalnog indeksiranja.
+Postupak kreiranja shortcuta na program sa parameterom indeksiranje: - pronađite datoteku knjigovodstvo.exe u direktoriju... Ipos knjigovodstvo - desni klik mišem na tu datoteku pa iz menia odaberite lijevim klikom miša " Create shortuct " - kreirat će se nova datoteka npr. " Knjigovodstvo.exe - Shortcut " - desni klik na taj novi shortucut-datoteku pa lijevi klik mišem na Properties u meniu - otvorit će se prozor i u njemu pronađite tab Shortcut ako nije već selektiran - kliknite u polje Target i dođte kursorom na kraj teksta, dodajte jedan razmak i upišite / indeksiranje - kliknite na tipku OK da se spreme promjene i zatvori prozor
+Pokretanjem ovog shortcuta ćete pokrenuti program i direktno ući u indeksiranje. Ovaj shortcut naravno ne koristite kod regularnog ulaska u program. Pregled promjena programa
+16.08.2010. Izdan je dodatak-podverzija 9.0.2 na ver 9.0
+Ispravak kod ispisa računa u pc kasi u slučaju kad je POS pisač podešen na " Traka 76 mm širine ". Red je bio ispisan samo pola dužine zbog razlike AnsiString i WideString podatka. Pregled promjena programa
+15.08.2010. IZDANA JE VERZIJA PROGRAMA 9.0
+U kadrovskoj evidenciji novi podmodul Evidencija o radnom vremenu radnika. Ova evidencija je obavezna za sve poslodavce (fizičke i pravne osobe), mora se voditi na radnom mjestu radnika i mora biti ažurna na kraju svakog radnog dana. Pregled promjena programa
+07.08.2010. Nova aktualnost u vezi Pravnilnika o radnicima i plaći
+U aktualnosti se objašnjavaju promjene u predverziji 9.0.991 vezano za tekuće Pravilnike o sadržaju i načinu vođenja evidencije o radnicima i sadržaju obračuna plaće. Tekuće aktualnosti
+06.08.2010. Izdana je 1. beta predverzija 9.0.991
+Izdana je beta predverzija 9.0.991. Ova verzija služi za isprobavanje kako bi se eventualne greške otklonile do izlaska konačne verzije. Napominjemo da je ova verzija samo za testiranje. Registrirani korisnici je mogu skinuti i isprobati u dijelu za skidanje datoteka, zadnja tipka na dnu stranice. Preuzimanje datoteka - registrirani korisnici
+U toku je dopuna programa prema novim propisima Zakona o radu: - u kadrovskoj evidenciji za radnike uvođenje novih polja prema Pravilniku o sadržaju i načinu vođenje evidencije o radnicima - izrada dodatnog podmodula u kadrovskoj evidenciji - Evidencija radnog vremena radnika -
+Dopune će biti u novoj verziji koja će izaći što je prije moguće iako je Pravilnik prilično nedorečen, a Ministarstvo financija svako malo daje nove informacije.
+Radi dodatnog detaljnijeg pojašnjenja veza između radnika, vrsta rada i obračunatih doprinosa napravljena je nova video uput na tu temu. Videom je prikazan slijed obračuna za dva radnika od kojih je jedan član OMF-a i obračunava mu se MIO 15 % 5 %, a drugi nije član OMF-a i obračunava mu se samo MIO 20 %. Na osnovu tog primjera je moguće napraviti bilo koju kombinaciju za pojedinog radnika, vrsta rada i doprinosa za te vrste rada. Istodobno je obnovljena video uputa sa prozorom za postavke programa. Video upute
+20.07.2010. Izdan je dodatak-podverzija 8.10.3 na ver 8.10
+U izvještaju Fakturiranje gt; Izvještaji gt; Ispis računa kalkulacija mogućnost filtriranja samo računa koji su plaćeni je dodatno proširena sa rasponom datuma uplata. Sada će se prikazati samo potpuno plaćeni računi koji su zatvoreni uplatama čiji datumi izvoda se nalaze unutar zadanog raspona datuma. Ova opcija može poslužiti za prikaz podataka o računima (marža i sl.) koji su ostvarili naplaćenu realizaciju u određenom razdoblju. Pregled promjena programa
+16.07.2010. Izdan je dodatak-podverzija 8.10.2 na ver 8.10
+U izvještaju Robno gt; Izvještaji gt; Lager lista artikala na kraju izvještaja dodan zbroj podjedinica mjera zbirno za sve artikle u izvještaju. Pregled promjena programa
+03.07.2010. Nova aktualnost u vezi Pravilnika o sadržaju obračuna plaće
+Osvt na novi Pravilnik i kako se može primjeniti u programu Ipos knjigovodstvo. Tekuće aktualnosti
+01.07.2010. IZDANA JE VERZIJA PROGRAMA 8.10 - promjene kriznog poreza
+Izdana je verzija programa 8.10. Glavna promjena je ukidanje kriznog poreza 2 % na sve isplate od 1.7.2010. Pregled promjena programa
+28.06.2010. Verzija 8.10 sa promjenama u vezi kriznog poreza će izaći 1.7.2010.
+Svi koji žele naručiti nadogradnju mogu poslati zahtjev za ponudom na mail ipos@ipos.hr. Korisnici koji imaju pravo na BESPLATNU NADOGRADNJU na ver 8.10. (korisnici paušalnog održavanja i pretplatnici na nadogradnje 7 - 9. mj. 2010.) će sa interneta sami skinuti i instalirati nadogradnju istog dana.
+Osvrt na novi Pravilnik o evidenciji radnika, a povezano sa programom Ipos knjigovodstvo Tekuće aktualnosti
+27.05.2010. Pitanja i odgovori u vezi programa (FAQs)
+Od sada postoji stranica sa Pitanjima i odgovorima u vezi programa tzv. Frequent Questions and Anwsers (FAQs). Bit će potrebno određeno vrijeme dok se ne prebaci veća količina pitanja i odgovora iz naše lokalne baze na web. Pitanja i odgovori
+Dodana uputa kako korigirati pdv obrazac ako vam ne odgovara osnovica i pdv i uputa kako raditi sa podjelom pretporeza 30 / 70 i 70 / 30 kod automobila i reprezentacije u 2010. godini. Tekuće aktualnosti
+20.04.2010. Izdan je dodatak-podverzija 8.9.12 na ver 8.9
+Kod automatskog unosa knjiga UR-a iz prozora za unos ulaznog računa tipke 30 / 70 i 70 / 30 sada je moguće preko postavke u poreznim evidencijama regulirati da li će se koristiti Knjiga UR-a za vlastitu potrošnju ili će se koristiti samo Knjiga UR-a za primljena dobra i usluge tako što će se upisati i iznos poreza koji se može odbiti i iznos poreza koji se ne može odbiti s time da će se osnovica poreza upisati samo u onom dijelu koji se može odbiti. Pregled promjena programa
+14.04.2010. Početak rada na verziji 9
+Počinje rad na verziji 9, verzija 8 je prvi puta izdana 12.9.2007. godine i trenutno je došla do broja 8.9.11. Verzija 8 će i dalje biti osnovna verzija dok ne bude spremna prva 9.0.0 verzija tj. sljedeća verzija 8 bi trebala biti 8.10 ako bude bilo potrebe zbog nekih zakonskih promjena. Verzija 9 donosi najnovije alate Embarcadero Delphi 2010 Unicode, Nexus Database 3 i dr., novi alati donose i nove mogućnosti koje će se postepeno ugrađivati u verziju 9.
+19.03.2010. Izdan je dodatak-podverzija 8.9.11 na ver 8.9
+Korekcija internog zaokruživanja u glavnoj knjizi. Dodatne mogućnosti kod simulacije unosa tipkovnice. Prema Zakonu o radu i Pravilniku o doprinosima na platni listić dodan porezni broj i adresa radnika. Pregled promjena programa
+Od danas registrirani korisnici programa Ipos knjigovodstvo mogu ključeve za otključavanje programa i / ili nadogradnju programa kreirati sami na webu u meniu Korisnici od 0 - 24 h. Korisnost toga je da se ti ključevi mogu dobiti i onda kada nije radno vrijeme Ipos-a, pogotovo što mnogi korisnici nadogradnje rade u neradno vrijeme kada im nije gužva ili vikendom. Korisnici će osobno Korisničko ime i lozinku dobivati tokom vremena kada ih budu trebali.
+Zbog pretrpanosti pdv obrasca novim podacima ispis je išao na dvije stranice, dodatno suženi podaci kako bi ispis bio na jednoj stranici. Na glavnoj formi je dodana ikona za direktni pristup postavkama programa. Pregled promjena programa
+19.01.2010. Izdan je dodatak-podverzija 8.9.5 na ver 8.9
+U poslovnim partnerima je omogućen unos poduzetnika sa istim OIB-om ako im je upisana šifra poslovne jedinice. Svrha ovoga je da se kod velikih firmi tipa HEP-a, Zagrebačkog holdinga i sl. mogu upisati njihove poslovne jedinice koje nemaju posebne OIB-e, a prije su imale MB-JUS tj. šifre dijelova matičnih brojeva. Pregled promjena programa
+15.01.2010. Izdan je dodatak-podverzija 8.9.4 na ver 8.9
+Kod ispisa knjiga KPI i KPR program nije ispisivao OIB nego " greška poreznog broja ", ispravljeno. Pregled promjena programa
+12.01.2010. Izdan je dodatak-podverzija 8.9.3 na ver 8.9
+Ispravak kod generiranja datoteke za Regos RS-m, zadnji kontrolni red 9 nije imao dovoljan broj praznih space znakova Pregled promjena programa
+12.01.2010. U aktualnosti dodana nova uputa
+Uputa kako koristiti identifikator u novom RSm obrascu od 1.1.2010. godine u plaćama. Tekuće aktualnosti
+Izdana je verzija programa 8.9, glavna promjena je novi PDV obrazac, knjige UR-a i IRa -. U plaćama je došlo do promjene IP obrasca. Pregled promjena programa
+19.12.2009. Objavljen novi Pravilnik o PDV-u
+Objavljen je novi pravilnik o PDV-u, promjene stupaju na snagu 1.1.2010. Promjene u programu Ipos knjigovodstvo u vezi toga su u toku.
+11.12.2009. Nova verzija programa za daljinsku podršku
+Na webu stavljena nova verzija programa za daljinsku podršku IposPodrska.exe ver 5.0.7478. Ova verzija podržava udaljeni pristup, prikaz videa preko kamere i glasa preko mikrofona i zvučnika.
+Dodana nova uputa u vezi problema kod prijenosa računa iz Fakturiranja u Saldakonti kupaca nakon instalacije nove verzije ako u kontom planu nemate traženi konto. Tekuće aktualnosti
+02.11.2009. Izdan je dodatak-podverzija 8.8.2 na ver 8.8
+Ispravak u algoritmu za izračun kontrolnog broja OIB-a u slučajevima kada je zadnja znamenka 0 ili 1. Pregled promjena programa
+28.10.2009. IZDANA JE VERZIJA PROGRAMA 8.8 - OIB
+Izdana je verzija programa 8.8 sa promjenama vezanim uz uvođenje OIB-a (osobni identifikacijski broj). Ova verzija nije mogla biti izdana ranije jer se moralo čekati na Pravilnik o izmjeni R-Sm obrasca vezano za OIB te bi ranije izdana verzija bila polovična. Kako je pravilnik službeno izdan jučer mi smo verziju izdali odmah nakon toga jer smo promjene radili prema neslužbenom pravilniku. Upute i link za instaliranje nadogradnje na ver 8.8 najprije će dobiti korisnici koji imaju paušalno održavanje, zatim korisnici sa pretplatama za nadogradnje, a nakon toga ponudu za nadogradnju mogu zatražiti ostali korisnici. Pregled promjena programa
+27.10.2009. Promjene za novi R-Sm obrazac 2010. - OIB
+Napravljen je novi R-Sm obrazac za 2010. godinu, promjene se odnose na OIB. Promjenjen je sadržaj obrasca i struktura datoteke za predaju u Regos u elektronskom obliku. Pregled promjena programa
+Dodatna postavka u plaćama, dodana još jedna opcija za osnovicu obračuna članarine sinidikata. Kod izrade otpremnice iz računa u fakturiranju dodatna kontrola zaliha za stavke koje se ponavljaju. Pregled promjena programa
+13.10.2009. Nova promjena programa
+Automatski upis stavaka izvoda modula Glavne knjige u knjigu KPI. Moguće je automatikom upisati pojedine stavke izvoda u knjigu KPI ili odjednom sve one koje su knjižene na klasu 4 i imaju dugovni promet. Ova automatizacija je dodatak na mogućnost prebacivanja računa iz IR-a i UR-a za one isplate koje se knjiže direktno na troškove. Pregled promjena programa
+U toku su promjene programa vezane uz nadolazeći Osobni identifikacijski broj tzv. OIB. Promjene uključuju sve dijelove programa jer OIB mijenja MB / JMBG firmi koji se provlače kroz razne izvještaje, unose, importe podataka i sl. OIB se isto tako mijenja i u kadrovskoj evidenciji tj. obračunu plaća. U vezi samih RSm obrazaca u plaćama je proces malo usporen jer u Regosu još nisu izdali novi pravilnik sa izmjenama u vezi OIB-a. Sam način rada u programu Ipos knjigovodstvo će biti riješen na način da će korisnik u programu moći postaviti tri moda rada: Stari sistem (koristi se MB / JMBG) kao i do sada, Prijelazni sistem (koristi se OIB tamo gdje je upisan, a gdje ga nema koristi se MB / JMBG), Novi sistem (koristi se isključivo OIB). Prijelazni sistem korisnici mogu koristiti do 01.01.2010. pa u tom roku mogu na miru napuniti bazu partnera OIB brojevima. Pregled promjena programa
+18.09.2009. Provjera registracijskih podataka programa kupljenih od distributera radi suzbijanja PIRATSKIH VERZIJA
+Sugeriramo svima koji su kupili program preko distributera da sa Ipos-om usklade svoje podatke o kupljenim modulima, mreži, broju firmi, verziji programa. Ipos na svakoj ponudi i računu automatski navodi sve podakte o registriranom korisniku prema podacima koji se nalaze na izdanim računima Iposa. Moguće je da vam neka firma (distributer, bivši distributer, nije distributer i sl.) proda program Ipos knjigovodstvo, a da firma Ipos za to uopće nezna. Radi se o tzv. hakiranim piratskim verzijama koje su otključane i ne trebaju ključ za otključavanje. Takvi programi se otkriju već kod prve nadogradnje, ali tada je već kasno. Posebno molimo korisnike koji su kupili program preko bivših distributera CTRL-X i MIMAT, te od g. Saše Cara osobno. Kupci programa su dužni Iposu DOSTAVITI KOPIJU RAČUNA firme od koje su kupili program inače neće moći biti evidentirani kao registrirani korisnici. U vezi toga pogledajte Uputa za korisnike i distributere
+10.09.2009. U Aktualnostima postupak ako ne možete promjeniti stopu tarifne skupine poreza
+Ako imate problem kod spremanja izmjene stope tarisnih skupina poreza rješenje pogledajte ovdje Link na aktualnosti
+Uvodi se mogućnost pretplate na nadogradnje koja se plaća tromjesečno i u sklopu koje korisnici dobivaju sve nadogradnje koje izađu u tom razdoblju. Pretplata je uvedena kako bi se korisnicima olakšala mogućnost praćenja zakonskih promjena kojih će biti u narednim mjesecima i godinama zbog uvuđenja OIB-a i svih drugih zakonskih promjena zbog prilagođavanja zakonodavstvu Evropske unije. Kako naša Vlada i dalje traga za mjerama koje bi nas izbavile iz krize i po tom pitanju možemo očekivati promjene u sljedećim razdobljima. Cijena pretplate je 1 % vrijednosti programa, a o tome detaljnije na linku Cjenik i uvjeti održavanja
+25.08.2009. Dodana je nova uputa u tekuće aktualnosti u vezi kriznog poreza
+Uputa objašnjava kako u novim okolnostima koristiti tip obračuna " iznos za isplatu " u slučaju kada želimo odrediti fiksno osnovicu za krizni porez (npr. 3.000,00 ili 6.000,00 kn) Krizni porez i iznos za isplatu
+Napravljen je drugi dio hitnih Vladinih promjena, potpuno novi obrasci PDV, PDV-K, IR-a, UR-a prema Pravilniku o izmjenama i dopunama pravilnika o pdv-u. Stari obrasci će se automatski pojavljivati i dalje u godinama 2006, 2007 i 2008. Ove izmjene su nastavak procesa izmjena u vezi hitnih Vladinih mjera protiv resecije, izmjene su isporučivane korisnicima tempom kojim je Vlada dostavljala Zakone i Pravilnike razlog zašto nismo čekali sa jednom nadogradnjom na kraju, bio je što je trebalo hitno isporučiti promjene u vezi Kriznih (posebnih poreza) zbog isplate plaća za 7.2009. Zbog izuzetno opsežnih promjena u cijelom programu (program trenutno sadži preko 1.000.000 linija koda) vezano za porezne evidencije nije bilo moguće to napraviti kao dodatak 8.6.6 na ver 8.6. nego samo kao novu osnovnu verziju 8.7. Svi korisnici koji imaju ver 8.6 stječu pravo na besplatnu nadogradnju verzije 8.7. Oni koji imaju ponude za kupnju nadogradnje ver 8.6 mogu te ponude realizirati do datuma dospijeća ponude, ako je dospijeće isteklo moraju zatražiti novu ponudu za ver 8.7. Promjene programa u vezi novih obrazaca su rađene i po danu i po noći od dana izlaska novog pravilnika da bi bili što prije gotovi, sve eventualne greške će biti ispravljene hitno u besplatnim dodacima osnovnoj verziji 8.7.
+16.08.2009. IZDANA JE VERZIJA PROGRAMA 8.7
+Izdana je nova verzija programa 8.7. U ovoj verziji su napravljeni novi obrasci PDV-a. Detaljnije pogledajte Pregled promjena programa
+13.08.2009. MF je izdalo novi Pravilnik o izmjenama pravilnika o PDV-u
+Od sada je PDV obrazac obogaćen za niz dodatnih točaka, knjige IR-a i UR-a su dobile 17 kolona svaka. Osim što je sam Zakon donesen u roku koji nikome nije omogućio vrijeme prilagodbe pa još i Pravilnik sa zakašnjenjem, a od poduzetnika se tražilo da sve bude u funkciji 1.8.2009. Nema druge morat ćemo po noći opet preprogramirati cijeli sistem poreznih evidencija i izdati novu verziju. Da li će to biti samo podverzija-dodatak ili potpuno nova verzija 8.7 još se nezna, ali svi koji su kupili verziju 8.6 dobit će 8.6.6 ili 8.7 besplatno. Problem nastaje zbog toga što žele zadržati i stopu od 22 % i stopu od 23 %. (NN 97 / 2009) Narodne novine
+Objavljen je obrazac IPP Izvješće o posebnom porezu na plaće, mirovine i druge primitke koji se mora dostavljati Poreznoj upravi do 15. u mjesecu za prethodni mjesec. Bit će napravljen i dostupan korisnicima ver 8.6 u skoro vrijeme.
+Bolovanje fonda maknuto iz kriznog poreza. Dodatne korekcije kod ispisa IR-a i UR-a. Prema zadnjoj uputi iz Regosa krizni porez se ne uključuje na RS-m obrascu pa je korigirana rutina za automatski unos RSm-a. Korisnicim koji imaju ver 8.6 mogu sa istim korisničkim imenom i lozinkom skinuti besplatni dodatak (kao što će biti i ostali) i samo kopirati knjigovodstvo.exe preko postojećeg (nije potrebna nadogradnja) na sljedećem linku Preuzimanje datoteka - registrirani korisnici
+Korisnicima paušalnog održavanja poslani su linkovi za skidanje nadogradnje 8.6 zajedno sa korisničkim lozinkama. Ako netko od korisnika paušalnog održavanja nije dobio link i lozinku neka pošalje mail na ipos@ipos.hr.
+01.08.2009. Obavijest u vezi ponuda prije 1.8.2009.
+Obavještavamo sve korisnike koji imaju ponude izdane prije 1.8.2009. koje imaju pdv 22 % da te ponude postaju nevažeće i da se trebaju zamijeniti novima sa pdv-om 23 %.
+31.07.2009. IZDANA JE VERZIJA PROGRAMA 8.6
+Izdana je nova verzija programa 8.6.0. U ovoj verziji su uvedene Vladine promjene Posebnog poreza na plaće, promjena pdv-a 22 % u 23 %, devizni krediti idr. Detaljnije pogledajte Pregled promjena programa
+Ubačena je automatska metoda promjene cijena svim artiklima kojima smo promjenili stopu na način da možemo birati da li da se za promjenu iznosa jediničnog poreza povećava prodajna cijena s porezom ILI da se za razliku jediničnog poreza smanjuje marža tj. da prodajna cijena u konačnici ostaje ista kao i do sada. Pregled promjena programa
+Napravljena je postavka u programu preko koje korisnik može sam odrediti kada će raditi u starom ili novom sistemu pdv-a. Ovo je praktično jer korisnici mogu i ranije nadograditi program sa novom verzijom i onda odlučiti kada će koristiti koji sistem, npr. na taj način i naknadno mogu izlistati pdv obrazac sa starim tekstom 22 %. Pregled promjena programa
+26.07.2009. Pogodnosti kod kupnje programa / nadogradnje
+Ponavljamo informaciju o pogodnosti kod kupnje programa / nadogradnje. Korisnici koji prvi puta kupuju program i oni koji kupuju nadogradnju na novu verziju ako od trenutka kada su kupili program / nadogradnju unutar 30 dana izađe novija verzija, tu novu nadogradnju dobivaju besplatno. Ovo ne vrijedi za korisnike koji su iz bilo kojeg razloga dobili nadogradnju besplatno ili sa 50 % i više popusta. Dakle ako netko u sadašnjim okolnostima kupi nadogradnju na ver 8.6 datuma 5.8.2009. (datum na računu), a u međuvremenu se dodatno promjene okolnosti u propisima i Ipos izda verziju 8.7 do datuma 5.9.2009. ti korisnici tu nadogradnju dobivaju besplatno. Treći broj verzije (npr. 8.6.3 treći broj je 3) nema vremenskog ograničenja tj. svi koji posjeduju prva dva osnovna broja 8.6 sve dodatke 8.6.1, 8.6.2, 8.6.3 itd. dobivaju besplatno bez obzira kada ti dodaci budu izdani.
+25.07.2009. Vladine promjene - promjene u Ipos knjigovodstvu
+Počelo se sa promjenama u vezi kriznog (solidarnog) poreza i promjene stope pdv-a. Kada promjene budu službeno potvrđene izdat ćemo verziju 8.6, a to se predviđa tokom sljedećeg tjedna. Korisnici paušalnog održavanja će mailovima biti obaviješteni gdje mogu skinuti nadogradnju. Svi ostali korisnici koji žele kupiti nadogradnju mogu mailom zatražiti ponudu, po uplati ćemo im mailom poslati link za skidanje (download) nadogradnje, dakle bit će jednostavno i brzo. Nadogradnju možete instalirati čim je dobijete jer će korisnik sam preko posebne postavke moći uključiti ili isključiti navedene izmjene tj. odlučiti do kojeg datuma će raditi po starom, a od kojeg po novom.
+23.07.2009. Krizni porez i promjena stope PDV-a
+Sukladno najavama Vlade RH da će doći do promjena stope PDV-a i uvođenja kriznog poreza korisnicima dajemo informacije što treba poduzeti kada do toga dođe. Ipos prati navedene promjene i izdat će novu verziju u vezi toga čim Vlada izađe sa konkretnim informacijama, bilo kakve promjene bit će objavljene na našoj web stranici. Informacije o tome što treba poduzeti kod promjene stope PDV-a možete pogledati na linku Aktualno: promjena stope pdv-a i krizni porez
+14.07.2009. RSS Feeds automatske obavijesti
+Uvedena je mogućnost automatskog praćenja obavijesti u vezi programa Ipos knjigovodstvo preko RSS Feedsa. Dovoljno je kliknuti na link " Automatsko primanje novosti " unutar Internet Explorera ili nekog drugog RSS klijenta (Microsoft Outlook i sl.) i primit ćete obavijest čim ona bude izdana. U Visti možete npr. na desktop staviti Gadget Feed Headlines pa ćete automatski vidjeti poruku o novoj vijesti u vezi programa bez da uopće otvarata bilo koji program.
+Izdan je drugi dodatak na verziju 8.5.0. Riješeni neki problemi kod karakterističnih situacija negativnih računa kod izvještaja Kupci / dobavljači gt; Prijeboji (kompenzacije). Dodatna pomoć kod ulaznih računa pri izračuna poreza i osnovice. Dodatak možete skinuti ovdje Kopiranje / download dodatka 8.5.2
+01.03.2009. Cijene dodatnih instalacija
+Od 1.3.2009. cijene modula dodatnih instalacija se računaju u punoj cijeni kao i u prvoj instalaciji.
+24.02.2009. Nova promjena programa
+Promjena programa u saldakonti dobavljača.
+21.02.2009. Ipos podrška ver 4
+Stavljena najnovija verzija programa za daljinsku podršku TeamViewera ver 4
+03.02.2009. Izdan je dodatak 8.5.1 na ver 8.5
+Nekolicina korisnika je primjetila da kod ispisa na nekim HP pisačima nema kvačice na našim znakovima, kod većine korisnika je sve u redu. Ako primjetite ovakav problem kod sebe, a imate ver 8.5.0 možete skinuti dodatak i zamijeniti " knjigovodstvo.exe ", ako niste uočili ovaj problem ne morate instalirati dodatak 8.5.1. Kopiranje / download dodatka 8.5.1
+27.01.2009. Nova promjena programa
+Nova promjena programa u fakturiranju.
+19.01.2009. Obavijest u vezi IP kartica u XML-u
+Rok za predaju IP kartica za 2008. je 31.01.2009. U programu kod ispisa IP obrazaca imate mogućnost exporta u CSV tekstualni format, koji se zatim učita u Excel datoteku od Porezne uprave iz koje se generira XML datoteka koju oni prihvaćaju. Ipos je provjerio u tekućoj verziji 8.5 export IP kartica u txt datoteku IP-03961877-2008.txt, zatim smo datoteku učitali u Excel tablicu Porezne uprave i generirali IP_03961877_01.xml datoteku. Ispravnost datoteke smo provjerili aplikacijom ipvalidator_1_0.exe izdanoj također od PU. Dakle, tehnička ispravnost je sigurna, ako Vam vraćaju datoteku razlog može biti samo u podacima. Obavezno unesite podatke za kontakt jer i zbog toga mogu odbiti datoteku. Ako vam se prilikom učitavanja tekstualne datoteke pokreće Visual Basic i ne možete učitati datoteku, vjerojatno imate visoko postavljenu zaštitu od macro naredbi. Uputa: u excelu u Opcijama, pa Security tab, smanjite razinu zaštite ili je potpuno isključite, nakon toga izađite iz excela i uđite ponovo. Excel datoteku za import iposove tekstualne datoteke možete pronaći na stranicama PU na linku Prihvat obrazaca IP za 2008. godinu na mediju za dostavu
+15.01.2009. IZDANA JE VERZIJA PROGRAMA 8.5.0
+Izdana je nova verzija programa 8.5.0. U ovoj verziji su uvedene i promjene vezane za novi sistem obračuna dohodaka u BiH. Za Hrv verziju tu su novi ID i IDD obrasci. Detaljnije pogledajte Pregled promjena programa
+15.01.2009. Obavijest korisnicima
+Svi koji su kupili program ver 8.4 unatrag 30 dana (prema datumu uplate) mogu besplatno skinuti datoteku za nadogradnju (novo pravilo kao pogodnost za korisnike), mailom mogu dojaviti identifikacijski broj i dobit će ključ za nadogradnju na ver 8.5., korisnici paušalnog održavanja imaju sve nadogradnje besplatne u sklopu paušala. Isto se odnosi i na korisnike koji su unatrag 30 dana kupili nadogradnju na ver 8.4 uz uvjet da bi im cijena za ver 8.5 bila kao i za ver 8.4 vidi Detaljnije
+29.12.2008. Novi obrasci kod obračuna dohodaka u BiH od 1.1.2009. godine
+Za BiH napravljeni osnovni obrasci koji će biti u primjeni od 1.1.2009. godine u obračunu dohodaka (plaća). To su OLP-1021 Obračunski list plaća, GIP-1022 Godišnje izvješće o ukupno isplaćenim plaćama, Obrazac 2001 Specifikacija uz isplatu plaća zaposlenika u radnom odnosu.
+29.12.2008. Izdana je prva predverzija 8.5.991 rel. 29.12.2009.
+Svrha predverzija je pregled promjena u stvarnom programu, a ne samo kao popis promjena. Isto tako korisnici koji žele mogu testirati predverziju i dati svoje primjedbe ili prijaviti eventualne greške kako bi se one otklonile u konačnoj verziji 8.5.0. Kopiranje Beta verzija
+24.12.2008. Praktična pogodnost kod kupnje nadogradnje
+Ako u roku od 30 dana od datuma uplate nadogradnje izađe novija verzija, a cijena te novije verzije bi za vas bila ista kao i za prethodnu verziju koju ste kupili, ostvarujete pravo na besplatnu nadogradnju te novije verzije. U slučaju da bi cijena te novije verzije za vas bila veća nego prethodne verzije, možete kupiti noviju verziju za razliku cijene. To korisnicima omogućava da mogu kupiti tekuću verziju ne razmišljajući da li će u skorom vremenu izaći neka verzija sa hitnim zakonskim promjenama. Vidi Primjer
+24.12.2008. OBAVIJEST O PRAZNICIMA
+Svi korisnici koji preko prazničnih dana budu imali potrebe za pomoći u vezi programa (pitanja, otključavanje i sl.) mogu poslati mail na ipos@ipos.hr ili preko kontakt web stranice i bit će im odgovoreno. Službeno ne radimo: od sri 24.12.2008. 12 h do ned 28.12.2008., od sri 31.12.2008. 12 h do uto 6.1.2009.
+24.12.2008. Obavijest o računima za 2008.
+Sve računi za koje uplate budu na izvodu u 2008. godini ćemo datirati u 2008. godini, svi ostali računi će biti ispostavljeni u 2009. Pojednostavljeno, u kojoj godini je uplata u toj će biti i račun.
+16.12.2008. Nova promjena programa
+U plaćama dorađen izvještaj za dobivanje kartice radnika prema vrstama primitaka (I stup, I i II stup, staž s povećanim trajanjem i dr.)
+Kao što možete primjetiti osvježili smo malo naše web stranice napravljene prije desetak godina. Nove stranice su pisane u ASP.NET-u, za sada su većinom samo dovedene na razinu prethodnog weba, ali ćemo s vremenom dodavati i nove mogućnosti. Na samom početku dvije male novine, dodana je Kalkulator-narudžba gdje možete informativno izračunati cijenu programa i / ili generirati narudžbu automatskim mailom. Pregled promjena programa je dopunjem s mogućnošću da dobijete samo promjene koje su za vas nove na način da jednostavno odaberete vašu verziju u pregledu verzija programa, istodobno možete u filteru odrediti za koje module želite vidjeti te promjene.
+Izdana je nova verzija 8.4.0, neke od promjena su etikete artikala i partnera, predlošci predračuna... Detaljnije pogledajte Probnu verziju u dijelu Preuzimanje datoteka. Korisnici sa paušalnim održavanjem i korisnici koji su kupili nadogradnju mogu kopirati datoteku za nadogradnju i zatražiti ključ za otključavanje nadogradnje.
+28.08.2008. Predverzija 8.4.992
+Ažuriranje su promjene za novu verziju 8.4. Možete skinuti predverziju za isprobavanje prije finalne verzije u dijelu Preuzimanje datoteka.
+20.08.2008. Predverzija 8.4.991
+06.06.2008.
+U toku je rad na program za Microstoft NET platformu, točnije ADO.NET i ASP.NET (rad preko interneta)
+05.06.2008.
+Ipos Video upute se od sada mogu pokretati i sa web stranice (meni sa lijeve strane)
+izdana je predverzija 8.1.993, možete je kopirati / skinuti u dijelu Kopiranje datoteka
+22.11.2007. Obavijest
+ažurirane su promjene za sljedeću verziju izdana je druga predverzija 8.1.992, vidi Detaljnije o izmjenama. Predverziju 8.1.992 za pregled napravljenih izmjena možete kopirati / skinuti u dijelu Kopiranje datoteka na dnu ekrana.
+03.10.2007.
+pomoću posebnog programa koji ne zahtijeva nikakvu instalaciju možemo se spojiti na računalo korisnika i pružiti mu podršku " na licu mjesta ", program možete skinuti u dijelu za kopiranje datoteka.
+Obavijest: ažurirani su podaci o promjenama programa za sljedeću verziju 8.0 koja bi trebala izaći tokom 9.2007.,
+08.08.2007. Obavijest
+od 01.09.2007. mijenja se način obračuna paušalnog održavanja, intervencija i nadogradnji. Mjesečni paušal je 3 % vrijednosti programa, a nadogradnja 10 % vrijednosti programa. Cijena nadogradnje 10 % (od vrijednosti programa po trenutnom cjeniku) vrijedi ako je korisnikova verzija stara do 1 godine od trenutne verzije, do 2 godine 20 % itd. Detaljnije o novim cijenama održavanja, intervencija i nadogradnji pogledajte pod Cjenik održavanja.
+09.07.2007.
+19.06.2007.
+izdan je dodatak 7.12.3 rel.19.06.2007. na verziju 7.12.0
+01.06.2007.
+poslujemo na novoj adresi Kuzminečka 49, Zagreb, naselje Vrbani III (nekoliko tramvajskih stanica zapadnije od stare adrese)
+u prvoj polovici 12. mjeseca ove godine se očekuje prva probna verzija modula proizvodnja, na osnovu nje će zainteresirani korisnici moći dati svoje primjedbe i sugestije prije finalne verzije koja je planirana oko Nove godine.
+24.08.2006.
+izdana je verzija 7.10.0 (Devizni izvodi u glavnoj knjizi i dr.) vidi Detaljnije, probnu verziju možete skinuti u meniu Kopiranje datoteka
+12.08.2006.
+Obavijest: ažurirane su promjene za sljedeću verziju (devizni izvodi u glavnoj knjizi, povećanje decimala u robnom i normativima i dr.), vidi Detaljnije o izmjenama
+14.07.2006.
+izdan je dodatak 7.6.2 rel.14.07.2006. na verziju 7.6.0 (dodatna rutina kod popravka pojedinačnih datoteka u vezi Key Violation greške),
+izdan je dodatak 7.9.1 rel.27.06.2006. na verziju 7.9.0 (ispravak kod punjenja knjige popisa iz mp računa iz veleprodaje)
+14.05.2006.
+04.05.2006.
+izdan je dodatak 7.8.2 rel.04.05.2006. na verziju 7.8.0 (ispravak kod rada u u pc kasi mp iz vp, a u vezi prikaza povratne naknade na mp računu)
+23.04.2006.
+Instalacijska verzija " Ipos_knjigovodstvo.exe " (na CD-u Setup.exe) ver. 7.8.0 je imala određenih problema kod instalacije, 23.03.2006. je zamijenjena s novom (datoteke možete razlikovati po datumu 6.3.2006 i 23.3.2006). Ako imate CD sa tom instalacijom možete umjesto instalacije jednostavno kopirati sa CD-a na disk direktorij " Ipos knjigovodstvo " u kojem je već gotova instalacija ILI nakon instalacije u programu otvoriti 2006. godinu i obrisati 2005 (u kojoj je zapravo problem).
+izdana je verzija 7.8.0 (povratna naknada, promjene u putnim nalozima i loko vožnja, novi PDV za BiH) vidi Detaljnije, probnu verziju možete skinuti u meniu Kopiranje datoteka
+02.03.2006.
+Obavijest: ažurirane su promjene za sljedeću verziju izdana je treća predverzija 7.7.993 (sadrži: novi PDV obrazac za BiH tj. drugi po redu, promjene u vezi Povratne naknade za ambalažu sa korekcijama u odnosu na 7.7.991, promjenu u Putnim nalozima i Obračunu loko vožnje), vidi Detaljnije o izmjenama, Predverziju 7.7.993 za pregled napravljenih izmjena možete kopirati / skinuti u dijelu Kopiranje datoteka
+28.02.2006.
+14.02.2006.
+izdan je dodatak 7.7.3 rel.14.02.2006. na verziju 7.7.0 (dodatak dodatnih polja na PDV obrascu)
+01.02.2006.
+izdana je nova verzija programa za nadogradnju update.exe ver 7.0.5, prethodna verzija nije ispravno ažurirala datoteku za punjenje pdv obrasca (obr_ui.nx1), možete je skinuti Ovdje
+01.02.2006.
+Svi koji su instalirali nadogradnju 7.7. x, a u programu u 2006. tekućoj godini, u meniu " Pdv obrazac gt; Pdv obrazac gt; Veze kolona knjiga UR-a, IR-a s poljima u PDV obrascu " tj. u tabeli " Definicija veze URA IRA i pdv obrasca " nemaju redove sa šiframa 5101, 5102, 5103 trebaju dodatno kopirati datoteku " obr_ui.nx1 " u direktorij "... Ipos knjigovodstvo \ Data \ Skupne " umjesto postojeće datoteke. Datoteku možete kopirati ili iz direktorija " Ipos update \ Data \ Skupne "
+15.01.2006.
+izdana je nova verzija programa za nadogradnju update.exe ver 7.0.4, prethodna verzija je javljala grešku kod korisnika koji su šifrarnik artikala spustili na nivo poslovne godine,
+12.12.2005.
+Obavijest: verzija 7.7 se očekuje tijekom prosinca 2005. sa novim PDV obrascem od 1.1. za Hrvatsku i PDV obrascem za BiH.
+15.11.2005.
+Obavijest: Import podataka sa izvodima (FINA format, MN izvadak) je testiran za sljedeće banke RBA, PBZ, Erste, Hypo. Prema tome je ažurirana i probna verzija. Kopiranje datoteka
+08.06.2005.
+Obavijest: napravljena je predfinalna verzija 7.5. Testirane banke za import izvoda ZABA, PBZ, RBA, HYPO, ERSTE, za ostale banke korisnici moraju sami provjeriti da li datoteka njihove banke odgovara. Kopiranje datoteka
+06.06.2005.
+01.06.2005.
+u informatičkom časopisu pc chip na softverskom testu hrvatskih knjigovodstvenih programa u broju 6 / 2005, Ipos knjigovodstvo je dobio visoku ocjenu i njihovu preporuku. Pogledajte recenziju.
+21.05.2005.
+Obavijest: u pripremi je nova verzija 7.5,
+08.04.2005.
+izdana je verzija 7.4.0 (automatska zamjena konta)
+25.02.2005.
+izdan je dodatak 6.8.4 rel.25.02.2005. na verziju 6.8.0,
+25.02.2005.
+izdan je dodatak 7.3.4 rel.25.02.2005. na verziju 7.3.0
+21.02.2005.
+izdan je dodatak 7.3.3 rel.21.02.2005. na verziju 7.3.0
+18.02.2005.
+izdan je dodatak 7.3.2 rel.18.02.2005. na verziju 7.3.0
+02.02.2005.
+izdan je dodatak 7.3.1 rel. 02.02.2005. na verziju 7.3.0
+18.01.2005.
+izdana je verzija 7.3.0 (plaće R-Sm, ID, IP, TMP...)
+14.01.2005.
+ažurirane su informacije o promjenama u ver. 7.3 koja će izaći u toku siječnja
+12.01.2005.
+izdana je verzija 6.6.0 (devizni izvještaji Saldakonti, exporti podataka za naljepnice u maloprodaji)
+08.12.2003.
+izdan je dodatak 6.4.8 rel.08.12.2003. na verziju 6.5.0
+08.12.2003.
+31.10.2003.
+izdana je verzija 6.5.0 (novi ID obrazac, PK kartice na disketi)
+16.10.2003.
+izdan je dodatak 6.4.7 rel.16.10.2003. na verziju 6.4.0
+03.10.2003.
+izdan je dodatak 6.4.6 rel.03.10.2003. na verziju 6.4.0
+02.10.2003.
+izdan je dodatak 6.2.8 rel.02.10.2003. na verziju 6.2.0,
+02.10.2003.
+izdan je dodatak 6.3.3 rel.02.10.2003. na verziju 6.3.0,
+30.09.2003.
+izdan je dodatak 6.4.5 rel.30.09.2003. na verziju 6.4.0
+30.09.2003.
+Obavijest: u pripremi je nova verzija 6.5 koja će sadržavati promjene u plaćama, promjenjeni ID i DNR obrazac, novi obrasci se primjenjuju za plaću isplaćenu u 10. mj., a rok predaje je 15.11.
+10.09.2003.
+izdan je dodatak 6.4.4 rel.10.09.2003. na verziju 6.4.0,
+04.09.2003.
+izdan je dodatak 6.4.3 rel.04.09.2003. na verziju 6.4.0
+03.09.2003.
+zdan je dodatak 6.4.2 rel.03.09.2003. na verziju 6.4.0,
+03.09.2003.
+Obavijest korisnicima koji su radili nadogradnju na 6.4, na CD-u postoji direktorij " Ipos knjigovodstvo gt; Data gt; Skupne " iz kojeg možete kopirati datoteku " obrasci.ff2 " u identičan direktorij u instalaciji, time ćete dobiti osnovne koordinate kučica HUB obrazaca da ih ne morate sami podešavati, a fino podešavanje napravite sami zavisno od printera.
+ažurirane su promjene programa za sljedeću verziju (razrada poreza na računima),
+06.08.2003.
+u dijelu Kopiranje datoteka možete kopirati trenutnu BETA verziju koja je u fazi testiranja, nakon kopiranja i raspakiranja nije potrebno ništa instalirati nego jednostavno pokrenuti knjigovodstvo.exe, vaše primjedbe i sugestije ćemo pokušati ubaciti u sljedeću komercijalnu verziju 6.4
+06.08.2003. Obavijest
+Ako unutar desetak dana ne bude primjedbi i sugestija na zadnju beta verziju programa izdat ćemo službenu verziju 6.4
+03.08.2003.
+07.03.2003.
+izdan je dodatak 6.2.7 rel.07.03.2003. na verziju 6.2.0,
+03.03.2003.
+izdan je dodatak 6.2.6 rel.03.03.2003. na verziju 6.2.0
+20.02.2003.
+izdan je dodatak 6.2.5 rel.20.02.2003. na verziju 6.2.0
+19.02.2003.
+izdan je dodatak 6.2.4 rel.19.02.2003. na verziju 6.2.0
+12.02.2003.
+izdan je dodatak 6.2.3 rel.12.02.2003. na verziju 6.2.0,
+10.02.2003.
+izdan je dodatak 6.2.2 rel.10.02.2003. na verziju 6.2.0
+06.02.2003.
+04.02.2003.
+izdan je dodatak 6.2.1 i 6.1.1 rel.04.02.2003. na verziju 6.2.0 tj. 6.1.0,
+27.01.2003.
+izdana je verzija 6.2.0 vidi Detaljnije (promjene u plaćama...)
+14.01.2003.

@@ -1,0 +1,257 @@
+Statut
+Na osnovi članka 11. Zakona o udrugama (Narodne novine 88 / 01) i na osnovi članka 5. i članka 32. Zakona o tehničkoj kulturi (NN broj 76 / 93. i 11 / 94.) Skupština Hrvatskoga radioamaterskog saveza na sjednici održanoj u Zagrebu, 13. rujna 2008. godine usvaja
+Ovim Statutom reguliraju se odredbe o nazivu, sjedištu, zastupanju, ciljevima i djelatnostima kojima se ciljevi ostvaruju: o ostvarivanju javnosti rada Hrvatskog radioamaterskog saveza, o članstvu i članarinama, pravima i obavezama članova, o unutarnjem ustrojstvu, tijelima Udruge i njihovom sastavu, ovlastima, načinu odlučivanja, uvjetima i načinu izbora i opoziva, trajanju mandata te odgovornostima članova, o imovini i raspolaganju s eventualnom mogućom dobiti, o načinu stjecanja imovine, o prestanku postojanja te postupku s imovinom u slučaju prestanka postojanja Saveza, i druga pitanja bitna za rad Saveza, odnosno opća pravila kojima se članice dragovoljno podvrgavaju s ciljem zaštite i promicanja zajedničkih interesa i ciljeva.
+Članak 2.
+Hrvatski radioamaterski savez (u daljnjemu tekstu: Savez) nacionalni je, nevladin, nestranački, neprofitni strukovni savez radioamaterskih udruga u koji se u načelu slobodno udružuju pravne i fizičke osobe te osobe čija je djelatnost širenje i promicanje radioamaterskih djelatnosti u Republici Hrvatskoj. Djelatnost Saveza bitna je za razvitak i promicanje inventivnog rada u tehničkoj kulturi te skrb o svojim članicama i članovima.
+Članak 3.
+Puni naziv pod kojim Savez djeluje glasi: HRVATSKI RADIOAMATERSKI SAVEZ, a skraćeni je naziv Saveza HRS. Naziv je Saveza u prijevodu na engleski jezik: CROATIAN AMATEUR RADIO ASSOCIATION. Sjedište Saveza je u Zagrebu, Dalmatinska 12. Savez djeluje na području Republike Hrvatske.
+Članak 4.
+Članak 5.
+Savez je pravni slijednik prijašnje društvene organizacije pod nazivom Savez radioamatera Hrvatske osnovane 21. ožujka 1949. godine i prvi put registrirane 1949. godine i kao takav preuzeo je sva njezina prava, obveze i imovinu.
+Članak 6.
+Savez ima svoj znak, zastavu i logotip. Znak Saveza je hrvatski pleter, otvoren gore, koji obrubljuje elipsasto polje. U polju je pravokutnik unutar kojega je znak prefiksa (pozivne oznake) Republike Hrvatske, iz pravokutnika gore izlazi znak antene, a dolje znak uzemljenja. U polju je natpis HRVATSKI RADIOAMATERSKI SAVEZ. Pleter je zlatnožut, pravokutnik i znakovi su tamnoplavi, a naziv crn. Znak se može koristiti i u dvije boje.Znak Saveza služi istodobno kao logotip. Zastava Saveza pravokutno je polje s omjerom stranica 2: 1 svijetlo plave boje sa znakom u sredini.
+Članak 7.
+Savez ima pečat okrugla oblika. Pečat je vanjskoga promjera 30 mm. Po unutarnjem obodu kružnice velikim je slovima ispisan tekst HRVATSKI RADIOAMATERSKI SAVEZ ZAGREB, DALMATINSKA 12, a u sredini kruga je znak Saveza.
+Članak 8.
+Savez predstavljaju i zastupaju predsjednik i dopredsjednik Saveza, odnosno osobe koje ih na osnovi ovog Statuta, odnosno odlukom tijela upravljanja utvrđenog ovim Statutom, u slučaju njihove spriječenosti zamjenjuju. Savez u svim operativnim poslovima zastupa tajnik Saveza.
+Članak 9.
+Savez je član Međunarodnog saveza radioamatera INTERNATIONAL AMATEUR RADIO UNION (IARU) prvoga ITU (International Telecommunication Union) područja i Hrvatske zajednice tehničke kulture.Savez se dragovoljno udružuje s drugim organizacijama u zemlji i u svijetu čiji su ciljevi i djelatnosti podudarni s njegovim ciljevima i djelatnostima i ako to pridonosi postizanju ciljeva djelovanja određenih ovim statutom.O članstvu u tuzemnim i međunarodnim zajednicama i savezima udruga i o istupanju iz članstva odlučuje Skupština Saveza. Način provođenja međunarodne suradnje posebnim Pravilnikom propisuje Izvršni odbor Saveza.
+II. CILJEVI, ZADACI I DJELATNOSTI SAVEZA
+Članak 10.
+Temeljni ciljevi postojanja i djelovanja Saveza jesu:
+razvitak, poticanje, promidžba i zaštita radioamaterske djelatnosti u Republici Hrvatskoj,
+promicanje i zaštita temeljnog prava građana na slobodno interesno udruživanje i prava čovjeka na razvitak osobnosti te zastupanje i zaštita interesa svojih članica i članova u udrugama tehničke kulture i pred ovlaštenim državnim tijelima,
+poticanje tehničkog i radno-proizvodnog stvaralaštva,
+zaštita amaterskih valnih područja,
+zastupanje njezinih članica i članova na međunarodnoj razini,
+unaprjeđenje uvjeta ostvarivanja programa radioamaterske djelatnosti u javnim potrebama u tehničkoj kulturi Republike Hrvatske,
+promidžba tehničkih i znanstvenih istraživanja i novina na području radijskih komunikacija i radijske tehnike,
+očuvanje i zaštita čovjekova okoliša,
+promidžba postignuća radioamaterskih udruga i njihovih članova u zemlji i svijetu,
+njegovanje radioamaterskog duha i vrijednosti radioamaterizma, poticanje dobre volje i prijateljstva među građanima svih država svijeta, neovisno o njihovim političkim, rasnim, nacionalnim i vjerskim pripadnostima i svjetonazorima,
+poticanje i njegovanje domoljublja, razumijevanja i snošljivosti među ljudima,
+sudjelovanje članova udruga u humanitarnim, ekološkim i drugim akcijama te u pružanju nesebične pomoći prilikom prirodnih, tehnoloških i ostalih nesreća, odnosno katastrofa.
+Članak 11.
+Djelatnost Saveza sa svrhom postizanja ciljeva iz članka 10.:
+ustroj i vođenje registra članova i članica te matične knjige članstva,
+sudjeluje u ostvarivanju politike promicanja tehničke kulture Republike Hrvatske,
+osnivanje stručnih radnih tijela sa svrhom učinkovitog obnašanja svojih ciljeva i djelatnosti,
+predlaganje, ostvarivanje i usklađivanje ukupnih aktivnosti u radioamaterskoj djelatnosti, priprema i ostvarivanje zadataka u programu javnih potreba Republike Hrvatske u tehničkoj kulturi koji se odnose na radioamatersku djelatnost,
+poticanje i promicanje stvaralaštva djece i mladeži te prezentacije njihovih postignuća,
+organizacija natjecanja, izložbi i drugih složenih nacionalnih radioamaterskih priredbi,
+ostvarenje nacionalnog programa međunarodne suradnje u radioamaterskoj djelatnosti, ustroj i izvedba međunarodnih programa s ciljem promicanja i afirmacije hrvatskih radioamatera u svijetu,
+ustroj aktivnosti i osposobljavanje članova za obranu domovine i zaštitu ljudi i imovine u slučaju nepogoda ili prirodnih katastrofa, sukladno zakonskim propisima mjerodavnih državnih tijela, što je utvrđeno posebnim Pravilnikom o Sustavu radioveza u kriznim situacijama (SRVKS),
+pružanje svekolike pomoći članovima, osobama s posebnim potrebama i članicama koje u svom članstvu okupljaju veći broj članova, osobama s posebnim potrebama,
+obavljanje i drugih zadaća utvrđenih Zakonom o tehničkoj kulturi i drugim propisima.
+Članak 12.
+Radi opravdavanja svojih ciljeva, ostvarivanja svojih djelatnosti te radi pribavljanja sredstava za pripremu i provedbu programa rada članica i Saveza, Savez može obavljati i gospodarske, društvene i druge negospodarske aktivnosti koje u skladu sa Zakonom o tehničkoj kulturi i drugim propisima mogu obavljati udruge tehničke kulture. Savez može radi stjecanja materijalnih sredstava, sukladno zakonu, osnovati poduzeće za obavljanje gospodarske djelatnosti. Odluku o tome donosi Skupština Saveza. Savez je neprofitna pravna osoba i ako obavljanjem djelatnosti ostvari dobit, dobit se koristi isključivo za obavljanje i unaprjeđenje djelatnosti kojima se ostvaruju ciljevi i zadaci utvrđeni ovim Statutom.
+III. JAVNOST RADA
+Članak 13.
+Djelovanje Saveza i rad svih njegovih tijela javni su i utemeljeni na demokratskim načelima.Javnost svog rada Savez osigurava otvorenošću sjednica svojih tijela, izvještavanjem članica i javnosti putem sredstava javnog priopćavanja, časopisa, biltena, internetskih stranica i putem vlastitoga informatičkog sustava, omogućivanjem članovima uvid u spise.
+Članak 14.
+Savez svoje članove o svom djelovanju i radu svojih tijela izvješćuje pismenim izvještajima i zapisnicima sa sjednica radnih tijela, sukladno Pravilniku o izvješćivanju članstva koji predlaže Izvršni odbor Saveza, a usvaja Skupština.
+Članak 15.
+Javnost se sa sjednica tijela Saveza ili uskratom obavijesti i uvida u spise može isključiti samo u slučajevima:
+zaštite podataka koji su zakonom određeni službenom, poslovnom, znanstvenom, tehničko-tehnološkom ili umjetničkom tajnom;
+planovima i programima čije bi javno obznanjivanje moglo ugroziti interese obrane i sigurnosti Republike Hrvatske te kada to zatraži mjerodavno državno odvjetništvo ili sud.
+IV. ČLANSTVO, PRAVA I OBVEZE
+1. Članstvo:
+Članak 16.
+Članom Saveza mogu pod jednakim uvjetima utvrđenim ovim Statutom postati:
+radioamaterske udruge (radioklubovi) u svojstvu pravne osobe registrirani u Republici Hrvatskoj,
+Radioamaterske udruge odnosno radioamaterski savezi iz stavka 1 i 2 mogu postati članovima Saveza ako prihvate ovaj Statut, prava i obveze koje iz njega proizlaze i pod uvjetima i na način utvrđen za pojedine kategorije članstva.
+Članak 17.
+Udruživanje u Savez i članstvo u Savezu su dragovoljni. Članovi i članice saveza mogu biti:
+a) redoviti, b) pridruženi, c) potporni, d) počasni.
+Redovitim članovima Saveza, pod uvjetima propisanim ovim Statutom, mogu postati:
+radioklubovi (udruge) u svojstvu pravne osobe registrirani u Republici Hrvatskoj. Odluku o članstvu na prijedlog Izvršnog odbora donosi Skupština.
+Potpornim članom mogu postati pravne osobe koje redovito novčano ili drukčije materijalno podupiru ili značajnom jednokratnom potporom (donacijom) pomognu razvoju Saveza i izvođenju programa, ako se prethodno s tim suglase.
+Počasnim (zaslužnim) članovima mogu postati pravne osobe, i strane radioamaterske udruge ili asocijacije koje svojim djelovanjem posebno pridonose ostvarivanju ciljeva Saveza.
+Odluku o primanju u pridruženo i potporno članstvo Saveza donosi Izvršni odbor.
+zajedničko djelovanje na tehničkom odgoju i obrazovanju mladih te poticanju tehničkog stvaralaštva mladeži,
+predlaganje mjera i aktivnosti radi učinkovitog ostvarivanja ciljeva i zadaća Saveza, - pridržavanje Statuta i drugih akata Saveza,
+odgovorno provođenje odluka i zaključaka tijela Saveza i preuzetih obveza,
+plaćanje članarine,
+čuvanje, podizanje i zaštita ugleda i interesa Saveza,
+skrb o očuvanju čovjekova okoliša.
+Prava:
+dobivanje pravodobnih i istinitih informacija o radu Saveza,
+da biraju i budu birani u organe upravljačkih tijela Saveza,
+pravodobno izvještavanje Saveza o svom pravnom položaju, programu rada i njegovu ostvarenju te drugim pitanjima važnim za uvid u stanje i razvitak udruge,
+uporaba imovine i radioamaterske infrastrukture u vlasništvu Saveza,
+stručna pomoć Saveza u skladu s odlukama tijela Saveza,
+stjecanje priznanja i nagrada za svoj rad,
+sufinanciranje članica, pravnih subjekata u programskim aktivnostima iz područja radioamaterizma od posebnog interesa za Savez, članica koje djeluju na području od posebne državne skrbi ili regije u kojoj članica djeluje.
+Članak 20.
+Iznos visine članarina utvrđuje se Pravilnikom o članarini i članskom doprinosu koji donosi Izvršni odbor.
+Plaćanje članarina pravnih osoba (radioamaterske udruge odnosno radioamaterski savezi i njihovi članovi) vrši se sukladno Pravilniku o članarini i članskom doprinosu. Članarina vrijedi za kalendarsku godinu za koju se uplaćuje. Članski doprinos uplaćuje se prema vlastitim mogućnostima i bez vremenskog ograničenja članica i članova.
+3. Stegovna odgovornost:
+Članak 21.
+Na članice i članove Saveza mogu se zbog povrede zakonskih propisa i ovoga Statuta, djelovanja protivnog ciljevima Saveza, nanošenja štete interesima Saveza, narušavanja ugleda drugih članica i članova te neopravdanog neispunjenja članskih obveza, na prijedlog Nadzornog odbora ili najmanje triju članica Skupštine ili Izvršnog odbora, primijeniti ove stegovne mjere:
+opomena,
+uskrata prava sudjelovanja u radu Saveza (suspenzija),
+isključenje iz članstva Saveza.
+Sve stegovne mjere, osim isključenja, donosi Izvršni odbor dvotrećinskom većinom glasova ukupnog broja svojih članova.
+Odluku o isključenju iz članstva donosi Skupština na prijedlog Izvršnog odbora, dvotrećinskom većinom glasova nazočnih zastupnika na Skupštini. Odluka Skupštine Saveza o isključenju je konačna.
+Pravilnikom o stegovnoj odgovornosti članica i članova Saveza, koji na prijedlog Izvršnog odbora donosi Skupština, utvrđuju se stegovne mjere i drugi postupci iz stavka 1., 2. i 3. ovog članka.
+Pravilnikom se određuje da Izvršni odbor prema potrebi može osnovati Sud časti koji razmatra pojedine slučajeve. Način rada Suda časti reguliran je pravilnikom.
+Članak 22.
+Članstvo u Savezu prestaje:
+odlukom člana ili članice Saveza o razdruživanju,
+brisanjem člana ili članice Saveza iz članstva,
+isključenjem.
+Do prestanka članstva vlastitom odlukom o razdruživanju dolazi na zahtjev člana ili članice u trenutku primitka vjerodostojne odluke tijela članice u pismenom obliku potpisanom od osobe ovlaštene za zastupanje članice, sukladno njezinu Statutu.
+Brisanjem članstvo prestaje zbog neplaćanja članarine do roka određenog Pravilnikom o članarini i članskom doprinosu, odnosno, kada tijelo državne uprave mjerodavno za registraciju članici izda rješenje o brisanju iz registra udruga, ili kada je članu ili članici sudskom presudom izrečena zabrana djelovanja ili u drugim slučajevima predviđenim zakonskim propisima.
+V. TIJELA SAVEZA I STRUKTURA UPRAVLJANJA
+Članak 23.
+Tijela upravljanja i nadzora Saveza jesu:
+1. Skupština, 2. Izvršni odbor, 3. Predsjednik 4. Nadzorni odbor
+1. Skupština Hrvatskoga radioamaterskoga saveza
+Članak 24.
+Skupština je predstavničko i najviše upravljačko tijelo Saveza, a čine je zastupnici pravnih osoba svih redovitih članova ili članica Saveza. Savezom upravljaju članice i članovi, i to neposrednim osobnim izjašnjavanjem zastupnika u Skupštini saveza.
+Prava i obveze zastupnika, priprema i način sazivanja zasjedanja, tijek zasjedanja i način odlučivanja i druga pitanja bitna za rad Skupštine uređena su Poslovnikom o radu Skupštine.
+Članak 25.
+Zastupnici članica i članova biraju se prema načelu:
+članice koje u svom članstvu okupljaju do 25 članova daju jednog zastupnika u Skupštinu Saveza,
+članice koje u svom članstvu okupljaju 101 ili više članova daju četiri zastupnika u Skupštinu Saveza
+Gornje pravo odnosi se na broj članova za koje je izmirena članarina prema Hrvatskom radioamaterskom savezu sukladno Pravilniku o članarini i članskom doprinosu.
+Zastupnici redovitih članica mogu sudjelovati u radu Skupštine s pravom odlučivanja.
+Pridruženi članovi Saveza mogu sudjelovati u radu Skupštine bez prava odlučivanja.
+Potporni članovi mogu sudjelovati u radu Skupštine bez prava odlučivanja, osim iznimno u slučajevima kada su s konkretnim materijalnim ili financijskim potporama omogućili provedbu određenih programa Saveza te mogu odlučivati u usmjerenju tih sredstava.
+Pravilnikom o članarini i članskom doprinosu regulirane su mogućnosti i ovlasti potpornih članova u donošenju odluka prilikom usmjeravanja njihovih dotiranih sredstava.
+Članak 26.
+Zastupnici na Skupštini, sukladno odredbama ovog Statuta i poslovnika rada Skupštine, imaju pravo sudjelovati u upravljanju svim poslovima Saveza, birati i biti birani u tijela upravljanja Saveza.
+Ako zastupnik, kandidat za neku funkciju zbog opravdanih razloga nije nazočan na zasjedanju Skupštine, može biti biran uz prethodni pismeni pristanak za funkciju.
+Član Skupštine može biti razriješen dužnosti ako to sam zatraži ili ga opozove interesna skupina koja ga je izabrala, ili zbog drugih razloga utvrđenih ovim Statutom ili zakonom. U slučaju razrješenja zastupnika, interesna skupina može ovlastiti drugu osobu kao njegovu zamjenu.
+Članak 27.
+Skupština može biti redovita, izborna i izvanredna.
+Skupština redovito zasjeda najmanje jednom u tijeku godine, a izborno zasjedanje održava se svake četvrte godine.
+Sjednicu Skupštine saziva predsjednik Saveza kada to prosudi potrebnim ili na osnovi zaključka Izvršnog odbora, a u pravilu u povodu odlučivanja o izvještaju i završnom računu za proteklu te o programu i financijskom planu za iduću godinu.
+Poziv za Skupštinu sadržava prijedlog dnevnog reda sjednice, dan i mjesto održavanja sjednice. Poziv i materijali za sjednicu dostavljaju se članovima Skupštine najmanje 14 dana prije održavanja sjednice.
+Izvanrednu sjednicu Skupštine predsjednik može sazvati na vlastitu inicijativu, na pismeni zahtjev Izvršnog odbora ili na pismeni zahtjev najmanje jedne trećine zastupnika Skupštine ili mjerodavnoga državnog tijela. Ako najmanje jedna trećina zastupnika predloži sazivanje izvanredne Skupštine Saveza, predsjednik Saveza obvezan je sazvati Skupštinu u roku od 30 dana. Ako predsjednik Saveza ne sazove Skupštinu u roku od 30 dana od zaprimljenog zahtjeva, sjednicu mogu sazvati predlagatelji. Sazivači izvanredne sjednice Skupštine obvezni su uz poziv za sjednicu dostaviti prijedlog dnevnog reda.
+Predstavnike drugih saveza, organizacija i gostiju na sjednicu poziva predsjednik Saveza.
+Članak 28.
+Skupština Saveza:
+a) razmatra:
+izvještaje o radu tijela i Saveza u cjelini,
+druga pitanja značajna za djelovanja Saveza.
+b) utvrđuje:
+osnovne elemente politike djelovanja Saveza sadržane u njezinim programima,
+Statut Saveza, Poslovnik rada Skupštine Saveza i njihove izmjene i dopune i Propisnik o stegovnoj odgovornosti,
+sve ostale pravilnike, poslovnike i propisnike koje predlaže Izvršni odbor, koji nisu u mjerodavnosti usvajanja Izvršnog odbora,
+Odluku o sastavu i izboru tijela Skupštine,
+Program rada Saveza i djelovanja tijela Skupštine Saveza,
+Odluku o potvrđivanju financijskog plana i zaključnog računa,
+druge akte utvrđene ovim Statutom odnosno zakonom.
+d) odlučuje o:
+udruživanju i razdruživanju Saveza u razne udruge i udruge više razine,
+ustanovljenju javnih priznanja Saveza,
+prizivima članova protiv odluka Izvršnog odbora,
+donošenju odluke o isključenju članice iz Saveza
+prestanku postojanja i rada Saveza.
+e) bira i razrješava:
+predsjednika Saveza,
+članove Izvršnog odbora Saveza na prijedlog predsjednika Saveza,
+članove Nadzornog odbora Saveza.
+f) proglašava:
+počasnog predsjednika i člana Saveza.
+Skupština raspravlja i odlučuje i o drugim pitanjima iz svog djelokruga određenim zakonom i Statutom, koji ovim Statutom ili njezinom odlukom nisu stavljeni u mjerodavnost Izvršnog odbora ili drugog tijela i koja joj povjere članovi Saveza.
+Članak 29.
+Skupštinom predsjeda predsjednik Saveza ili dopredsjednik, a u njihovoj odsutnosti Skupštinu vodi predsjedatelj kojega iz svojih redova na početku zasjedanja biraju članovi Skupštine Saveza. Izbornu skupštinu vodi tročlano radno predsjedništvo koje se bira na prijedlog predsjednika Saveza ili zastupnika Skupštine.
+Zasjedanje Skupštine je javno i u radu mogu sudjelovati gosti, predstavnici udruga tehničke kulture, drugih nacionalnih saveza ili udruga tehničke kulture, trgovačkih društava, ustanova i drugih organizacija i svi drugi članovi Saveza koji nemaju pravo odlučivanja.
+Članak 30.
+Skupština pravovaljano odlučuje ako je na sjednici više od polovice predstavnika redovitih članova Saveza u Skupštini. Ako Skupština nema kvorum iz prethodnog stavka, redovita Skupština može, nakon 30 minuta čekanja pozvanih članova, početi s radom i donositi pravovaljane odluke ako je nazočna najmanje trećina članova Skupštine. Tijekom rada Skupštine kvorumom se smatra onaj broj zastupnika koji se nalazio na početku rada Skupštine te ga nije moguće smanjivati tijekom rada.
+Izborna Skupština pravovaljano odlučuje ako su na sjednici prisutne dvije trećine zastupnika Skupštine. Ako nije utvrđena dvotrećinska većina, zakazuje se novo zasjedanje Izborne skupštine u roku od 30 dana.Ako se i tada neke članice, odnosno njihovi zastupnici, ne odazovu, primjenjuje se stavak 1. ovog člana.
+Članak 31.
+Prijedlog za izbor članova tijela upravljanja i nadzora mogu istaknuti radno predsjedništvo, predsjednik Saveza ili najmanje pet zastupnika - članova Skupštine. U izbornom postupku osigurava se poštovanje načela javnog predlaganja i utvrđivanja više predloženih od broja koji se bira te javno ili tajno izjašnjavanje o predloženima, što je regulirano Poslovnikom o radu Skupštine. O radu sjednice vodi se zapisnik koji se trajno čuva u pismohrani Saveza.
+1. Izvršni odbor
+Članak 32.
+Izvršni odbor Saveza izvršno je tijelo Skupštine koje obnaša svoje poslove utvrđene ovim Statutom između zasjedanja Skupštine.
+Članak 33.
+Rad Izvršnog odbora utvrđen je Pravilnikom o radu Izvršnog odbora koji donosi Izvršni odbor.
+Izvršni odbor sastoji se od sedam članova: predsjednika Saveza, dopredsjednika Saveza i pet članova. Izvršni odbor bira se iz redova zastupnika Skupštine na vrijeme od četiri godine s mogućnošću ponovnog izbora.
+Prijedlog može nadopuniti Skupština, na način kao što je predviđeno u Članku 34. ovog Statuta. Kandidati moraju biti licencirani radioamateri operatorskog A razreda.
+Iz redova Izvršnog odbora članovi Izvršnog odbora međusobno biraju dopredsjednika Saveza. Predsjednik i dopredsjednik Saveza ujedno su i predsjednik i dopredsjednik Izvršnog odbora.
+Članak 34.
+Izabrani članovi Izvršnog odbora zajednički odgovaraju za rad Odbora Skupštini, a pojedinačno za svoj rad pojedinac odgovara Skupštini i Izvršnom odboru u granicama ovlaštenja i dužnosti koje su mu povjerene. Izvršni odbor i svaki njegov član mogu podnijeti ostavku ili biti opozvani prije isteka vremena na koje su birani. Na prvom zasjedanju Skupštine izostali član Izvršnog odbora se sukladno Poslovniku o radu Skupštine bira iz one regije koja je izgubila zastupnika. U slučaju opoziva ili ostavke predsjednika Saveza, ostavku podnose svi članovi Izvršnog odbora. Prijedlog za opoziv pojedinog člana Izvršnog odbora može podnijeti predsjednik Saveza ili najmanje pet zastupnika u Skupštini. Izvršni odbor ili član Izvršnog odbora opozivaju se po postupku po kojem su birani.
+Skupština može opozvati člana Izvršnog odbora ili Izvršni odbor u cjelini ako smatra da ne ispunjavaju obveze utvrđene Statutom ili da postupaju suprotno odredbama ovog Statuta i politici koju je utvrdila Skupština. Pojedinom članu prestaje dužnost člana Izvršnog odbora ako izgubi svojstvo člana Skupštine saveza.
+Članak 35.
+Izvršni odbor radi i odlučuje na sjednicama. Izvršni odbor zasjeda prema potrebi, a najmanje četiri puta godišnje. Izvršni odbor saziva predsjednik Saveza, odnosno osoba koja ga zamjenjuje po svojoj odluci ili kada to zatraži:
+trećina članova Izvršnog odbora
+Nadzorni odbor Saveza.
+Predsjednik Saveza rukovodi radom sjednice Izvršnog odbora, a u slučaju odsutnosti ili spriječenosti predsjednika, radom rukovodi dopredsjednik Saveza. Izvršni odbor pravovaljano odlučuje kada je nazočno više od polovine njegovih članova, a odluke donosi većinom glasova svih članova Izvršnog odbora. Izvršni odbor može svoje djelovanje pobliže urediti Poslovnikom o radu Izvršnog odbora.
+Članak 36.
+Izvršni odbor saveza:
+predlaže Skupštini saveza osnove politike sadržane u prijedlozima Statuta, programa i drugih akata;
+utvrđuje prijedlog Financijskog plana, Financijskog izvještaja i Zaključnog računa, a ako se Skupština ne može pravodobno sastati, pravodobno utvrđuje Financijski plan i Financijski izvještaj koje podnosi na odobrenje Skupštini na prvom narednom zasjedanju;
+osigurava provođenje akata i načela djelovanja koje je utvrdila Skupština;
+odlučuje o namjenskoj uporabi, rasporedu i dinamici korištenja sredstava i vrijednosnih papira o okviru utvrđenog Financijskog plana te donosi provedbene odluke;
+odlučuje o zaključenju pravnih poslova u ime Saveza;
+odlučuje o osnivanju radnih tijela te imenuje i razrješava njihove članove;
+donosi odluku o izgledu, sadržaju i vođenju Registra članica i članova te Matične knjige (registra) Saveza;
+uređuje i ustrojava nakladničku i informativnu djelatnost Saveza;
+predlaže Skupštini udruživanje i razdruživanje Saveza iz tuzemnih i inozemnih saveza, zajednica i organizacija te imenuje i razrješuje predstavnike Saveza u njihovim tijelima;
+organizira i usklađuje suradnju s drugim udrugama, savezima, zajednicama i organizacijama;
+utvrđuje prijedloge za dodjelu nagrada i priznanja;
+utvrđuje ustroj stručne službe Saveza i u svezi s tim donosi akte sukladno zakonu;
+obavlja i druge zadaće koje mu povjeri Skupština odnosno koje zahtijeva redovito djelovanje saveza ako one nisu ovim Statutom ili drugim aktima stavljene u mjerodavnost drugih tijela.
+Izvršni odbor podnosi Skupštini godišnji izvještaj o svom radu.
+3. Predsjednik Saveza
+Članak 37.
+Predsjednik Saveza je funkcija na koju može biti izabran samo državljanin Republike Hrvatske, licencirani radioamater operatorskog A razreda i osoba s istaknutim postignućima i zaslugama u inventivnom radu i razvoju radioamaterizma u Republici Hrvatskoj.
+Za predsjednika Saveza može biti birana osoba čiju kandidaturu istakne najmanje 5 članica Saveza (udruga), a izabran je kandidat kojega podupre više od polovine nazočnih članova Skupštine.
+Članak 38.
+Predsjednik Saveza saziva Skupštinu i Izvršni odbor, usklađuje rad tijela Saveza, predstavlja Savez u zemlji i inozemstvu i obavlja druge poslove predviđene ovim Statutom i poslovnicima Skupštine i Izvršnog odbora. Predsjednik se skrbi da rad Saveza bude pravilan i zakonit, u skladu s tendencijama razvitka radioamaterizma, javnom politikom tehnološkog razvitka i izgradnje radioamaterske infrastrukture.
+Članak 39.
+Predsjednik Saveza odgovoran je za svoj rad Skupštini Saveza. Predsjedniku Saveza može prestati dužnost i prije isteka vremena na koje je izabran pod uvjetima i na način koji su ovim Statutom predviđeni za članove Izvršnog odbora, s time da mu dužnost prestaje kad to odluči Skupština.
+Članak 40.
+Predsjednika Saveza u slučaju njegove odsutnosti ili spriječenosti zamjenjuje dopredsjednik. Ovlasti i mjerodavnosti dopredsjednika Saveza utvrdit će Izvršni odbor u Pravilniku u radu Izvršnog odbora.
+4. Nadzorni odbor
+Članak 41.
+Radi zaštite zakonitosti djelovanja i pravilnosti poslovanja Saveza, osniva se Nadzorni odbor.
+Članove Nadzornog odbora predlaže i bira Skupština iz svog sastava, s time da ne mogu biti birani na više od dva uzastopna mandata.
+Članove Nadzornog odbora ne mogu predlagati predsjednik i članovi Izvršnog odbora Saveza.
+Izvršni odbor može djelomično ili u cijelosti ugovorno povjeriti obavljanje stručnih poslova svom vlastitom poduzeću, drugoj pravnoj osobi ili pojedincu.
+Poslove koji se osiguravaju ugovorom o djelu ili autorskom radu ugovaraju predsjednik ili tajnik / tajnica Saveza na osnovi odluke Izvršnog odbora u skladu s financijskim planom.
+Na čelu Stručne službe Saveza je tajnik koji je odgovoran za njezin rad.
+Tajnik Saveza
+Članak 44.
+Savez u stalni radni odnos zapošljava tajnika koji svoj posao obavlja profesionalno. Tajnik kao poseban uvjet mora imati položen radioamaterski operatorski ispit. Uvjete za izbor tajnika utvrđuje Izvršni odbor. Izvršni odbor imenuje tročlano povjerenstvo za izbor tajnika Saveza. Jedan član povjerenstva mora biti iz sastava Nadzornog odbora. Na prijedlog povjerenstva završnu odluku o izboru tajnika donosi Izvršni odbor dvotrećinskom većinom glasova članova Izvršnog odbora. Tajnik s predsjednikom Saveza potpisuje Ugovor o radu. Tajniku radni odnos može prestati isključivo prema propisima Zakona o radu, a za svoj rad i djelovanje tajnik je odgovoran predsjedniku Saveza i Izvršnom odboru. Njegovo razrješenje obavlja se na isti način kao i izbor ako se utvrde bitni radni propusti ili nepoštovanje zakona.
+Članak 45.
+Tajnik u izvršavanju svoje dužnosti ima sljedeće obveze, ovlaštenja i odgovornosti:
+izvršava i provodi odluke, zaključke i druge akte Skupštine, Izvršnog odbora i Nadzornog odbora,
+suodgovoran je za zakonitost rada i za ispunjavanje zakonom propisanih obveza Saveza,
+naredbodavac je za izvršenje financijskog plana i za uporabu drugih sredstava u sklopu danih mu ovlaštenja,
+zajedno s predsjednikom i članovima Izvršnog odbora priprema sjednice Skupštine i Izvršnog odbora,
+suodgovoran je za izvršenje programa rada Saveza i radnih tijela koje imenuje Izvršni odbor,
+predlaže pravilnike i druge opće akte o radnim odnosima i unutarnjoj organizaciji stručnih poslova, o disciplinskoj i materijalnoj odgovornosti zaposlenika i raspodijeli sredstava za plaće stručnih radnika koje utvrđuje Izvršni odbor. Konkretna rješenja o primjeni svih akata donosi tajnik kao prvostupanjsko tijelo,
+organizira i koordinira rad u Stručnoj službi Saveza te je odgovoran za rad Stručne službe,
+potpisuje ugovor o radu sa zaposlenicima po odluci Izvršnog odbora,
+organizira informiranje svih članova, članica i tijela Saveza,
+obavlja i druge poslove i zadatke po ovlaštenju Skupštine, predsjednika ili Izvršnog odbora,
+tajnik je osoba s posebnim ovlaštenjima i odgovornostima.
+VII. RADNA TIJELA
+Članak 46.
+Radi obavljanja određenih stručnih poslova Skupština ili Izvršni odbor mogu osnovati stalna ili povremena radna tijela ili za izvjesne poslove imenovati pojedinu stručnu osobu.
+Odlukom o osnivanju radnih tijela utvrđuje se njihov sastav, zadaci, ovlasti, način rada, trajanje mandata i odgovornost za obavljanje poslova.
+Savez može davati nagrade i priznanja članicama i članovima Saveza i drugim pojedincima i institucijama zaslužnim za ostvarivanje programskih ciljeva i djelatnosti.
+Detaljnije o kriterijima, vrsti broju i načinu davanja nagrada odredit će se Pravilnikom koji predlaže Izvršni odbor, a donosi Skupština saveza.
+IX. IMOVINA SAVEZA, STJECANJE I RASPOLAGANJE IMOVINOM
+Članak 48.
+Imovinu Saveza čine:
+1. novčana sredstva stečena:
+uplatom članarine,
+obavljanjem dopuštenih djelatnosti,
+dobrovoljnim prilozima, darovima, donacijama,
+priređivanjem igara na sreću,
+radom članica i članova,
+dotacijama iz proračuna, iz fondova i transfera i iz drugih izvora sukladno Zakonu o udrugama i Zakonu o tehničkoj kulturi.
+2. pokretne stvari
+3. nekretnine
+4. imovinska prava.
+Cjelokupnu imovinu čine sredstva za ostvarivanje ciljeva i zadaća Saveza i njegovih članica.
+Članak 49.
+Savez može stjecati imovinu u skladu s pozitivnim zakonskim propisima i Ustavom Republike Hrvatske.
+Dobit koju Savez ostvari čini njegovu imovinu te njome raspolaže sukladno ovlastima tijela Saveza.
+Odluku o stjecanju nekretnina i pokretnina te odluku o njihovoj prodaji, prijenosu na drugu pravnu osobu ili davanje u zakup donosi Izvršni odbor.
+Nacrt izmjena i dopuna Statuta pripremaju predsjednik i tajnik, utvrđuje ga Izvršni odbor i upućuje na raspravu članovima Skupštine Saveza radi pribavljanja mišljenja i prijedloga, s time da u roku od 15 dana nakon primitka Nacrta obavijeste Izvršni odbor o primjedbama i mišljenjima.
