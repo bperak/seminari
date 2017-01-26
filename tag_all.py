@@ -8,15 +8,15 @@ import os
 user='user'
 coding='utf8'
 
-def write(result,file):
+def write(result,out):
     final=set()
     for sentence in result['sentences']['sentence']:
         final.add(sentence['tokenIDs'].split(' ')[-1])
     for token,lemma,tag in zip(result['tokens']['token'],result['lemmas']['lemma'],result['POStags']['tag']):
-        file.write((token['text']+'\t'+lemma['text']+'\t'+tag['text']+'\n').encode(coding))
+        out.write((token['text']+'\t'+lemma['text']+'\t'+tag['text']+'\n').encode(coding))
         if token['ID'] in final:
-            file.write('\n')
-    file.close()
+            out.write('\n')
+    out.close()
 
 if __name__ == "__main__":
     parser=argparse.ArgumentParser(description='Tagger and lemmatiser for Slovene, Croatian and Serbian\nUses the ReLDI API. For access rights visit http://nl.ijs.si/services/.')
@@ -29,10 +29,10 @@ if __name__ == "__main__":
     if os.path.isfile(args.path):
         write(json.loads(tagger.tagLemmatise(open(args.path).read().decode(coding).encode('utf8'))),open(args.path+'.taglem','w'))
     else:
-        files=[e for e in os.listdir(args.path) if e.endswith('.txt')]
-        for index,file in enumerate(files):
-            print 'Processing',file,index+1,'/',len(files)
+        inputs=[e for e in os.listdir(args.path) if e.endswith('.txt')]
+        for index,input in enumerate(inputs):
+            print 'Processing',input,index+1,'/',len(inputs)
             try:
-                write(json.loads(tagger.tagLemmatise(open(os.path.join(args.path,file)).read().decode(coding).encode('utf8'))),open(os.path.join(args.path,file)+'.taglem','w'))
+                write(json.loads(tagger.tagLemmatise(open(os.path.join(args.path,input)).read().decode(coding).encode('utf8'))),open(os.path.join(args.path,input)+'.taglem','w'))
             except:
                 print 'Error'
