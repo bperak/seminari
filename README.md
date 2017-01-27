@@ -1,4 +1,4 @@
-# Upute za praktične zadatke
+# Upute za praktične zadatke iz lingvističke obrade i ekstrakcije varijabli iz korpusa
 
 Namena ovih praktičnih zadataka je simulirati postupak lingvističke obrade korpusnih podataka te ekstrakcije varijabli iz obrađenih podataka. Ekstrahirani će se podaci koristiti danas za mašinsko učenje te sutra za statistički opis i zaključivanje.
 
