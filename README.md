@@ -1,10 +1,10 @@
 # Upute za praktične zadatke
 
-Namena ovih praktičnih zadataka je simulirati postupak lingvističke obrade korpusnih podataka te ekstrakcije varijabli iz obrađenih podataka. Ekstrahirani će se podaci koristiti danas za mašinsko učenje te sutra za statističku analizu i inferenciju.
+Namena ovih praktičnih zadataka je simulirati postupak lingvističke obrade korpusnih podataka te ekstrakcije varijabli iz obrađenih podataka. Ekstrahirani će se podaci koristiti danas za mašinsko učenje te sutra za statistički opis i zaključivanje.
 
 ## Tehnički preduvjeti
 
-Ove vežbe prilagođene su radu na OS Microsoft Windows XP (no radiće minimalno izmenjene i na drugim MS OS-ovima) s instaliranim Pythonom 2.7.9+ (vežbe su proverene na verziji 2.7.13). Prilikom instalacije Pythona potrebno je odabrati instalaciju pip-a te postavljanje Pythona u putanju (path).
+Ove vežbe prilagođene su radu na OS Microsoft Windows XP (no radiće minimalno izmenjene i na drugim MS OS-ovima) s instaliranim Pythonom 2.7.9+ (vežbe su proverene na verziji 2.7.13). Prilikom instalacije Pythona potrebno je odabrati instalaciju pip-a te postavljanje Pythona u putanju (<i>path</i>).
 
 ## Dodatni materijali za učenje programiranja u Pythonu
 
@@ -125,6 +125,6 @@ U slučaju da nema ispisa, datoteke su verovatno ;-) u redu.
 
 ## Mašinsko učenje na ekstraktima
 
-Kao zamenu za predavanje po pozivu pripremili smo iPython beležnicu ```Machine learning example.ipynb``` u kojoj prikazujemo predikciju jezika / korpusa na temelju drugih varijabli prisutnih u datoteci ```reldi2.tsv```.
+Kao zamenu za predavanje po pozivu pripremili smo iPython beležnicu [Machine learning example.ipynb](https://github.com/scopes-reldi/seminari/blob/master/Machine%20learning%20example.ipynb) u kojoj prikazujemo predikciju jezika / korpusa na temelju drugih varijabli prisutnih u datoteci ```reldi2.tsv```.
 
 What follows is... RRRRR!
