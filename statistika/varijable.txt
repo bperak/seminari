@@ -1,0 +1,58 @@
+OBJAŠNJENJE VARIJABLI
+
+reldi1.tsv: Leksička i sintaksička složenost tekstova
+
+- tekst: ID teksta
+- korpus: hrwac, srwac.lat, srwac.cir
+- tokeni: broj tokena u tekstu
+- ttr: odnos tipova i tokena u tekstu (type-token ratio; tokeni=pojavnice, tipovi=različnice, tj. jedinstveni oblici; zima zima zime -> 3 tokena, 2 tipa)
+- recenice: broj rečenica u tekstu
+- duzina.recenica: prosečna dužina rečenica u tekstu (zbir dužina pojedinačnih rečenica podeljen brojem rečenica)
+- leks.gust: leksička gustina (broj leksičkih reči/ukupan broj reči, leksičke reči se pronalaze preko tagova)
+- ceste.reci: % teksta koji pokriva 200 najčešćih reči iz referentnog korpusa (kao referentni korpusi uzimaju se celi hrWaC i srWaC)
+- ceste.leme: % teksta koji pokriva 200 najčešćih lema iz referentnog korpusa (kao referentni korpusi uzimaju se celi hrWaC i srWaC)
+- duzina.recenica.2: klasifikacija u 5 kategorija prema prosečnoj dužini rečenica u tekstu (1: 11-20, 2: 21-30, 3: 31-40, 4: 41-50, 5: 51+)	
+- leks.gust.2: klasifikacija prema leksičkoj gustini (1: 0.41-0.50, 2: 0.51-0.60, 3: 0.61-0.70, 4: 0.71-0.80)
+- ceste.reci.2: klasifikacija prema % čestih reči (1: 0.21-0.30, 2: 0.31-0.40, 3: 0.41-0.50, 4: 0.51-0.60)
+- ceste.leme.2: klasifikacija prema % čestih lema (1: 0.30-0.44, 2: 0.45-0.59, 3: 0.60-0.74)
+
+reldi2.tsv: Infinitivi itd.
+
+- tekst: ID teksta
+- korpus: hrWaC, srwac.lat, srwac.cir
+- broj.reci: broj reči u tekstu
+- duzina.reci: prosečna dužina reči u tekstu (u slovima)
+- duzina.reci.2: klasifikacija prema prosečnoj dužini reči u tekstu (1: <4.5, 2: 4.51-5.5, 3: >5.5)
+- infinitivi: % infinitiva u odnosu na ukupan broj glagola
+- trebati: % oblika 3. lica jednine u odnosu na ukupan broj pojavljivanja leme
+- da: frekvencija da na 10000 reči
+- imen.glag: odnos broja imenica i broja imenica+glagola u tekstu (noun-verb ratio)
+
+reflexives.csv: Povratni markeri
+
+- Subject: ID ispitanika
+- Group: grupa ispitanika (Control-I: izvorni govornici italijanskog jezika, EngLI-I: učenici čiji je maternji jezik engleski, niži srednji nivo, EngUI-I: učenici čiji je maternji jezik engleski, viši srednji nivo, SerLI-I: učenici čiji je maternji jezik srpski, niži srednji nivo, SerUI-I: učenici čiji je maternji jezik srpski, viši srednji nivo)
+- Cloze: rezultat Cloze testa (za određivanje nivoa znanja)
+- Refl1c: procena prihvatljivosti za povratnu klitiku si upotrebljenu uz tipično povratne glagole (npr. vestirsi "obući se")
+- Refl1p: procena prihvatljivosti za povratnu zamenicu se stesso upotrebljenu uz tipično povratne glagole (npr. vestire se stesso "obući sebe")
+- Refl2c: procena prihvatljivosti za povratnu klitiku si upotrebljenu uz manje tipično povratne glagole (npr. difendersi "braniti se")
+- Refl2p: procena prihvatljivosti za povratnu zamenicu se stesso upotrebljenu uz manje tipično povratne glagole (npr. difendere se stesso "braniti sebe")
+- Refl3c: procena prihvatljivosti za povratnu klitiku si upotrebljenu uz netipično povratne glagole (npr. amarsi "voleti se")
+- Refl3p: procena prihvatljivosti za povratnu zamenicu se stesso upotrebljenu uz netipično povratne glagole (npr. amare se stesso "voleti sebe")
+
+cirlat.csv: Zadatak leksičke odluke za nizove (ne)dvosmislenih ćiriličnih i latiničnih slova (zadati podaci ne obuhvataju nereči)
+
+- Ispitanik: ID ispitanika
+- Grupa: grupa ispitanika (prva, druga)
+- Tacno1: procenat tačnih odgovora za tip reči 1 - reči sadrže nedvosmislena latinična slova (ŠIPKA)
+- RT1: brzina davanja odgovora za tip reči 1 - reči sadrže nedvosmislena latinična slova (ŠIPKA)
+- Tacno2: procenat tačnih odgovora za tip reči 2 - reči sadrže nedvosmislena ćirilična slova (ФОТЕЉА)
+- RT2: brzina davanja odgovora za tip reči 2 - reči sadrže nedvosmislena ćirilična slova (ФОТЕЉА)
+- Tacno3: procenat tačnih odgovora za tip reči 3 - reči sadrže dvosmislena slova, različita reč na latinici i ćirilici (KOB)
+- RT3: brzina davanja odgovora za tip reči 3 - reči sadrže dvosmislena slova, različita reč na latinici i ćirilici (KOB)
+- Tacno4: procenat tačnih odgovora za tip reči 4 - reči sadrže dvosmislena slova, reči su samo na latinici (TAJAC)
+- RT4: brzina davanja odgovora za tip reči 4 - reči sadrže dvosmislena slova, reči su samo na latinici (TAJAC)
+- Tacno5: procenat tačnih odgovora za tip reči 5 - reči sadrže dvosmislena slova, ista reč na latinici i ćirilici (JAMA)
+- RT5: brzina davanja odgovora za tip reči 5 - reči sadrže dvosmislena slova, ista reč na latinici i ćirilici (JAMA)
+- Tacno6: procenat tačnih odgovora za tip reči 6 - reči sadrže dvosmislena slova, reči su samo na ćirilici (BAPKA)
+- RT6: brzina davanja odgovora za tip reči 6 - reči sadrže dvosmislena slova, reči su samo na ćirilici (BAPKA)
